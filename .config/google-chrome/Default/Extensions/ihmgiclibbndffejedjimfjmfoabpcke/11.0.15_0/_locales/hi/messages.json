@@ -1,0 +1,1739 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "संक्षेप"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "विशेषण"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "क्रियाविशेषण"
+   },
+   "CommonUi_LangPart_Auxiliaryverb": {
+      "message": "सहायक क्रिया"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "संयोजन"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "विस्मयादिबोधक"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "संज्ञा"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "वाक्यांश"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "पूर्वसर्ग"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "सर्वनाम"
+   },
+   "CommonUi_LangPart_Suffix": {
+      "message": "प्रत्यय"
+   },
+   "CommonUi_LangPart_Transliteration": {
+      "message": "लिप्यंतरण"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "क्रिया"
+   },
+   "CommonUi_NoResults": {
+      "message": "कोई परिणाम नहीं मिला"
+   },
+   "Common_Copied": {
+      "message": "कॉपी किया गया!"
+   },
+   "ContextMenu_FullPage": {
+      "message": "इस पृष्ठ का अनुवाद \u003C%=lang%> में करें"
+   },
+   "Csv_FromLang": {
+      "message": "भाषा से"
+   },
+   "Csv_Input": {
+      "message": "इनपुट"
+   },
+   "Csv_IntoLang": {
+      "message": "भाषा में"
+   },
+   "Csv_Synonyms": {
+      "message": "समानार्थी शब्द"
+   },
+   "Csv_TimeDate": {
+      "message": "समय/तारीख"
+   },
+   "Csv_Translation": {
+      "message": "अनुवाद"
+   },
+   "Csv_Transliteration": {
+      "message": "लिप्यंतरण"
+   },
+   "Csv_WhereTranslated": {
+      "message": "जहाँ अनुवाद किया गया"
+   },
+   "Dict_DictionaryTab": {
+      "message": "शब्दकोश"
+   },
+   "Dict_NotFoundCaption": {
+      "message": "क्षमा करें — हम अपने शब्दकोश को बढ़ाने के लिए कड़ी मेहनत कर रहे हैं"
+   },
+   "Dict_NotFoundTitle": {
+      "message": "परिभाषा नहीं मिली"
+   },
+   "Dict_UpgradeToPro": {
+      "message": "परिभाषाओं के लिए Pro में अपग्रेड करें"
+   },
+   "DotsButton_Added": {
+      "message": "\u003C%=wl%> में जोड़ा गया"
+   },
+   "DotsButton_Copied": {
+      "message": "अनुवाद कॉपी किया गया"
+   },
+   "DotsButton_OrigCopied": {
+      "message": "मूल पाठ कॉपी किया गया"
+   },
+   "FullPage": {
+      "message": "पूर्ण पृष्ठ अनुवाद"
+   },
+   "FullPageDesc": {
+      "message": "यदि वेब पेज किसी विदेशी भाषा में है, तो शीर्ष दाएँ कोने में Mate आइकन दिखाएँ। उस आइकन पर क्लिक करें और पेज को अपनी भाषा में अनुवादित करें।"
+   },
+   "FullPageShowOriginal": {
+      "message": "मूल दिखाएँ"
+   },
+   "FullPageTranslate": {
+      "message": "अनुवाद"
+   },
+   "FullPageTranslatedTo": {
+      "message": "में अनुवादित"
+   },
+   "FullPage_AlwaysTranslate": {
+      "message": "हमेशा {{page_lang_beautiful}} को {{target_lang_beautiful}} में अनुवाद करें"
+   },
+   "FullPage_ChangeLanguage": {
+      "message": "भाषा बदलें"
+   },
+   "FullPage_ContextMenuOption": {
+      "message": "पूर्ण पृष्ठ अनुवाद खोलें"
+   },
+   "FullPage_CurrentPageLang": {
+      "message": "यह पृष्ठ {{page_lang_beautiful}} में है"
+   },
+   "FullPage_NeverTranslate": {
+      "message": "कभी भी {{page_lang_beautiful}} का अनुवाद न करें"
+   },
+   "FullPage_SwitchBackTo": {
+      "message": "{{language}} में वापस अ.switch करें"
+   },
+   "FullPage_TranslateTo": {
+      "message": "{{target_lang_beautiful}} में अनुवाद करें"
+   },
+   "FullPage_WeTranslatedIt": {
+      "message": "हमने इस पृष्ठ का अनुवाद {{language}} में किया है"
+   },
+   "History_AnotherDevice": {
+      "message": "दूसरे डिवाइस पर"
+   },
+   "History_Content_GoUpButton": {
+      "message": "ऊपर जाएं"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "आपके अनुवादों का इतिहास यहाँ होगा"
+   },
+   "History_Export_OnlyProDesc": {
+      "message": "अपने अनुवादों के इतिहास को CSV फाइल में निर्यात करने के लिए प्रो संस्करण में अपग्रेड करें"
+   },
+   "History_FullyBlockedOut": {
+      "message": "अनुवाद इतिहास तक असीमित पहुंच के लिए Pro में अपग्रेड करें।"
+   },
+   "History_InPopup": {
+      "message": "पॉप-अप में"
+   },
+   "History_Options_DeleteMarked_1": {
+      "message": "हटाएँ"
+   },
+   "History_Options_DeleteMarked_2": {
+      "message": "चिह्नित"
+   },
+   "History_Options_SelectToDelete": {
+      "message": "हटाने के लिए चिह्नित करें"
+   },
+   "History_Options_SelectToDelete_MarkAll": {
+      "message": "सभी चिह्नित करें"
+   },
+   "History_Options_SelectToDelete_UnmarkAll": {
+      "message": "सभी चिह्न हटाएं"
+   },
+   "Human_OrderButton": {
+      "message": "प्रोफेशनल से अनुवाद कराएँ"
+   },
+   "IDB_Error": {
+      "message": "आपके ब्राउज़र में Indexed DB अक्षम है"
+   },
+   "IDB_ErrorDesc": {
+      "message": "Mate Translate को पूरी क्षमता से काम करने के लिए Indexed DB (यह स्थानीय संग्रहण है जहां हम आपके सभी अनुवाद और Phrasebook संग्रहीत करते हैं) सक्षम होना आवश्यक है।\u003Cbr>\u003Cbr>आपका ब्राउज़र निजी ब्राउज़िंग मोड में प्रतीत हो रहा है जो Indexed DB को अक्षम कर देता है (यह एक Firefox \u003Ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=781982\" target=\"_blank\">कीड़ा #781982\u003C/a> है)।\u003Cbr>\u003Cbr>आप इतिहास विकल्प को \u003Ca href=\"about:preferences#privacy\" target=\"_blank\">about:preferences#privacy\u003C/a> पर "
+   },
+   "Kernel_AppDescription": {
+      "message": "वेब पृष्ठों, PDF, हाइलाइट किए गए पाठ और Netflix उपशीर्षकों के लिए आपका अनुवादक। 103 भाषाओं को आसानी से समझें।"
+   },
+   "Kernel_AppName": {
+      "message": "Mate Translate – अनुवादक, शब्दकोश"
+   },
+   "Kernel_Cancel": {
+      "message": "रद्द करें"
+   },
+   "Kernel_ClearInput": {
+      "message": "इनपुट फ़ील्ड साफ़ करें"
+   },
+   "Kernel_Context_Into": {
+      "message": "में"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "इतिहास"
+   },
+   "Kernel_IPA": {
+      "message": "ध्वन्यात्मक लिप्यंतरण"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "अफ्रीकांस"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "अल्बेनियन"
+   },
+   "Kernel_Lang_Amharic": {
+      "message": "अम्हारिक"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "अरबी"
+   },
+   "Kernel_Lang_ArabicAlgeria": {
+      "message": "अरबी (अल्जीरिया)"
+   },
+   "Kernel_Lang_ArabicBahrain": {
+      "message": "अरबी (बहरीन)"
+   },
+   "Kernel_Lang_ArabicEgypt": {
+      "message": "अरबी (मिस्र)"
+   },
+   "Kernel_Lang_ArabicGeneral": {
+      "message": "अरबी (सामान्य)"
+   },
+   "Kernel_Lang_ArabicIraq": {
+      "message": "अरबी (ईराक)"
+   },
+   "Kernel_Lang_ArabicJordan": {
+      "message": "अरबी (जॉर्डन)"
+   },
+   "Kernel_Lang_ArabicKuwait": {
+      "message": "अरबी (कुवैत)"
+   },
+   "Kernel_Lang_ArabicLebanon": {
+      "message": "अरबी (लेबनान)"
+   },
+   "Kernel_Lang_ArabicLibyan": {
+      "message": "अरबी (लीबिया)"
+   },
+   "Kernel_Lang_ArabicMorocco": {
+      "message": "अरबी (मोरक्को)"
+   },
+   "Kernel_Lang_ArabicOman": {
+      "message": "अरबी (ओमान)"
+   },
+   "Kernel_Lang_ArabicQatar": {
+      "message": "अरबी (कतर)"
+   },
+   "Kernel_Lang_ArabicSaudi": {
+      "message": "अरबी (सऊदी अरब)"
+   },
+   "Kernel_Lang_ArabicSudan": {
+      "message": "अरबी (सूडान)"
+   },
+   "Kernel_Lang_ArabicSyria": {
+      "message": "अरबी (सीरिया)"
+   },
+   "Kernel_Lang_ArabicTunisia": {
+      "message": "अरबी (ट्यूनिशिया)"
+   },
+   "Kernel_Lang_ArabicUAE": {
+      "message": "अरबी (संयुक्त अरब अमीरात)"
+   },
+   "Kernel_Lang_ArabicYemen": {
+      "message": "अरबी (यमन)"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "आर्मेनियन"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "स्वचालित पहचान"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "अज़रबैजानी"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "बास्क"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "बेलारूसी"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "बंगाली"
+   },
+   "Kernel_Lang_Bosnian": {
+      "message": "बोस्नियन"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "बल्गारियन"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "कैटलन"
+   },
+   "Kernel_Lang_Cebuano": {
+      "message": "सेबुआनो"
+   },
+   "Kernel_Lang_Chichewa": {
+      "message": "चिचेवा"
+   },
+   "Kernel_Lang_Chinese": {
+      "message": "चीनी"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "सरलीकृत चीनी"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "पारंपरिक चीनी"
+   },
+   "Kernel_Lang_Corsican": {
+      "message": "कॉर्सीकन"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "क्रोएशियन"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "चेक"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "डैनिश"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "डच"
+   },
+   "Kernel_Lang_DutchBelgium": {
+      "message": "डच (बेल्जियम)"
+   },
+   "Kernel_Lang_DutchNetherlands": {
+      "message": "डच (नीदरलैंड्स)"
+   },
+   "Kernel_Lang_English": {
+      "message": "अंग्रेजी"
+   },
+   "Kernel_Lang_EnglishUS": {
+      "message": "अंग्रेजी (संयुक्त राज्य अमेरिका)"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "एस्पेरांटो"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "एस्टोनियन"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "फिलिपिनो"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "फिनिश"
+   },
+   "Kernel_Lang_French": {
+      "message": "फ्रेंच"
+   },
+   "Kernel_Lang_FrenchBelgium": {
+      "message": "फ्रेंच (बेल्जियम)"
+   },
+   "Kernel_Lang_FrenchCanada": {
+      "message": "फ्रेंच (कनाडा)"
+   },
+   "Kernel_Lang_FrenchFrance": {
+      "message": "फ्रेंच (फ्रांस)"
+   },
+   "Kernel_Lang_FrenchSwiss": {
+      "message": "फ्रेंच (स्विट्जरलैंड)"
+   },
+   "Kernel_Lang_Frisian": {
+      "message": "फ्रिसियन"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "गैलिशियन"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "जॉर्जियन"
+   },
+   "Kernel_Lang_German": {
+      "message": "जर्मन"
+   },
+   "Kernel_Lang_GermanAustria": {
+      "message": "जर्मन (ऑस्ट्रिया)"
+   },
+   "Kernel_Lang_GermanGermany": {
+      "message": "जर्मन (जर्मनी)"
+   },
+   "Kernel_Lang_GermanLichtenstein": {
+      "message": "जर्मन (लिकटेंस्टाइन)"
+   },
+   "Kernel_Lang_GermanLux": {
+      "message": "जर्मन (लक्ज़मबर्ग)"
+   },
+   "Kernel_Lang_GermanSwiss": {
+      "message": "जर्मन (स्विट्जरलैंड)"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "ग्रीक"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "गुजराती"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "हैतीयन क्रियोल"
+   },
+   "Kernel_Lang_Hausa": {
+      "message": "हौसा"
+   },
+   "Kernel_Lang_Hawaiian": {
+      "message": "हवाईयन"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "हीब्रू"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "हिंदी"
+   },
+   "Kernel_Lang_Hmong": {
+      "message": "हमोंग"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "हंगेरियन"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "आइसलैंडिक"
+   },
+   "Kernel_Lang_Igbo": {
+      "message": "इग्बो"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "इंडोनेशियाई"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "आयरिश"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "इतालवी"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "जापानी"
+   },
+   "Kernel_Lang_Javanese": {
+      "message": "जावानीज"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "कन्नड़"
+   },
+   "Kernel_Lang_Kazakh": {
+      "message": "कज़ाख"
+   },
+   "Kernel_Lang_Khmer": {
+      "message": "खमेर"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "कोरियाई"
+   },
+   "Kernel_Lang_Kurdish": {
+      "message": "कुर्दिश (कुर्मांजी)"
+   },
+   "Kernel_Lang_KurdishKurmanji": {
+      "message": "कुर्दिश (कुर्मांजी)"
+   },
+   "Kernel_Lang_Kyrgyz": {
+      "message": "किर्गिज़"
+   },
+   "Kernel_Lang_Lao": {
+      "message": "लाओ"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "लैटिन"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "लातवियाई"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "लिथुआनियाई"
+   },
+   "Kernel_Lang_Luxembourgish": {
+      "message": "लक्ज़मबर्गिश"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "मकदूनियाई"
+   },
+   "Kernel_Lang_Malagasy": {
+      "message": "मलागासी"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "मलय"
+   },
+   "Kernel_Lang_Malayalam": {
+      "message": "मलयालम"
+   },
+   "Kernel_Lang_Malayam": {
+      "message": "मलयालम"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "माल्टीज"
+   },
+   "Kernel_Lang_Maori": {
+      "message": "माओरी"
+   },
+   "Kernel_Lang_Marathi": {
+      "message": "मराठी"
+   },
+   "Kernel_Lang_Mongolian": {
+      "message": "मंगोलियाई"
+   },
+   "Kernel_Lang_Myanmar": {
+      "message": "म्यांमार (बर्मी)"
+   },
+   "Kernel_Lang_MyanmarBurmese": {
+      "message": "म्यांमार (बर्मी)"
+   },
+   "Kernel_Lang_Nepali": {
+      "message": "नेपाली"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "नॉर्वेजियन"
+   },
+   "Kernel_Lang_Pashto": {
+      "message": "पश्तो"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "फारसी"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "पोलिश"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "पुर्तगाली"
+   },
+   "Kernel_Lang_PortugueseBrazil": {
+      "message": "पुर्तगाली (ब्राजील)"
+   },
+   "Kernel_Lang_PortuguesePortugal": {
+      "message": "पुर्तगाली (पुर्तगाल)"
+   },
+   "Kernel_Lang_Punjabi": {
+      "message": "पंजाबी"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "रोमानियाई"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "रूसी"
+   },
+   "Kernel_Lang_Samoan": {
+      "message": "सामोन"
+   },
+   "Kernel_Lang_ScotsGaelic": {
+      "message": "स्कॉट्स गेलिक"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "सर्बियाई"
+   },
+   "Kernel_Lang_Sesotho": {
+      "message": "सेसोथो"
+   },
+   "Kernel_Lang_Shona": {
+      "message": "शोना"
+   },
+   "Kernel_Lang_Sindhi": {
+      "message": "सिंधी"
+   },
+   "Kernel_Lang_Sinhala": {
+      "message": "सिंहला"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "स्लोवाक"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "स्लोवेनियाई"
+   },
+   "Kernel_Lang_Somali": {
+      "message": "सोमाली"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "स्पेनिश"
+   },
+   "Kernel_Lang_SpanishArgentina": {
+      "message": "स्पेनिश (अर्जेंटीना)"
+   },
+   "Kernel_Lang_SpanishBolivia": {
+      "message": "स्पेनिश (बोलीविया)"
+   },
+   "Kernel_Lang_SpanishChile": {
+      "message": "स्पेनिश (चिली)"
+   },
+   "Kernel_Lang_SpanishColombia": {
+      "message": "स्पेनिश (कोलंबिया)"
+   },
+   "Kernel_Lang_SpanishCostaRica": {
+      "message": "स्पेनिश (कोस्टा रिका)"
+   },
+   "Kernel_Lang_SpanishDR": {
+      "message": "स्पेनिश (डोमिनिकन गणराज्य)"
+   },
+   "Kernel_Lang_SpanishEquador": {
+      "message": "स्पेनिश (इक्वाडोर)"
+   },
+   "Kernel_Lang_SpanishGuatemala": {
+      "message": "स्पेनिश (ग्वाटेमाला)"
+   },
+   "Kernel_Lang_SpanishHonduras": {
+      "message": "स्पेनिश (होंडुरस)"
+   },
+   "Kernel_Lang_SpanishMexico": {
+      "message": "स्पेनिश (मेक्सिको)"
+   },
+   "Kernel_Lang_SpanishNicaragua": {
+      "message": "स्पेनिश (निकारागुआ)"
+   },
+   "Kernel_Lang_SpanishPanama": {
+      "message": "स्पेनिश (पनामा)"
+   },
+   "Kernel_Lang_SpanishParaguay": {
+      "message": "स्पेनिश (पराग्वे)"
+   },
+   "Kernel_Lang_SpanishPeru": {
+      "message": "स्पेनिश (पेरू)"
+   },
+   "Kernel_Lang_SpanishPuertoRico": {
+      "message": "स्पेनिश (पोर्टो रिको)"
+   },
+   "Kernel_Lang_SpanishSalvador": {
+      "message": "स्पेनिश (साल्वाडोर)"
+   },
+   "Kernel_Lang_SpanishSpain": {
+      "message": "स्पेनिश (स्पेन)"
+   },
+   "Kernel_Lang_SpanishUS": {
+      "message": "स्पेनिश (यूएसए)"
+   },
+   "Kernel_Lang_SpanishUruguay": {
+      "message": "स्पेनिश (उरुग्वे)"
+   },
+   "Kernel_Lang_SpanishVenezuela": {
+      "message": "स्पेनिश (वेनेज़ुएला)"
+   },
+   "Kernel_Lang_Sundanese": {
+      "message": "सूडानी"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "स्वाहिली"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "स्वीडिश"
+   },
+   "Kernel_Lang_Tajik": {
+      "message": "ताजिक"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "तमिल"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "तेलुगु"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "थाई"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "तुर्की"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "यूक्रेनी"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "उर्दू"
+   },
+   "Kernel_Lang_Uzbek": {
+      "message": "उज़्बेक"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "वियतनामी"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "वेल्श"
+   },
+   "Kernel_Lang_Xhosa": {
+      "message": "खोसा"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "यिडिश"
+   },
+   "Kernel_Lang_Yoruba": {
+      "message": "योरूबा"
+   },
+   "Kernel_Lang_Zulu": {
+      "message": "ज़ुलु"
+   },
+   "Kernel_NoResults": {
+      "message": "कोई परिणाम नहीं"
+   },
+   "Kernel_Ok": {
+      "message": "ठीक है"
+   },
+   "Kernel_PhrasebookTitle": {
+      "message": "वाक्य पुस्तिका"
+   },
+   "Kernel_RemoveCombination": {
+      "message": "हटाएं"
+   },
+   "Kernel_SearchPlaceholder": {
+      "message": "खोजें"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "सेटिंग्स"
+   },
+   "Kernel_Vowels": {
+      "message": "अइउएओ"
+   },
+   "Login_ByClicking": {
+      "message": "'Create an account' पर क्लिक करके आप हमारी \u003Cb>\u003Ca href=\"https://matetranslate.com/terms\">उपयोग की शर्तों\u003C/a>\u003C/b> और \u003Cb>\u003Ca href=\"https://matetranslate.com/privacy\">गोपनीयता नीति\u003C/a>\u003C/b> से सहमत होते हैं।"
+   },
+   "Login_Continue": {
+      "message": "जारी रखें"
+   },
+   "Login_ContinueWithout": {
+      "message": "छोड़ें"
+   },
+   "Login_Create": {
+      "message": "खाता बनाएं"
+   },
+   "Login_Email": {
+      "message": "अपना ईमेल पता दर्ज करें..."
+   },
+   "Login_Forgot": {
+      "message": "क्या आप अपना पासवर्ड भूल गए?"
+   },
+   "Login_GDPR": {
+      "message": "ऐसे अनुवादक में आपका स्वागत है जो वास्तव में आपकी गोपनीयता की परवाह करता है। हम कभी भी आपके डेटा को ट्रैक या बेचेंगे नहीं। हमारी गोपनीयता नीति उत्कृष्ट और आनंददायक है। कृपया Mate अकाउंट का उपयोग शुरू करने के लिए इसे पढ़ें और स्वीकार करें।"
+   },
+   "Login_IReadAndAgree": {
+      "message": "मैं सहमत हूँ"
+   },
+   "Login_NewPassword": {
+      "message": "नया पासवर्ड..."
+   },
+   "Login_NoAccountHead": {
+      "message": "मेरे पास खाता नहीं है"
+   },
+   "Login_NoAccountText": {
+      "message": "यदि आपने प्रो खरीदा है लेकिन उस समय साइन इन नहीं किया था और हमने आपकी चेकआउट पर निर्दिष्ट ईमेल पर एक लिंक भेजकर साइन-अप पूरा नहीं किया था, तो आपको ईमेल से लिंक के माध्यम से साइन-अप पूरा करना चाहिए। इसे पूरा करने के बाद, आप ऐप में साइन इन कर सकेंगे।"
+   },
+   "Login_NoRememberHead": {
+      "message": "मुझे याद नहीं है"
+   },
+   "Login_NoRememberText": {
+      "message": "यदि आपको याद नहीं है कि आपने कौन सा ईमेल चेकआउट के लिए उपयोग किया था, तो अपने इनबॉक्स में हमसे खरीद की पुष्टि वाला ईमेल खोजने का प्रयास करें।"
+   },
+   "Login_OrSignInWith": {
+      "message": "या इसके साथ साइन इन करें"
+   },
+   "Login_Password": {
+      "message": "अपना पासवर्ड दर्ज करें..."
+   },
+   "Login_PasswordMin8": {
+      "message": "आपका पासवर्ड कम से कम 8 अक्षरों का होना चाहिए"
+   },
+   "Login_Promo": {
+      "message": "मेट उपयोग करने के लिए साइन इन करें और अपने सभी डेटा को सभी उपकरणों पर समन्वयित करें!"
+   },
+   "Login_QuestionsHead": {
+      "message": "कोई प्रश्न?"
+   },
+   "Login_QuestionsText": {
+      "message": "यदि आपको अभी भी कठिनाइयों का सामना करना पड़ रहा है, तो आप हमें \u003Ca href=\"mailto:support@matetranslate.com?subject=Login Issues\">support@matetranslate.com\u003C/a> पर संपर्क कर सकते हैं।"
+   },
+   "Login_Restore": {
+      "message": "मेट ट्रांसलेट प्रो को पुनर्स्थापित करने के लिए, उस खाते में साइन इन करें जिससे आपने इसे खरीदा था (\u003Ca href=\"javascript:;\" class=\"show-info\">इसे नहीं जानते?\u003C/a>)"
+   },
+   "Login_SignIn": {
+      "message": "साइन इन करें"
+   },
+   "Login_SignUp": {
+      "message": "साइन अप करें"
+   },
+   "Login_Sync": {
+      "message": "आपका Mate अकाउंट आपके इतिहास, वाक्यांश पुस्तक और प्राथमिकताओं को बैकअप और सभी उपकरणों में सिंक्रनाइज़ रखने का सबसे अच्छा तरीका है।"
+   },
+   "Login_YourName": {
+      "message": "आपका नाम (वैकल्पिक)..."
+   },
+   "MatePro_Description": {
+      "message": "मेट प्रो के साथ अपने अनुवाद अनुभव को एक नए स्तर पर ले जाएं! एक बार भुगतान करें, हमेशा के लिए उपयोग करें।"
+   },
+   "MicAccess_HowToUnlock": {
+      "message": "माइक्रोफोन अपवादों में अवरुद्ध से \u003Cb>$id$\u003C/b> हटाएं। फिर, \u003Cb>\u003Ca href=\"../public/mic_access.html\">यहां क्लिक करें\u003C/a>\u003C/b>।",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/"
+         }
+      }
+   },
+   "MicAccess_Note": {
+      "message": "भाषण की पहचान और अनुवाद करने के लिए, मेट ट्रांसलेट को आपके कंप्यूटर के माइक्रोफोन का उपयोग करने की अनुमति होनी चाहिए।"
+   },
+   "MicAccess_PageTitle": {
+      "message": "माइक्रोफोन तक पहुंच"
+   },
+   "MicAccess_Title": {
+      "message": "माइक्रोफोन"
+   },
+   "MicAccess_UnlockButton": {
+      "message": "सामग्री सेटिंग्स में अनुमति दें"
+   },
+   "Options_TooltipSizePro": {
+      "message": "ऑन-पेज टूलटिप का आकार बदलने के लिए Pro में अपग्रेड करें।"
+   },
+   "Pb_AddButton": {
+      "message": "जोड़ें"
+   },
+   "Pb_EarlyAccess": {
+      "message": "प्रारंभिक पहुंच का अनुरोध करें"
+   },
+   "Pb_Empty": {
+      "message": "वाक्य पुस्तिका खाली है"
+   },
+   "Pb_EmptyWl_Text1": {
+      "message": "इस विषय पर आपको जो शब्द याद रखने हैं, उन्हें यहाँ संग्रहीत करें।"
+   },
+   "Pb_EmptyWl_Text2": {
+      "message": "बस शब्द टाइप करें, मेट उनके अनुवाद दिखाएगा।"
+   },
+   "Pb_EmptyWl_Title2": {
+      "message": "आसान बचत"
+   },
+   "Pb_Empty_Button": {
+      "message": "शब्द सूची बनाएं"
+   },
+   "Pb_Empty_Text1": {
+      "message": "जिसे आप सीखना चाहते हैं उन शब्दों को संग्रहीत करने के लिए शब्द सूची बनाएं।"
+   },
+   "Pb_Empty_Text2": {
+      "message": "अपने सभी शब्दों को एक ही जगह रखें!"
+   },
+   "Pb_Empty_Title": {
+      "message": "यह क्या है?"
+   },
+   "Pb_EnterWordOrPhrase": {
+      "message": "कोई शब्द या वाक्य अंश दर्ज करें ..."
+   },
+   "Pb_HowToAddPhrase": {
+      "message": "नई वाक्यांश जोड़ने के लिए ऊपर दिए गए टेक्स्ट फ़ील्ड का उपयोग करें"
+   },
+   "Pb_HowToCreateWordlist": {
+      "message": "नई शब्द सूची बनाने के लिए ऊपर \"+\" बटन पर क्लिक करें"
+   },
+   "Pb_Learn": {
+      "message": "सीखें"
+   },
+   "Pb_LearnOnboardingDesc": {
+      "message": "हम मेट को एक उद्देश्य के लिए अच्छा रखना चाहते हैं - अनुवाद।\u003Cbr>\u003Cbr>इसलिए, हमने Reji को बनाया - एक सुपर सरल मुफ़्त ऐप जो कुशल शब्दावली सीखने में मदद करता है। हमने मेट से Reji में एक ही क्लिक में अपने सभी शब्दों को निर्यात करने की सुविधा भी बनाई!"
+   },
+   "Pb_Loading": {
+      "message": "लोड हो रहा है..."
+   },
+   "Pb_NewWlNote": {
+      "message": "एक स्थिर भाषा जोड़ी के लिए एक शब्द सूची बनाएं और उसमें असीमित संख्या में वाक्यांश जोड़ें।"
+   },
+   "Pb_NewWordlist": {
+      "message": "नई शब्द सूची"
+   },
+   "Pb_NewWordlistName": {
+      "message": "नई शब्द सूची का नाम ..."
+   },
+   "Pb_NoInternet": {
+      "message": "आपका इंटरनेट कनेक्शन ऑफ़लाइन लगता है। नए वाक्यांश जोड़ने के लिए आपको इंटरनेट से कनेक्टेड होना चाहिए!"
+   },
+   "Pb_NotOnIOS": {
+      "message": "iOS का उपयोग नहीं कर रहे हैं? \u003Ca class=\"show-android-form\" href=\"#\">Android\u003C/a> या सीधे \u003Ca class=\"show-chrome-form\" href=\"#\">ब्राउज़र\u003C/a> में शब्द सीखने के लिए क्लिक करें।"
+   },
+   "Pb_RejiAndroid": {
+      "message": "Android के लिए Reji अभी उपलब्ध नहीं है। हम इसे जल्द से जल्द जारी करने के लिए कड़ी मेहनत कर रहे हैं। हालाँकि, यदि आप अपना ईमेल छोड़ दें तो आप पहले जान सकते हैं:"
+   },
+   "Pb_RejiBrowser": {
+      "message": "Reji का ब्राउज़र संस्करण अभी उपलब्ध नहीं है। हम इसे जल्द से जल्द जारी करने के लिए कड़ी मेहनत कर रहे हैं। हालाँकि, यदि आप अपना ईमेल छोड़ दें तो आप पहले जान सकते हैं:"
+   },
+   "Pb_SaveButton": {
+      "message": "सहेजें"
+   },
+   "Pb_ScanQR": {
+      "message": "अपने iPhone या iPad के कैमरा ऐप से इस QR कोड को स्कैन करें और Reji में शब्द सीखें।"
+   },
+   "Pb_SelectLearnLanguage": {
+      "message": "आप कौनसी भाषा सीख रहे हैं?"
+   },
+   "Pb_SureToDeleteWordlist": {
+      "message": "क्या आप वास्तव में इस शब्द सूची को हटाना चाहते हैं? इस क्रिया को पूर्ववत नहीं किया जा सकता।"
+   },
+   "Pb_WlEmpty": {
+      "message": "शब्द सूची खाली है"
+   },
+   "Phrasebook_FullyBlockedOut": {
+      "message": "वाक्यांश पुस्तक तक असीमित पहुंच के लिए Pro में अपग्रेड करें।"
+   },
+   "Phrasebook_Phrases1": {
+      "message": "वाक्यांश"
+   },
+   "Phrasebook_Phrases2": {
+      "message": "वाक्यांश"
+   },
+   "Phrasebook_Phrases3": {
+      "message": "वाक्यांश"
+   },
+   "ProSplitTests_2_F1": {
+      "message": "स्पीच का अनुवाद करें"
+   },
+   "ProSplitTests_2_F2": {
+      "message": "इतिहास और वाक्यांश पुस्तक"
+   },
+   "ProSplitTests_2_F3": {
+      "message": "पर्यायवाची"
+   },
+   "ProSplitTests_2_F4": {
+      "message": "उच्चारण और संज्ञा लिंग"
+   },
+   "ProSplitTests_2_F5": {
+      "message": "डार्क मोड और कोई विज्ञापन नहीं"
+   },
+   "ProSplitTests_2_F6": {
+      "message": "प्राथमिकता ग्राहक सहायता"
+   },
+   "ProSplitTests_2_F7": {
+      "message": "\u003Ca href=\"https://gikken.co/mate-translate/?ref=BrowserProBlock\">सभी उपकरणों\u003C/a> पर प्रो"
+   },
+   "ProSplitTests_2_F8": {
+      "message": "स्वचालित वेबसाइट अनुवाद"
+   },
+   "ProSplitTests_2_Pitch": {
+      "message": "Mate शानदार है, Pro इसे और भी शानदार बनाता है!\u003Cbr>सभी उपकरणों पर सभी प्रीमियम सुविधाओं तक पहुंच प्राप्त करें और कोई विज्ञापन न देखें।"
+   },
+   "Pro_Articles": {
+      "message": "संज्ञा लेख"
+   },
+   "Pro_Articles_Desc": {
+      "message": "जर्मन, फ्रेंच, स्पेनिश, इतालवी और पुर्तगाली भाषाओं में शब्दों का उपयोग करना सीखें।"
+   },
+   "Pro_Articles_Msg": {
+      "message": "संज्ञा लेख को अनलॉक करने के लिए Pro खरीदें।"
+   },
+   "Pro_ComesAlong": {
+      "message": ", और अधिक:"
+   },
+   "Pro_DoubleClickFeature": {
+      "message": "Mate Pro के साथ वेबपृष्ठों पर शब्दों का अनुवाद करने के लिए उन पर डबल-क्लिक करें!"
+   },
+   "Pro_ExportFeature": {
+      "message": "Mate Pro के साथ अपनी इतिहास को एक CSV फ़ाइल के रूप में प्राप्त करें!"
+   },
+   "Pro_FullPageTranslation": {
+      "message": "स्वचालित वेबसाइट अनुवाद को सक्षम करने के लिए Pro खरीदें।"
+   },
+   "Pro_IPA": {
+      "message": "ध्वन्यात्मक प्रतिलेखन"
+   },
+   "Pro_IPA_Desc": {
+      "message": "शब्दों का सही उच्चारण कैसे करें, सीखें।"
+   },
+   "Pro_IPA_Msg": {
+      "message": "ध्वन्यात्मक प्रतिलेखन को अनलॉक करने के लिए Pro खरीदें।"
+   },
+   "Pro_MainSettingsPitch": {
+      "message": "जितना अधिक आप अनुवाद करते हैं, इसे अपग्रेड करना उतना ही लाभदायक होता है। हमने Mate Pro को हर जगह एक भाषा पावरहाउस बनाने के लिए सुविधाएँ पैक की हैं।"
+   },
+   "Pro_NetflixPhrasebookSaving": {
+      "message": "Netflix से शब्द सहेजने के लिए Pro खरीदें।"
+   },
+   "Pro_PhrasebookFeature": {
+      "message": "अपने व्यक्तिगत वाक्यांश पुस्तक तक पहुंच प्राप्त करें। Mate के साथ इसे (और अपने इतिहास को) सभी उपकरणों में सिंक्रनाइज़ करें। CSV के रूप में निर्यात करें।"
+   },
+   "Pro_STTFeature": {
+      "message": "40 से अधिक भाषाओं में Mate से बात करें, सुपर तेज और सटीक अनुवाद प्राप्त करें।"
+   },
+   "Pro_ShortcutsFeature": {
+      "message": "अपनी कीबोर्ड को एक से अधिक भाषाओं के लिए अनुवाद करने के लिए सेट करें (Shift+T)।"
+   },
+   "Pro_SyncFeature": {
+      "message": "Mate Pro के साथ अपने डेटा को सभी उपकरणों पर सिंक्रोनाइज़ करें!"
+   },
+   "Pro_SynonymsPaywall": {
+      "message": "अधिक पर्यायवाचियों को देखने के लिए Pro में अपग्रेड करें।"
+   },
+   "Pro_UnlockMore": {
+      "message": "और इन सुविधाओं को भी अनलॉक करें:"
+   },
+   "Promo_Android": {
+      "message": "Android"
+   },
+   "Promo_Chrome": {
+      "message": "Chrome"
+   },
+   "Promo_Edge": {
+      "message": "Edge"
+   },
+   "Promo_Firefox": {
+      "message": "Firefox"
+   },
+   "Promo_Ios": {
+      "message": "iOS"
+   },
+   "Promo_Mac": {
+      "message": "macOS"
+   },
+   "Promo_Safari": {
+      "message": "Safari"
+   },
+   "Promo_Samsunginternet": {
+      "message": "Samsung Internet"
+   },
+   "Promo_Windows": {
+      "message": "Windows"
+   },
+   "RejiAd": {
+      "message": "हमारा नया ऐप आपकी शब्दावली को सुधारने में मदद करेगा। इसे देखें!"
+   },
+   "SafariWall_Desc": {
+      "message": "Mate के लिए एक बार भुगतान करें और अपने Safari में ये सभी शानदार सुविधाएँ प्राप्त करें।"
+   },
+   "SafariWall_Feature1": {
+      "message": "किसी भी पृष्ठ पर शब्दों को चुनें और उनका अनुवाद करें"
+   },
+   "SafariWall_Feature2": {
+      "message": "किसी भी शब्द पर डबल-क्लिक करें और उसका अनुवाद करें"
+   },
+   "SafariWall_Feature3": {
+      "message": "याद रखने के लिए शब्दों को अपनी व्यक्तिगत वाक्यांशपुस्तिका में सहेजें"
+   },
+   "SafariWall_Feature4": {
+      "message": "103 भाषाओं का अनुवाद करें"
+   },
+   "SafariWall_Feature5": {
+      "message": "सही उच्चारण सीखें"
+   },
+   "SafariWall_Feature6": {
+      "message": "सभी उपकरणों पर अपने अनुवादों को सिंक्रोनाइज़ करें"
+   },
+   "SafariWall_Title": {
+      "message": "अनुवाद वेबसाइटों पर अब और टैब न करें!"
+   },
+   "Settings_21max": {
+      "message": "आप अधिकतम 21 शॉर्टकट बना सकते हैं..."
+   },
+   "Settings_Articles": {
+      "message": "संज्ञा लेख दिखाएं"
+   },
+   "Settings_Autoswap": {
+      "message": "स्वतः भाषाओं का आदान-प्रदान करें"
+   },
+   "Settings_Autoswap_Description": {
+      "message": "यदि आप स्रोत भाषा की बजाय लक्ष्य भाषा या इसके उल्ट, में पाठ दर्ज करते हैं तो भाषाओं का स्वतः आदान-प्रदान हो जाएगा।"
+   },
+   "Settings_CP": {
+      "message": "अन्य उपकरणों के लिए Mate"
+   },
+   "Settings_CPDesc": {
+      "message": "Mate iOS, Mac (+ Safari एक्सटेंशन), Chrome, Firefox, Opera और Edge के लिए उपलब्ध है। पंजीकरण करके आप अपने अनुवाद इतिहास और वाक्यांश पुस्तक को सभी ऐप्स में सिंक्रनाइज़ कर सकते हैं।"
+   },
+   "Settings_CP_Get": {
+      "message": "अन्य Mate ऐप्स प्राप्त करें"
+   },
+   "Settings_Close": {
+      "message": "बंद करें"
+   },
+   "Settings_Contacts": {
+      "message": "और अधिक"
+   },
+   "Settings_CtxMenu": {
+      "message": "संदर्भ मेनू"
+   },
+   "Settings_CtxMenuDesc": {
+      "message": "संदर्भ मेनू (राइट-क्लिक) में अनुवाद बटन प्रदर्शित करें। वेब पेजों पर चयनित पाठ के लिए कार्य करता है।"
+   },
+   "Settings_DarkMode": {
+      "message": "सुंदर डार्क मोड"
+   },
+   "Settings_DarkModeDesc": {
+      "message": "ऊर्जा बचाएं और Mate के सुंदर डार्क मोड के साथ आँखों में खिंचाव से बचें।"
+   },
+   "Settings_DataEraseError": {
+      "message": "कुछ अप्रत्याशित त्रुटि हुई, कृपया बाद में पुनः प्रयास करें!"
+   },
+   "Settings_DataErased": {
+      "message": "आपका सारा डेटा Mate सर्वरों से हटा दिया गया है!"
+   },
+   "Settings_DestLang": {
+      "message": "लक्ष्य भाषा"
+   },
+   "Settings_Email": {
+      "message": "हमें एक ईमेल भेजें"
+   },
+   "Settings_EnableSync": {
+      "message": "इतिहास और वाक्यांश पुस्तक की सिंक्रोनाइज़ेशन सक्षम करें"
+   },
+   "Settings_EraseConfirm": {
+      "message": "क्या आपको यकीन है? यह आपके सभी सिंक्रोनाइज़ किए गए अनुवाद और वाक्यांश पुस्तक को मिटा देगा (स्थानीय डेटा प्रभावित नहीं होगा)। इसे पूर्ववत नहीं किया जा सकता।"
+   },
+   "Settings_EraseData": {
+      "message": "मेरे सभी डेटा मिटाएं"
+   },
+   "Settings_EraseDataDesc": {
+      "message": "GDPR के अनुसार, आप Mate सर्वरों से आपके डेटा को हटाने का अनुरोध कर सकते हैं।"
+   },
+   "Settings_FBShare": {
+      "message": "फेसबुक पर साझा करें"
+   },
+   "Settings_Facebook": {
+      "message": "फेसबुक"
+   },
+   "Settings_HelpCenter": {
+      "message": "सहायता केंद्र"
+   },
+   "Settings_Interface_Autocorrection": {
+      "message": "स्वतः सुधार"
+   },
+   "Settings_Interface_Autocorrection_Description": {
+      "message": "Mate स्वतः गलत वर्तनी वाले शब्दों को ठीक करेगा।"
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "स्मार्ट अनुवाद"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Mate तब अनुवाद करेगा जब आप टाइप करना समाप्त करेंगे।"
+   },
+   "Settings_Interface_Save": {
+      "message": "अंतिम अनुवाद सहेजें"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "Mate पॉप-अप में किए गए अंतिम अनुवाद को सहेज कर रखेगा, ताकि जब आप इसे फिर से खोलें तो वह वहां हो।"
+   },
+   "Settings_Interface_ShowIPA": {
+      "message": "ध्वन्यात्मक प्रतिलेखन दिखाएं"
+   },
+   "Settings_Interface_ShowIPA_Description": {
+      "message": "Mate द्वारा प्रदान किए गए शब्दों और वाक्यांशों के ध्वन्यात्मक प्रतिलेखन के साथ उच्चारण सीखें।"
+   },
+   "Settings_Interface_ShowTranslit": {
+      "message": "प्रतिलेखन दिखाएं"
+   },
+   "Settings_Interface_ShowTranslit_Description": {
+      "message": "गैर-लैटिन वर्णमालाओं के लिए, Mate आपको पढ़ने में आसानी के लिए अनुवाद का लैटिन प्रतिलेखन दिखाएगा।"
+   },
+   "Settings_Legal": {
+      "message": "कानूनी"
+   },
+   "Settings_Netflix": {
+      "message": "नेटफ्लिक्स उपशीर्षक अनुवाद करें"
+   },
+   "Settings_NetflixDesc": {
+      "message": "नेटफ्लिक्स के उपशीर्षक में शब्दों पर क्लिक करें और वहीं अनुवाद करें।"
+   },
+   "Settings_NetflixView": {
+      "message": "सहेजे गए शब्द देखें →"
+   },
+   "Settings_NewLine": {
+      "message": "नई लाइन के लिए"
+   },
+   "Settings_Newsletter": {
+      "message": "न्यूज़लेटर"
+   },
+   "Settings_NoConsentPro": {
+      "message": "GDPR के अनुसार, हम आपको प्रो संस्करण के लिए तब तक शुल्क नहीं ले सकते जब तक आप हमारी उपयोग शर्तों को स्वीकार नहीं करते... इसे स्वीकार करें और प्रो के साथ आगे बढ़ने के लिए इस पेज को ताजा करें।"
+   },
+   "Settings_NoProSync": {
+      "message": "सिंक सक्षम करने के लिए प्रो में अपग्रेड करें"
+   },
+   "Settings_Or": {
+      "message": "या"
+   },
+   "Settings_PopupShortcuts": {
+      "message": "पॉप-अप में शॉर्टकट"
+   },
+   "Settings_PopupShortcutsDesc": {
+      "message": "शॉर्टकट के साथ इनपुट फ़ील्ड में पाठ का अनुवाद करें।"
+   },
+   "Settings_PrefsTab": {
+      "message": "पसन्दीदा"
+   },
+   "Settings_PrivacyPolicy": {
+      "message": "गोपनीयता नीति"
+   },
+   "Settings_ProActivated": {
+      "message": "आप सब तैयार हैं! प्रो सक्रिय हो गया है।"
+   },
+   "Settings_ProFeature8": {
+      "message": "समर्पित ईमेल समर्थन"
+   },
+   "Settings_ProFeature8_Desc": {
+      "message": "समर्थन केवल Pro-उपयोगकर्ताओं के लिए है ताकि हम गहन उत्तरों के साथ लोगों तक तेजी से पहुंच सकें। मुफ्त उपयोगकर्ता हमारे सहायता केंद्र में सामान्य उत्तर पा सकते हैं।"
+   },
+   "Settings_ProTab": {
+      "message": "प्रो और सिंक"
+   },
+   "Settings_Restore": {
+      "message": "खरीद पुनर्स्थापित करें"
+   },
+   "Settings_RevokeConsent": {
+      "message": "मैं अब शर्तों को स्वीकार नहीं करता"
+   },
+   "Settings_RevokeConsentDesc": {
+      "message": "यदि आप अब हमारी गोपनीयता नीति या उपयोग की शर्तों से सहमत नहीं हैं, तो आप अपनी पूर्व सहमति को रद्द कर सकते हैं। हालाँकि, आप Mate का उपयोग भी नहीं कर पाएंगे।"
+   },
+   "Settings_Share": {
+      "message": "अपने दोस्तों को Mate के बारे में बताएं"
+   },
+   "Settings_ShareDesc": {
+      "message": "उन्हें एक लिंक भेजें या सोशल मीडिया पर साझा करें। यह हमें सहयोग करने में बहुत मदद करेगा!"
+   },
+   "Settings_ShareText": {
+      "message": "Mate सबसे मित्रवत, तेज़ और सबसे गोपनीयता-जागरूक अनुवादक ऐप {{platform}}, Mac, iPhone और iPad के लिए है। आपको यह पसंद आएगा।"
+   },
+   "Settings_ShortcutClick": {
+      "message": "इस फ़ील्ड पर क्लिक करें और फिर इच्छित शॉर्टकट दबाएं..."
+   },
+   "Settings_ShortcutMain": {
+      "message": "मुख्य शॉर्टकट"
+   },
+   "Settings_ShortcutSuppl": {
+      "message": "पूरक शॉर्टकट"
+   },
+   "Settings_SignOut": {
+      "message": "साइन आउट"
+   },
+   "Settings_SourceLang": {
+      "message": "स्रोत भाषा"
+   },
+   "Settings_StayInTouch": {
+      "message": "हमसे जुड़े रहें"
+   },
+   "Settings_SyncText": {
+      "message": "अपने प्रो अकाउंट, अनुवादों और वाक्यांश książek को सभी उपकरणों में सिंक्रनाइज़ रखें।"
+   },
+   "Settings_TWShare": {
+      "message": "ट्विटर पर साझा करें"
+   },
+   "Settings_ToS": {
+      "message": "उपयोग की शर्तें"
+   },
+   "Settings_ToTranslate": {
+      "message": "अनुवाद करने के लिए"
+   },
+   "Settings_Tooltip": {
+      "message": "छोटा बुलबुला आकार"
+   },
+   "Settings_TooltipBig": {
+      "message": "बड़ा"
+   },
+   "Settings_TooltipDesc": {
+      "message": "बड़ी खोलाब जहाँ वेब पृष्ठों पर अनुवाद दिखाई देते हैं।"
+   },
+   "Settings_TooltipMedium": {
+      "message": "मध्यम"
+   },
+   "Settings_TooltipSmall": {
+      "message": "छोटा"
+   },
+   "Settings_TranslateSelection": {
+      "message": "अनुवाद के लिए चुनें"
+   },
+   "Settings_TranslateSelectionDesc": {
+      "message": "वेब पृष्ठों पर चुने गए पाठ के बार में एक अनुवाद बटन दिखाएं।"
+   },
+   "Settings_Translation_History": {
+      "message": "अनुवादों का इतिहास"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "सभी अनुवादों को सहेजें ताकि आप किसी भी समय उन्हें ब्राउज़ कर सकें।"
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "पृष्ठ पर"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "किसी भी पृष्ठ पर पाठ (PDF फाइलों के अलावा) का चयन करें, एक शॉर्टकट दबाएं और तुरंत आपके सामने एक अनोबस्ट्रसिव पॉप-अप विंडो में अनुवाद प्राप्त करें।"
+   },
+   "Settings_Twitter": {
+      "message": "ट्विटर"
+   },
+   "Settings_UsageDesc": {
+      "message": "हम आपको प्रो में अपग्रेड करने की सलाह देते हैं यदि आप प्रति माह 500 से अधिक बार अनुवाद कर रहे हैं। यह हमें हमारे सर्वर साइड को बनाए रखने में मदद करता है।\u003Cbr>\u003Cbr>इस प्रकार, हम तेज़ अनुवाद गति की गारंटी दे सकते हैं।"
+   },
+   "Settings_Website": {
+      "message": "वेबसाइट"
+   },
+   "Settings_YouAreSignedIn": {
+      "message": "आपके नाम पर साइन इन किया गया है"
+   },
+   "Settings_YouPro": {
+      "message": "आपके पास प्रो संस्करण है!"
+   },
+   "Settings_YouUsed": {
+      "message": "आपने उपयोग किया"
+   },
+   "ShareOnVK": {
+      "message": "वी के पर साझा करें"
+   },
+   "ShareViaEmail": {
+      "message": "ईमेल के माध्यम से साझा करें"
+   },
+   "SignUp_Name": {
+      "message": "नाम (वैकल्पिक)"
+   },
+   "SignUp_Password": {
+      "message": "पासवर्ड (कम से कम 8 अक्षर)"
+   },
+   "Sponsorship_Bar": {
+      "message": "Mate अकाउंट के साथ सुरक्षित रहें"
+   },
+   "Sponsorship_DismissPro": {
+      "message": "विज्ञापनों को छुपाने के लिए Pro में अपग्रेड करें।"
+   },
+   "Sub_48hNotificationBodyAnnual": {
+      "message": "हम शीघ्र ही आपको आपके मेट प्रो वार्षिक सदस्यता के लिए {{amount}} बिल भेजेंगे।"
+   },
+   "Sub_48hNotificationBodyMonthly": {
+      "message": "हम शीघ्र ही आपको आपके मेट प्रो मासिक सदस्यता के लिए {{amount}} बिल भेजेंगे।"
+   },
+   "Sub_48hNotificationLabel": {
+      "message": "\u003Cb>जोखिम-मुक्त।\u003C/b> हम पहले बिलिंग के 48 घंटे पहले आपको एक रिमाइंडर भेजेंगे।"
+   },
+   "Sub_48hNotificationTitle": {
+      "message": "आपका मेट परीक्षण कैसा है?"
+   },
+   "Sub_ApplyForStudentDiscount": {
+      "message": "छात्र छूट"
+   },
+   "Sub_Cancel": {
+      "message": "सदस्यता रद्द करें"
+   },
+   "Sub_ChangePaymentMethod": {
+      "message": "भुगतान विधि बदलें"
+   },
+   "Sub_ComingSoon": {
+      "message": "जल्द आ रहा है"
+   },
+   "Sub_CouldNotGetPayLink": {
+      "message": "भुगतान लिंक प्राप्त नहीं हो सका। कृपया बाद में पुनः प्रयास करें या support@matetranslate.com पर हमसे संपर्क करें"
+   },
+   "Sub_CrossPlatformProComingSoon": {
+      "message": "हम मेट प्रो को क्रॉस-प्लेटफ़ॉर्म बनाने के लिए बहुत मेहनत कर रहे हैं।\n\nआप पहले से ही सभी ब्राउज़र एक्सटेंशनों में मेट प्रो का आनंद ले सकते हैं, बस हर डिवाइस पर एक ही मेट खाते के साथ साइन इन करिए। हालांकि, iOS और Mac ऐप्पल के ऐप स्टोर पर अप-फ्रंट बेचे जाते हैं।\n\nएक अस्थायी उपाय के रूप में, आप हमें hello@gikken.co पर एक ईमेल भेज सकते हैं और मेट प्रो को सब्सक्राइब करने के बाद रसीद संलग्न करें — हम आपको उन ऐप्स को मुफ्त में प्राप्त करने में मदद करेंगे।\n\nहम अस्थायी असुविधा के लिए गहराई से माफी मांगते हैं।"
+   },
+   "Sub_DueAfterTrial": {
+      "message": "परीक्षण के बाद \u003Cspan class=\"price-due\">\u003C/span>"
+   },
+   "Sub_FAQ": {
+      "message": "FAQ"
+   },
+   "Sub_FinishCreatingAccount": {
+      "message": "खाता बनाना समाप्त करें"
+   },
+   "Sub_FreeTrialVerificationCharge": {
+      "message": "आपकी क्रेडिट कार्ड को सत्यापित करने के लिए आपको Paddle द्वारा $1 का शुल्क लिया जा सकता है। यह तुरंत वापस कर दिया जाएगा। परीक्षण निःशुल्क है।"
+   },
+   "Sub_LegacyUsersDisclaimer": {
+      "message": "नई उपयोगकर्ताओं के लिए मेट प्रो अब सदस्यता-आधारित है। आपने ट्रांजिशन से पहले प्रो खरीदा है, तो आपको इसे बिना किसी अतिरिक्त शुल्क के मिल रहा है, हमेशा के लिए! हमें प्रारंभिक समर्थन के लिए धन्यवाद \u003C3"
+   },
+   "Sub_Month": {
+      "message": "/महीना"
+   },
+   "Sub_MoreInlineInfo": {
+      "message": "और जानें"
+   },
+   "Sub_NextBilling": {
+      "message": "अगली बिलिंग: {{next_amount_billed}} को {{next_billing_date}}"
+   },
+   "Sub_NoNotifPermissionAlert": {
+      "message": "सूचनाओं के बिना अनुमति के, हम पहले बिलिंग के बारे में आपको अधिसूचित नहीं कर पाएंगे... हालाँकि, आप सेटिंग्स में यह हमेशा देख सकते हैं कि यह कब होने वाला है।"
+   },
+   "Sub_PleaseCreateAccount": {
+      "message": "कृपया अब अपना मेट खाता बनाना समाप्त करें, ताकि हम आपकी सदस्यता सत्यापित कर सकें। इसमें एक मिनट से ज्यादा समय नहीं लगेगा!"
+   },
+   "Sub_PleaseSignBackIn": {
+      "message": "कृपया अपने मेट खाते के साथ फिर से साइन इन करें जो \u003Cb>{{email}}\u003C/b> से संबद्ध है।\u003Cbr>अन्यथा हम आपकी सदस्यता सत्यापित नहीं कर सकते।"
+   },
+   "Sub_ProStatusForLegacyUsers": {
+      "message": "आपके पास अनलिमिटेड, जीवनभर की एक्सेस है मेट प्रो के लिए"
+   },
+   "Sub_PurchasedBefore": {
+      "message": "पहले प्रो खरीदा?"
+   },
+   "Sub_Resubscribe": {
+      "message": "पुनः सदस्यता लें"
+   },
+   "Sub_Savings": {
+      "message": "{{savings}}% की बचत"
+   },
+   "Sub_ScrewSubscription": {
+      "message": "सदस्यता नहीं लेना चाहते?"
+   },
+   "Sub_StatusFetchError": {
+      "message": "आपकी सदस्यता स्थिति प्राप्त नहीं कर सके।"
+   },
+   "Sub_StatusFetchTryAgain": {
+      "message": "फिर से प्रयास करें"
+   },
+   "Sub_SubscribeNow": {
+      "message": "अभी सदस्यता लें"
+   },
+   "Sub_TryFreeCTA": {
+      "message": "\u003Cspan class=\"trial-days\">\u003C/span> दिनों के लिए निःशुल्क प्रयास करें"
+   },
+   "Sub_WhenCancelled": {
+      "message": "आपने अपनी सदस्यता रद्द कर दी है लेकिन आप अभी भी {{sub_ends_on}} तक मेट प्रो का उपयोग कर सकते हैं। उसके बाद प्रो का उपयोग जारी रखने के लिए, आप फिर से सदस्यता ले सकते हैं।"
+   },
+   "Sub_WhenTrialing": {
+      "message": "आपकी परीक्षण अवधि {{next_billing_date}} को समाप्त हो रही है और आपको {{next_amount_billed}} बिल भेजा जाएगा"
+   },
+   "Sub_Year": {
+      "message": "/वर्ष"
+   },
+   "Sub_YouAreAlmostInTheFamily": {
+      "message": "आप मेट प्रो परिवार में (लगभग) हैं!"
+   },
+   "Sub_YouAreInTheFamily": {
+      "message": "आप मेट प्रो परिवार में हैं!"
+   },
+   "Sync_FailedError": {
+      "message": "सिंक्रनाइज़ नहीं कर सके। त्रुटि उत्पन्न हुई।"
+   },
+   "Sync_NetworkError": {
+      "message": "ऐसा लगता है कि इंटरनेट कनेक्शन नहीं है। कृपया इंटरनेट से कनेक्ट करें और फिर से सिंक्रनाइज़ करने का प्रयास करें।"
+   },
+   "Sync_NoItemsError": {
+      "message": "सिंक्रनाइज़ करने के लिए कोई आइटम नहीं है।"
+   },
+   "Sync_NotSignedInError": {
+      "message": "आपको अपना इतिहास और वाक्यांश पुस्तिका सिंक्रनाइज़ करने के लिए साइन इन होना चाहिए।"
+   },
+   "TD_AddPB": {
+      "message": "वाक्यांश पुस्तक में जोड़ें"
+   },
+   "TD_Copy": {
+      "message": "कॉपी करें"
+   },
+   "TD_Create": {
+      "message": "नया शब्द सूची बनाएँ..."
+   },
+   "TD_NoWordlists": {
+      "message": "कोई शब्द सूची नहीं "
+   },
+   "There_Is_Localised_Site": {
+      "message": "साइट के स्थानीयकृत संस्करण की जाँच करें"
+   },
+   "There_Is_Localised_Site_Desc": {
+      "message": "इस वेबसाइट का एक स्थानीयकृत संस्करण है"
+   },
+   "Tooltip_DisableDoubleClick": {
+      "message": "डबल-क्लिक पर अनुवाद न करें"
+   },
+   "Tooltip_DisableDoubleClickDesc": {
+      "message": "जब आप फिर से किसी शब्द पर डबल-क्लिक करेंगे तो आपको अनुवाद विंडो नहीं दिखाई देगी।"
+   },
+   "Tooltip_DisableSelection": {
+      "message": "तैरते बटन न दिखाएँ"
+   },
+   "Tooltip_DisableSelectionDesc": {
+      "message": "जब आप फिर से पाठ का चयन करेंगे तो आपको तैरता हुआ अनुवाद बटन नहीं दिखाई देगा।"
+   },
+   "Tooltip_InlineOptionDisabled": {
+      "message": "आप इसे सेटिंग्स में फिर से सक्षम कर सकते हैं"
+   },
+   "Tour_Agree": {
+      "message": "हमारे \u003Cb>उपयोग की शर्तों\u003C/b> और \u003Cb>गोपनीयता नीति\u003C/b> से सहमत होने के लिए नीचे दिए गए बटन पर क्लिक करें, और Mate के साथ अनुवाद प्रारंभ करें।"
+   },
+   "Tour_AutoFPOption": {
+      "message": "वेबसाइट्स को अनुवाद करने का सुझाव दें"
+   },
+   "Tour_DoubleClick": {
+      "message": "डबल-क्लिक अनुवाद"
+   },
+   "Tour_DoubleClickDesc": {
+      "message": "किसी भी शब्द पर डबल-क्लिक करें ताकि वेब पृष्ठों पर तत्काल अनुवाद देख सकें।"
+   },
+   "Tour_DoubleClickOption": {
+      "message": "डबल-क्लिक से अनुवादित करें"
+   },
+   "Tour_GotIt": {
+      "message": "प्रारंभ"
+   },
+   "Tour_HowToContext": {
+      "message": "या किसी भी पाठ का चयन करें और अनुवाद देखने के लिए संदर्भ मेनू (दाएँ-क्लिक) का उपयोग करें।"
+   },
+   "Tour_HowToPopUp": {
+      "message": "यदि आपको स्वयं कुछ शब्द टाइप करने की आवश्यकता है, तो बस Mate बटन पर क्लिक करके पॉप-अप विंडो खोलें जो आपके ब्राउज़र एड्रेस बार के बगल में है।"
+   },
+   "Tour_HowToSelect": {
+      "message": "किसी भी वेबपेज पर किसी भी शब्द या टेक्स्ट को चुनें और इसे अनुवादित करने के लिए Shift+T दबाएं।"
+   },
+   "Tour_HowToUse": {
+      "message": "कैसे इस्तेमाल करें?"
+   },
+   "Tour_Important": {
+      "message": "यह बहुत ही महत्वपूर्ण है!"
+   },
+   "Tour_ImportantSub": {
+      "message": "यह पृष्ठ आपको \u003Cb>मेट ट्रांसलेट\u003C/b> का उपयोग कैसे करें, दिखाएगा"
+   },
+   "Tour_ImportantText": {
+      "message": "कृपया इसे देखने के लिए केवल 40 सेकंड का समय निकालें"
+   },
+   "Tour_Langs": {
+      "message": "आप किस भाषा में अनुवाद करना चाहेंगे?"
+   },
+   "Tour_LangsDesc": {
+      "message": "उस भाषा को चुनें जिसमें आप अनुवाद करना चाहते हैं:"
+   },
+   "Tour_LangsSupported": {
+      "message": "समर्थित भाषाएं देखें"
+   },
+   "Tour_MacUser": {
+      "message": "मैं मैक के लिए मेट का उपयोग कर रहा था"
+   },
+   "Tour_NoShiftT": {
+      "message": "मेट इस पृष्ठ पर और PDF फाइलों में चयनित पाठ का अनुवाद नहीं कर सकता क्योंकि \u003C%=browser%> की कुछ तकनीकी सीमाएं हैं।\u003Cbr>\u003Cbr> कृपया \u003Ca href='https://reji.me' target='_blank'>इस पृष्ठ\u003C/a> पर इसे आज़माएं।"
+   },
+   "Tour_PDF": {
+      "message": "PDF में अनुवाद करें"
+   },
+   "Tour_PDFDesc": {
+      "message": "Chrome में PDF फाइलों के पाठ का चयन करें, राइट-क्लिक करें और अनुवाद करें।"
+   },
+   "Tour_PDFNote": {
+      "message": "तकनीकी सीमाओं के कारण फ्लोटिंग बटन और Shift+T अनुवाद PDF में काम नहीं करेंगे।"
+   },
+   "Tour_Pages": {
+      "message": "पूरा वेब पेज अनुवादित करें"
+   },
+   "Tour_PagesDesc": {
+      "message": "आपकी भाषा में सभी वेबसाइट्स। स्वचालित रुप से।"
+   },
+   "Tour_Phrasebook": {
+      "message": "अपनी व्यक्तिगत फ़्रेज़बुक रखें"
+   },
+   "Tour_PhrasebookCreate": {
+      "message": "मेरी पहली शब्द सूची बनाएं"
+   },
+   "Tour_PhrasebookDesc": {
+      "message": "मेट फ़्रेज़बुक में वे सभी शब्द सहेजें जिन्हें आप याद रखना चाहते हैं। \u003Cbr>अपनी सारी शब्दावली एक जगह रखें!"
+   },
+   "Tour_PhrasebookFeature": {
+      "message": "सभी शब्द एक जगह सहेजकर रखें जिन्हें आप याद रखना चाहते हैं!"
+   },
+   "Tour_PhrasebookLaunch": {
+      "message": "फ़्रेज़बुक लॉन्च करें"
+   },
+   "Tour_PinExtension": {
+      "message": "Mate पिन करें"
+   },
+   "Tour_PinExtensionDesc": {
+      "message": "एड्रेस बार से Mate तक त्वरित पहुंच रखें।"
+   },
+   "Tour_ProCTA": {
+      "message": "\u003Cb>मेट प्रो\u003C/b> में अपग्रेड करके इन बेहतरीन फीचर्स को तुरंत अनलॉक करें:"
+   },
+   "Tour_ProFeature2": {
+      "message": "भाषण का अनुवाद करें"
+   },
+   "Tour_ProFeature3": {
+      "message": "असीमित शॉर्टकट"
+   },
+   "Tour_ProFeature4": {
+      "message": "वाक्यांश पुस्तक + सहज सिंक"
+   },
+   "Tour_ProFeature7": {
+      "message": "इतिहास और फ़्रेज़बुक को CSV के रूप में निर्यात करें"
+   },
+   "Tour_ProUpgradedSuccessfully": {
+      "message": "इस पेज को बंद करें और बिना भाषा बाधाओं के वेब सर्फिंग शुरू करें!"
+   },
+   "Tour_Ready": {
+      "message": "हम \u003Ca href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\" target=\"_blank\">GDPR\u003C/a> के अनुरूप हैं!"
+   },
+   "Tour_SafariGet": {
+      "message": "मेट प्राप्त करें $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Tour_SelectAndTranslate": {
+      "message": "चयन करें और अनुवाद करें"
+   },
+   "Tour_Selected": {
+      "message": "वेबसाइट्स पर पाठ अनुवादित करें"
+   },
+   "Tour_SelectedDesc": {
+      "message": "दुर्घटना पर, चयन करें और अनुवाद करें, या Shift+T दबाएं।"
+   },
+   "Tour_ShortcutsFeature": {
+      "message": "एकाधिक शॉर्टकट (फ्री वर्शन में 1 की तुलना में) बनाएं ताकि आप विभिन्न भाषाओं में वेब पेजों का अनुवाद कर सकें।"
+   },
+   "Tour_Start": {
+      "message": "मुफ्त में शुरू करें"
+   },
+   "Tour_Sync": {
+      "message": "सभी उपकरणों पर डेटा को सिंक्रनाइज़ करें"
+   },
+   "Tour_SyncDesc": {
+      "message": "आपका अनुवाद इतिहास और फ़्रेज़बुक उन सभी उपकरणों पर सिंक्रनाइज़ किया जाएगा जहाँ आप मेट का उपयोग कर रहे हैं।"
+   },
+   "Tour_SyncSignIn": {
+      "message": "सिंक करने के लिए साइन इन करें"
+   },
+   "Tour_Title": {
+      "message": "मेट ट्रांसलेट में आपका स्वागत है"
+   },
+   "Tour_TranslationsFeature": {
+      "message": "किसी भी समय जितनी बार चाहें अनुवाद करें।"
+   },
+   "Tour_UhHuh": {
+      "message": "हां!"
+   },
+   "Tour_Unlock": {
+      "message": "Mate Pro"
+   },
+   "Tour_UnlockDesc": {
+      "message": "सभी प्रीमियम सुविधाओं का उपयोग करें और बिना विज्ञापन देखें।"
+   },
+   "Window_AntiWarBanner": {
+      "message": "🇺🇦 हम रूस के यूक्रेन पर युद्ध और यूरोपीय लोकतंत्र के खिलाफ खड़े हैं 🇺🇦"
+   },
+   "Window_CannotTranslatePDF": {
+      "message": "हम PDF फाइलों में चयनित पाठ का अनुवाद नहीं कर सकते। {{browser}} की तकनीकी सीमाएं..."
+   },
+   "Window_CannotTranslatePDFChrome": {
+      "message": "PDF फाइलों में चयनित पाठ का अनुवाद करने के लिए कृपया कॉन्टेक्स्ट मेनू का उपयोग करें। Chrome की तकनीकी सीमाएं..."
+   },
+   "Window_Content_AllLang": {
+      "message": "सभी"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "हाल में उपयोग की गई"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "अनुवाद करें ..."
+   },
+   "Window_DoYouKnowSomeone": {
+      "message": "क्या आप किसी ऐसे व्यक्ति को जानते हैं जिसे मेट ट्रांसलेट उपयोगी लगे?"
+   },
+   "Window_DoYouLike": {
+      "message": "क्या आपको मेट पसंद है?"
+   },
+   "Window_DoYouLikeDesc": {
+      "message": "क्या कुछ सुधार की आवश्यकता है या मेट आपके लिए लगभग परिपूर्ण है?"
+   },
+   "Window_DontAutocorrect": {
+      "message": "ऑटोकरेक्ट न करें"
+   },
+   "Window_Improve": {
+      "message": "सुधार की आवश्यकता है"
+   },
+   "Window_LearnMoreAboutPro": {
+      "message": "प्रो के बारे में अधिक जानें"
+   },
+   "Window_Love": {
+      "message": "मुझे यह पसंद है"
+   },
+   "Window_MateFreeDesc": {
+      "message": "सभी नए फीचर्स को अनलॉक करने के लिए आपको प्रो वर्शन में अपग्रेड करना चाहिए।"
+   },
+   "Window_MateProDesc": {
+      "message": "इतिहास और फ़्रेज़बुक के सिंक्रनाइज़ेशन को सक्षम करने के लिए आपको साइन अप करना चाहिए।"
+   },
+   "Window_Mw_LaterButton": {
+      "message": "बाद में याद दिलाएं"
+   },
+   "Window_Mw_NeverButton": {
+      "message": "कभी याद न दिलाएं"
+   },
+   "Window_Mw_NotChromeNotNow": {
+      "message": "अभी नहीं"
+   },
+   "Window_Mw_RateButton": {
+      "message": "अभी रेट करें"
+   },
+   "Window_Mw_RateDesc": {
+      "message": "हमें ऐप स्टोर पर आपकी समीक्षा देखकर खुशी होगी! इसमें एक मिनट से अधिक समय नहीं लगेगा। अपनी समीक्षाओं से हमारे अनुवाद इंजन को चालू रखें!"
+   },
+   "Window_Mw_RateTitle": {
+      "message": "अपने मेट को रेट करें"
+   },
+   "Window_Mw_UpgradeButton": {
+      "message": "अपग्रेड करें $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Window_NetflixFeatureDesc": {
+      "message": "नेटफ्लिक्स देखते समय शब्दों का अनुवाद करें और सीखें। सबटाइटल्स में किसी शब्द पर क्लिक करें और अनुवाद देखें और बाद में सेव करें।"
+   },
+   "Window_NewFeature": {
+      "message": "नई सुविधा!"
+   },
+   "Window_No": {
+      "message": "नहीं"
+   },
+   "Window_Offline": {
+      "message": "इंटरनेट कनेक्शन नहीं है"
+   },
+   "Window_OfflineDesc": {
+      "message": "इस प्रकार नए शब्दों का अनुवाद नहीं कर सकते"
+   },
+   "Window_Pro": {
+      "message": "Mate Pro के साथ तेज़ और सुव्यवस्थित अनुवाद अनुभव का आनंद लें!"
+   },
+   "Window_ProBannerAds": {
+      "message": "अधिक सुविधाओं को अनलॉक करने के लिए Pro में अपग्रेड करें।"
+   },
+   "Window_QuickQuestion": {
+      "message": "एक त्वरित सवाल..."
+   },
+   "Window_RateUsDesc": {
+      "message": "क्या आप एप स्टोर पर हमें रेट करने के लिए एक मिनट निकालेंगे? इससे हमारे समर्थन में बड़ा योगदान होगा।"
+   },
+   "Window_ReadMore": {
+      "message": "अधिक पढ़ें"
+   },
+   "Window_SendFeedback": {
+      "message": "हमें प्रतिक्रिया भेजें"
+   },
+   "Window_SendFeedbackDesc": {
+      "message": "कृपया हमें बताएं कि हम Mate को और बेहतर कैसे बना सकते हैं।"
+   },
+   "Window_Share": {
+      "message": "Mate शेयर करें"
+   },
+   "Window_ShareDesc": {
+      "message": "अगर आप Mate के बारे में जानकारी फैलाते हैं तो यह हमारे समर्थन में बड़ा योगदान होगा!"
+   },
+   "Window_Shortcut": {
+      "message": "इस विंडो को जल्दी से खोलने के लिए Ctrl+T दबाएँ।"
+   },
+   "Window_TranslationCopied": {
+      "message": "अनुवाद कॉपी कर लिया गया!"
+   },
+   "Window_UnpinPro": {
+      "message": "Mate की विंडो को अनपिन करने के लिए Pro में अपग्रेड करें।"
+   },
+   "Window_WriteUs": {
+      "message": "हमें ईमेल लिखें"
+   },
+   "Window_Yes": {
+      "message": "हाँ"
+   }
+}

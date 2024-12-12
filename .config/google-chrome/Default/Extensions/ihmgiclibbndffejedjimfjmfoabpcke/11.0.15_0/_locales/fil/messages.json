@@ -1,0 +1,1739 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Daglat"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Pang-uri"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Pang-abay"
+   },
+   "CommonUi_LangPart_Auxiliaryverb": {
+      "message": "Pandiwang Pantulong"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Pang-ugnay"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Panghihimok"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Pangngalan"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Parirala"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Pang-ukol"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Panghalip"
+   },
+   "CommonUi_LangPart_Suffix": {
+      "message": "Hulapi"
+   },
+   "CommonUi_LangPart_Transliteration": {
+      "message": "Transliterasyon"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Pandiwa"
+   },
+   "CommonUi_NoResults": {
+      "message": "Walang resulta"
+   },
+   "Common_Copied": {
+      "message": "Nakopya!"
+   },
+   "ContextMenu_FullPage": {
+      "message": "Isalin ang pahinang ito sa \u003C%=lang%>"
+   },
+   "Csv_FromLang": {
+      "message": "MULA SA WIKA"
+   },
+   "Csv_Input": {
+      "message": "INPUT"
+   },
+   "Csv_IntoLang": {
+      "message": "SA WIKA"
+   },
+   "Csv_Synonyms": {
+      "message": "KAHULUGAN"
+   },
+   "Csv_TimeDate": {
+      "message": "ORAS/PETSA"
+   },
+   "Csv_Translation": {
+      "message": "PAGSASALIN"
+   },
+   "Csv_Transliteration": {
+      "message": "TRANSLITERASYON"
+   },
+   "Csv_WhereTranslated": {
+      "message": "SAAN ISINALIN"
+   },
+   "Dict_DictionaryTab": {
+      "message": "Diksyunaryo"
+   },
+   "Dict_NotFoundCaption": {
+      "message": "Paumanhin — nagsusumikap kami upang mapalawak ang aming Diksyunaryo"
+   },
+   "Dict_NotFoundTitle": {
+      "message": "Hindi mahanap ang depinisyon"
+   },
+   "Dict_UpgradeToPro": {
+      "message": "Mag-upgrade sa Pro para sa mga depinisyon"
+   },
+   "DotsButton_Added": {
+      "message": "Nadagdag na sa \u003C%=wl%>"
+   },
+   "DotsButton_Copied": {
+      "message": "Nakopya ang pagsasalin"
+   },
+   "DotsButton_OrigCopied": {
+      "message": "Nakopya ang orihinal na teksto"
+   },
+   "FullPage": {
+      "message": "Buong-pahinang pagsasalin"
+   },
+   "FullPageDesc": {
+      "message": "Ipakita ang isang Mate icon sa kanang itaas na sulok, kung ang web page ay nasa ibang wika. I-click ang icon na iyon upang isalin ang pahina sa iyong wika."
+   },
+   "FullPageShowOriginal": {
+      "message": "Ipakita ang orihinal"
+   },
+   "FullPageTranslate": {
+      "message": "Isalin"
+   },
+   "FullPageTranslatedTo": {
+      "message": "Isinalin sa"
+   },
+   "FullPage_AlwaysTranslate": {
+      "message": "Palaging isalin ang {{page_lang_beautiful}} sa {{target_lang_beautiful}}"
+   },
+   "FullPage_ChangeLanguage": {
+      "message": "Palitan ang wika"
+   },
+   "FullPage_ContextMenuOption": {
+      "message": "Buksan ang pagsasalin ng buong pahina"
+   },
+   "FullPage_CurrentPageLang": {
+      "message": "Ang pahinang ito ay nasa {{page_lang_beautiful}}"
+   },
+   "FullPage_NeverTranslate": {
+      "message": "Huwag kailanman isalin ang {{page_lang_beautiful}}"
+   },
+   "FullPage_SwitchBackTo": {
+      "message": "Balik sa {{language}}"
+   },
+   "FullPage_TranslateTo": {
+      "message": "Isalin sa {{target_lang_beautiful}}"
+   },
+   "FullPage_WeTranslatedIt": {
+      "message": "Isinalin namin ang pahinang ito sa {{language}}"
+   },
+   "History_AnotherDevice": {
+      "message": "Sa ibang device"
+   },
+   "History_Content_GoUpButton": {
+      "message": "Pumunta sa itaas"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "Dito mapupunta ang kasaysayan ng iyong mga pagsasalin"
+   },
+   "History_Export_OnlyProDesc": {
+      "message": "Mag-upgrade sa bersyong Pro para ma-export ang kasaysayan ng iyong mga pagsasalin sa isang CSV file"
+   },
+   "History_FullyBlockedOut": {
+      "message": "Mag-upgrade sa Pro upang magkaroon ng walang limitasyong access sa kasaysayan ng pagsasalin."
+   },
+   "History_InPopup": {
+      "message": "Sa pop-up"
+   },
+   "History_Options_DeleteMarked_1": {
+      "message": "Burahin"
+   },
+   "History_Options_DeleteMarked_2": {
+      "message": "ang markadong"
+   },
+   "History_Options_SelectToDelete": {
+      "message": "markahang para burahin"
+   },
+   "History_Options_SelectToDelete_MarkAll": {
+      "message": "Markahang lahat"
+   },
+   "History_Options_SelectToDelete_UnmarkAll": {
+      "message": "Alisin ang pagmarka sa lahat"
+   },
+   "Human_OrderButton": {
+      "message": "Isalin ng isang propesyonal"
+   },
+   "IDB_Error": {
+      "message": "Naka-disable ang Indexed DB ng iyong browser"
+   },
+   "IDB_ErrorDesc": {
+      "message": "Kailangan ng Mate Translate ang Indexed DB (iyon ay isang lokal na imbakan kung saan namin itinatago ang lahat ng iyong mga pagsasalin at Phrasebook) upang gumana nang buo.\u003Cbr>\u003Cbr>Mukhang nasa Pribadong Mode ang iyong browser na nagdudulot ng pag-disable sa Indexed DB (isang \u003Ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=781982\" target=\"_blank\">bug #781982\u003C/a> sa Firefox).\u003Cbr>\u003Cbr>Maaari mong itakda ang Pagpipilian sa Kasaysayan sa \u003Ca href=\"about:preferences#privacy\" target=\"_blank\">about:preferences#privacy\u003C/a> sa \"Aalala ng Firefox ang kasaysayan\". Maaari itong makatulong ngunit hindi garantisado. Kung hindi, maaari kang magtanong kay Mozilla na ayusin ang nasabing bug nang mas mabilis.\u003Cbr>\u003Cbr>Humihingi kami ng paumanhin sa abala pero wala kaming magagawa sa takot."
+   },
+   "Kernel_AppDescription": {
+      "message": "Ang iyong tagasalin para sa mga web pages, PDFs, naka-highlight na teksto, at mga Netflix subtitles. Intindihin ang 103 na wika nang madali."
+   },
+   "Kernel_AppName": {
+      "message": "Mate Translate – tagasalin, diksyunaryo"
+   },
+   "Kernel_Cancel": {
+      "message": "kanselahin"
+   },
+   "Kernel_ClearInput": {
+      "message": "Linisin ang input field"
+   },
+   "Kernel_Context_Into": {
+      "message": "sa"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "Kasaysayan"
+   },
+   "Kernel_IPA": {
+      "message": "Ponetikong transkripsiyon"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "Afrikaans"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "Albanian"
+   },
+   "Kernel_Lang_Amharic": {
+      "message": "Amharic"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "Arabic"
+   },
+   "Kernel_Lang_ArabicAlgeria": {
+      "message": "Arabic (Algeria)"
+   },
+   "Kernel_Lang_ArabicBahrain": {
+      "message": "Arabic (Bahrain)"
+   },
+   "Kernel_Lang_ArabicEgypt": {
+      "message": "Arabic (Egypt)"
+   },
+   "Kernel_Lang_ArabicGeneral": {
+      "message": "Arabic (General)"
+   },
+   "Kernel_Lang_ArabicIraq": {
+      "message": "Arabic (Iraq)"
+   },
+   "Kernel_Lang_ArabicJordan": {
+      "message": "Arabic (Jordan)"
+   },
+   "Kernel_Lang_ArabicKuwait": {
+      "message": "Arabic (Kuwait)"
+   },
+   "Kernel_Lang_ArabicLebanon": {
+      "message": "Arabic (Lebanon)"
+   },
+   "Kernel_Lang_ArabicLibyan": {
+      "message": "Arabic (Libya)"
+   },
+   "Kernel_Lang_ArabicMorocco": {
+      "message": "Arabic (Morocco)"
+   },
+   "Kernel_Lang_ArabicOman": {
+      "message": "Arabic (Oman)"
+   },
+   "Kernel_Lang_ArabicQatar": {
+      "message": "Arabic (Qatar)"
+   },
+   "Kernel_Lang_ArabicSaudi": {
+      "message": "Arabic (Saudi Arabia)"
+   },
+   "Kernel_Lang_ArabicSudan": {
+      "message": "Arabic (Sudan)"
+   },
+   "Kernel_Lang_ArabicSyria": {
+      "message": "Arabic (Syria)"
+   },
+   "Kernel_Lang_ArabicTunisia": {
+      "message": "Arabic (Tunisia)"
+   },
+   "Kernel_Lang_ArabicUAE": {
+      "message": "Arabic (UAE)"
+   },
+   "Kernel_Lang_ArabicYemen": {
+      "message": "Arabic (Yemen)"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "Armenian"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "Awtomatikong pag-detect"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "Azerbaijani"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "Basque"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "Belarusian"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "Bengali"
+   },
+   "Kernel_Lang_Bosnian": {
+      "message": "Bosnian"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "Bulgarian"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "Catalan"
+   },
+   "Kernel_Lang_Cebuano": {
+      "message": "Cebuano"
+   },
+   "Kernel_Lang_Chichewa": {
+      "message": "Chichewa"
+   },
+   "Kernel_Lang_Chinese": {
+      "message": "Chinese"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "Simplified Chinese"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "Traditional Chinese"
+   },
+   "Kernel_Lang_Corsican": {
+      "message": "Corsican"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "Croatian"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "Czech"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "Danish"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "Dutch"
+   },
+   "Kernel_Lang_DutchBelgium": {
+      "message": "Dutch (Belgium)"
+   },
+   "Kernel_Lang_DutchNetherlands": {
+      "message": "Dutch (Netherlands)"
+   },
+   "Kernel_Lang_English": {
+      "message": "English"
+   },
+   "Kernel_Lang_EnglishUS": {
+      "message": "English (USA)"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "Esperanto"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "Estonian"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "Filipino"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "Finnish"
+   },
+   "Kernel_Lang_French": {
+      "message": "Pranses"
+   },
+   "Kernel_Lang_FrenchBelgium": {
+      "message": "Pranses (Belgium)"
+   },
+   "Kernel_Lang_FrenchCanada": {
+      "message": "Pranses (Canada)"
+   },
+   "Kernel_Lang_FrenchFrance": {
+      "message": "Pranses (France)"
+   },
+   "Kernel_Lang_FrenchSwiss": {
+      "message": "Pranses (Switzerland)"
+   },
+   "Kernel_Lang_Frisian": {
+      "message": "Frisian"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Galician"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "Georgian"
+   },
+   "Kernel_Lang_German": {
+      "message": "Aleman"
+   },
+   "Kernel_Lang_GermanAustria": {
+      "message": "Aleman (Austria)"
+   },
+   "Kernel_Lang_GermanGermany": {
+      "message": "Aleman (Germany)"
+   },
+   "Kernel_Lang_GermanLichtenstein": {
+      "message": "Aleman (Liechtenstein)"
+   },
+   "Kernel_Lang_GermanLux": {
+      "message": "Aleman (Luxembourg)"
+   },
+   "Kernel_Lang_GermanSwiss": {
+      "message": "Aleman (Switzerland)"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Griyego"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Gujarati"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Kreole ng Haiti"
+   },
+   "Kernel_Lang_Hausa": {
+      "message": "Hausa"
+   },
+   "Kernel_Lang_Hawaiian": {
+      "message": "Hawaiian"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "Hebrew"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Hindi"
+   },
+   "Kernel_Lang_Hmong": {
+      "message": "Hmong"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "Hungarian"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "Icelandic"
+   },
+   "Kernel_Lang_Igbo": {
+      "message": "Igbo"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Indones"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Irish"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Italyano"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Hapones"
+   },
+   "Kernel_Lang_Javanese": {
+      "message": "Javanese"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Kannada"
+   },
+   "Kernel_Lang_Kazakh": {
+      "message": "Kazakh"
+   },
+   "Kernel_Lang_Khmer": {
+      "message": "Khmer"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Koreano"
+   },
+   "Kernel_Lang_Kurdish": {
+      "message": "Kurdish (Kurmanji)"
+   },
+   "Kernel_Lang_KurdishKurmanji": {
+      "message": "Kurdish (Kurmanji)"
+   },
+   "Kernel_Lang_Kyrgyz": {
+      "message": "Kyrgyz"
+   },
+   "Kernel_Lang_Lao": {
+      "message": "Lao"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Latin"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Latvian"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Lithuanian"
+   },
+   "Kernel_Lang_Luxembourgish": {
+      "message": "Luxembourgish"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Macedonian"
+   },
+   "Kernel_Lang_Malagasy": {
+      "message": "Malagasy"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Malay"
+   },
+   "Kernel_Lang_Malayalam": {
+      "message": "Malayalam"
+   },
+   "Kernel_Lang_Malayam": {
+      "message": "Malayalam"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Maltese"
+   },
+   "Kernel_Lang_Maori": {
+      "message": "Maori"
+   },
+   "Kernel_Lang_Marathi": {
+      "message": "Marathi"
+   },
+   "Kernel_Lang_Mongolian": {
+      "message": "Mongolian"
+   },
+   "Kernel_Lang_Myanmar": {
+      "message": "Myanmar (Burmese)"
+   },
+   "Kernel_Lang_MyanmarBurmese": {
+      "message": "Myanmar (Burmese)"
+   },
+   "Kernel_Lang_Nepali": {
+      "message": "Nepali"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Norwegian"
+   },
+   "Kernel_Lang_Pashto": {
+      "message": "Pashto"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Persian"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Polish"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Portuguese"
+   },
+   "Kernel_Lang_PortugueseBrazil": {
+      "message": "Portuguese (Brazil)"
+   },
+   "Kernel_Lang_PortuguesePortugal": {
+      "message": "Portuguese (Portugal)"
+   },
+   "Kernel_Lang_Punjabi": {
+      "message": "Punjabi"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Romanian"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Russian"
+   },
+   "Kernel_Lang_Samoan": {
+      "message": "Samoan"
+   },
+   "Kernel_Lang_ScotsGaelic": {
+      "message": "Scots Gaelic"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Serbian"
+   },
+   "Kernel_Lang_Sesotho": {
+      "message": "Sesotho"
+   },
+   "Kernel_Lang_Shona": {
+      "message": "Shona"
+   },
+   "Kernel_Lang_Sindhi": {
+      "message": "Sindhi"
+   },
+   "Kernel_Lang_Sinhala": {
+      "message": "Sinhala"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Slovak"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Slovenian"
+   },
+   "Kernel_Lang_Somali": {
+      "message": "Somali"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Spanish"
+   },
+   "Kernel_Lang_SpanishArgentina": {
+      "message": "Spanish (Argentina)"
+   },
+   "Kernel_Lang_SpanishBolivia": {
+      "message": "Spanish (Bolivia)"
+   },
+   "Kernel_Lang_SpanishChile": {
+      "message": "Spanish (Chile)"
+   },
+   "Kernel_Lang_SpanishColombia": {
+      "message": "Spanish (Colombia)"
+   },
+   "Kernel_Lang_SpanishCostaRica": {
+      "message": "Spanish (Costa Rica)"
+   },
+   "Kernel_Lang_SpanishDR": {
+      "message": "Spanish (Dominican Republic)"
+   },
+   "Kernel_Lang_SpanishEquador": {
+      "message": "Spanish (Equador)"
+   },
+   "Kernel_Lang_SpanishGuatemala": {
+      "message": "Spanish (Guatemala)"
+   },
+   "Kernel_Lang_SpanishHonduras": {
+      "message": "Spanish (Honduras)"
+   },
+   "Kernel_Lang_SpanishMexico": {
+      "message": "Spanish (Mexico)"
+   },
+   "Kernel_Lang_SpanishNicaragua": {
+      "message": "Spanish (Nicaragua)"
+   },
+   "Kernel_Lang_SpanishPanama": {
+      "message": "Spanish (Panama)"
+   },
+   "Kernel_Lang_SpanishParaguay": {
+      "message": "Spanish (Paraguay)"
+   },
+   "Kernel_Lang_SpanishPeru": {
+      "message": "Spanish (Peru)"
+   },
+   "Kernel_Lang_SpanishPuertoRico": {
+      "message": "Spanish (Puerto Rico)"
+   },
+   "Kernel_Lang_SpanishSalvador": {
+      "message": "Spanish (Salvador)"
+   },
+   "Kernel_Lang_SpanishSpain": {
+      "message": "Spanish (Spain)"
+   },
+   "Kernel_Lang_SpanishUS": {
+      "message": "Spanish (USA)"
+   },
+   "Kernel_Lang_SpanishUruguay": {
+      "message": "Spanish (Uruguay)"
+   },
+   "Kernel_Lang_SpanishVenezuela": {
+      "message": "Spanish (Venezuela)"
+   },
+   "Kernel_Lang_Sundanese": {
+      "message": "Sundanese"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Swahili"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Swedish"
+   },
+   "Kernel_Lang_Tajik": {
+      "message": "Tajik"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Tamil"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Telugu"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Thai"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "Turkish"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Ukrainian"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Urdu"
+   },
+   "Kernel_Lang_Uzbek": {
+      "message": "Uzbek"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Vietnamese"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Welsh"
+   },
+   "Kernel_Lang_Xhosa": {
+      "message": "Xhosa"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Yiddish"
+   },
+   "Kernel_Lang_Yoruba": {
+      "message": "Yoruba"
+   },
+   "Kernel_Lang_Zulu": {
+      "message": "Zulu"
+   },
+   "Kernel_NoResults": {
+      "message": "Walang resulta"
+   },
+   "Kernel_Ok": {
+      "message": "OK"
+   },
+   "Kernel_PhrasebookTitle": {
+      "message": "Parirala"
+   },
+   "Kernel_RemoveCombination": {
+      "message": "alisin"
+   },
+   "Kernel_SearchPlaceholder": {
+      "message": "Hanapin"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "Mga Setting"
+   },
+   "Kernel_Vowels": {
+      "message": "aeiou"
+   },
+   "Login_ByClicking": {
+      "message": "Sa pag-click sa 'Gumawa ng account' sumasang-ayon ka sa aming \u003Cb>\u003Ca href=\"https://matetranslate.com/terms\">Mga Tuntunin ng Paggamit\u003C/a>\u003C/b> at \u003Cb>\u003Ca href=\"https://matetranslate.com/privacy\">Patakaran sa Privacy\u003C/a>\u003C/b>."
+   },
+   "Login_Continue": {
+      "message": "MAGPATULOY"
+   },
+   "Login_ContinueWithout": {
+      "message": "Laktawan"
+   },
+   "Login_Create": {
+      "message": "Gumawa ng account"
+   },
+   "Login_Email": {
+      "message": "Ilagay ang iyong email address..."
+   },
+   "Login_Forgot": {
+      "message": "Nakalimutan ang iyong password?"
+   },
+   "Login_GDPR": {
+      "message": "\u003Cb>Maligayang pagdating sa tagasalin na tunay na nagmamalasakit sa iyong privacy.\u003C/b> Hindi namin kailanman susubaybayan o ibebenta ang iyong data. Ang aming \u003Ca class=\"open-pp\" href=\"javascript:;\">Patakaran sa Privacy\u003C/a> ay kakaiba sa iba—concise at masaya basahin. Pakibasa at tanggapin ito upang magsimulang gamitin ang Mate Account."
+   },
+   "Login_IReadAndAgree": {
+      "message": "Sumasang-ayon ako"
+   },
+   "Login_NewPassword": {
+      "message": "Bagong password..."
+   },
+   "Login_NoAccountHead": {
+      "message": "Wala akong account"
+   },
+   "Login_NoAccountText": {
+      "message": "Kung binili mo ang Pro ngunit hindi ka naka-log in sa oras na iyon at hindi natapos ang pag-sign-up sa pamamagitan ng link na ipinadala namin sa email na tinukoy mo sa pag-checkout, dapat mong tapusin ang pag-sign-up sa pamamagitan ng link mula sa email. Pagkatapos mong matapos ito, magagawa mong mag-sign in sa app."
+   },
+   "Login_NoRememberHead": {
+      "message": "Hindi ko maalala ito"
+   },
+   "Login_NoRememberText": {
+      "message": "Kung hindi mo maalala ang email na ginamit mo sa pag-checkout, subukang maghanap ng email na may kumpirmasyon ng pagbili mula sa amin sa iyong inbox."
+   },
+   "Login_OrSignInWith": {
+      "message": "O MAG-LOG IN SA"
+   },
+   "Login_Password": {
+      "message": "Ilagay ang iyong password..."
+   },
+   "Login_PasswordMin8": {
+      "message": "Ang iyong password ay dapat binubuo ng hindi bababa sa 8 karakter"
+   },
+   "Login_Promo": {
+      "message": "Mag-log in upang gamitin ang Mate at i-synchronize ang lahat ng iyong data sa lahat ng mga device!"
+   },
+   "Login_QuestionsHead": {
+      "message": "May mga katanungan?"
+   },
+   "Login_QuestionsText": {
+      "message": "Kung nakakaranas ka pa rin ng mga kahirapan, maaari kang makipag-ugnayan sa amin sa \u003Ca href=\"mailto:support@matetranslate.com?subject=Login Issues\">support@matetranslate.com\u003C/a>."
+   },
+   "Login_Restore": {
+      "message": "Upang maibalik ang Mate Translate Pro, mag-log in sa account kung saan mo ito binili (\u003Ca href=\"javascript:;\" class=\"show-info\">hindi mo alam ito?\u003C/a>)"
+   },
+   "Login_SignIn": {
+      "message": "MAG-LOG IN"
+   },
+   "Login_SignUp": {
+      "message": "Mag-sign up"
+   },
+   "Login_Sync": {
+      "message": "Ang iyong Mate Account ang pinakamainam na paraan upang panatilihing backup at sync ang iyong kasaysayan, Phrasebook, at kagustuhan sa lahat ng device."
+   },
+   "Login_YourName": {
+      "message": "Iyong pangalan (opsyonal)..."
+   },
+   "MatePro_Description": {
+      "message": "Dalhin ang iyong karanasan sa pagsasalin sa isang bagong antas gamit ang Mate Pro! Bayad minsan, gamitin magpakailanman."
+   },
+   "MicAccess_HowToUnlock": {
+      "message": "Tanggalin ang \u003Cb>$id$\u003C/b> mula sa mga naka-block sa mga eksepsiyon ng Mikropono. Pagkatapos, \u003Cb>\u003Ca href=\"../public/mic_access.html\">i-click dito\u003C/a>\u003C/b>.",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/"
+         }
+      }
+   },
+   "MicAccess_Note": {
+      "message": "Para makilala at isalin ang pananalita, kailangan ng Mate Translate ng pahintulot na gamitin ang mikropono ng iyong computer."
+   },
+   "MicAccess_PageTitle": {
+      "message": "Pag-access sa mikropono"
+   },
+   "MicAccess_Title": {
+      "message": "Mikropono"
+   },
+   "MicAccess_UnlockButton": {
+      "message": "pahintulutan sa mga setting ng nilalaman"
+   },
+   "Options_TooltipSizePro": {
+      "message": "Mag-upgrade sa Pro upang baguhin ang laki ng on-page tooltip."
+   },
+   "Pb_AddButton": {
+      "message": "Toddagan"
+   },
+   "Pb_EarlyAccess": {
+      "message": "humiling agad na pag-access"
+   },
+   "Pb_Empty": {
+      "message": "Walang laman ang parirala"
+   },
+   "Pb_EmptyWl_Text1": {
+      "message": "Itago lahat ng mga salitang nais mong tandaan tungkol sa paksang ito dito."
+   },
+   "Pb_EmptyWl_Text2": {
+      "message": "I-type lamang ang mga salita, Mate ay hahanapin ang mga salin para sa mga iyon."
+   },
+   "Pb_EmptyWl_Title2": {
+      "message": "Madaling mag-save"
+   },
+   "Pb_Empty_Button": {
+      "message": "gumawa ng lista ng salita"
+   },
+   "Pb_Empty_Text1": {
+      "message": "Gumawa ng mga lista ng salita upang itago ang mga salitang nais mong matutunan."
+   },
+   "Pb_Empty_Text2": {
+      "message": "Panatilihin ang lahat ng iyong bokabularyo sa isang lugar!"
+   },
+   "Pb_Empty_Title": {
+      "message": "Ano ito?"
+   },
+   "Pb_EnterWordOrPhrase": {
+      "message": "Maglagay ng salita o parirala ..."
+   },
+   "Pb_HowToAddPhrase": {
+      "message": "Gamitin ang text field sa itaas upang magdagdag ng mga bagong parirala"
+   },
+   "Pb_HowToCreateWordlist": {
+      "message": "I-click ang button na \"+\" doon upang lumikha ng bagong lista ng salita"
+   },
+   "Pb_Learn": {
+      "message": "Matuto"
+   },
+   "Pb_LearnOnboardingDesc": {
+      "message": "Gusto naming panatilihing magaling ang Mate para sa isang layunin - pagsasalin.\u003Cbr>\u003Cbr>Kaya, gumawa kami ng Reji - isang super simpleng libreng app upang makatulong sa mas mabisang pag-aaral ng bokabularyo. Ginawa rin namin posible na i-export lahat ng iyong salita mula sa Mate papunta sa Reji ng isang click lamang!"
+   },
+   "Pb_Loading": {
+      "message": "naglo-load..."
+   },
+   "Pb_NewWlNote": {
+      "message": "Gumawa ng lista ng salita para sa permanenteng pares ng wika at magdagdag ng walang limitasyong dami ng mga parirala dito."
+   },
+   "Pb_NewWordlist": {
+      "message": "Bagong lista ng salita"
+   },
+   "Pb_NewWordlistName": {
+      "message": "Pangalan ng bagong lista ng salita ..."
+   },
+   "Pb_NoInternet": {
+      "message": "Mukhang offline ang iyong koneksyon sa Internet. Upang magdagdag ng mga bagong parirala, kailangan mong nakakonekta sa Internet!"
+   },
+   "Pb_NotOnIOS": {
+      "message": "Hindi gumagamit ng iOS? I-click upang matuto ng mga salita sa \u003Ca class=\"show-android-form\" href=\"#\">Android\u003C/a> o direkta sa \u003Ca class=\"show-chrome-form\" href=\"#\">browser\u003C/a>."
+   },
+   "Pb_RejiAndroid": {
+      "message": "Ang Reji para sa Android ay hindi pa available. Puspusan naming pinagtatrabaho ito upang maipadala sa lalong madaling panahon. Gayunpaman, maaari mong una malaman kung iiwan mo ang iyong email:"
+   },
+   "Pb_RejiBrowser": {
+      "message": "Ang bersyon ng Reji para sa browser ay hindi pa available. Puspusan naming pinagtatrabaho ito upang maipadala sa lalong madaling panahon. Gayunpaman, maaari mong una malaman kung iiwan mo ang iyong email:"
+   },
+   "Pb_SaveButton": {
+      "message": "I-save"
+   },
+   "Pb_ScanQR": {
+      "message": "I-scan ang QR code na ito gamit ang Camera app sa iyong iPhone o iPad upang buksan at matuto ng mga salita sa Reji."
+   },
+   "Pb_SelectLearnLanguage": {
+      "message": "Anong wika ang iyong pinag-aaralan?"
+   },
+   "Pb_SureToDeleteWordlist": {
+      "message": "Sigurado ka bang gusto mong tanggalin ang listahang ito ng salita? Hindi nagbabago ang aksyong ito."
+   },
+   "Pb_WlEmpty": {
+      "message": "Walang laman ang listahan ng salita"
+   },
+   "Phrasebook_FullyBlockedOut": {
+      "message": "Mag-upgrade sa Pro upang magkaroon ng walang limitasyong access sa Phrasebook."
+   },
+   "Phrasebook_Phrases1": {
+      "message": "parirala"
+   },
+   "Phrasebook_Phrases2": {
+      "message": "mga parirala"
+   },
+   "Phrasebook_Phrases3": {
+      "message": "mga parirala"
+   },
+   "ProSplitTests_2_F1": {
+      "message": "Isalin ang pagsasalita"
+   },
+   "ProSplitTests_2_F2": {
+      "message": "Kasaysayan & Phrasebook"
+   },
+   "ProSplitTests_2_F3": {
+      "message": "Mga kasingkahulugan"
+   },
+   "ProSplitTests_2_F4": {
+      "message": "Pagbigkas at pangngalang kasarian"
+   },
+   "ProSplitTests_2_F5": {
+      "message": "Madilim na moda at walang mga ad"
+   },
+   "ProSplitTests_2_F6": {
+      "message": "Prayoridad na suporta sa kustomer"
+   },
+   "ProSplitTests_2_F7": {
+      "message": "Pro sa \u003Ca href=\"https://gikken.co/mate-translate/?ref=BrowserProBlock\">lahat ng mga device\u003C/a>"
+   },
+   "ProSplitTests_2_F8": {
+      "message": "Awtomatikong pagsasalin ng website"
+   },
+   "ProSplitTests_2_Pitch": {
+      "message": "Ang Mate ay kahanga-hanga, ngunit mas pinapaganda pa ng Pro!\u003Cbr>Makakuha ng access sa lahat ng premium na tampok sa lahat ng device at walang ad."
+   },
+   "Pro_Articles": {
+      "message": "Noun articles"
+   },
+   "Pro_Articles_Desc": {
+      "message": "Matutunan kung paano gamitin ang mga salita sa German, French, Spanish, Italian, at Portuguese."
+   },
+   "Pro_Articles_Msg": {
+      "message": "Bilhin ang Pro upang ma-unlock ang mga noun article."
+   },
+   "Pro_ComesAlong": {
+      "message": ", at marami pang iba:"
+   },
+   "Pro_DoubleClickFeature": {
+      "message": "Isalin ang mga salita sa mga webpage sa pamamagitan ng pag-double click sa kanila gamit ang Mate Pro!"
+   },
+   "Pro_ExportFeature": {
+      "message": "Kunin ang iyong kasaysayan bilang isang CSV file gamit ang Mate Pro!"
+   },
+   "Pro_FullPageTranslation": {
+      "message": "Bumili ng Pro upang paganahin ang awtomatikong pagsasalin ng website."
+   },
+   "Pro_IPA": {
+      "message": "Phonetic transcription"
+   },
+   "Pro_IPA_Desc": {
+      "message": "Matutunan kung paano bigkasin nang tama ang mga salita."
+   },
+   "Pro_IPA_Msg": {
+      "message": "Bilhin ang Pro upang ma-unlock ang phonetic transcription."
+   },
+   "Pro_MainSettingsPitch": {
+      "message": "Sulit ang pag-upgrade habang mas marami kang isinalin. Puno kami ng mga tampok upang gawing isang language powerhouse ang Mate Pro saanman mo ito gamitin."
+   },
+   "Pro_NetflixPhrasebookSaving": {
+      "message": "Bumili ng Pro upang makatipid ng mga salita mula sa Netflix."
+   },
+   "Pro_PhrasebookFeature": {
+      "message": "Makakuha ng access sa iyong personal na Phrasebook. I-sync ito (at ang iyong kasaysayan) sa Mate sa \u003Ca href=\"https://gikken.co/mate-translate/download/\" target=\"_blank\">lahat ng iyong mga device\u003C/a>. I-export bilang CSV upang dalhin sa ibang lugar."
+   },
+   "Pro_STTFeature": {
+      "message": "Makipag-usap sa Mate sa higit sa \u003Ca href=\"https://gikken.co/mate-translate/languages\" target=\"_blank\">40 na mga wika\u003C/a>, makakuha ng mabilis at tumpak na pagsasalin."
+   },
+   "Pro_ShortcutsFeature": {
+      "message": "I-set ang iyong keyboard upang maisalin ang maraming wika sa halip na isa lang (Shift+T)."
+   },
+   "Pro_SyncFeature": {
+      "message": "I-synchronize ang lahat ng iyong data sa lahat ng mga device gamit ang Mate Pro!"
+   },
+   "Pro_SynonymsPaywall": {
+      "message": "Mag-upgrade sa Pro upang makita ang mas maraming synonyms."
+   },
+   "Pro_UnlockMore": {
+      "message": "At i-unlock din ang mga feature na ito:"
+   },
+   "Promo_Android": {
+      "message": "Android"
+   },
+   "Promo_Chrome": {
+      "message": "Chrome"
+   },
+   "Promo_Edge": {
+      "message": "Edge"
+   },
+   "Promo_Firefox": {
+      "message": "Firefox"
+   },
+   "Promo_Ios": {
+      "message": "iOS"
+   },
+   "Promo_Mac": {
+      "message": "macOS"
+   },
+   "Promo_Safari": {
+      "message": "Safari"
+   },
+   "Promo_Samsunginternet": {
+      "message": "Samsung Internet"
+   },
+   "Promo_Windows": {
+      "message": "Windows"
+   },
+   "RejiAd": {
+      "message": "Ang aming bagong app ay makakatulong sa iyo na pahusayin ang bokabularyo. Tingnan mo!"
+   },
+   "SafariWall_Desc": {
+      "message": "Magbayad para sa Mate ng isang beses at makuha ang lahat ng mga kamangha-manghang feature na ito sa iyong Safari."
+   },
+   "SafariWall_Feature1": {
+      "message": "Piliin ang mga salita sa kahit anong pahina at isalin ang mga ito"
+   },
+   "SafariWall_Feature2": {
+      "message": "Double-click sa kahit anong salita at isalin ito"
+   },
+   "SafariWall_Feature3": {
+      "message": "I-save ang mga salita para maalala sa iyong personal na Phrasebook"
+   },
+   "SafariWall_Feature4": {
+      "message": "Isalin ang 103 wika"
+   },
+   "SafariWall_Feature5": {
+      "message": "Matuto ng tamang pagbigkas"
+   },
+   "SafariWall_Feature6": {
+      "message": "I-synchronize ang lahat ng iyong pagsasalin sa lahat ng mga device"
+   },
+   "SafariWall_Title": {
+      "message": "Huwag nang mag-tab sa mga website ng pagsasalin!"
+   },
+   "Settings_21max": {
+      "message": "Maaari kang lumikha ng hanggang 21 na shortcut..."
+   },
+   "Settings_Articles": {
+      "message": "Ipakita ang mga noun article"
+   },
+   "Settings_Autoswap": {
+      "message": "Awtomatikong pagpalit ng mga wika"
+   },
+   "Settings_Autoswap_Description": {
+      "message": "Awtomatikong papalitan ang mga wika kung maglalagay ka ng teksto sa target na wika sa halip na sa pinagkukunan na wika at kabaligtaran."
+   },
+   "Settings_CP": {
+      "message": "Mate para sa iba pang mga device"
+   },
+   "Settings_CPDesc": {
+      "message": "Ang Mate ay makukuha sa iOS, Mac (+ Safari extension), Chrome, Firefox, Opera, at Edge. Maaari mong i-synchronize ang iyong kasaysayan ng pagsasalin at Phrasebook sa lahat ng app gamit ang Mate Account."
+   },
+   "Settings_CP_Get": {
+      "message": "Kumuha ng iba pang mga Mate app"
+   },
+   "Settings_Close": {
+      "message": "isara"
+   },
+   "Settings_Contacts": {
+      "message": "Iba pa"
+   },
+   "Settings_CtxMenu": {
+      "message": "Context menu"
+   },
+   "Settings_CtxMenuDesc": {
+      "message": "Ipakita ang button ng pagsasalin sa context menu (right-click). Gumagana para sa mga napiling teksto sa mga web page."
+   },
+   "Settings_DarkMode": {
+      "message": "Magandang dark mode"
+   },
+   "Settings_DarkModeDesc": {
+      "message": "Magtipid ng enerhiya at iwasan ang panlalabo ng mata gamit ang maayos na dark mode ng Mate."
+   },
+   "Settings_DataEraseError": {
+      "message": "May nangyaring hindi inaasahang error, subukang muli mamaya!"
+   },
+   "Settings_DataErased": {
+      "message": "Lahat ng iyong data ay naalis sa mga server ng Mate!"
+   },
+   "Settings_DestLang": {
+      "message": "Paunang wika"
+   },
+   "Settings_Email": {
+      "message": "padalhan kami ng email"
+   },
+   "Settings_EnableSync": {
+      "message": "Paganahin ang pagsasabay ng kasaysayan at ang Phrasebook"
+   },
+   "Settings_EraseConfirm": {
+      "message": "Sigurado ka na? Mabubura nito ang lahat ng iyong isabay na pagsasalin at Phrasebook (ang lokal na data ay hindi maaapektuhan). Hindi na ito pwedeng balikan."
+   },
+   "Settings_EraseData": {
+      "message": "burahin lahat ng aking data"
+   },
+   "Settings_EraseDataDesc": {
+      "message": "Ayon sa GDPR, maaari mong hilingin ang pag-alis ng iyong data mula sa mga server ng Mate."
+   },
+   "Settings_FBShare": {
+      "message": "ibahagi sa facebook"
+   },
+   "Settings_Facebook": {
+      "message": "facebook"
+   },
+   "Settings_HelpCenter": {
+      "message": "Sentro ng Tulong"
+   },
+   "Settings_Interface_Autocorrection": {
+      "message": "Autocorrection"
+   },
+   "Settings_Interface_Autocorrection_Description": {
+      "message": "Awtomatikong itatama ng Mate ang mga maling baybay ng mga salita."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Matalinong pagsasalin"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Isasalin ng Mate ang input kapag natapos kang mag-type."
+   },
+   "Settings_Interface_Save": {
+      "message": "I-save ang huling pagsasalin"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "Iisave ng Mate ang huling pagsasalin na ginawa sa popup, para andiyan ito kapag binuksan mong muli."
+   },
+   "Settings_Interface_ShowIPA": {
+      "message": "Ipakita ang ponetikong transkripsyon"
+   },
+   "Settings_Interface_ShowIPA_Description": {
+      "message": "Matutunan kung paano bigkasin gamit ang ponetikong transkripsyon ng mga salita at parirala mula sa Mate."
+   },
+   "Settings_Interface_ShowTranslit": {
+      "message": "Ipakita ang transliterasyon"
+   },
+   "Settings_Interface_ShowTranslit_Description": {
+      "message": "Para sa mga hindi-Latin na alpabeto, ipapakita sa iyo ng Mate ang isang Latin na transkripsyon ng pagsasalin para mas madaling mabasa."
+   },
+   "Settings_Legal": {
+      "message": "Legal"
+   },
+   "Settings_Netflix": {
+      "message": "Isalin ang mga subtitle ng Netflix"
+   },
+   "Settings_NetflixDesc": {
+      "message": "Mag-click sa mga salita sa subtitle ng Netflix para isalin agad."
+   },
+   "Settings_NetflixView": {
+      "message": "tingnan ang mga nakasave na salita →"
+   },
+   "Settings_NewLine": {
+      "message": "para sa bagong linya"
+   },
+   "Settings_Newsletter": {
+      "message": "newsletter"
+   },
+   "Settings_NoConsentPro": {
+      "message": "Ayon sa GDPR, hindi ka namin maaaring singilin para sa Pro na bersyon hanggang tanggapin mo ang aming mga tuntunin ng paggamit... Tanggapin ito at i-refresh ang pahinang ito upang magpatuloy sa Pro."
+   },
+   "Settings_NoProSync": {
+      "message": "Mag-upgrade sa Pro upang paganahin ang pagsasabay"
+   },
+   "Settings_Or": {
+      "message": "o"
+   },
+   "Settings_PopupShortcuts": {
+      "message": "Mga shortcut sa pop-up"
+   },
+   "Settings_PopupShortcutsDesc": {
+      "message": "Isalin ang teksto sa input field gamit ang isang shortcut."
+   },
+   "Settings_PrefsTab": {
+      "message": "Prefs"
+   },
+   "Settings_PrivacyPolicy": {
+      "message": "Patakaran sa Privacy"
+   },
+   "Settings_ProActivated": {
+      "message": "Handa na lahat! Na-activate na ang Pro."
+   },
+   "Settings_ProFeature8": {
+      "message": "Dedicated email support"
+   },
+   "Settings_ProFeature8_Desc": {
+      "message": "Ang support ay pang Pro lang upang mabilis naming matugunan ang mga tao na may komprehensibong sagot. \u003Cbr>Ang mga free user ay maaaring humanap ng mga karaniwang sagot sa aming \u003Ca href=\"https://help.gikken.co/hc/\" target=\"_blank\">Sentro ng Tulong\u003C/a>."
+   },
+   "Settings_ProTab": {
+      "message": "Pro & Sync"
+   },
+   "Settings_Restore": {
+      "message": "ibalik ang pagbili"
+   },
+   "Settings_RevokeConsent": {
+      "message": "hindi ko na tinatanggap ang mga tuntunin"
+   },
+   "Settings_RevokeConsentDesc": {
+      "message": "Kung hindi mo na tinatanggap ang aming Patakaran sa Privacy o Mga Tuntunin ng Paggamit, maaari mong bawiin ang iyong naunang pagpayag. Gayunpaman, hindi mo na rin magagamit ang Mate."
+   },
+   "Settings_Share": {
+      "message": "Sabihin sa iyong mga kaibigan tungkol sa Mate"
+   },
+   "Settings_ShareDesc": {
+      "message": "Padalhan sila ng link o ibahagi sa social media. Malaking tulong na ito sa pagsuporta sa amin!"
+   },
+   "Settings_ShareText": {
+      "message": "Mate ang pinakamadaling gamitin, pinakamabilis, at pinaka-pribadong tagasalin na app para sa {{platform}}, Mac, iPhone, at iPad. Magugustuhan mo ito."
+   },
+   "Settings_ShortcutClick": {
+      "message": "i-click ang larangan na ito at pagkatapos ay pindutin ang nais na shortcut..."
+   },
+   "Settings_ShortcutMain": {
+      "message": "Pangunahing shortcut"
+   },
+   "Settings_ShortcutSuppl": {
+      "message": "Karagdagang shortcut"
+   },
+   "Settings_SignOut": {
+      "message": "MAG-SIGN OUT"
+   },
+   "Settings_SourceLang": {
+      "message": "Wikang pinagmulan"
+   },
+   "Settings_StayInTouch": {
+      "message": "Manatiling nakausap kami"
+   },
+   "Settings_SyncText": {
+      "message": "Panatilihing naka-sync ang iyong Pro account, mga pagsasalin, at Phrasebook sa lahat ng mga aparato."
+   },
+   "Settings_TWShare": {
+      "message": "ibahagi sa twitter"
+   },
+   "Settings_ToS": {
+      "message": "mga tuntunin ng paggamit"
+   },
+   "Settings_ToTranslate": {
+      "message": "isalin"
+   },
+   "Settings_Tooltip": {
+      "message": "Sukat ng tooltip"
+   },
+   "Settings_TooltipBig": {
+      "message": "malaki"
+   },
+   "Settings_TooltipDesc": {
+      "message": "Gaano kalaki ang tooltip kung saan lalabas ang isalin sa mga web page."
+   },
+   "Settings_TooltipMedium": {
+      "message": "katamtaman"
+   },
+   "Settings_TooltipSmall": {
+      "message": "maliit"
+   },
+   "Settings_TranslateSelection": {
+      "message": "Piliin upang isalin"
+   },
+   "Settings_TranslateSelectionDesc": {
+      "message": "Ipakita ang isang translation button sa tabi ng napiling teksto sa mga web page."
+   },
+   "Settings_Translation_History": {
+      "message": "Kasaysayan ng mga pagsasalin"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "I-save ang lahat ng mga pagsasalin upang ma-browse ang mga ito anumang oras."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Sa pahina"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "Piliin ang teksto sa anumang pahina (maliban para sa mga file na PDF), pindutin ang shortcut at makuha ang pagsasalin kaagad sa isang hindi nakakaabala na pop-up window sa harap mo."
+   },
+   "Settings_Twitter": {
+      "message": "twitter"
+   },
+   "Settings_UsageDesc": {
+      "message": "Inirerekumenda namin sa iyo na i-upgrade sa Pro kung ikaw ay nagsasalin ng higit sa 500 beses bawat buwan. Nakakatulong ito sa amin na mapanatili ang aming server side.\u003Cbr>\u003Cbr>Kaya, ma-garantiya namin ang mas mabilis na bilis ng pagsasalin."
+   },
+   "Settings_Website": {
+      "message": "website"
+   },
+   "Settings_YouAreSignedIn": {
+      "message": "Naka-sign in ka bilang"
+   },
+   "Settings_YouPro": {
+      "message": "Mayroon kang Pro na bersyon!"
+   },
+   "Settings_YouUsed": {
+      "message": "nagamit mo"
+   },
+   "ShareOnVK": {
+      "message": "ibahagi sa vk"
+   },
+   "ShareViaEmail": {
+      "message": "ibahagi sa pamamagitan ng email"
+   },
+   "SignUp_Name": {
+      "message": "Pangalan (opsyonal)"
+   },
+   "SignUp_Password": {
+      "message": "Password (hindi bababa sa 8 karakter)"
+   },
+   "Sponsorship_Bar": {
+      "message": "Manatiling ligtas gamit ang isang Mate Account"
+   },
+   "Sponsorship_DismissPro": {
+      "message": "Mag-upgrade sa Pro upang alisin ang mga ad."
+   },
+   "Sub_48hNotificationBodyAnnual": {
+      "message": "Mabilis na naming icharge ng {{amount}} para sa iyong Mate Pro taunang subscription."
+   },
+   "Sub_48hNotificationBodyMonthly": {
+      "message": "Mabilis na naming icharge ng {{amount}} para sa iyong Mate Pro buwanang subscription."
+   },
+   "Sub_48hNotificationLabel": {
+      "message": "\u003Cb>Walang panganib.\u003C/b> Ipapaalala namin sa iyo 48 oras bago ang unang pag-charge."
+   },
+   "Sub_48hNotificationTitle": {
+      "message": "Kumusta ang iyong Mate trial?"
+   },
+   "Sub_ApplyForStudentDiscount": {
+      "message": "Diskwento sa mag-aaral"
+   },
+   "Sub_Cancel": {
+      "message": "Kanselahin ang subscription"
+   },
+   "Sub_ChangePaymentMethod": {
+      "message": "Palitan ang paraan ng pagbabayad"
+   },
+   "Sub_ComingSoon": {
+      "message": "darating na"
+   },
+   "Sub_CouldNotGetPayLink": {
+      "message": "Hindi makakuha ng payment link. Pakisubukang muli mamaya o makipag-ugnayan sa amin sa support@matetranslate.com"
+   },
+   "Sub_CrossPlatformProComingSoon": {
+      "message": "Pinagsisikapan namin nang husto na gawing cross-platform ang Mate Pro.\n\nMaaari mo nang tangkilikin ang Mate Pro sa lahat ng browser extensions sa pamamagitan lamang ng pag-sign in gamit ang parehong Mate account sa bawat device. Gayunpaman, ang mga app ng iOS at Mac ay binebenta ng direkta sa App Stores ng Apple.\n\nBilang isang pansamantalang solusyon, maaari mo kaming i-email sa hello@gikken.co at ilakip ang resibo pagkatapos mong mag-subscribe sa Mate Pro — tutulungan ka naming makuha ang mga apps na iyon nang libre.\n\nTaos-puso kaming humihingi ng paumanhin para sa pansamantalang abala."
+   },
+   "Sub_DueAfterTrial": {
+      "message": "\u003Cspan class=\"price-due\">\u003C/span> matapos ang pagsubok"
+   },
+   "Sub_FAQ": {
+      "message": "FAQ"
+   },
+   "Sub_FinishCreatingAccount": {
+      "message": "Tapusin ang Paglikha ng Account"
+   },
+   "Sub_FreeTrialVerificationCharge": {
+      "message": "Maaaring icharge ka ng $1 ng Paddle upang i-verify ang credit card. Ito ay agad na mare-refund. Libre ang pagsubok."
+   },
+   "Sub_LegacyUsersDisclaimer": {
+      "message": "Ang Mate Pro ay subscription-based para sa mga bagong gumagamit ngayon. Dahil binili mo ang Pro bago ang paglipat, mapapanatili mo ito ng walang karagdagang bayad, magpakailanman! Salamat sa pagsuporta sa amin mula sa umpisa \u003C3"
+   },
+   "Sub_Month": {
+      "message": "/buwan"
+   },
+   "Sub_MoreInlineInfo": {
+      "message": "Alamin pa"
+   },
+   "Sub_NextBilling": {
+      "message": "Susunod na pag-charge: {{next_amount_billed}} sa {{next_billing_date}}"
+   },
+   "Sub_NoNotifPermissionAlert": {
+      "message": "Kung walang pahintulot sa mga notipikasyon, hindi ka namin mai-notify tungkol sa unang pagcharge... Makikita mo naman palagi kung kailan ito mangyayari dito sa mga settings."
+   },
+   "Sub_PleaseCreateAccount": {
+      "message": "Ngayon, mangyaring tapusin ang paggawa ng iyong Mate account, upang ma-validate namin ang iyong subscription. Hindi ito tatagal ng higit sa isang minuto!"
+   },
+   "Sub_PleaseSignBackIn": {
+      "message": "Mangyaring mag-sign in muli gamit ang iyong Mate account na kaakibat sa \u003Cb>{{email}}\u003C/b>.\u003Cbr>Hindi namin mavalidate ang iyong subscription kung hindi."
+   },
+   "Sub_ProStatusForLegacyUsers": {
+      "message": "Mayroon kang walang hanggan, panghabang-buhay na access sa Mate Pro"
+   },
+   "Sub_PurchasedBefore": {
+      "message": "Bumili ng Pro dati?"
+   },
+   "Sub_Resubscribe": {
+      "message": "Muling mag-subscribe"
+   },
+   "Sub_Savings": {
+      "message": "makakatipid ng {{savings}}%"
+   },
+   "Sub_ScrewSubscription": {
+      "message": "Ayaw bang mag-subscribe?"
+   },
+   "Sub_StatusFetchError": {
+      "message": "Hindi makuha ang iyong katayuan ng subscription."
+   },
+   "Sub_StatusFetchTryAgain": {
+      "message": "Subukang muli"
+   },
+   "Sub_SubscribeNow": {
+      "message": "Mag-subscribe Ngayon"
+   },
+   "Sub_TryFreeCTA": {
+      "message": "subukan ng libre nang \u003Cspan class=\"trial-days\">\u003C/span> araw"
+   },
+   "Sub_WhenCancelled": {
+      "message": "Kinansela mo ang iyong subscription pero magpapatuloy pa rin ang iyong access sa Mate Pro hanggang {{sub_ends_on}}. Upang magpatuloy sa paggamit ng Pro pagkatapos nito, maaari kang muling mag-subscribe."
+   },
+   "Sub_WhenTrialing": {
+      "message": "Magtatapos ang iyong pagsubok sa {{next_billing_date}} at ikaw ay macharge ng {{next_amount_billed}}"
+   },
+   "Sub_Year": {
+      "message": "/taon"
+   },
+   "Sub_YouAreAlmostInTheFamily": {
+      "message": "Kasama ka (halos) sa pamilya ng Mate Pro!"
+   },
+   "Sub_YouAreInTheFamily": {
+      "message": "Kasama ka sa pamilya ng Mate Pro!"
+   },
+   "Sync_FailedError": {
+      "message": "Hindi maisabay. Nagkaroon ng error."
+   },
+   "Sync_NetworkError": {
+      "message": "Mukhang walang koneksyon sa Internet. Mangyaring kumonekta sa Internet at ulitin ang pag-sabayin."
+   },
+   "Sync_NoItemsError": {
+      "message": "Walang mga item na isabay."
+   },
+   "Sync_NotSignedInError": {
+      "message": "Kailangan mong naka-sign in upang isabay ang iyong kasaysayan at ang Phrasebook."
+   },
+   "TD_AddPB": {
+      "message": "Idagdag sa Phrasebook"
+   },
+   "TD_Copy": {
+      "message": "Kopyahin"
+   },
+   "TD_Create": {
+      "message": "Lumikha ng bagong listahan ng salita..."
+   },
+   "TD_NoWordlists": {
+      "message": "Walang mga listahan ng salita para sa "
+   },
+   "There_Is_Localised_Site": {
+      "message": "Suriin ang localized na bersyon ng site"
+   },
+   "There_Is_Localised_Site_Desc": {
+      "message": "Mayroong localized na bersyon ng website na ito"
+   },
+   "Tooltip_DisableDoubleClick": {
+      "message": "Huwag isalin sa dobleng pag-click"
+   },
+   "Tooltip_DisableDoubleClickDesc": {
+      "message": "Hindi mo makikita ang isang window ng pagsasalin kapag muli kang magdobleng pag-click sa isang salita."
+   },
+   "Tooltip_DisableSelection": {
+      "message": "Huwag ipakita ang floating button"
+   },
+   "Tooltip_DisableSelectionDesc": {
+      "message": "Hindi mo makikita ang isang floating translation button kapag muli kang pumili ng teksto."
+   },
+   "Tooltip_InlineOptionDisabled": {
+      "message": "Maaari mong muling paganahin ito sa mga setting"
+   },
+   "Tour_Agree": {
+      "message": "I-click ang button sa ibaba upang sumang-ayon sa aming \u003Cb>Mga Tuntunin ng Paggamit\u003C/b> at \u003Cb>Patakaran sa Pagkapribado\u003C/b>, at magsimulang magsalin gamit ang Mate."
+   },
+   "Tour_AutoFPOption": {
+      "message": "Magmungkahi na isalin ang mga website"
+   },
+   "Tour_DoubleClick": {
+      "message": "Dobleng pag-click na pagsasalin"
+   },
+   "Tour_DoubleClickDesc": {
+      "message": "Dobleng i-click ang anumang salita upang makita ang agarang pagsasalin sa mga web page."
+   },
+   "Tour_DoubleClickOption": {
+      "message": "Isalin gamit ang double-click"
+   },
+   "Tour_GotIt": {
+      "message": "SIMULAN"
+   },
+   "Tour_HowToContext": {
+      "message": "O pumili ng anumang teksto at gamitin ang context menu (kanang-click) upang makita ang pagsasalin."
+   },
+   "Tour_HowToPopUp": {
+      "message": "Kung kailangan mong mag-type ng ilang mga salita sa sarili mo, buksan lamang ang pop-up window sa pamamagitan ng pag-click sa Mate button sa tabi ng iyong browser address bar."
+   },
+   "Tour_HowToSelect": {
+      "message": "Piliin ang anumang salita o teksto sa anumang webpage at pindutin ang Shift+T upang isalin ito."
+   },
+   "Tour_HowToUse": {
+      "message": "Paano Gamitin?"
+   },
+   "Tour_Important": {
+      "message": "Napaka-importante nito!"
+   },
+   "Tour_ImportantSub": {
+      "message": "Ang pahinang ito ay magpapakita kung paano gamitin ang \u003Cb>Mate Translate\u003C/b>"
+   },
+   "Tour_ImportantText": {
+      "message": "Maaari bang maglaan ng 40 segundo para tingnan ito"
+   },
+   "Tour_Langs": {
+      "message": "Ano ang wika na nais mong isalin?"
+   },
+   "Tour_LangsDesc": {
+      "message": "Pumili ng wika na nais mong isalin:"
+   },
+   "Tour_LangsSupported": {
+      "message": "tingnan ang mga sinusuportahang wika"
+   },
+   "Tour_MacUser": {
+      "message": "Ginagamit ko ang Mate para sa Mac"
+   },
+   "Tour_NoShiftT": {
+      "message": "Hindi kayang isalin ng Mate ang napiling teksto sa pahinang ito at sa mga PDF file dahil sa ilang teknikal na restriction ng \u003C%=browser%>.\u003Cbr>\u003Cbr.Pak subukan itong gawin sa \u003Ca href='https://reji.me' target='_blank'>pahinang ito\u003C/a>, halimbawa."
+   },
+   "Tour_PDF": {
+      "message": "Salin sa mga PDF"
+   },
+   "Tour_PDFDesc": {
+      "message": "Pumili ng teksto sa mga PDF file sa loob ng Chrome, i-right-click at isalin ito."
+   },
+   "Tour_PDFNote": {
+      "message": "Hindi gagana ang lumulutang na button at Shift+T na pagsasalin sa mga PDF dahil sa teknikal na restriction."
+   },
+   "Tour_Pages": {
+      "message": "Isalin ang buong web pages"
+   },
+   "Tour_PagesDesc": {
+      "message": "Lahat ng website sa iyong wika. Awtomatikong."
+   },
+   "Tour_Phrasebook": {
+      "message": "Panatilihin ang iyong personal na phrasebook"
+   },
+   "Tour_PhrasebookCreate": {
+      "message": "Gumawa ng aking unang listahan ng mga salita"
+   },
+   "Tour_PhrasebookDesc": {
+      "message": "I-save ang lahat ng salitang nais mong tandaan sa Mate Phrasebook.\u003Cbr>Panatilihin ang lahat ng iyong bokabularyo sa isang lugar!"
+   },
+   "Tour_PhrasebookFeature": {
+      "message": "Panatilihin ang lahat ng mga salita na nais mong tandaan sa isang lugar!"
+   },
+   "Tour_PhrasebookLaunch": {
+      "message": "ilunsad ang phrasebook"
+   },
+   "Tour_PinExtension": {
+      "message": "I-pin ang Mate"
+   },
+   "Tour_PinExtensionDesc": {
+      "message": "Magkaroon ng mabilisang pag-access sa Mate mula sa address bar."
+   },
+   "Tour_ProCTA": {
+      "message": "I-unlock din ang mga kamangha-manghang tampok na ito sa pamamagitan ng pag-upgrade sa \u003Cb>Mate Pro\u003C/b> ngayon:"
+   },
+   "Tour_ProFeature2": {
+      "message": "Mag-translate ng pagsasalita"
+   },
+   "Tour_ProFeature3": {
+      "message": "Walang limitasyong shortcut"
+   },
+   "Tour_ProFeature4": {
+      "message": "Phrasebook + seamless sync"
+   },
+   "Tour_ProFeature7": {
+      "message": "I-export ang History at Phrasebook bilang CSV"
+   },
+   "Tour_ProUpgradedSuccessfully": {
+      "message": "Isara ang pahinang ito at magsimula nang mag-surfing sa web nang walang mga hadlang sa wika!"
+   },
+   "Tour_Ready": {
+      "message": "Kami ay sumusunod sa \u003Ca href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\" target=\"_blank\">GDPR\u003C/a>!"
+   },
+   "Tour_SafariGet": {
+      "message": "kunin ang mate para sa $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Tour_SelectAndTranslate": {
+      "message": "Pumili at isalin"
+   },
+   "Tour_Selected": {
+      "message": "Isalin ang teksto sa mga website"
+   },
+   "Tour_SelectedDesc": {
+      "message": "Double-click, piliin upang isalin, o pindutin ang Shift+T."
+   },
+   "Tour_ShortcutsFeature": {
+      "message": "Gumawa ng hangga't nais na mga shortcut (kumpara sa 1 sa libreng bersyon) para sa iba't ibang mga wika upang mag-translate sa mga web page."
+   },
+   "Tour_Start": {
+      "message": "Magsimula ng libre"
+   },
+   "Tour_Sync": {
+      "message": "I-synchronize ang data sa lahat ng device"
+   },
+   "Tour_SyncDesc": {
+      "message": "Ang iyong history ng pagsasalin at Phrasebook ay isasalin sa pagitan ng lahat ng device kung saan ginagamit mo ang Mate."
+   },
+   "Tour_SyncSignIn": {
+      "message": "mag-sign in upang i-synchronize"
+   },
+   "Tour_Title": {
+      "message": "Maligayang Pagdating sa Mate Translate"
+   },
+   "Tour_TranslationsFeature": {
+      "message": "Mag-translate ng maraming beses hangga't kailangan mo anumang oras."
+   },
+   "Tour_UhHuh": {
+      "message": "Oo!"
+   },
+   "Tour_Unlock": {
+      "message": "Mate Pro"
+   },
+   "Tour_UnlockDesc": {
+      "message": "Makakuha ng access sa lahat ng premium features at walang ads."
+   },
+   "Window_AntiWarBanner": {
+      "message": "🇺🇦 Tumitindig kami laban sa digmaan ng Russia sa Ukraine at sa European democracy 🇺🇦"
+   },
+   "Window_CannotTranslatePDF": {
+      "message": "Hindi namin masalin ang napiling teksto sa mga PDF file. Ang teknikal na limitasyon ng {{browser}}..."
+   },
+   "Window_CannotTranslatePDFChrome": {
+      "message": "Pakiusap gamitin ang context menu upang salin ang napiling teksto sa mga PDF file. Mga teknikal na limitasyon ng Chrome..."
+   },
+   "Window_Content_AllLang": {
+      "message": "Lahat"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "Kamakailang Ginamit"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Isalin ..."
+   },
+   "Window_DoYouKnowSomeone": {
+      "message": "May kilala ka bang makikinabang sa Mate Translate?"
+   },
+   "Window_DoYouLike": {
+      "message": "Gusto mo ba ang Mate?"
+   },
+   "Window_DoYouLikeDesc": {
+      "message": "Kailangan bang may ayusin o halos perpekto na ba ang Mate para sa iyo?"
+   },
+   "Window_DontAutocorrect": {
+      "message": "Huwag mag-autocorrect"
+   },
+   "Window_Improve": {
+      "message": "kailangan ng pagpapabuti"
+   },
+   "Window_LearnMoreAboutPro": {
+      "message": "Matuto nang higit pa tungkol sa pro"
+   },
+   "Window_Love": {
+      "message": "Gusto ko ito"
+   },
+   "Window_MateFreeDesc": {
+      "message": "Upang i-unlock ang lahat ng bagong tampok, dapat kang mag-upgrade sa Pro na bersyon."
+   },
+   "Window_MateProDesc": {
+      "message": "Dapat kang mag-sign up upang paganahin ang pag-synchronize ng history at Phrasebook."
+   },
+   "Window_Mw_LaterButton": {
+      "message": "Paalalahanan ako mamaya"
+   },
+   "Window_Mw_NeverButton": {
+      "message": "Huwag nang palabasin"
+   },
+   "Window_Mw_NotChromeNotNow": {
+      "message": "Hindi ngayon"
+   },
+   "Window_Mw_RateButton": {
+      "message": "I-rate ngayon"
+   },
+   "Window_Mw_RateDesc": {
+      "message": "Masaya kaming makakita ng iyong review sa App Store! Hindi ito tatagal ng higit sa isang minuto. Panatilihing tumatakbo ang aming translation engine sa iyong mga review!"
+   },
+   "Window_Mw_RateTitle": {
+      "message": "I-rate ang iyong Mate"
+   },
+   "Window_Mw_UpgradeButton": {
+      "message": "mag-upgrade para sa $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Window_NetflixFeatureDesc": {
+      "message": "Isalin at matuto ng mga salita habang nanonood ng Netflix. I-click ang isang salita sa mga subtitle para makita ang pagsasalin at i-save para sa ibang pagkakataon."
+   },
+   "Window_NewFeature": {
+      "message": "Bagong tampok!"
+   },
+   "Window_No": {
+      "message": "hindi"
+   },
+   "Window_Offline": {
+      "message": "Walang Koneksyon sa Internet"
+   },
+   "Window_OfflineDesc": {
+      "message": "Hindi maisalin ang mga bagong salita dahil dito"
+   },
+   "Window_Pro": {
+      "message": "Maranasan ang mas mabilis at mas maayos na pagsasalin sa Mate Pro!"
+   },
+   "Window_ProBannerAds": {
+      "message": "Mag-upgrade sa Pro upang i-unlock ang mas maraming tampok."
+   },
+   "Window_QuickQuestion": {
+      "message": "Isang mabilis na tanong..."
+   },
+   "Window_RateUsDesc": {
+      "message": "Maaari mo bang ilaan ang isang minuto upang i-rate kami sa App Store? Malaki ang maitutulong nito sa pagsuporta sa amin."
+   },
+   "Window_ReadMore": {
+      "message": "basahin pa"
+   },
+   "Window_SendFeedback": {
+      "message": "Magpadala ng feedback"
+   },
+   "Window_SendFeedbackDesc": {
+      "message": "Pakitukoy kung paano namin mapapabuti ang Mate."
+   },
+   "Window_Share": {
+      "message": "Ibahagi ang Mate"
+   },
+   "Window_ShareDesc": {
+      "message": "Malaki ang maitutulong nito sa pagsuporta sa amin kung ipalaganap mo ang balita tungkol sa Mate!"
+   },
+   "Window_Shortcut": {
+      "message": "Pindutin ang Ctrl+T upang mabilis na buksan ang window na ito."
+   },
+   "Window_TranslationCopied": {
+      "message": "Ang salin ay nakopya!"
+   },
+   "Window_UnpinPro": {
+      "message": "Mag-upgrade sa Pro upang i-unpin ang window ng Mate."
+   },
+   "Window_WriteUs": {
+      "message": "sumulat sa amin ng isang email"
+   },
+   "Window_Yes": {
+      "message": "oo"
+   }
+}

@@ -1,0 +1,1739 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "సంక్షిప్తీకరణ"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "విశేషణాలు"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "క్రియావిశేషణాలు"
+   },
+   "CommonUi_LangPart_Auxiliaryverb": {
+      "message": "సహాయక క్రియలు"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "సముచ్చయాలు"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "విస్మయావేశాలు"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "నామవాచకాలు"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "పదబంధాలు"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "విప్రత్యయాలు"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "సర్వనామాలు"
+   },
+   "CommonUi_LangPart_Suffix": {
+      "message": "ప్రత్యయాలు"
+   },
+   "CommonUi_LangPart_Transliteration": {
+      "message": "వర్ణాంతరం"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "క్రియలు"
+   },
+   "CommonUi_NoResults": {
+      "message": "ఫలితాలు లేవు"
+   },
+   "Common_Copied": {
+      "message": "కాపీ చేయబడింది!"
+   },
+   "ContextMenu_FullPage": {
+      "message": "ఈ పుటను \u003C%=lang%>కి అనువదించు"
+   },
+   "Csv_FromLang": {
+      "message": "మూల భాష"
+   },
+   "Csv_Input": {
+      "message": "ఇన్నుపుట్"
+   },
+   "Csv_IntoLang": {
+      "message": "గమ్య భాష"
+   },
+   "Csv_Synonyms": {
+      "message": "పర్యాయపదాలు"
+   },
+   "Csv_TimeDate": {
+      "message": "సమయం/తేదీ"
+   },
+   "Csv_Translation": {
+      "message": "అనువాదం"
+   },
+   "Csv_Transliteration": {
+      "message": "వర్ణాంతరం"
+   },
+   "Csv_WhereTranslated": {
+      "message": "ఎక్కడ అనువదించబడింది"
+   },
+   "Dict_DictionaryTab": {
+      "message": "నిఘంటువు"
+   },
+   "Dict_NotFoundCaption": {
+      "message": "క్షమించండి — మా నిఘంటువును విస్తరించడంలో మేము శక్తివంతంగా పని చేస్తున్నాము"
+   },
+   "Dict_NotFoundTitle": {
+      "message": "నిర్దేశం కనుగొనలేదు"
+   },
+   "Dict_UpgradeToPro": {
+      "message": "నిర్దేశాల కోసం ప్రోను అప్‌గ్రేడ్ చేయండి"
+   },
+   "DotsButton_Added": {
+      "message": "\u003C%=wl%>కు జోడించబడింది"
+   },
+   "DotsButton_Copied": {
+      "message": "అనువాదం కాపీ చేయబడింది"
+   },
+   "DotsButton_OrigCopied": {
+      "message": "మੂల పాఠం కాపీ చేయబడింది"
+   },
+   "FullPage": {
+      "message": "పూర్తి పుట అనువాదం"
+   },
+   "FullPageDesc": {
+      "message": "ఓ వెబ్ పేజీ విదేశీ భాషలో ఉంటే, పై కుడి మూలలో మేట్ ఐకాన్‌ను చూపించండి. పేజీని మీ భాషకు అనువదించడానికి ఆ ఐకాన్‌పై క్లిక్ చేయండి."
+   },
+   "FullPageShowOriginal": {
+      "message": "మూలం చూపించు"
+   },
+   "FullPageTranslate": {
+      "message": "అనువదించు"
+   },
+   "FullPageTranslatedTo": {
+      "message": "అనువదించబడింది"
+   },
+   "FullPage_AlwaysTranslate": {
+      "message": "{{page_lang_beautiful}} ను ఎల్లప్పుడూ {{target_lang_beautiful}} కు అనువదించండి"
+   },
+   "FullPage_ChangeLanguage": {
+      "message": "భాషను మార్చండి"
+   },
+   "FullPage_ContextMenuOption": {
+      "message": "పూర్తి పేజీ అనువాదను తెరవండి"
+   },
+   "FullPage_CurrentPageLang": {
+      "message": "ఈ పేజీ {{page_lang_beautiful}} లో ఉంది"
+   },
+   "FullPage_NeverTranslate": {
+      "message": "{{page_lang_beautiful}} కు అనువదించకండి"
+   },
+   "FullPage_SwitchBackTo": {
+      "message": "{{language}} కు తిరిగి మారండి"
+   },
+   "FullPage_TranslateTo": {
+      "message": "{{target_lang_beautiful}} కు అనువదించండి"
+   },
+   "FullPage_WeTranslatedIt": {
+      "message": "మేము ఈ పేజీని {{language}} కు అనువదించాము"
+   },
+   "History_AnotherDevice": {
+      "message": "మరొక పరికరంలో"
+   },
+   "History_Content_GoUpButton": {
+      "message": "పైకి వెళ్ళు"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "మీ అనువాదాల చరిత్ర ఇక్కడ ఉంటుంది"
+   },
+   "History_Export_OnlyProDesc": {
+      "message": "మీ అనువాదాల చరిత్రను CSV ఫైలుగా ఎగుమతి చేయడానికి ప్రో వెర్షన్‌కు నవీకరించండి"
+   },
+   "History_FullyBlockedOut": {
+      "message": "చరిత్ర యొక్క అన్‌లిమిటెడ్ యాక్సెస్ కోసం ప్రో అప్‌డేట్ చేయండి"
+   },
+   "History_InPopup": {
+      "message": "పాపప్‌లో"
+   },
+   "History_Options_DeleteMarked_1": {
+      "message": "తొలగించు"
+   },
+   "History_Options_DeleteMarked_2": {
+      "message": "మార్క్ చేయబడినవి"
+   },
+   "History_Options_SelectToDelete": {
+      "message": "తొలగించడానికి గుర్తించు"
+   },
+   "History_Options_SelectToDelete_MarkAll": {
+      "message": "అన్ని గుర్తించు"
+   },
+   "History_Options_SelectToDelete_UnmarkAll": {
+      "message": "అన్ని గుర్తింపు చల్లించు"
+   },
+   "Human_OrderButton": {
+      "message": "ప్రముఖుడు ద్వారా అనువదించు"
+   },
+   "IDB_Error": {
+      "message": "మీ బ్రౌజర్‌లో ఇండెక్స్డ్ డీబీ పనిచేయడం లేదు"
+   },
+   "IDB_ErrorDesc": {
+      "message": "మేట్ ట్రాన్స్‌లేట్ పూర్తి సామర్థ్యంతో పనిచేయడానికి Indexed DB (ఇది స్థానిక నిల్వ కాబట్టి మేము మా అన్ని అనువాదాలు మరియు ప్రేయ్స్‌బుక్ను భద్రపరుస్తουμε) అవసరం. మీరు ఇటీవలి బ్రౌజర్‌లో ఉంటే ఈ సమస్య తక్షణం పరిష్కరించేలా ఈ విషయం గురించి బ్రౌసర్ సంస్థను సంప్రదించాలి."
+   },
+   "Kernel_AppDescription": {
+      "message": "వెబ్ పేజీలు, PDF‌లు, గుర్తించిన పాఠ్యం, & Netflix ఉపశీర్షికల కోసం మీ అనువాద‌కుడు. 103 భాషలను సులభంగా అర్థం చేసుకోండి."
+   },
+   "Kernel_AppName": {
+      "message": "మేట్ ట్రాన్స్‌లేట్ – అనువాద‌కుడు, నిఘంటువు"
+   },
+   "Kernel_Cancel": {
+      "message": "రద్దు"
+   },
+   "Kernel_ClearInput": {
+      "message": "ఇన్నుపుట్ ఫీల్డును క్లియర్ చేయండి"
+   },
+   "Kernel_Context_Into": {
+      "message": "లోకి"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "చరిత్ర"
+   },
+   "Kernel_IPA": {
+      "message": "ధ్వన్యాత్మక లిప్యంతరణ"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "ఆఫ్రికాన్స్"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "అల్బేనియన్"
+   },
+   "Kernel_Lang_Amharic": {
+      "message": "అమ్హారిక్"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "అరబిక్"
+   },
+   "Kernel_Lang_ArabicAlgeria": {
+      "message": "అరబిక్ (అల్జీరియా)"
+   },
+   "Kernel_Lang_ArabicBahrain": {
+      "message": "అరబిక్ (బహ్రెయిన్)"
+   },
+   "Kernel_Lang_ArabicEgypt": {
+      "message": "అరబిక్ (ఎజిప్ట్)"
+   },
+   "Kernel_Lang_ArabicGeneral": {
+      "message": "అరబిక్ (సాధారణంగా)"
+   },
+   "Kernel_Lang_ArabicIraq": {
+      "message": "అరబిక్ (ఇరాక్)"
+   },
+   "Kernel_Lang_ArabicJordan": {
+      "message": "అరబిక్ (జోర్డాన్)"
+   },
+   "Kernel_Lang_ArabicKuwait": {
+      "message": "అరబిక్ (కువైట్)"
+   },
+   "Kernel_Lang_ArabicLebanon": {
+      "message": "అరబిక్ (లెబనాన్)"
+   },
+   "Kernel_Lang_ArabicLibyan": {
+      "message": "అరబిక్ (లిబియా)"
+   },
+   "Kernel_Lang_ArabicMorocco": {
+      "message": "అరబిక్ (మొరాకో)"
+   },
+   "Kernel_Lang_ArabicOman": {
+      "message": "అరబిక్ (ఒమన్)"
+   },
+   "Kernel_Lang_ArabicQatar": {
+      "message": "అరబిక్ (కతార్)"
+   },
+   "Kernel_Lang_ArabicSaudi": {
+      "message": "అరబిక్ (సౌదీ అరేబియా)"
+   },
+   "Kernel_Lang_ArabicSudan": {
+      "message": "అరబిక్ (సూడాన్)"
+   },
+   "Kernel_Lang_ArabicSyria": {
+      "message": "అరబిక్ (సిరియా)"
+   },
+   "Kernel_Lang_ArabicTunisia": {
+      "message": "అరబిక్ (టునీషియా)"
+   },
+   "Kernel_Lang_ArabicUAE": {
+      "message": "అరబిక్ (యుఏఈ)"
+   },
+   "Kernel_Lang_ArabicYemen": {
+      "message": "అరబిక్ (యెమెన్)"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "ఆర్మేనియన్"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "స్వయంచాలక గుర్తింపు"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "అజర్బైజనియన్"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "బాస్క్"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "బెలారూసియన్"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "బెంగాలీ"
+   },
+   "Kernel_Lang_Bosnian": {
+      "message": "బోస్నియన్"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "బల్గేరియన్"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "కాటలాన్"
+   },
+   "Kernel_Lang_Cebuano": {
+      "message": "సెబుఅనో"
+   },
+   "Kernel_Lang_Chichewa": {
+      "message": "చిచెవా"
+   },
+   "Kernel_Lang_Chinese": {
+      "message": "చైనీస్"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "సరళీకృత చైనీస్"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "సాంప్రదాయ చైనీస్"
+   },
+   "Kernel_Lang_Corsican": {
+      "message": "కోర్సికాన్"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "క్రొయేషియన్"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "చెక్"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "డానిష్"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "డచ్"
+   },
+   "Kernel_Lang_DutchBelgium": {
+      "message": "డచ్ (బెల్జియం)"
+   },
+   "Kernel_Lang_DutchNetherlands": {
+      "message": "డచ్ (నెదర్లాండ్స్)"
+   },
+   "Kernel_Lang_English": {
+      "message": "ఇంగ్లీష్"
+   },
+   "Kernel_Lang_EnglishUS": {
+      "message": "ఇంగ్లీష్ (యుఎస్‌ఎ)"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "ఎస్‌పెరాంటో"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "ఎస్టోనియన్"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "ఫిలిపినో"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "ఫిన్నిష్"
+   },
+   "Kernel_Lang_French": {
+      "message": "ఫ్రెంచ్"
+   },
+   "Kernel_Lang_FrenchBelgium": {
+      "message": "ఫ్రెంచ్ (బెల్జియం)"
+   },
+   "Kernel_Lang_FrenchCanada": {
+      "message": "ఫ్రెంచ్ (కెనడా)"
+   },
+   "Kernel_Lang_FrenchFrance": {
+      "message": "ఫ్రెంచ్ (ఫ్రాన్స్)"
+   },
+   "Kernel_Lang_FrenchSwiss": {
+      "message": "ఫ్రెంచ్ (స్విట్జర్లాండ్)"
+   },
+   "Kernel_Lang_Frisian": {
+      "message": "ఫ్రిజియన్"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "గాలీషియన్"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "జార్జియన్"
+   },
+   "Kernel_Lang_German": {
+      "message": "జర్మన్"
+   },
+   "Kernel_Lang_GermanAustria": {
+      "message": "జర్మన్ (ఆస్ట్రియా)"
+   },
+   "Kernel_Lang_GermanGermany": {
+      "message": "జర్మన్ (జర్మనీ)"
+   },
+   "Kernel_Lang_GermanLichtenstein": {
+      "message": "జర్మన్ (లిక్టెన్‌స్టైన్)"
+   },
+   "Kernel_Lang_GermanLux": {
+      "message": "జర్మన్ (లక్సెంబర్గ్)"
+   },
+   "Kernel_Lang_GermanSwiss": {
+      "message": "జర్మన్ (స్విట్జర్లాండ్)"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "గ్రీక్"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "గుజరాతీ"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "హాటియన్ క్రీయోల్"
+   },
+   "Kernel_Lang_Hausa": {
+      "message": "హౌసా"
+   },
+   "Kernel_Lang_Hawaiian": {
+      "message": "హవాయి"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "హీబ్రూ"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "హిందీ"
+   },
+   "Kernel_Lang_Hmong": {
+      "message": "హ్మోంజ్"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "హంగేరియన్"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "ఐస్‌లాండిక్"
+   },
+   "Kernel_Lang_Igbo": {
+      "message": "ఇగ్బో"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "ఇండోనేషియన్"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "ఐరిష్"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "ఇటాలియన్"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "జపనీస్"
+   },
+   "Kernel_Lang_Javanese": {
+      "message": "జావనేస్"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "కన్నడ"
+   },
+   "Kernel_Lang_Kazakh": {
+      "message": "కజఖ్"
+   },
+   "Kernel_Lang_Khmer": {
+      "message": "ఖ్మేర్"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "కొరియన్"
+   },
+   "Kernel_Lang_Kurdish": {
+      "message": "కుర్దిష్ (కుర్మంజి)"
+   },
+   "Kernel_Lang_KurdishKurmanji": {
+      "message": "కుర్దిష్ (కుర్మంజి)"
+   },
+   "Kernel_Lang_Kyrgyz": {
+      "message": "కిర్గిజ్"
+   },
+   "Kernel_Lang_Lao": {
+      "message": "లావో"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "లాటిన్"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "లాట్వియన్"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "లిథువేనియన్"
+   },
+   "Kernel_Lang_Luxembourgish": {
+      "message": "లక్సెంబర్గిష్"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "మాసెడోనియన్"
+   },
+   "Kernel_Lang_Malagasy": {
+      "message": "మాలాగసీ"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "మలయ్"
+   },
+   "Kernel_Lang_Malayalam": {
+      "message": "మలయాళం"
+   },
+   "Kernel_Lang_Malayam": {
+      "message": "మలయాళం"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "మాల్టీస్"
+   },
+   "Kernel_Lang_Maori": {
+      "message": "మావోరీ"
+   },
+   "Kernel_Lang_Marathi": {
+      "message": "మరాఠీ"
+   },
+   "Kernel_Lang_Mongolian": {
+      "message": "మంగోలియన్‌"
+   },
+   "Kernel_Lang_Myanmar": {
+      "message": "మయన్మార్‌ (బర్మీస్‌)"
+   },
+   "Kernel_Lang_MyanmarBurmese": {
+      "message": "మయన్మార్‌ (బర్మీస్‌)"
+   },
+   "Kernel_Lang_Nepali": {
+      "message": "నేపాలి"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "నార్వేజియన్‌"
+   },
+   "Kernel_Lang_Pashto": {
+      "message": "పశ్తో"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "పర్షియన్‌"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "పోలిష్‌"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "పోర్టుగీసు"
+   },
+   "Kernel_Lang_PortugueseBrazil": {
+      "message": "పోర్టుగీసు (బ్రెజిల్‌)"
+   },
+   "Kernel_Lang_PortuguesePortugal": {
+      "message": "పోర్టుగీసు (పోర్చుగల్‌)"
+   },
+   "Kernel_Lang_Punjabi": {
+      "message": "పంజాబీ"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "రొమేనియన్‌"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "రష్యన్‌"
+   },
+   "Kernel_Lang_Samoan": {
+      "message": "సమోవాన్‌"
+   },
+   "Kernel_Lang_ScotsGaelic": {
+      "message": "స్కాట్స్ గేలిక్‌"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "సెర్బియన్‌"
+   },
+   "Kernel_Lang_Sesotho": {
+      "message": "సెసోతో"
+   },
+   "Kernel_Lang_Shona": {
+      "message": "షోనా"
+   },
+   "Kernel_Lang_Sindhi": {
+      "message": "సింధీ"
+   },
+   "Kernel_Lang_Sinhala": {
+      "message": "సింహళం"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "స్లోవాక్‌"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "స్లోవేనియన్‌"
+   },
+   "Kernel_Lang_Somali": {
+      "message": "సోమాలి"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "స్పానిష్‌"
+   },
+   "Kernel_Lang_SpanishArgentina": {
+      "message": "స్పానిష్‌ (ఆర్జెంటీనా)"
+   },
+   "Kernel_Lang_SpanishBolivia": {
+      "message": "స్పానిష్‌ (బొలీవియా)"
+   },
+   "Kernel_Lang_SpanishChile": {
+      "message": "స్పానిష్‌ (చిలీ)"
+   },
+   "Kernel_Lang_SpanishColombia": {
+      "message": "స్పానిష్‌ (కొలంబియా)"
+   },
+   "Kernel_Lang_SpanishCostaRica": {
+      "message": "స్పానిష్‌ (కోస్టా రికా)"
+   },
+   "Kernel_Lang_SpanishDR": {
+      "message": "స్పానిష్‌ (డొమినికన్‌ రిపబ్లిక్‌)"
+   },
+   "Kernel_Lang_SpanishEquador": {
+      "message": "స్పానిష్‌ (ఇక్వెడార్‌)"
+   },
+   "Kernel_Lang_SpanishGuatemala": {
+      "message": "స్పానిష్‌ (గ్వాటిమాలా)"
+   },
+   "Kernel_Lang_SpanishHonduras": {
+      "message": "స్పానిష్‌ (హోండురాస్‌)"
+   },
+   "Kernel_Lang_SpanishMexico": {
+      "message": "స్పానిష్‌ (మెక్సికో)"
+   },
+   "Kernel_Lang_SpanishNicaragua": {
+      "message": "స్పానిష్‌ (నికరాగువా)"
+   },
+   "Kernel_Lang_SpanishPanama": {
+      "message": "స్పానిష్‌ (పనామా)"
+   },
+   "Kernel_Lang_SpanishParaguay": {
+      "message": "స్పానిష్‌ (పెరగ్వే)"
+   },
+   "Kernel_Lang_SpanishPeru": {
+      "message": "స్పానిష్‌ (పెరూ)"
+   },
+   "Kernel_Lang_SpanishPuertoRico": {
+      "message": "స్పానిష్‌ (ప్యూర్టోరికో)"
+   },
+   "Kernel_Lang_SpanishSalvador": {
+      "message": "స్పానిష్‌ (సాల్వడార్‌)"
+   },
+   "Kernel_Lang_SpanishSpain": {
+      "message": "స్పానిష్‌ (స్పెయిన్‌)"
+   },
+   "Kernel_Lang_SpanishUS": {
+      "message": "స్పానిష్‌ (యుఎస్‌ఏ)"
+   },
+   "Kernel_Lang_SpanishUruguay": {
+      "message": "స్పానిష్‌ (ఉరుగ్వే)"
+   },
+   "Kernel_Lang_SpanishVenezuela": {
+      "message": "స్పానిష్‌ (వెనుజులా)"
+   },
+   "Kernel_Lang_Sundanese": {
+      "message": "సున్దనీసె"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "స్వాహిలి"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "స్వీడిష్‌"
+   },
+   "Kernel_Lang_Tajik": {
+      "message": "తజిక్‌"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "తమిళ్‌"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "తెలుగు"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "థాయ్"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "టర్కిష్"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "ఉక్రేనియన్"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "ఉర్దూ"
+   },
+   "Kernel_Lang_Uzbek": {
+      "message": "ఉజ్బెక్"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "వియత్నామీస్"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "వెల్ష్"
+   },
+   "Kernel_Lang_Xhosa": {
+      "message": "ఖోసా"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "యిడిష్"
+   },
+   "Kernel_Lang_Yoruba": {
+      "message": "యొరుబా"
+   },
+   "Kernel_Lang_Zulu": {
+      "message": "జులూ"
+   },
+   "Kernel_NoResults": {
+      "message": "ఫలితాలు లేవు"
+   },
+   "Kernel_Ok": {
+      "message": "సరే"
+   },
+   "Kernel_PhrasebookTitle": {
+      "message": "ఫ్రేజ్‌బుక్"
+   },
+   "Kernel_RemoveCombination": {
+      "message": "తొలగించు"
+   },
+   "Kernel_SearchPlaceholder": {
+      "message": "వెతుకు"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "సెట్టింగ్స్"
+   },
+   "Kernel_Vowels": {
+      "message": "అఆయు"
+   },
+   "Login_ByClicking": {
+      "message": "‘క్రియేట్ అన అకౌంట్’ పై క్లిక్ చేయడం ద్వారా మీరు మా \u003Cb>\u003Ca href=\"https://matetranslate.com/terms\">వాడుక నిబంధనలు\u003C/a>\u003C/b> మరియు \u003Cb>\u003Ca href=\"https://matetranslate.com/privacy\">గోప్యతా విధానం\u003C/a>\u003C/b> కు అంగీకరించబడతారు."
+   },
+   "Login_Continue": {
+      "message": "కొనసాగించు"
+   },
+   "Login_ContinueWithout": {
+      "message": "విడిచిపెట్టు"
+   },
+   "Login_Create": {
+      "message": "ఒక అకౌంట్ సృష్టించండి"
+   },
+   "Login_Email": {
+      "message": "మీ ఈమెయిల్ చిరునామా నమోదు చేయండి..."
+   },
+   "Login_Forgot": {
+      "message": "మీ పాస్‌వర్డ్ మరిచిపోయారా?"
+   },
+   "Login_GDPR": {
+      "message": "\u003Cb>గోప్యతా విధానంలో హాగ్ అనే అనువాదకుడి కి స్వాగతం.\u003C/b> మీ డేటాను అనుసరించకపోనీ లేదా అమ్మకపోనీ. మా \u003Ca class=\"open-pp\" href=\"javascript:;\">గోప్యతా విధానం\u003C/a> అన్ని మద్దితరులకంటే భిన్నంగా ఉంటుంది - అది సంక్షిప్తంగా మరియు ఆనందంగా ఉంటుంది. మేట్ ఏకౌంట్ ఉపయోగించాలని ఆమోదించడం కోసం దయచేసి చదివి అంగీకరించండి."
+   },
+   "Login_IReadAndAgree": {
+      "message": "నేను అంగీకరిస్తున్నాను"
+   },
+   "Login_NewPassword": {
+      "message": "కొత్త పాస్‌వర్డ్..."
+   },
+   "Login_NoAccountHead": {
+      "message": "నాకు అకౌంట్ లేదు"
+   },
+   "Login_NoAccountText": {
+      "message": "మీరు ప్రొ కొన్నప్పుడు లోగిన్ లో లేకపోతే మరియు చెక్అవుట్ లో మీరు నిర్దేశించిన ఈమెయిల్ కి పంపిన లింక్ ద్వారా సైన్ అప్ పూర్తి చేయాలి. పూర్తయిన తర్వాత, మీరు యాప్ లో సైన్ ఇన్ చేయగలరు."
+   },
+   "Login_NoRememberHead": {
+      "message": "ఇది గుర్తు లేదు"
+   },
+   "Login_NoRememberText": {
+      "message": "చెక్అవుట్ కి మీరు వాడిన ఈమెయిల్ గుర్తు లేకుంటే, మీ ఇన్‌బాక్స్ లో మా పంపిన కొనుగోలు నిర్ధారణ ఈమెయిల్ చూడండి."
+   },
+   "Login_OrSignInWith": {
+      "message": "లేదా లోగిన్ చేయండి"
+   },
+   "Login_Password": {
+      "message": "మీ పాస్‌వర్డ్ నమోదు చేయండి..."
+   },
+   "Login_PasswordMin8": {
+      "message": "మీ పాస్‌వర్డ్ కనీసం 8 అక్షరాలు కలిగి ఉండాలి"
+   },
+   "Login_Promo": {
+      "message": "మెట్ యాప్ వాడండి మరియు మీ డేటాను అన్ని పరికరాల్లో సమకాలీకరించండి!"
+   },
+   "Login_QuestionsHead": {
+      "message": "ఏమైనా ప్రశ్నలున్నాయా?"
+   },
+   "Login_QuestionsText": {
+      "message": "మీకు ఇంకా కష్టాలు ఉంటే, మీరు మాకు \u003Ca href=\"mailto:support@matetranslate.com?subject=Login Issues\">support@matetranslate.com\u003C/a> లో సంప్రదించవచ్చు."
+   },
+   "Login_Restore": {
+      "message": "మెట్ ట్రాన్స్‌లేట్ ప్రొ పునరుద్ధరిచేముందు, మీరు కొనుగోలు చేసిన అకౌంట్ లో సైన్ ఇన్ చేయండి (\u003Ca href=\"javascript:;\" class=\"show-info\">దీనిలో తెలియదు?\u003C/a>)"
+   },
+   "Login_SignIn": {
+      "message": "సైన్ ఇన్"
+   },
+   "Login_SignUp": {
+      "message": "సైన్ అప్"
+   },
+   "Login_Sync": {
+      "message": "మీ మేట్ భాగం మీ చరిత్ర, ఫ్రేస్‌బుక్, మరియు ప్రాధాన్యతలను బ్యాకప్ చేయడం మరియు అన్ని పరికరాల మధ్య సింక్ చేయడం అత్యుత్తమైన మార్గం."
+   },
+   "Login_YourName": {
+      "message": "మీ పేరు (ఐచ్చికం)..."
+   },
+   "MatePro_Description": {
+      "message": "మీ అనువాద అనుభవాన్ని మెట్ ప్రొ తో మరింతగా మెరుగుపరచుకోండి! ఒక్కసారిగా చెల్లించండి, ఎప్పటికీ వాడండి."
+   },
+   "MicAccess_HowToUnlock": {
+      "message": "మైక్రోఫోన్ మినహాయింపుల్లో \u003Cb>$id$\u003C/b> ను బ్లాక్డ్ నుండి తొలగించండి. తర్వాత, \u003Cb>\u003Ca href=\"../public/mic_access.html\">ఇక్కడ క్లిక్ చేయండి\u003C/a>\u003C/b>.",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/"
+         }
+      }
+   },
+   "MicAccess_Note": {
+      "message": "మెట్ ట్రాన్స్‌లేట్ మీ కంప్యూటర్ మైక్రోఫోన్ వాడుకోవడానికి అనుమతి కావాలి."
+   },
+   "MicAccess_PageTitle": {
+      "message": "మైక్రోఫోన్ యాక్సెస్"
+   },
+   "MicAccess_Title": {
+      "message": "మైక్రోఫోన్"
+   },
+   "MicAccess_UnlockButton": {
+      "message": "కంటెంట్ సెట్టింగ్స్ లో అనుమతించు"
+   },
+   "Options_TooltipSizePro": {
+      "message": "పేజీలో టూల్‌టిప్ సైజ్ ను మార్చడానికి ప్రో అప్‌డేట్ చేయండి."
+   },
+   "Pb_AddButton": {
+      "message": "జోడించు"
+   },
+   "Pb_EarlyAccess": {
+      "message": "ముందుగా యాక్సెస్ కోసం అభ్యర్థించండి"
+   },
+   "Pb_Empty": {
+      "message": "ఫ్రేజ్‌బుక్ ఖాళీగా ఉంది"
+   },
+   "Pb_EmptyWl_Text1": {
+      "message": "ఈ విషయాన్నికి సంబంధించిన అనుస్మరణకు అవసరమైన మొత్తం పదాలను ఇక్కడ నిల్వ చేయండి."
+   },
+   "Pb_EmptyWl_Text2": {
+      "message": "పదాలు టైప్ చేయండి, మేట్ వాటికి అనువాదాలు చూపిస్తుంది."
+   },
+   "Pb_EmptyWl_Title2": {
+      "message": "సులభంగా సేవ్ చేయండి"
+   },
+   "Pb_Empty_Button": {
+      "message": "పదాల జాబితా సృష్టించండి"
+   },
+   "Pb_Empty_Text1": {
+      "message": "మీరు నేర్చుకోవాలనుకునే పదాలను నిల్వ చేయడానికి పదాల జాబితాను సృష్టించండి."
+   },
+   "Pb_Empty_Text2": {
+      "message": "మొక్కటే ప్రదేశంలో మీ సర్వ పదసంపదను ఉంచండి!"
+   },
+   "Pb_Empty_Title": {
+      "message": "ఇది ఏమిటి?"
+   },
+   "Pb_EnterWordOrPhrase": {
+      "message": "ఒక శబ్ధమా లేక పదబంధమా ఇక్కడ ఎంటర్ చేయండి ..."
+   },
+   "Pb_HowToAddPhrase": {
+      "message": "కొత్త పదబంధాలను జోడించడానికి పై టెక్స్ట్ ఫీల్డ్ను ఉపయోగించండి"
+   },
+   "Pb_HowToCreateWordlist": {
+      "message": "పైన 'ప్లస్' బటన్ పై క్లిక్ చేసి కొత్త పదాల జాబితాను సృష్టించండి"
+   },
+   "Pb_Learn": {
+      "message": "నేర్చుకోండి"
+   },
+   "Pb_LearnOnboardingDesc": {
+      "message": "మేము మేట్ ని ఒకే ఒక లక్ష్యానికి మంచిగా ఉంచాలనుకుంటున్నాం - అనువాదాలు.\u003Cbr>\u003Cbr>ఆ విధంగా, మేము రెజిని సృష్టించాం - సమర్థవంతమైన పదసంపద నేర్చుకోవడానికి సరళమైన ఉచిత అప్లికేషన్. మేట్ నుండి రెజికి మీ అన్ని పదాలను ఒక క్లిక్ తో ఎగుమతిచేయడం కూడా సాధ్యం!"
+   },
+   "Pb_Loading": {
+      "message": "లోడింగ్..."
+   },
+   "Pb_NewWlNote": {
+      "message": "నిర్దిష్ట భాషా జంట కోసం ఒక పదాల జాబితాను సృష్టించండి మరియు దానిలో అపరిసిమిత సంఖ్యలో పదబంధాలను జోడించండి."
+   },
+   "Pb_NewWordlist": {
+      "message": "కొత్త పదాల జాబితా"
+   },
+   "Pb_NewWordlistName": {
+      "message": "కొత్త పదాల జాబితా పేరు ..."
+   },
+   "Pb_NoInternet": {
+      "message": "మీ ఇంటర్నెట్ కనెక్షన్ ఆఫ్ లైన్ లో ఉన్నట్లు అనిపిస్తుంది. కొత్త పదబంధాలను జోడించడానికి, మీరు ఇంటర్నెట్కు కనెక్ట్ అయి ఉండాలి!"
+   },
+   "Pb_NotOnIOS": {
+      "message": "iOS వాడటం లేదా? ఆండ్రాయిడ్ పై పదాలను నేర్చుకోవడానికి \u003Ca class=\"show-android-form\" href=\"#\">ఇక్కడ క్లిక్ చేయండి\u003C/a> లేక \u003Ca class=\"show-chrome-form\" href=\"#\">బ్రౌజర్\u003C/a> లోనే నేర్చుకోండి."
+   },
+   "Pb_RejiAndroid": {
+      "message": "ఆండ్రాయిడ్ కోసం రెజి ఇంకా అందుబాటులో లేదు. మేము దీన్ని త్వరగా అందుబాటు చేసేందుకు కష్టపడుతున్నాం. అయితే, మీ ఈమెయిల్ ఇవ్వడం ద్వారా మీరు ముందుగా తెలుసుకోవచ్చు:"
+   },
+   "Pb_RejiBrowser": {
+      "message": "బ్రౌజర్ నిర్వచనం కోసం రెజి అందుబాటులో లేదు. మేము దీన్ని త్వరగా అందుబాటు చేసేందుకు కష్టపడుతున్నాం. అయితే, మీ ఈమెయిల్ ఇవ్వడం ద్వారా మీరు ముందుగా తెలుసుకోవచ్చు:"
+   },
+   "Pb_SaveButton": {
+      "message": "సేవ్ చేయండి"
+   },
+   "Pb_ScanQR": {
+      "message": "మీ ఐఫోన్ లేక ఐప్యాడ్ యొక్క కెమేరా అప్లికేషన్ ఉపయోగించి ఈ క్యూఆర్ కోడ్ ను స్కాన్ చేసి రెజి లో పదాలను నేర్చుకోండి."
+   },
+   "Pb_SelectLearnLanguage": {
+      "message": "మీరు ఏ భాష నేర్చుకుంటున్నారు?"
+   },
+   "Pb_SureToDeleteWordlist": {
+      "message": "ఈ పదాల జాబితా తొలగించాలనుకుంటున్నారా? ఈ చర్యను తిరిగి తీసుకోలేరు."
+   },
+   "Pb_WlEmpty": {
+      "message": "పదాల జాబితా ఖాళీగా ఉంది"
+   },
+   "Phrasebook_FullyBlockedOut": {
+      "message": "ఫ్రేస్‌బుక్ యొక్క అన్‌లిమిటెడ్ యాక్సెస్ కోసం ప్రో అప్‌డెట్ చేయండి"
+   },
+   "Phrasebook_Phrases1": {
+      "message": "పదబంధం"
+   },
+   "Phrasebook_Phrases2": {
+      "message": "పదబంధాలు"
+   },
+   "Phrasebook_Phrases3": {
+      "message": "పదబంధాలు"
+   },
+   "ProSplitTests_2_F1": {
+      "message": "భాష ఉచ్ఛరించండి"
+   },
+   "ProSplitTests_2_F2": {
+      "message": "చరిత్ర & ఫ్రేస్‌బుక్"
+   },
+   "ProSplitTests_2_F3": {
+      "message": "పర్యాయ పదాలు"
+   },
+   "ProSplitTests_2_F4": {
+      "message": "ఉచ్ఛారణ & నామవాచక లింగాలు"
+   },
+   "ProSplitTests_2_F5": {
+      "message": "డార్క్ మోడ్ & యాడ్స్ లేవు"
+   },
+   "ProSplitTests_2_F6": {
+      "message": "ప్రాధాన్యత ఉన్న కస్టమర్ సపోర్ట్"
+   },
+   "ProSplitTests_2_F7": {
+      "message": "\u003Ca href=\"https://gikken.co/mate-translate/?ref=BrowserProBlock\">అన్ని పరికరాలలో\u003C/a> ప్రో"
+   },
+   "ProSplitTests_2_F8": {
+      "message": "స్వయంచాలక వెబ్‌సైట్ అనువాదం"
+   },
+   "ProSplitTests_2_Pitch": {
+      "message": "మేట్ అద్భుతమైనది, ప్రో దానిని ఇంకా అద్భుతంగా చేస్తుంది!\u003Cbr>అన్ని పరికరాలపై అన్ని ప్రీమియం లక్షణాలకు యాక్సెస్ పొందండి మరియు సంకేతాలు చూడవద్దు."
+   },
+   "Pro_Articles": {
+      "message": "సబ్బులు వాక్యాలు"
+   },
+   "Pro_Articles_Desc": {
+      "message": "జర్మన్, ఫ్రెంచ్, స్పానిష్, ఇటాలియన్, మరియు పోర్చుగీస్ భాషలలో పదాలను ఎలా ఉపయోగించాలో తెలుసుకోండి."
+   },
+   "Pro_Articles_Msg": {
+      "message": "సబ్బులు వాక్యాలు అన్‌లాక్ చేయడానికి ప్రో కొని తీసుకోండి."
+   },
+   "Pro_ComesAlong": {
+      "message": ", ఇంకా ఇవి"
+   },
+   "Pro_DoubleClickFeature": {
+      "message": "మేట్ ప్రో తో వెబ్ పేజీలపై పదాలను డబుల్ క్లిక్ చేసి అనువదించండి!"
+   },
+   "Pro_ExportFeature": {
+      "message": "మేట్ ప్రో తో మీ చరిత్రను సిఎస్‌వి ఫైల్ గా పొందండి!"
+   },
+   "Pro_FullPageTranslation": {
+      "message": "స్వయంచాలక వెబ్‌సైట్ అనువాదాన్ని ప్రారంభించడానికి ప్రో కొనుగోలు చేయండి."
+   },
+   "Pro_IPA": {
+      "message": "ఫోనెటిక్ ట్రాన్స్క్రిప్షన్"
+   },
+   "Pro_IPA_Desc": {
+      "message": "పదాలను సరిగ్గా ఉచ్ఛరించడానికి నేర్చుకోండి."
+   },
+   "Pro_IPA_Msg": {
+      "message": "ఫోనెటిక్ ట్రాన్స్క్రిప్షన్‌ని అన్‌లాక్ చేయడానికి ప్రో కొని తీసుకోండి."
+   },
+   "Pro_MainSettingsPitch": {
+      "message": "మీరు తర్జుమా చేస్తున్న కొద్దీ ప్రో అప్‌డేట్ చేయడం విలువైనదిగా ఉంచుతుంది. మేత్ ప్రోని మీ ఎక్కడైనా ఉపయోగించేందుకు భాషా శక్తిపై స_FEATURES తో పరిచయం చేశాము."
+   },
+   "Pro_NetflixPhrasebookSaving": {
+      "message": "నెట్‌ఫ్లిక్స్ నుండి పదాలను సేవ్ చేయడానికి ప్రో కొనుగోలు చేయండి."
+   },
+   "Pro_PhrasebookFeature": {
+      "message": "మీకు వ్యక్తిగత ఫ్రేస్‌బుక్‌ని పొందండి. అన్ని పరికరాల్లో \u003Ca href=\"https://gikken.co/mate-translate/download/\" target=\"_blank\">మేట్ తో సింక్ చేయండి\u003C/a>. ఎక్స్పోర్ట్ చేసుకోండి & CSVగా సేవ్ చేసుకోండి."
+   },
+   "Pro_STTFeature": {
+      "message": "40 కంటే ఎక్కువ \u003Ca href=\"https://gikken.co/mate-translate/languages\" target=\"_blank\">భాషలు\u003C/a> లో మేట్ తో మాట్లాడి, అత్యంత వేగంగా మరియు ఖచ్చితమైన అనువాదాన్ని పొందండి."
+   },
+   "Pro_ShortcutsFeature": {
+      "message": "ఒకదానికి బదులుగా అనేక భాషలను అనువదించడానికి మీ కీబోర్డ్ని సెట్ చేయండి (Shift+T)."
+   },
+   "Pro_SyncFeature": {
+      "message": "మేట్ ప్రో తో మీ అందరి పరికరాలలో మీ మొత్తం డేటాను సింక్రోనైజ్ చేయండి!"
+   },
+   "Pro_SynonymsPaywall": {
+      "message": "మరిన్ని పర్యాయ పదాలను కారు కోసం ప్రో కు అప్‌డేట్ చేయండి."
+   },
+   "Pro_UnlockMore": {
+      "message": "మరియు ఈ ఫీచర్లు కూడా అన్‌లాక్ చేయండి:"
+   },
+   "Promo_Android": {
+      "message": "ఆండ్రాయిడ్"
+   },
+   "Promo_Chrome": {
+      "message": "క్రోమ్"
+   },
+   "Promo_Edge": {
+      "message": "ఎడ్జ్"
+   },
+   "Promo_Firefox": {
+      "message": "ఫైర్‌ఫాక్స్"
+   },
+   "Promo_Ios": {
+      "message": "iOS"
+   },
+   "Promo_Mac": {
+      "message": "మెక్ఓఎస్"
+   },
+   "Promo_Safari": {
+      "message": "సఫారి"
+   },
+   "Promo_Samsunginternet": {
+      "message": "సామ్‌సంగ్ ఇంటర్నెట్"
+   },
+   "Promo_Windows": {
+      "message": "విండోస్"
+   },
+   "RejiAd": {
+      "message": "మన కొత్త అప్లికేషన్ మీ పదసంపదని మెరుగుపరచడంలో సహాయపడుతుంది. దానిని పరిశీలించండి!"
+   },
+   "SafariWall_Desc": {
+      "message": "మేట్ ను ఒకే ఒకసారి చెల్లించి ఈ గొప్ప ఫీచర్లను మీ సఫారిలోనే అందరుచేయండి."
+   },
+   "SafariWall_Feature1": {
+      "message": "ఏ పేజీలోనైనా పదాలను ఎంచుకుని అనువదించండి"
+   },
+   "SafariWall_Feature2": {
+      "message": "ఏ పదం పైనైనా డబుల్ క్లిక్ చేసి దానిని అనువదించండి"
+   },
+   "SafariWall_Feature3": {
+      "message": "మన వ్యక్తిగత పదబంధాలలో గుర్తుపెట్టుకోవడం కోసం పదాలను సేవ్ చేయండి"
+   },
+   "SafariWall_Feature4": {
+      "message": "103 భాషలను అనువదించండి"
+   },
+   "SafariWall_Feature5": {
+      "message": "జరిగయిన ఉచ్చారణ నేర్చుకోండి"
+   },
+   "SafariWall_Feature6": {
+      "message": "మీ అన్ని పరికరాలలో మీ అనువాదాలను సింక్రోనైజ్ చేయండి"
+   },
+   "SafariWall_Title": {
+      "message": "ఇంకా అనువాద వెబ్‌సైట్లకు టాబ్ చేయకండి!"
+   },
+   "Settings_21max": {
+      "message": "మీరు గరిష్టంగా 21 షార్ట్‌కట్‌లను సృష్టించవచ్చు..."
+   },
+   "Settings_Articles": {
+      "message": "సబ్బులు వాక్యాలు చూపించు"
+   },
+   "Settings_Autoswap": {
+      "message": "స్వయంచాలకంగా భాషలను మార్చండి"
+   },
+   "Settings_Autoswap_Description": {
+      "message": "మీరు మూల భాషను బదులు లక్ష్య భాషలో టెక్స్ట్‌ని నమోదు చేస్తే మరియు అందుకు తిరుపు భాషలను ఆటోమేటిక్‌గా మార్చబడతాయి."
+   },
+   "Settings_CP": {
+      "message": "ఇతర పరికరాల కోసం మేట్"
+   },
+   "Settings_CPDesc": {
+      "message": "మేట్ iOS, Mac (+ Safari ఎక్స్టెన్షన్), చ్రోమ్, ఫైర్ఫాక్స్, ఓపెరా, మరియు ఎడ్జ్ కోసం అందుబాటులో ఉంది. మేట్ ఖాతాతో అన్ని యాప్స్ మధ్య మీ అనువాద చరిత్ర మరియు ఫ్రేస్‌బుక్‌ను సమకాలీకరించవచ్చు."
+   },
+   "Settings_CP_Get": {
+      "message": "ఇతర మేట్ యాప్‌లు పొందండి"
+   },
+   "Settings_Close": {
+      "message": "మూసివేయండి"
+   },
+   "Settings_Contacts": {
+      "message": "ఇంకా"
+   },
+   "Settings_CtxMenu": {
+      "message": "సందర్భతో మెనూ"
+   },
+   "Settings_CtxMenuDesc": {
+      "message": "సందర్భ మెనూ (రైట్-క్లిక్) లో అనువాద బటన్‌ను చూపించు. వెబ్ పేజీల ఎంపిక చేసిన టెక్స్ట్ కోసం పని చేస్తుంది."
+   },
+   "Settings_DarkMode": {
+      "message": "అందమైన డార్క్ మోడ్"
+   },
+   "Settings_DarkModeDesc": {
+      "message": "మెయిట్ యొక్క సొగసైన డార్క్ మోడ్‌తో శక్తిని ఆదా చేయండి మరియు కంటి శ్రమను నివారించండి."
+   },
+   "Settings_DataEraseError": {
+      "message": "కొన్ని అనుకోని లోపం సంభవించింది, దయచేసి మళ్ళీ ప్రయత్నించండి!"
+   },
+   "Settings_DataErased": {
+      "message": "మీ సమస్త డేటా మెయిట్ సర్వర్ల నుండి తొలగించబడింది!"
+   },
+   "Settings_DestLang": {
+      "message": "గమ్యం భాష"
+   },
+   "Settings_Email": {
+      "message": "మాకు ఒక ఇమెయిల్ పంపండి"
+   },
+   "Settings_EnableSync": {
+      "message": "చరిత్ర మరియు వాక్యపుస్తకపు సమకాలీకరణను అందుబాటులో ఉంచండి"
+   },
+   "Settings_EraseConfirm": {
+      "message": "మీరు ఖచ్చితంగా చేయాలనుకుంటున్నారా? ఇది మీ సమకాలీకరించిన అనువాదాలు మరియు వాక్యపుస్తకాన్ని (స్థానిక డేటా ప్రభావితం కానివ్వబడదు). ఇది తిరిగి చేయబడదు."
+   },
+   "Settings_EraseData": {
+      "message": "నా సమస్త డేటాను తుడిచివేయండి"
+   },
+   "Settings_EraseDataDesc": {
+      "message": "GDPR ప్రకారం, మీరు మీ డేటాను మెయిట్ సర్వర్ల నుండి తొలగించమని అభ్యర్థించవచ్చు."
+   },
+   "Settings_FBShare": {
+      "message": "ఫేస్‌బుక్‌లో పంచు"
+   },
+   "Settings_Facebook": {
+      "message": "ఫేస్‌బుక్"
+   },
+   "Settings_HelpCenter": {
+      "message": "సహాయ కేంద్రం"
+   },
+   "Settings_Interface_Autocorrection": {
+      "message": "ఆటోకరెక్షన్"
+   },
+   "Settings_Interface_Autocorrection_Description": {
+      "message": "మెయిట్ తప్పుగా నిఖబడిన పదాలను ఆటోమేటిక్‌గా సరిచేయడం జరుగుతుంది."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "స్మార్ట్ అనువాదం"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "మీరు టైపింగ్ ముగింపు తరువాత మెయిట్ ఇన్‌పుట్‌ని అనువదిస్తుంది."
+   },
+   "Settings_Interface_Save": {
+      "message": "చివరి అనువాదం ఉంచుకోండి"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "మెయిట్ పాప్ అప్ లో చివరి చేసిన అనువాదాన్ని ఉంచుతుంది, కాబట్టి మీరు దీన్ని మళ్లీ తెరిచినప్పుడు అది అక్కడ ఉంటుంది."
+   },
+   "Settings_Interface_ShowIPA": {
+      "message": "ఫోనెటిక్ ట్రాన్స్క్రిప్షన్‌ను చూపించు"
+   },
+   "Settings_Interface_ShowIPA_Description": {
+      "message": "మెయిట్ అందించిన ఫోనెటిక్ ట్రాన్స్క్రిప్షన్‌ను ఉపయోగించి పదాలు మరియు పదబంధాలు ఎలా ఉచ్చరించాలో నేర్చుకోండి."
+   },
+   "Settings_Interface_ShowTranslit": {
+      "message": "ట్రాన్స్లిటరేషన్ చూపించు"
+   },
+   "Settings_Interface_ShowTranslit_Description": {
+      "message": "లాటిన్ అక్షర మాలికలు కాని కోసం, మెయిట్ మీరు వేగంగా చదివేందుకు అనువాదం యొక్క లాటిన్ ట్రాన్స్క్రిప్షన్‌ను చూపిస్తుంది."
+   },
+   "Settings_Legal": {
+      "message": "చట్టసంబంధ"
+   },
+   "Settings_Netflix": {
+      "message": "నెట్‌ఫ్లిక్ సబ్‌టైటిల్స్‌ను అనువదించండి"
+   },
+   "Settings_NetflixDesc": {
+      "message": "నెట్‌ఫ్లిక్ సబ్‌టైటిల్స్‌లోని పదాలపై క్లిక్ చేయండి మరియు అక్కడే అనువదించుకోండి."
+   },
+   "Settings_NetflixView": {
+      "message": "సేవ్ చేసిన పదాలను వీక్షించండి →"
+   },
+   "Settings_NewLine": {
+      "message": "కొత్త లైన్కి"
+   },
+   "Settings_Newsletter": {
+      "message": "న్యూస్ లెటర్"
+   },
+   "Settings_NoConsentPro": {
+      "message": "GDPR ప్రకారం, మీరు మా వాడుక నియమాలను అంగీకరిస్తే మాత్రమే మేము ప్రో వెర్షన్‌ కోసం ఛార్జ్ చేయగలము... మా నియమాలను అంగీకరించండి మరియు ఈ పేజీని రిఫ్రెష్ చేయండి ప్రోతో కొనసాగించ్డం కోసం."
+   },
+   "Settings_NoProSync": {
+      "message": "సమకాలీకరణను అందుబాటులో ఉంచడం ప్రో అప్‌గ్రేడ్ చేయండి"
+   },
+   "Settings_Or": {
+      "message": "లేదా"
+   },
+   "Settings_PopupShortcuts": {
+      "message": "పాప్-అప్‌లో షార్ట్‌కట్‌లు"
+   },
+   "Settings_PopupShortcutsDesc": {
+      "message": "చෙరువు యాలు ఫీల్డ్ లోని నుండి షార్ట్‌కుట్ తో టెక్స్ట్ ని అనువదించండి."
+   },
+   "Settings_PrefsTab": {
+      "message": "అభిరుచులు"
+   },
+   "Settings_PrivacyPolicy": {
+      "message": "గోప్యతా విధానం"
+   },
+   "Settings_ProActivated": {
+      "message": "మీరు సరిగా సెట్ చేశారు! ప్రో సక్రియము చేయబడింది."
+   },
+   "Settings_ProFeature8": {
+      "message": "నిబంధిత ఇమెయిల్ సపోర్ట్"
+   },
+   "Settings_ProFeature8_Desc": {
+      "message": "సపోర్ట్ ప్రో మాత్రమే జరుగుతుంది కాబట్టి మేము త్వరిగా మరియు లోతైన సమాధానాలతో కనెక్ట్ అవుతాము. \u003Cbr>ఉచిత వినియోగదారులు మా \u003Ca href=\"https://help.gikken.co/hc/\" target=\"_blank\">సహాయ కేంద్రం\u003C/a> లో సాధారణ సమాధానాలను కనుగొనవచ్చు."
+   },
+   "Settings_ProTab": {
+      "message": "ప్రో మరియు సింక్"
+   },
+   "Settings_Restore": {
+      "message": "కొనుగోలును పునరుద్ధరించండి"
+   },
+   "Settings_RevokeConsent": {
+      "message": "నేను నియమాలను అంగీకరించడం మానుకోలేదు"
+   },
+   "Settings_RevokeConsentDesc": {
+      "message": "మీరు మా గోప్యతా విధానం లేదా వాడుక నియమాలను ఇకపై అంగీకరించకుంటే, మీరు మీ గత సమ్మతిని వెనక్కి తీసుకోవచ్చు. అయితే, మీరు మెయిట్ ని ఇక ఉపయోగించలేరు."
+   },
+   "Settings_Share": {
+      "message": "మీ స్నేహితులకు మెయిట్ గురించి చెప్పండి"
+   },
+   "Settings_ShareDesc": {
+      "message": "వారికి ఒక లింక్ పంపండి లేదా సామాజిక మీడియా లో పంచుకోండి. ఇది మాకు మద్దతుగా చాలా దూరం వెళ్లుతుంది!"
+   },
+   "Settings_ShareText": {
+      "message": "మెయిట్ - {{platform}}, Mac, iPhone మరియు iPad కోసం అత్యంత స్నేహపూర్వక, వేగవంతమైన, మరియు గోప్యతా-స Hv థాధిక ఆప్లికేషన్ అనువాదకుడు."
+   },
+   "Settings_ShortcutClick": {
+      "message": "ఈ ఫీల్డుపై క్లిక్ చేసి తర్వాత కావాలిసిన షార్ట్‌కుట్ నొక్కండి..."
+   },
+   "Settings_ShortcutMain": {
+      "message": "ప్రధాన షార్ట్‌కట్"
+   },
+   "Settings_ShortcutSuppl": {
+      "message": "పరిపూరక షార్ట్‌కట్"
+   },
+   "Settings_SignOut": {
+      "message": "సైన్ అవుట్"
+   },
+   "Settings_SourceLang": {
+      "message": "మూలం భాష"
+   },
+   "Settings_StayInTouch": {
+      "message": "మమ్మల్ని సంప్రదించండి"
+   },
+   "Settings_SyncText": {
+      "message": "మీ ప్రో ఖాతా, అనువాదాలు మరియు పదకోశం అన్ని పరికరాల్లో సమకాలీకరించండి."
+   },
+   "Settings_TWShare": {
+      "message": "ట్విట్టర్‌లో పంచుకోండి"
+   },
+   "Settings_ToS": {
+      "message": "వినియోగ నిబంధనలు"
+   },
+   "Settings_ToTranslate": {
+      "message": "అనువాదానికి"
+   },
+   "Settings_Tooltip": {
+      "message": "సూచనాపటం పరిమాణం"
+   },
+   "Settings_TooltipBig": {
+      "message": "పెద్ద"
+   },
+   "Settings_TooltipDesc": {
+      "message": "వెబ్ పేజీలపై అనువాదాలు ప్రదర్శించే సూచనాపటం ఎంత పెద్దదిగా ఉండాలో."
+   },
+   "Settings_TooltipMedium": {
+      "message": "మధ్యస్థ"
+   },
+   "Settings_TooltipSmall": {
+      "message": "చిన్న"
+   },
+   "Settings_TranslateSelection": {
+      "message": "అనువదించడానికి ఎంచుకోండి"
+   },
+   "Settings_TranslateSelectionDesc": {
+      "message": "వెబ్ పేజీలపై ఎంచుకున్న పాఠ్యంతో పాటు అనువాద బటన్‌ను చూపించండి."
+   },
+   "Settings_Translation_History": {
+      "message": "అనువాదాల చరిత్ర"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "ఎప్పుడైనా వాటిని బ్రౌజ్ చేసేందుకు అన్ని అనువాదాలను సేవ్ చేయండి."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "పేజీపై"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "ఏ పేజీలోనైనా (PDF ఫైళ్ల మినహా) పాఠ్యాన్ని ఎంచుకోండి, షార్ట్‌కట్‌ను నొక్కండి, ముందు నిరోధం లేని పాప్-అప్ విండోలో తక్షణమే అనువాదాన్ని పొందండి."
+   },
+   "Settings_Twitter": {
+      "message": "ట్విట్టర్"
+   },
+   "Settings_UsageDesc": {
+      "message": "మీరు నెలరోజుకి 500 సార్లకంటే ఎక్కువ అనువాదాలు చేస్తే ప్రోకు అప్‌గ్రేడ్ చేయాలని మేము సిఫార్సు చేస్తాము. ఇది మా సర్వర్ సైడ్‌ని నిర్వహించడంలో మాకు సహాయపడుతుంది.\u003Cbr>\u003Cbr>అందువల్ల, మేము వేగవంతమైన అనువాద వేగాన్ని హామీ ఇవ్వగలము."
+   },
+   "Settings_Website": {
+      "message": "వెబ్‌సైట్"
+   },
+   "Settings_YouAreSignedIn": {
+      "message": "మీరు సైన్ ఇన్ అయ్యారు అని"
+   },
+   "Settings_YouPro": {
+      "message": "మీరు ప్రో వెర్షన్ కలిగి ఉన్నారు!"
+   },
+   "Settings_YouUsed": {
+      "message": "మీరు ఉపయోగించారు"
+   },
+   "ShareOnVK": {
+      "message": "vkలో పంచుకోండి"
+   },
+   "ShareViaEmail": {
+      "message": "ఇమెయిల్ ద్వారా పంచుకోండి"
+   },
+   "SignUp_Name": {
+      "message": "పేరు (ఐచ్ఛికం)"
+   },
+   "SignUp_Password": {
+      "message": "పాస్‌వర్డ్ (కనీసం 8 అక్షరాలు)"
+   },
+   "Sponsorship_Bar": {
+      "message": "మేట్ ఏకౌంట్ తో సురక్షితంగా ఉండండి"
+   },
+   "Sponsorship_DismissPro": {
+      "message": "ప్రో అప్‌డేట్ చేయమని అడ్స్ చూపడం అక్టివేట్ చేయండి."
+   },
+   "Sub_48hNotificationBodyAnnual": {
+      "message": "త్వరలో మీ Mate Pro వార్షిక సబ్‌స్క్రిప్షన్ కోసం మేము {{amount}} బిల్లు చేస్తాము."
+   },
+   "Sub_48hNotificationBodyMonthly": {
+      "message": "త్వరలో మీ Mate Pro నెలవారీ సబ్‌స్క్రిప్షన్ కోసం మేము {{amount}} బిల్లు చేస్తాము."
+   },
+   "Sub_48hNotificationLabel": {
+      "message": "\u003Cb>రిస్క్-రహితంగా.\u003C/b> మొదటి బిల్లింగ్‌కు 48 గంటలు ముందు మేము మీకు రిమైండర్ పంపుతాము."
+   },
+   "Sub_48hNotificationTitle": {
+      "message": "మీ Mate ట్రయల్ ఎలా ఉంది?"
+   },
+   "Sub_ApplyForStudentDiscount": {
+      "message": "విద్యార్థి రాయితీ"
+   },
+   "Sub_Cancel": {
+      "message": "సబ్‌స్క్రిప్షన్ రద్దు చేయండి"
+   },
+   "Sub_ChangePaymentMethod": {
+      "message": "చెల్లింపు పద్ధతిని మార్చండి"
+   },
+   "Sub_ComingSoon": {
+      "message": "త్వరలో రానుంది"
+   },
+   "Sub_CouldNotGetPayLink": {
+      "message": "చెల్లింపు లింక్‌ను పొందలేకపోయాము. దయచేసి తరువాత మళ్లీ ప్రయత్నించండి లేదా support@matetranslate.com వద్ద మాకు సంప్రదించండి"
+   },
+   "Sub_CrossPlatformProComingSoon": {
+      "message": "Mate Pro క్రాస్-ప్లాట్‌ఫారమ్‌గా చేయడం కోసం మేము చాలా కష్టపడి పనిచేస్తున్నాం.\n\nమీరు ఇప్పుడే Mate Pro ని అన్ని బ్రౌజర్ ఎక్స్‌టెన్షన్లలో ఆనందించండి గాను మీరు ప్రతి పరికరంలో ఒకే Mate ఖాతాతో సైన్ ఇన్ చేస్తారు. అయితే, iOS మరియు మాక్ యాప్‌లు ముందుగానే Apple's App Storesలో అమ్ముతాయి.\n\nతాత్కాలిక పరిష్కారంగా, hello@gikken.co కు ఒక ఇమెయిల్ పంపండి మరియు Mate Pro సబ్‌స్క్రిప్షన్ తీసుకున్నపుడు పవాఖ్డుని జోడించండి — మేము మీకు ఈ యాప్‌లు ఉచితంగా పొందడంలో సహాయపడతాము.\n\nతాత్కాలిక అసౌకర్యం విషయంలో మేము ఆఢంబరంగా క్షమాపణలు తెలియజేస్తున్నాము."
+   },
+   "Sub_DueAfterTrial": {
+      "message": "పరీక్షానంతరం \u003Cspan class=\"price-due\">\u003C/span>"
+   },
+   "Sub_FAQ": {
+      "message": "తరచుగా అడిగే ప్రశ్నలు"
+   },
+   "Sub_FinishCreatingAccount": {
+      "message": "ఖాతా సృష్టించడం ముగించండి"
+   },
+   "Sub_FreeTrialVerificationCharge": {
+      "message": "మీరు క్రెడిట్ కార్డ్ ధృవీకరణ కోసం Paddle ద్వారా $1 ఛార్జ్ చేయబడవచ్చు. అదేసమయంలో ఇది రిఫండ్ చేయబడుతుంది. ట్రయల్ ఉచితం."
+   },
+   "Sub_LegacyUsersDisclaimer": {
+      "message": "Mate Pro ఇప్పుడు కొత్త వినియోగదారులకు సబ్‌స్క్రిప్షన్ ఆధారితంగా ఉంది. మీరు మార్పు ముందర సబ్‌స్క్రిప్షన్ కొనుకున్నందున, మీరు అదనపు ఖర్చు లేకుండా ఎల్లప్పుడూ దాన్ని కనుక్కొంటారు! మా ప్రారంభ దశలో మాకు మద్దతివ్వడం కోసం ధన్యవాదాలు \u003C3"
+   },
+   "Sub_Month": {
+      "message": "మాసం"
+   },
+   "Sub_MoreInlineInfo": {
+      "message": "మరింత సమాచారం తెలుసుకోండి"
+   },
+   "Sub_NextBilling": {
+      "message": "తరువాత బిల్లింగ్: {{next_amount_billed}} లో {{next_billing_date}}"
+   },
+   "Sub_NoNotifPermissionAlert": {
+      "message": "నోటిఫికేషన్లకు అనుమతి లేకుండా, మొదటి బిల్లింగ్ గురించి నోటిఫికేషన్లు పంపలేము... మీరు ఎప్పుడైనా సేఇంగ్స్ లో అది ఎప్పుడు జరుగుతుందో చూడవచ్చు."
+   },
+   "Sub_PleaseCreateAccount": {
+      "message": "ఇప్పుడు, మీ Mate ఖాతాను సృష్టించడం పూర్తి చేయండి, మేము మీ సబ్‌స్క్రిప్షన్‌ను ధృవీకరించాలనుకుంటున్నాం. ఇది ఒక నిమిషం కంటే ఎక్కువ సమయం పట్టదు!"
+   },
+   "Sub_PleaseSignBackIn": {
+      "message": "తరువాత sign back in చేయండి మీ Mate ఖాతా \u003Cb>{{email}}\u003C/b> తో మార్పిడి‌తో.\u003Cbr>లేదంటే మేము మీ సబ్‌స్క్రిప్షన్‌ను ధృవీకరించలేంలేదు."
+   },
+   "Sub_ProStatusForLegacyUsers": {
+      "message": "మీకు Mate Pro పట్ల పరిమితులేని, సంతోషజీవితపు ప్రాప్యం ఉంది"
+   },
+   "Sub_PurchasedBefore": {
+      "message": "మునుపెప్పుడైనా ప్రో కొనుక్కొన్నారా?"
+   },
+   "Sub_Resubscribe": {
+      "message": "మళ్ళీ సబ్‌స్క్రైబ్ చేయండి"
+   },
+   "Sub_Savings": {
+      "message": "{{savings}}% ఉంచండి"
+   },
+   "Sub_ScrewSubscription": {
+      "message": "సబ్‌స్క్రైబ్ చేయదలచుకుంటున్నారా?"
+   },
+   "Sub_StatusFetchError": {
+      "message": "మీ సబ్‌స్క్రిప్షన్ స్థితిని తెచ్చుకోలేకపోయాము."
+   },
+   "Sub_StatusFetchTryAgain": {
+      "message": "మళ్ళీ ప్రయత్నించండి"
+   },
+   "Sub_SubscribeNow": {
+      "message": "ఇప్పుడే సబ్‌స్క్రైబ్ చేయండి"
+   },
+   "Sub_TryFreeCTA": {
+      "message": "\u003Cspan class=\"trial-days\">\u003C/span> రోజులకు ఉచితంగా ప్రయత్నించండి"
+   },
+   "Sub_WhenCancelled": {
+      "message": "మీరు మీ సబ్‌స్క్రిప్షన్ రద్దు చేసుకున్నారు కానీ {{sub_ends_on}} వరకు Mate Pro గురించి మీరు చేరుకోవడం కొనసాగి పుందారు. ఆ తదుపరి ప్రోను ఉపయోగించాలంటే, మీరు మళ్ళీ సబ్‌స్క్రైబ్ చేయవచ్చు."
+   },
+   "Sub_WhenTrialing": {
+      "message": "మీ ట్రయల్ {{next_billing_date}} తో ముగియటం, మీరు బిల్లయ్యే రేటు {{next_amount_billed}}"
+   },
+   "Sub_Year": {
+      "message": "సంవత్సరం"
+   },
+   "Sub_YouAreAlmostInTheFamily": {
+      "message": "మీరు (దాదాపుగా) Mate Pro కాండానికి చెందినవారుగా ఉన్నారు!"
+   },
+   "Sub_YouAreInTheFamily": {
+      "message": "మీరు Mate Pro కాండానికి చెందినవారుగా ఉన్నారు!"
+   },
+   "Sync_FailedError": {
+      "message": "సమకాలీకరించలేకపోయాము. లోపం సంభవించింది."
+   },
+   "Sync_NetworkError": {
+      "message": "ఇంటర్నెట్ కనెక్షన్ లేదు అన్నట్లు ఉంది. ఇంటర్నెట్‌కి కనెక్ట్ అవండి మరియు మళ్లీ సమకాలీకరించడానికి ప్రయత్నించండి."
+   },
+   "Sync_NoItemsError": {
+      "message": "సమకాలీకరించడానికి అంశాలు లేవు."
+   },
+   "Sync_NotSignedInError": {
+      "message": "మీ చరిత్ర మరియు పదకోశాన్ని సమకాలీకరించడానికి మీరు సైన్ ఇన్ అవ్వాలి."
+   },
+   "TD_AddPB": {
+      "message": "పదకోశంలో చేర్చండి"
+   },
+   "TD_Copy": {
+      "message": "కాపీ చేయండి"
+   },
+   "TD_Create": {
+      "message": "కొత్త పదాల జాబితా సృష్టించండి..."
+   },
+   "TD_NoWordlists": {
+      "message": "పదాల జాబితాలు లేవు"
+   },
+   "There_Is_Localised_Site": {
+      "message": "సైటు స్థానికీకృత వెర్షన్‌ను తనిఖీ చేయండి"
+   },
+   "There_Is_Localised_Site_Desc": {
+      "message": "ఈ వెబ్‌సైట్ యొక్క స్థానికీకృత వెర్షన్ ఉంది"
+   },
+   "Tooltip_DisableDoubleClick": {
+      "message": "డబుల్-క్లిక్‌పై అనువదించవద్దు"
+   },
+   "Tooltip_DisableDoubleClickDesc": {
+      "message": "మీరు మళ్లీ పదం మీద డబుల్-క్లిక్ చేసినప్పుడు మీకు ఒక అనువాద విండో కనిపించదు."
+   },
+   "Tooltip_DisableSelection": {
+      "message": "తేలియాడే బటన్‌ను చూపించవద్దు"
+   },
+   "Tooltip_DisableSelectionDesc": {
+      "message": "మీరు మళ్లీ పాఠ్యాన్ని ఎంచుకున్నప్పుడు మీరు తేలియాడే అనువాద బటన్‌ను చూడరు."
+   },
+   "Tooltip_InlineOptionDisabled": {
+      "message": "మీరు దానిని సెట్టింగ్స్‌లో మళ్లీ వేగవంతం చేయవచ్చు"
+   },
+   "Tour_Agree": {
+      "message": "మా \u003Cb>వినియోగ నిబంధనలు\u003C/b> మరియు \u003Cb>గోప్యతా విధానం\u003C/b>తో అంగీకరించడానికి క్రింద ఉన్న బటన్‌పై క్లిక్ చేయండి మరియు మేట్‌తో అనువాదం చేయడం ప్రారంభించండి."
+   },
+   "Tour_AutoFPOption": {
+      "message": "వెబ్‌సైట్‌లను అనువదించడం సలహా ఇవ్వండి"
+   },
+   "Tour_DoubleClick": {
+      "message": "డబుల్-క్లిక్ అనువాదం"
+   },
+   "Tour_DoubleClickDesc": {
+      "message": "వెబ్ పేజీలపై తక్షణ అనువాదాన్ని చూడటానికి ఏ పదాన్నైనా డబుల్-క్లిక్ చేయండి."
+   },
+   "Tour_DoubleClickOption": {
+      "message": "డబుల్-క్లిక్‌తో అనువదించండి"
+   },
+   "Tour_GotIt": {
+      "message": "ప్రారంభించు"
+   },
+   "Tour_HowToContext": {
+      "message": "లేదా ఏ పాఠ్యాన్ని ఎంచుకోండి మరియు అనువాదాన్ని చూడటానికి కాంటెక్స్‌ట్ మెను (కుడి క్లిక్) ను ఉపయోగించండి."
+   },
+   "Tour_HowToPopUp": {
+      "message": "మీరు మీకు స్వయంగా కొన్ని పదాలను టైప్ చేయడానికి అవసరమైతే, మీ బ్రౌజర్ అడ్రెస్ బార్ సమీపంలో ఉన్న మేట్ బటన్ పై క్లిక్ చేసి పాప్-అప్ విండోను తెరవండి."
+   },
+   "Tour_HowToSelect": {
+      "message": "ఏదైనా వెబ్‌పేజీలో ఏ పదం లేదా పాఠ్యాన్ని ఎంచుకోండి మరియు షిఫ్ట్+T నొక్కండి, అది అనువదించబడుతుంది."
+   },
+   "Tour_HowToUse": {
+      "message": "ఎలా ఉపయోగించాలి?"
+   },
+   "Tour_Important": {
+      "message": "ఇది చాలా ముఖ్యమైనది!"
+   },
+   "Tour_ImportantSub": {
+      "message": "ఈ పৃষ্ঠা \u003Cb>Mate Translate\u003C/b> ను ఎలా ఉపయోగించాలో చూపిస్తుంది"
+   },
+   "Tour_ImportantText": {
+      "message": "ఇదంతా చూడడానికి కేవలం 40 సెకన్లు పడతాయి"
+   },
+   "Tour_Langs": {
+      "message": "మీరు ఏ భాషకు అనువదించుకోవాలనుకుంటున్నారు?"
+   },
+   "Tour_LangsDesc": {
+      "message": "మీరు అనువదించాలనుకుంటున్న భాషను ఎంచుకోండి:"
+   },
+   "Tour_LangsSupported": {
+      "message": "అనుకూల భాషలను చూడండి"
+   },
+   "Tour_MacUser": {
+      "message": "నేను Mate ను Mac లో ఉపయోగించాను"
+   },
+   "Tour_NoShiftT": {
+      "message": "\u003C%=browser%>లోని కొన్నిటి సాంకేతిక పరిమితుల కారణంగా Mate ఈ పేజీ మరియు PDF ఫైళ్లలోని ఎంపిక చేసిన పాఠ్యాన్ని అనువదించలేము.\u003Cbr>\u003Cbr>దానికి బదులుగా \u003Ca href='https://reji.me' target='_blank'>ఈ పేజీ\u003C/a>పై ప్రయత్నించండి."
+   },
+   "Tour_PDF": {
+      "message": "PDFల్లో అనువదిస్తుంది"
+   },
+   "Tour_PDFDesc": {
+      "message": "Chrome లో PDF ఫైళ్లలో పాఠ్యాన్ని ఎంచుకోండి, రైట్-క్లిక్ చేసి దానిని అనువదించండి."
+   },
+   "Tour_PDFNote": {
+      "message": "తేలియాడే బటన్ మరియు Shift+T అనువాదాలు PDF లలో పని చేయవు, సాంకేతిక పరిమితుల వల్ల."
+   },
+   "Tour_Pages": {
+      "message": "మొత్తం వెబ్ పేజీలను అనువదించండి"
+   },
+   "Tour_PagesDesc": {
+      "message": "మీ భాషలో అన్ని వెబ్‌సైట్లు. స్వయంచాలకంగా."
+   },
+   "Tour_Phrasebook": {
+      "message": "మీ వ్యక్తిగత పదకోశాన్ని ఉంచుకోండి"
+   },
+   "Tour_PhrasebookCreate": {
+      "message": "నా మొదటి పద జాబితాను సృష్టించు"
+   },
+   "Tour_PhrasebookDesc": {
+      "message": "మీరు గుర్తుపెట్టుకోవాలనుకున్న పదాలను Mate Phrasebook లో సేవ్ చేయండి.\u003Cbr>మీ మార్గం పదకోశాన్ని ఒక చోట ఉంచుకోండి!"
+   },
+   "Tour_PhrasebookFeature": {
+      "message": "మీరు గుర్తుపెట్టుకోవాలనుకున్న పదాలను ఒకే చోట ఉంచుకోండి!"
+   },
+   "Tour_PhrasebookLaunch": {
+      "message": "పదకోశాన్ని ప్రారంభించు"
+   },
+   "Tour_PinExtension": {
+      "message": "మేట్‌ను పిన్ చేయండి"
+   },
+   "Tour_PinExtensionDesc": {
+      "message": "అడ్రసు బార్ నుండి మేట్‌కు త్వరితమైన ప్రాప్యత కలిగి ఉండండి."
+   },
+   "Tour_ProCTA": {
+      "message": "ఇప్పుడు \u003Cb>Mate Pro\u003C/b>కి అప్‌గ్రేడ్ చేయడం ద్వారా ఈ అద్భుతమైన ఫీచర్‌లను కూడా అన్‌లాక్ చేయండి:"
+   },
+   "Tour_ProFeature2": {
+      "message": "మాటల అనువాదం"
+   },
+   "Tour_ProFeature3": {
+      "message": "అనంతమైన షార్ట్‌కట్స్"
+   },
+   "Tour_ProFeature4": {
+      "message": "ఫ్రేస్‌బుక్ + నిరంతర సింక్"
+   },
+   "Tour_ProFeature7": {
+      "message": "చరిత్ర మరియు పదకోశాన్ని CSVగా ఎగుమతి చేయండి"
+   },
+   "Tour_ProUpgradedSuccessfully": {
+      "message": "ఈ పేజీని మూసివేశి, భాషా అవరోధాలు లేకుండా వెబ్‌లో విహరించడం ప్రారంభించండి!"
+   },
+   "Tour_Ready": {
+      "message": "మేము \u003Ca href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\" target=\"_blank\">GDPR\u003C/a> ను పాటిస్తున్నాము!"
+   },
+   "Tour_SafariGet": {
+      "message": "Mate ను $price$కి పొందండి",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Tour_SelectAndTranslate": {
+      "message": "ఎంపిక చేసి అనువదించండి"
+   },
+   "Tour_Selected": {
+      "message": "వెబ్‌సైట్లపై టెక్స్ట్‌ను అనువదించండి"
+   },
+   "Tour_SelectedDesc": {
+      "message": "డబుల్ క్లిక్ చేయండి, అనువదించడానికి ఎంచుకోండి, లేదా Shift+T ఒత్తండి."
+   },
+   "Tour_ShortcutsFeature": {
+      "message": "వెబ్ పేజీలపై అనువదించడానికి వివిధ భాషల కోసం మీరు అవసరం గలన్ని షార్ట్‌కట్‌లను సృష్టించవచ్చు (ఉచితం వర్షన్‌లో ఒక్కటి వర్సస్)."
+   },
+   "Tour_Start": {
+      "message": "ఉచితంగా ప్రారంభించండి"
+   },
+   "Tour_Sync": {
+      "message": "మొత్తం పరికరాల్లో డేటాను సమకాలీకరించండి"
+   },
+   "Tour_SyncDesc": {
+      "message": "మీ అనువాద చరిత్ర మరియు పదకోశం మీరు Mate ఉపయోగిస్తున్న అన్ని పరికరాల్లో సమకాలీకరించబడుతుంది."
+   },
+   "Tour_SyncSignIn": {
+      "message": "సమకాలీకరించడానికి సైన్ ఇన్ చేయండి"
+   },
+   "Tour_Title": {
+      "message": "Mate Translateకు స్వాగతం"
+   },
+   "Tour_TranslationsFeature": {
+      "message": "మీకు ఎప్పుడైనా అవసరం ఉన్నప్పుడు అనేక సార్లు అనువదించండి."
+   },
+   "Tour_UhHuh": {
+      "message": "అవును!"
+   },
+   "Tour_Unlock": {
+      "message": "మేట్ ప్రో"
+   },
+   "Tour_UnlockDesc": {
+      "message": "అన్ని ప్రీమియం ఫీచర్లను పొందండి మరియు ప్రకటనలను చూడవద్దు."
+   },
+   "Window_AntiWarBanner": {
+      "message": "🇺🇦 రష్యా యుద్ధం, యూరోపియన్ ప్రజాస్వామ్యం పై మేము వ్యతిరేకంగా ఉన్నాము 🇺🇦"
+   },
+   "Window_CannotTranslatePDF": {
+      "message": "PDF ఫైళ్లలో ఎంపిక చేసిన పాఠ్యాన్ని మేము అనువదించలేం. {{browser}} యొక్క సాంకేతిక పరిమితులు..."
+   },
+   "Window_CannotTranslatePDFChrome": {
+      "message": "PDF ఫైళ్లలో ఎంపిక చేసిన పాఠ్యాన్ని అనువదించడానికి దయచేసి సందర్భోచిత మెనూను ఉపయోగించండి. Chrome యొక్క సాంకేతిక పరిమితులు..."
+   },
+   "Window_Content_AllLang": {
+      "message": "అన్ని"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "ఇటీవల వాడినవి"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "అనువాదం చేస్తోంది ..."
+   },
+   "Window_DoYouKnowSomeone": {
+      "message": "Mate Translate మీకు ఉపయోగకరం అని ఎవరో తెలుసా?"
+   },
+   "Window_DoYouLike": {
+      "message": "Mate మీకు ఇష్టమా?"
+   },
+   "Window_DoYouLikeDesc": {
+      "message": "ఏదైతే మెరుగుదల అవసరం లేదా Mate మీకు చాలాకావాలా?"
+   },
+   "Window_DontAutocorrect": {
+      "message": "ఆటోకరెక్ట్ చేయ వద్దు"
+   },
+   "Window_Improve": {
+      "message": "ఇది మెరుగుదల అవసరం"
+   },
+   "Window_LearnMoreAboutPro": {
+      "message": "ప్రో గురించి మరింత తెలుసుకోండి"
+   },
+   "Window_Love": {
+      "message": "నాకు ఇది ఇష్టమైంది"
+   },
+   "Window_MateFreeDesc": {
+      "message": "పుటాది వర్షన్‌ని అప్‌డేట్ చేయడానికి మీకు ప్రో వర్షన్‌లో చేరాలి."
+   },
+   "Window_MateProDesc": {
+      "message": "చరిత్ర మరియు పదకోశం యొక్క సమకాలీకరణను ప్రారంభించడానికి మీరు సైన్ అప్ చేయాలి."
+   },
+   "Window_Mw_LaterButton": {
+      "message": "తర్వాత గుర్తు చేయు"
+   },
+   "Window_Mw_NeverButton": {
+      "message": "మరలా గుర్తు చేయ వద్దు"
+   },
+   "Window_Mw_NotChromeNotNow": {
+      "message": "ఇప్పుడు కాదు"
+   },
+   "Window_Mw_RateButton": {
+      "message": "ఇప్పుడు రేట్ చేయండి"
+   },
+   "Window_Mw_RateDesc": {
+      "message": "App Store లో మీ సమీక్షను చూసి మేము సంతోషిస్తాము! ఒక నిమిషంలో పూర్తి చేయవచ్చు. మీ సమీక్షలతో మా అనువాద ఇంజిన్‌ను కొనసాగించండి!"
+   },
+   "Window_Mw_RateTitle": {
+      "message": "మీ Mateను రేట్ చేయండి"
+   },
+   "Window_Mw_UpgradeButton": {
+      "message": "$price$కి మెరుగుదల చేయండి",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Window_NetflixFeatureDesc": {
+      "message": "నెట్‌ఫ్లిక్స్ చూస్తున్నప్పుడు పదాలను తర్జుమా చేసి తెలుసుకోండి. అనువాదాన్ని చూడడానికి మరియు తర్వాత కోసం సేవ్ చేసుకోవడానికి ఉపశీర్షికలలోని పదంపై క్లిక్ చేయండి."
+   },
+   "Window_NewFeature": {
+      "message": "కొత్త ఫీచర్!"
+   },
+   "Window_No": {
+      "message": "లేదు"
+   },
+   "Window_Offline": {
+      "message": "ఇంటర్నెట్ కనెక్షన్ లేదు"
+   },
+   "Window_OfflineDesc": {
+      "message": "కాబట్టి కొత్త పదాలను అనువదించలేరు"
+   },
+   "Window_Pro": {
+      "message": "గుర్తుతెస్తూ, సాఫీగా అనువాద అనుభవం కోసం మేట్ ప్రోని అనుభవించండి!"
+   },
+   "Window_ProBannerAds": {
+      "message": "మరిన్ని విధనాలను అన్‌లాక్ చేయడానికి ప్రో అప్‌డేట్ చేయండి."
+   },
+   "Window_QuickQuestion": {
+      "message": "ఒక శీఘ్ర ప్రశ్న..."
+   },
+   "Window_RateUsDesc": {
+      "message": "మీరు మీ అమూల్యమైన నిమిషాన్ని కేటాయించి యాప్ స్టోర్‌లో మాకు రేటింగ్ ఇవ్వగలరా? ఇది మాకు సహాయం చేయడంలో ఎంతో ఉపయోగపడుతుంది."
+   },
+   "Window_ReadMore": {
+      "message": "మరింత చదవండి"
+   },
+   "Window_SendFeedback": {
+      "message": "మాకు ఫీడ్‌బ్యాక్ పంపండి"
+   },
+   "Window_SendFeedbackDesc": {
+      "message": "మేము మేట్‌ను ఇంకా మెరుగుగా మార్చేందుకు మీ సూచనలు రాయండి."
+   },
+   "Window_Share": {
+      "message": "మేట్‌ను పంచుకోండి"
+   },
+   "Window_ShareDesc": {
+      "message": "మేట్ గురించి ఇతరులకు చెప్పడం ద్వారా మాకు సహాయం చేయవలసినదిగా మేము కోరుకుంటున్నాము!"
+   },
+   "Window_Shortcut": {
+      "message": "ఈ విండోను త్వరగా తెరవడానికి Ctrl+T నొక్కండి."
+   },
+   "Window_TranslationCopied": {
+      "message": "అనువాదం నకలుగా కాపాడబడింది!"
+   },
+   "Window_UnpinPro": {
+      "message": "మేట్ విండోని అన్‌పిన్ చేయడానికి ప్రో అప్‌డేట్ చేయండి."
+   },
+   "Window_WriteUs": {
+      "message": "మాకి ఇమెయిల్ రాయండి"
+   },
+   "Window_Yes": {
+      "message": "అవును"
+   }
+}

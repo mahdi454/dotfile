@@ -1,0 +1,1739 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Vifupisho"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Vivumishi"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Vihusishi"
+   },
+   "CommonUi_LangPart_Auxiliaryverb": {
+      "message": "Vitenzi Msaidizi"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Viunganishi"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Vihirizo"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Majina"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Misemo"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Virai"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Vimilikishi"
+   },
+   "CommonUi_LangPart_Suffix": {
+      "message": "Kiambishi Tamati"
+   },
+   "CommonUi_LangPart_Transliteration": {
+      "message": "Matamshi"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Vitenzi"
+   },
+   "CommonUi_NoResults": {
+      "message": "Hakuna matokeo"
+   },
+   "Common_Copied": {
+      "message": "Imenakiliwa!"
+   },
+   "ContextMenu_FullPage": {
+      "message": "Tafsiri ukurasa huu kwa \u003C%=lang%>"
+   },
+   "Csv_FromLang": {
+      "message": "KUTOKA LUGHA"
+   },
+   "Csv_Input": {
+      "message": "INGIZO"
+   },
+   "Csv_IntoLang": {
+      "message": "KWENDA LUGHA"
+   },
+   "Csv_Synonyms": {
+      "message": "VISAWE"
+   },
+   "Csv_TimeDate": {
+      "message": "MUDA/TAREHE"
+   },
+   "Csv_Translation": {
+      "message": "TAFSIRI"
+   },
+   "Csv_Transliteration": {
+      "message": "MATAMSHI"
+   },
+   "Csv_WhereTranslated": {
+      "message": "MAHALI ILIPOTAFSIRIWA"
+   },
+   "Dict_DictionaryTab": {
+      "message": "Kamusi"
+   },
+   "Dict_NotFoundCaption": {
+      "message": "Samahani — tunafanya kazi kwa bidii ili kuipanua Kamusi yetu"
+   },
+   "Dict_NotFoundTitle": {
+      "message": "Hatukuweza kupata ufafanuzi"
+   },
+   "Dict_UpgradeToPro": {
+      "message": "Boresha hadi Pro kwa ufafanuzi"
+   },
+   "DotsButton_Added": {
+      "message": "Imeongezwa kwa \u003C%=wl%>"
+   },
+   "DotsButton_Copied": {
+      "message": "Tafsiri imenakiliwa"
+   },
+   "DotsButton_OrigCopied": {
+      "message": "Mato halisi yamenakiliwa"
+   },
+   "FullPage": {
+      "message": "Tafsiri ya ukurasa mzima"
+   },
+   "FullPageDesc": {
+      "message": "Onyesha ikoni ya Mate kwenye kona ya juu kulia, ikiwa ukurasa wa wavuti uko kwenye lugha ya kigeni. Bonyeza ikoni ili kutafsiri ukurasa kwa lugha yako."
+   },
+   "FullPageShowOriginal": {
+      "message": "Onyesha asili"
+   },
+   "FullPageTranslate": {
+      "message": "Tafsiri"
+   },
+   "FullPageTranslatedTo": {
+      "message": "Tafsiriwa kwa"
+   },
+   "FullPage_AlwaysTranslate": {
+      "message": "Tafsiri kila mara {{page_lang_beautiful}} kwa {{target_lang_beautiful}}"
+   },
+   "FullPage_ChangeLanguage": {
+      "message": "Badilisha lugha"
+   },
+   "FullPage_ContextMenuOption": {
+      "message": "Fungua tafsiri ya ukurasa kamili"
+   },
+   "FullPage_CurrentPageLang": {
+      "message": "Ukurasa huu uko katika {{page_lang_beautiful}}"
+   },
+   "FullPage_NeverTranslate": {
+      "message": "Usitafsiri kamwe {{page_lang_beautiful}}"
+   },
+   "FullPage_SwitchBackTo": {
+      "message": "Rudi tena kwa {{language}}"
+   },
+   "FullPage_TranslateTo": {
+      "message": "Tafsiri kwa {{target_lang_beautiful}}"
+   },
+   "FullPage_WeTranslatedIt": {
+      "message": "Tumefasiri ukurasa huu kwa {{language}}"
+   },
+   "History_AnotherDevice": {
+      "message": "Kwenye kifaa kingine"
+   },
+   "History_Content_GoUpButton": {
+      "message": "Panda juu"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "Historia ya tafsiri zako zitakuwepo hapa"
+   },
+   "History_Export_OnlyProDesc": {
+      "message": "Boresha hadi toleo la Pro ili kusafirisha historia yako ya tafsiri kwenye faili la CSV"
+   },
+   "History_FullyBlockedOut": {
+      "message": "Boresha hadi Pro ili kupata ufikiaji usio na kikomo wa historia ya tafsiri."
+   },
+   "History_InPopup": {
+      "message": "Katika kijisanduku"
+   },
+   "History_Options_DeleteMarked_1": {
+      "message": "Futa"
+   },
+   "History_Options_DeleteMarked_2": {
+      "message": "iliyowekwa alama"
+   },
+   "History_Options_SelectToDelete": {
+      "message": "weka alama ili kufuta"
+   },
+   "History_Options_SelectToDelete_MarkAll": {
+      "message": "Weka alama zote"
+   },
+   "History_Options_SelectToDelete_UnmarkAll": {
+      "message": "Ondoa alama zote"
+   },
+   "Human_OrderButton": {
+      "message": "Tafsiri na mtaalamu"
+   },
+   "IDB_Error": {
+      "message": "Kivinjari chako kimelemaza Indexed DB"
+   },
+   "IDB_ErrorDesc": {
+      "message": "Mate Translate inahitaji Indexed DB (hifadhi ya ndani ambapo tunahifadhi tafsiri zako zote na daftari la misemo) iwe imewezeshwa kufanya kazi kwa uwezo kamili.\u003Cbr>\u003Cbr>Kivinjari chako kinaonekana kuwa katika Hali ya Kubinafsi ambayo huongeza Indexed DB (ni bug ya Firefox \u003Ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=781982\" target=\"_blank\">bug #781982\u003C/a>).\u003Cbr>\u003Cbr>Unaweza kuweka chaguo la Historia kwenye \u003Ca href=\"about:preferences#privacy\" target=\"_blank\">about:preferences#privacy\u003C/a> pia \"Firefox itakumbuka historia\". Hii inaweza kusaidia lakini si dhahiri. Vinginevyo, unaweza kuwasiliana na Mozilla na kuomba kurekebisha bug iliyotajwa hapo awali haraka.\u003Cbr>\u003Cbr>Tunasikitika sana kwa usumbufu lakini kwa bahati mbaya hatuwezi kufanya lolote kuhusu hili."
+   },
+   "Kernel_AppDescription": {
+      "message": "Mkalimani wako wa kurasa za mtandao, PDF, maandiko yaliyotolewa, na maelezo mafupi ya Netflix. Fahamu lugha 103 kwa urahisi."
+   },
+   "Kernel_AppName": {
+      "message": "Mate Translate – mkalimani, kamusi"
+   },
+   "Kernel_Cancel": {
+      "message": "ghairi"
+   },
+   "Kernel_ClearInput": {
+      "message": "Futa uwanja wa ingizo"
+   },
+   "Kernel_Context_Into": {
+      "message": "kwenda"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "Historia"
+   },
+   "Kernel_IPA": {
+      "message": "Usomaji wa kifonetiki"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "Afrikaans"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "Kialbeni"
+   },
+   "Kernel_Lang_Amharic": {
+      "message": "Kiamhari"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "Kiarabu"
+   },
+   "Kernel_Lang_ArabicAlgeria": {
+      "message": "Kiarabu (Algeria)"
+   },
+   "Kernel_Lang_ArabicBahrain": {
+      "message": "Kiarabu (Bahrain)"
+   },
+   "Kernel_Lang_ArabicEgypt": {
+      "message": "Kiarabu (Misri)"
+   },
+   "Kernel_Lang_ArabicGeneral": {
+      "message": "Kiarabu (Kawaida)"
+   },
+   "Kernel_Lang_ArabicIraq": {
+      "message": "Kiarabu (Iraq)"
+   },
+   "Kernel_Lang_ArabicJordan": {
+      "message": "Kiarabu (Jordan)"
+   },
+   "Kernel_Lang_ArabicKuwait": {
+      "message": "Kiarabu (Kuwait)"
+   },
+   "Kernel_Lang_ArabicLebanon": {
+      "message": "Kiarabu (Lebanon)"
+   },
+   "Kernel_Lang_ArabicLibyan": {
+      "message": "Kiarabu (Libya)"
+   },
+   "Kernel_Lang_ArabicMorocco": {
+      "message": "Kiarabu (Morocco)"
+   },
+   "Kernel_Lang_ArabicOman": {
+      "message": "Kiarabu (Oman)"
+   },
+   "Kernel_Lang_ArabicQatar": {
+      "message": "Kiarabu (Qatar)"
+   },
+   "Kernel_Lang_ArabicSaudi": {
+      "message": "Kiarabu (Saudi Arabia)"
+   },
+   "Kernel_Lang_ArabicSudan": {
+      "message": "Kiarabu (Sudan)"
+   },
+   "Kernel_Lang_ArabicSyria": {
+      "message": "Kiarabu (Syria)"
+   },
+   "Kernel_Lang_ArabicTunisia": {
+      "message": "Kiarabu (Tunisia)"
+   },
+   "Kernel_Lang_ArabicUAE": {
+      "message": "Kiarabu (UAE)"
+   },
+   "Kernel_Lang_ArabicYemen": {
+      "message": "Kiarabu (Yemen)"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "Kiarmenia"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "Utambuzi wa kiotomatiki"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "Kiazerbaijani"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "Kibasque"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "Kibelarusi"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "Kibengali"
+   },
+   "Kernel_Lang_Bosnian": {
+      "message": "Kibosnia"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "Kibulgaria"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "Kikatalani"
+   },
+   "Kernel_Lang_Cebuano": {
+      "message": "Kicebuano"
+   },
+   "Kernel_Lang_Chichewa": {
+      "message": "Kichichewa"
+   },
+   "Kernel_Lang_Chinese": {
+      "message": "Kichina"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "Kichina Kilichorahisishwa"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "Kichina cha Kienyeji"
+   },
+   "Kernel_Lang_Corsican": {
+      "message": "Kikorsika"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "Kroeshia"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "Kicheki"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "Kidenmaki"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "Kiholanzi"
+   },
+   "Kernel_Lang_DutchBelgium": {
+      "message": "Kiholanzi (Belgium)"
+   },
+   "Kernel_Lang_DutchNetherlands": {
+      "message": "Kiholanzi (Netherlands)"
+   },
+   "Kernel_Lang_English": {
+      "message": "Kiingereza"
+   },
+   "Kernel_Lang_EnglishUS": {
+      "message": "Kiingereza (USA)"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "Kiesperanto"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "Kiestoa"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "Kifilipino"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "Kifini"
+   },
+   "Kernel_Lang_French": {
+      "message": "Kifaransa"
+   },
+   "Kernel_Lang_FrenchBelgium": {
+      "message": "Kifaransa (Ubelgiji)"
+   },
+   "Kernel_Lang_FrenchCanada": {
+      "message": "Kifaransa (Kanada)"
+   },
+   "Kernel_Lang_FrenchFrance": {
+      "message": "Kifaransa (Ufaransa)"
+   },
+   "Kernel_Lang_FrenchSwiss": {
+      "message": "Kifaransa (Uswisi)"
+   },
+   "Kernel_Lang_Frisian": {
+      "message": "Kifrisia"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Kigalisi"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "Kijojia"
+   },
+   "Kernel_Lang_German": {
+      "message": "Kijerumani"
+   },
+   "Kernel_Lang_GermanAustria": {
+      "message": "Kijerumani (Austria)"
+   },
+   "Kernel_Lang_GermanGermany": {
+      "message": "Kijerumani (Ujerumani)"
+   },
+   "Kernel_Lang_GermanLichtenstein": {
+      "message": "Kijerumani (Liechtenstein)"
+   },
+   "Kernel_Lang_GermanLux": {
+      "message": "Kijerumani (Luxembourg)"
+   },
+   "Kernel_Lang_GermanSwiss": {
+      "message": "Kijerumani (Uswisi)"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Kigiriki"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Kigujarati"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Kihaiti"
+   },
+   "Kernel_Lang_Hausa": {
+      "message": "Kihausa"
+   },
+   "Kernel_Lang_Hawaiian": {
+      "message": "Kihawa"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "Kiebrania"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Kihindi"
+   },
+   "Kernel_Lang_Hmong": {
+      "message": "Kimong"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "Kihungari"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "Kiaisilandi"
+   },
+   "Kernel_Lang_Igbo": {
+      "message": "Kiigbo"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Kiindonesia"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Kiayalandi"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Kiitaliano"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Kijapani"
+   },
+   "Kernel_Lang_Javanese": {
+      "message": "Kijava"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Kikannada"
+   },
+   "Kernel_Lang_Kazakh": {
+      "message": "Kikazakh"
+   },
+   "Kernel_Lang_Khmer": {
+      "message": "Kikhmeri"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Kikorea"
+   },
+   "Kernel_Lang_Kurdish": {
+      "message": "Kikurdi (Kurmanji)"
+   },
+   "Kernel_Lang_KurdishKurmanji": {
+      "message": "Kikurdi (Kurmanji)"
+   },
+   "Kernel_Lang_Kyrgyz": {
+      "message": "Kikirgizi"
+   },
+   "Kernel_Lang_Lao": {
+      "message": "Kilaotiani"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Kilatini"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Kilatvia"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Kilithuania"
+   },
+   "Kernel_Lang_Luxembourgish": {
+      "message": "Kiliphabenia"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Kimasedonia"
+   },
+   "Kernel_Lang_Malagasy": {
+      "message": "Kimalagasy"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Kimalay"
+   },
+   "Kernel_Lang_Malayalam": {
+      "message": "Kimalayalam"
+   },
+   "Kernel_Lang_Malayam": {
+      "message": "Kimalayalam"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Kimalta"
+   },
+   "Kernel_Lang_Maori": {
+      "message": "Kimaori"
+   },
+   "Kernel_Lang_Marathi": {
+      "message": "Kimarathi"
+   },
+   "Kernel_Lang_Mongolian": {
+      "message": "Kimongolia"
+   },
+   "Kernel_Lang_Myanmar": {
+      "message": "Kimyanmar (Kiburma)"
+   },
+   "Kernel_Lang_MyanmarBurmese": {
+      "message": "Kimyanmar (Kiburma)"
+   },
+   "Kernel_Lang_Nepali": {
+      "message": "Kinepali"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Kinorwe"
+   },
+   "Kernel_Lang_Pashto": {
+      "message": "Kipashto"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Kiajemi"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Kipolandi"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Kiarabu"
+   },
+   "Kernel_Lang_PortugueseBrazil": {
+      "message": "Kiarabu (Brazili)"
+   },
+   "Kernel_Lang_PortuguesePortugal": {
+      "message": "Kiarabu (Ureno)"
+   },
+   "Kernel_Lang_Punjabi": {
+      "message": "Kipunjabi"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Kiromania"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Kirusi"
+   },
+   "Kernel_Lang_Samoan": {
+      "message": "Kisamoa"
+   },
+   "Kernel_Lang_ScotsGaelic": {
+      "message": "Kigaeli ya Scots"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Kisabia"
+   },
+   "Kernel_Lang_Sesotho": {
+      "message": "Kisesotho"
+   },
+   "Kernel_Lang_Shona": {
+      "message": "Kishona"
+   },
+   "Kernel_Lang_Sindhi": {
+      "message": "Kisindhi"
+   },
+   "Kernel_Lang_Sinhala": {
+      "message": "Kisinhala"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Kislovak"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Kislovenia"
+   },
+   "Kernel_Lang_Somali": {
+      "message": "Kisomali"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Kihispania"
+   },
+   "Kernel_Lang_SpanishArgentina": {
+      "message": "Kihispania (Argentina)"
+   },
+   "Kernel_Lang_SpanishBolivia": {
+      "message": "Kihispania (Bolivia)"
+   },
+   "Kernel_Lang_SpanishChile": {
+      "message": "Kihispania (Chile)"
+   },
+   "Kernel_Lang_SpanishColombia": {
+      "message": "Kihispania (Kolombia)"
+   },
+   "Kernel_Lang_SpanishCostaRica": {
+      "message": "Kihispania (Costa Rica)"
+   },
+   "Kernel_Lang_SpanishDR": {
+      "message": "Kihispania (Jamhuri ya Dominika)"
+   },
+   "Kernel_Lang_SpanishEquador": {
+      "message": "Kihispania (Ecuador)"
+   },
+   "Kernel_Lang_SpanishGuatemala": {
+      "message": "Kihispania (Guatemala)"
+   },
+   "Kernel_Lang_SpanishHonduras": {
+      "message": "Kihispania (Honduras)"
+   },
+   "Kernel_Lang_SpanishMexico": {
+      "message": "Kihispania (Mexico)"
+   },
+   "Kernel_Lang_SpanishNicaragua": {
+      "message": "Kihispania (Nicaragua)"
+   },
+   "Kernel_Lang_SpanishPanama": {
+      "message": "Kihispania (Panama)"
+   },
+   "Kernel_Lang_SpanishParaguay": {
+      "message": "Kihispania (Paraguay)"
+   },
+   "Kernel_Lang_SpanishPeru": {
+      "message": "Kihispania (Peru)"
+   },
+   "Kernel_Lang_SpanishPuertoRico": {
+      "message": "Kihispania (Puerto Rico)"
+   },
+   "Kernel_Lang_SpanishSalvador": {
+      "message": "Kihispania (Salvador)"
+   },
+   "Kernel_Lang_SpanishSpain": {
+      "message": "Kihispania (Uhispania)"
+   },
+   "Kernel_Lang_SpanishUS": {
+      "message": "Kihispania (Marekani)"
+   },
+   "Kernel_Lang_SpanishUruguay": {
+      "message": "Kihispania (Uruguay)"
+   },
+   "Kernel_Lang_SpanishVenezuela": {
+      "message": "Kihispania (Venezuela)"
+   },
+   "Kernel_Lang_Sundanese": {
+      "message": "Kisunda"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Kiswahili"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Kiswidi"
+   },
+   "Kernel_Lang_Tajik": {
+      "message": "Kitajiki"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Kitamili"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Kitelugu"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Kitailandi"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "Kituruki"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Kiukraine"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Kiurdu"
+   },
+   "Kernel_Lang_Uzbek": {
+      "message": "Kiuzbeki"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Kivietinamu"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Kiwelshi"
+   },
+   "Kernel_Lang_Xhosa": {
+      "message": "Kixosasa"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Kiyiddish"
+   },
+   "Kernel_Lang_Yoruba": {
+      "message": "Kiyoruba"
+   },
+   "Kernel_Lang_Zulu": {
+      "message": "Kizulu"
+   },
+   "Kernel_NoResults": {
+      "message": "Hakuna matokeo"
+   },
+   "Kernel_Ok": {
+      "message": "Sawa"
+   },
+   "Kernel_PhrasebookTitle": {
+      "message": "Kitabu cha misemo"
+   },
+   "Kernel_RemoveCombination": {
+      "message": "toa"
+   },
+   "Kernel_SearchPlaceholder": {
+      "message": "Tafuta"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "Mipangilio"
+   },
+   "Kernel_Vowels": {
+      "message": "aeiou"
+   },
+   "Login_ByClicking": {
+      "message": "Kwa kubofya 'Unda akaunti' unakubali \u003Cb>\u003Ca href=\"https://matetranslate.com/terms\">Masharti ya Matumizi\u003C/a>\u003C/b> na \u003Cb>\u003Ca href=\"https://matetranslate.com/privacy\">Sera ya Faragha\u003C/a>\u003C/b> yetu."
+   },
+   "Login_Continue": {
+      "message": "ENDELEA"
+   },
+   "Login_ContinueWithout": {
+      "message": "Ruka"
+   },
+   "Login_Create": {
+      "message": "Unda akaunti"
+   },
+   "Login_Email": {
+      "message": "Ingiza anwani yako ya barua pepe..."
+   },
+   "Login_Forgot": {
+      "message": "Umesahau nenosiri lako?"
+   },
+   "Login_GDPR": {
+      "message": "\u003Cb>Karibu kwa mtafsiri anayejali sana faragha yako.\u003C/b> Hatuwezi kamwe kufuatilia au kuuza data zako. \u003Ca class=\"open-pp\" href=\"javascript:;\">Sera Yetu ya Faragha\u003C/a> ni tofauti na yoyote nyingine—ni fupi na inafurahisha. Tafadhali isome na ikubali ili uanze kutumia Akaunti ya Mate."
+   },
+   "Login_IReadAndAgree": {
+      "message": "Ninakubali"
+   },
+   "Login_NewPassword": {
+      "message": "Nenosiri jipya..."
+   },
+   "Login_NoAccountHead": {
+      "message": "Sina akaunti"
+   },
+   "Login_NoAccountText": {
+      "message": "Ikiwa ulinunua Pro lakini hukuwa umeingia wakati huo na hukumaliza kujisajili kupitia kiungo tulichotuma kwa barua pepe uliyotoa wakati wa malipo, unapaswa kumalizia kujisajili kupitia kiungo kutoka kwa barua pepe. Baada ya kumaliza, utaweza kuingia kwenye programu."
+   },
+   "Login_NoRememberHead": {
+      "message": "Sikumbuki"
+   },
+   "Login_NoRememberText": {
+      "message": "Ikiwa huwezi kukumbuka barua pepe uliyotumia kwa malipo, jaribu kutafuta barua pepe yenye uthibitisho wa ununuzi kutoka kwetu kwenye kikasha chako."
+   },
+   "Login_OrSignInWith": {
+      "message": "AU INGIA KWA"
+   },
+   "Login_Password": {
+      "message": "Ingiza nenosiri lako..."
+   },
+   "Login_PasswordMin8": {
+      "message": "Nenosiri lako linapaswa kuwa na angalau herufi 8"
+   },
+   "Login_Promo": {
+      "message": "Ingia kutumia Mate na kuweka data zako zote sawa kwenye vifaa vyote!"
+   },
+   "Login_QuestionsHead": {
+      "message": "Maswali yoyote?"
+   },
+   "Login_QuestionsText": {
+      "message": "Ikiwa bado unakutana na matatizo, unaweza kuwasiliana nasi kwa \u003Ca href=\"mailto:support@matetranslate.com?subject=Login Issues\">support@matetranslate.com\u003C/a>."
+   },
+   "Login_Restore": {
+      "message": "Ili kurejesha Mate Translate Pro, ingia kwenye akaunti uliyotumia kununua (\u003Ca href=\"javascript:;\" class=\"show-info\">huisijui?\u003C/a>)"
+   },
+   "Login_SignIn": {
+      "message": "INGIA"
+   },
+   "Login_SignUp": {
+      "message": "Jisajili"
+   },
+   "Login_Sync": {
+      "message": "Akaunti yako ya Mate ndiyo njia bora ya kudumisha historia, Kitabu chako cha Maneno, na mapendeleo nyuma na kulandanisha kwa urahisi kati ya vifaa."
+   },
+   "Login_YourName": {
+      "message": "Jina lako (hiari)..."
+   },
+   "MatePro_Description": {
+      "message": "Leta uzoefu wako wa tafsiri katika kiwango kipya kabisa na Mate Pro! Lipa mara moja, tumia milele."
+   },
+   "MicAccess_HowToUnlock": {
+      "message": "Futa \u003Cb>$id$\u003C/b> kutoka kwenye blok zilizoko kwenye matokeo ya Kipekee za Maikrofoni. Baada ya hapo, \u003Cb>\u003Ca href=\"../public/mic_access.html\">bofya hapa\u003C/a>\u003C/b>.",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/"
+         }
+      }
+   },
+   "MicAccess_Note": {
+      "message": "Ili kutambua na kutafsiri hotuba, Mate Translate inahitaji ruhusa ya kutumia maikrofoni ya kompyuta yako."
+   },
+   "MicAccess_PageTitle": {
+      "message": "Ruhusa ya maikrofoni"
+   },
+   "MicAccess_Title": {
+      "message": "Maikrofoni"
+   },
+   "MicAccess_UnlockButton": {
+      "message": "ruhusu katika mipangilio ya maudhui"
+   },
+   "Options_TooltipSizePro": {
+      "message": "Boresha hadi Pro ili kubadilisha ukubwa wa tooltip kwenye ukurasa."
+   },
+   "Pb_AddButton": {
+      "message": "Ongeza"
+   },
+   "Pb_EarlyAccess": {
+      "message": "omba upatikanaji wa mapema"
+   },
+   "Pb_Empty": {
+      "message": "Kitabu cha misemo kimejumuisha"
+   },
+   "Pb_EmptyWl_Text1": {
+      "message": "Hifadhi maneno yote unayotaka kukumbuka juu ya mada hii hapa."
+   },
+   "Pb_EmptyWl_Text2": {
+      "message": "Andika tu maneno, Mate itatoa tafsiri kwa maneno hayo."
+   },
+   "Pb_EmptyWl_Title2": {
+      "message": "Hifadhi kwa urahisi"
+   },
+   "Pb_Empty_Button": {
+      "message": "unda orodha ya maneno"
+   },
+   "Pb_Empty_Text1": {
+      "message": "Unda orodha za maneno kuhifadhi maneno unayotaka kujifunza."
+   },
+   "Pb_Empty_Text2": {
+      "message": "Weka msamiati wako wote sehemu moja!"
+   },
+   "Pb_Empty_Title": {
+      "message": "Ni nini hii?"
+   },
+   "Pb_EnterWordOrPhrase": {
+      "message": "Ingiza neno au kifungu cha maneno ..."
+   },
+   "Pb_HowToAddPhrase": {
+      "message": "Tumia uwanja wa maandishi hapo juu kuongeza vifungu vipya"
+   },
+   "Pb_HowToCreateWordlist": {
+      "message": "Bonyeza kitufe cha \"+\" hapo juu kuunda orodha mpya ya maneno"
+   },
+   "Pb_Learn": {
+      "message": "Jifunze"
+   },
+   "Pb_LearnOnboardingDesc": {
+      "message": "Tunataka Mate ibaki nzuri kwa lengo moja - tafsiri.\u003Cbr>\u003Cbr>Kwa hivyo, tulitengeneza Reji - app rahisi sana ya bure kusaidia kujifunza msamiati kwa ufanisi. Pia tumewezesha kusafirisha maneno yako yote kutoka Mate hadi Reji kwa kubofya mara moja!"
+   },
+   "Pb_Loading": {
+      "message": "inapakia..."
+   },
+   "Pb_NewWlNote": {
+      "message": "Unda orodha mpya ya maneno kwa jozi ya lugha maalum na ongeza idadi isiyo na kikomo ya vifungu ndani yake."
+   },
+   "Pb_NewWordlist": {
+      "message": "Orodha mpya ya maneno"
+   },
+   "Pb_NewWordlistName": {
+      "message": "Jina la orodha mpya ya maneno ..."
+   },
+   "Pb_NoInternet": {
+      "message": "Inaonekana muunganisho wako wa intaneti uko nje ya mtandao. Ili kuongeza vifungu vipya, lazima uwe umeunganishwa na intaneti!"
+   },
+   "Pb_NotOnIOS": {
+      "message": "Hutumii iOS? Bonyeza kujifunza maneno kwenye \u003Ca class=\"show-android-form\" href=\"#\">Android\u003C/a> au moja kwa moja kwenye \u003Ca class=\"show-chrome-form\" href=\"#\">kivinjari\u003C/a>."
+   },
+   "Pb_RejiAndroid": {
+      "message": "Reji kwa Android haijapatikana bado. Tunafanya kazi kwa bidii kuisafirisha haraka iwezekanavyo. Hata hivyo, unaweza kuwa wa kwanza kujua ikiwa utaacha barua pepe yako:"
+   },
+   "Pb_RejiBrowser": {
+      "message": "Toleo la kivinjari la Reji halijapatikana bado. Tunafanya kazi kwa bidii kuisafirisha haraka iwezekanavyo. Hata hivyo, unaweza kuwa wa kwanza kujua ikiwa utaacha barua pepe yako:"
+   },
+   "Pb_SaveButton": {
+      "message": "Hifadhi"
+   },
+   "Pb_ScanQR": {
+      "message": "Skanisha msimbo huu wa QR kwa kutumia app ya Kamera kwenye iPhone au iPad yako kufungua na kujifunza maneno kwenye Reji."
+   },
+   "Pb_SelectLearnLanguage": {
+      "message": "Unajifunza lugha gani?"
+   },
+   "Pb_SureToDeleteWordlist": {
+      "message": "Una uhakika unataka kufuta orodha hii ya maneno? Kitendo hiki hakiwezi kurudishwa."
+   },
+   "Pb_WlEmpty": {
+      "message": "Orodha ya maneno iko tupu"
+   },
+   "Phrasebook_FullyBlockedOut": {
+      "message": "Boresha hadi Pro ili kupata ufikiaji usio na kikomo wa Kitabu cha Maneno."
+   },
+   "Phrasebook_Phrases1": {
+      "message": "kifungu"
+   },
+   "Phrasebook_Phrases2": {
+      "message": "vifungu"
+   },
+   "Phrasebook_Phrases3": {
+      "message": "vifungu"
+   },
+   "ProSplitTests_2_F1": {
+      "message": "Tafsiri uongeaji"
+   },
+   "ProSplitTests_2_F2": {
+      "message": "Historia & Kitabu cha Maneno"
+   },
+   "ProSplitTests_2_F3": {
+      "message": "Visawe"
+   },
+   "ProSplitTests_2_F4": {
+      "message": "Matamshi & jinsia za nomino"
+   },
+   "ProSplitTests_2_F5": {
+      "message": "Hali ya giza & hakuna matangazo"
+   },
+   "ProSplitTests_2_F6": {
+      "message": "Msaada wa wateja wa kipaumbele"
+   },
+   "ProSplitTests_2_F7": {
+      "message": "Pro kwenye \u003Ca href=\"https://gikken.co/mate-translate/?ref=BrowserProBlock\">vifaa vyote\u003C/a>"
+   },
+   "ProSplitTests_2_F8": {
+      "message": "Tafsiri tovuti kiotomatiki"
+   },
+   "ProSplitTests_2_Pitch": {
+      "message": "Mate ni nzuri, Pro inaifanya kuwa bora zaidi!\u003Cbr>Pata ufikiaji wa vipengele vyote vya malipo kwenye vifaa vyote na usione matangazo."
+   },
+   "Pro_Articles": {
+      "message": "Makala za nomino"
+   },
+   "Pro_Articles_Desc": {
+      "message": "Jifunze jinsi ya kutumia maneno kwa Kijerumani, Kifaransa, Kihispania, Kiitaliano, na Kireno."
+   },
+   "Pro_Articles_Msg": {
+      "message": "Nunua Pro ili kufungua makala za nomino."
+   },
+   "Pro_ComesAlong": {
+      "message": ", na zaidi:"
+   },
+   "Pro_DoubleClickFeature": {
+      "message": "Tafsiri maneno kwenye kurasa za wavuti kwa kubofya mara mbili na Mate Pro!"
+   },
+   "Pro_ExportFeature": {
+      "message": "Pata historia yako kama faili ya CSV na Mate Pro!"
+   },
+   "Pro_FullPageTranslation": {
+      "message": "Nunua Pro kuwezesha utafsiri wa tovuti kiotomatiki."
+   },
+   "Pro_IPA": {
+      "message": "Andiko la fonetiki"
+   },
+   "Pro_IPA_Desc": {
+      "message": "Jifunze jinsi ya kutamka maneno kwa usahihi."
+   },
+   "Pro_IPA_Msg": {
+      "message": "Nunua Pro ili kufungua andiko la fonetiki."
+   },
+   "Pro_MainSettingsPitch": {
+      "message": "Kuboresha ni thamani zaidi unavyotafsiri. Tumeboresha vipengele ili kufanya Mate Pro kuwa nguvu ya lugha mahali popote unapo itumia."
+   },
+   "Pro_NetflixPhrasebookSaving": {
+      "message": "Nunua Pro kuokoa maneno kutoka Netflix."
+   },
+   "Pro_PhrasebookFeature": {
+      "message": "Pata ufikiaji wa Kitabu chako cha Maneno binafsi. Landanisha (na historia yako) na Mate kati ya \u003Ca href=\"https://gikken.co/mate-translate/download/\" target=\"_blank\">vifaa vyako vyote\u003C/a>. Hamisha kama CSV ili kupeleka mahali pengine."
+   },
+   "Pro_STTFeature": {
+      "message": "Sungumza na Mate kwa zaidi ya \u003Ca href=\"https://gikken.co/mate-translate/languages\" target=\"_blank\">lugha 40\u003C/a>, pata tafsiri ya haraka na sahihi."
+   },
+   "Pro_ShortcutsFeature": {
+      "message": "Weka kibodi yako kutafsiri lugha nyingi badala ya moja (Shift+T)."
+   },
+   "Pro_SyncFeature": {
+      "message": "Landanisha data yako yote kwenye vifaa vyote na Mate Pro!"
+   },
+   "Pro_SynonymsPaywall": {
+      "message": "Boresha hadi Pro ili kuona visawe zaidi."
+   },
+   "Pro_UnlockMore": {
+      "message": "Na pia fungua vipengele hivi:"
+   },
+   "Promo_Android": {
+      "message": "Android"
+   },
+   "Promo_Chrome": {
+      "message": "Chrome"
+   },
+   "Promo_Edge": {
+      "message": "Edge"
+   },
+   "Promo_Firefox": {
+      "message": "Firefox"
+   },
+   "Promo_Ios": {
+      "message": "iOS"
+   },
+   "Promo_Mac": {
+      "message": "macOS"
+   },
+   "Promo_Safari": {
+      "message": "Safari"
+   },
+   "Promo_Samsunginternet": {
+      "message": "Samsung Internet"
+   },
+   "Promo_Windows": {
+      "message": "Windows"
+   },
+   "RejiAd": {
+      "message": "App yetu mpya itakusaidia kuboresha msamiati wako. Angalia!"
+   },
+   "SafariWall_Desc": {
+      "message": "Lipa kwa Mate mara moja na upate vipengele hivi vya ajabu moja kwa moja kwenye Safari yako."
+   },
+   "SafariWall_Feature1": {
+      "message": "Chagua maneno kwenye ukurasa wowote na uzitafsiri"
+   },
+   "SafariWall_Feature2": {
+      "message": "Bofya mara mbili kwenye neno lolote na ulitafsiri"
+   },
+   "SafariWall_Feature3": {
+      "message": "Hifadhi maneno ya kukumbuka kwenye Kitabu cha Misemo chako cha kibinafsi"
+   },
+   "SafariWall_Feature4": {
+      "message": "Tafsiri lugha 103"
+   },
+   "SafariWall_Feature5": {
+      "message": "Jifunze matamshi sahihi"
+   },
+   "SafariWall_Feature6": {
+      "message": "Landanisha tafsiri zako zote kwenye vifaa vyote"
+   },
+   "SafariWall_Title": {
+      "message": "Usivinjari tena tovuti za tafsiri!"
+   },
+   "Settings_21max": {
+      "message": "Unaweza kuunda njia za mkato 21 pekee..."
+   },
+   "Settings_Articles": {
+      "message": "Onyesha makala za nomino"
+   },
+   "Settings_Autoswap": {
+      "message": "Badilisha lugha moja kwa moja"
+   },
+   "Settings_Autoswap_Description": {
+      "message": "Lugha zitabadilishwa moja kwa moja ikiwa utaingiza maandishi katika lugha lengwa badala ya lugha chanzo na kinyume chake."
+   },
+   "Settings_CP": {
+      "message": "Mate kwa vifaa vingine"
+   },
+   "Settings_CPDesc": {
+      "message": "Mate inapatikana kwa iOS, Mac (+Kiunganishi cha Safari), Chrome, Firefox, Opera, na Edge. Unaweza kulandanisha historia yako ya tafsiri na Kitabu cha Maneno kati ya programu zote na Akaunti ya Mate."
+   },
+   "Settings_CP_Get": {
+      "message": "Pata programu zingine za Mate"
+   },
+   "Settings_Close": {
+      "message": "funga"
+   },
+   "Settings_Contacts": {
+      "message": "Zaidi"
+   },
+   "Settings_CtxMenu": {
+      "message": "Menyu ya muktadha"
+   },
+   "Settings_CtxMenuDesc": {
+      "message": "Onyesha kitufe cha tafsiri katika menyu ya muktadha (bonyeza kulia). Hii inafanya kazi kwa maandishi yaliyoteuliwa kwenye kurasa za wavuti."
+   },
+   "Settings_DarkMode": {
+      "message": "Hali ya giza nzuri"
+   },
+   "Settings_DarkModeDesc": {
+      "message": "Hifadhi nishati na epuka uchovu wa macho kwa kutumia hali ya giza maridadi ya Mate."
+   },
+   "Settings_DataEraseError": {
+      "message": "Hitilafu isiyotarajiwa ilitokea, tafadhali jaribu tena baadaye!"
+   },
+   "Settings_DataErased": {
+      "message": "Data yako yote imeondolewa kutoka kwa seva za Mate!"
+   },
+   "Settings_DestLang": {
+      "message": "Lugha lengwa"
+   },
+   "Settings_Email": {
+      "message": "tutumie barua pepe"
+   },
+   "Settings_EnableSync": {
+      "message": "Wezesha usawazishaji wa historia na Kitabu cha Maneno"
+   },
+   "Settings_EraseConfirm": {
+      "message": "Una uhakika? Hii itafuta tafsiri zako zote zilizosawazishwa na Kitabu cha Maneno (data za ndani hazitaathirika). Hii haiwezi kutenduliwa."
+   },
+   "Settings_EraseData": {
+      "message": "futa data yangu yote"
+   },
+   "Settings_EraseDataDesc": {
+      "message": "Kulingana na GDPR, unaweza kuomba data yako iondolewe kwenye seva za Mate."
+   },
+   "Settings_FBShare": {
+      "message": "shiriki kwenye facebook"
+   },
+   "Settings_Facebook": {
+      "message": "facebook"
+   },
+   "Settings_HelpCenter": {
+      "message": "Kituo cha Msaada"
+   },
+   "Settings_Interface_Autocorrection": {
+      "message": "Marekebisho ya moja kwa moja"
+   },
+   "Settings_Interface_Autocorrection_Description": {
+      "message": "Mate itarekebisha kiotomati maneno yaliyoandikwa vibaya."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Tafsiri ya haraka"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Mate itatafsiri maandishi pale utakapoacha kuandika."
+   },
+   "Settings_Interface_Save": {
+      "message": "Hifadhi tafsiri ya mwisho"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "Mate itahifadhi tafsiri ya mwisho iliyofanywa kwenye dirisha ibukizi, hivyo itakuwepo pale unapofungua tena."
+   },
+   "Settings_Interface_ShowIPA": {
+      "message": "Onyesha trasnkripsheni ya kifonotiki"
+   },
+   "Settings_Interface_ShowIPA_Description": {
+      "message": "Jifunze jinsi ya kutamka kwa kutumia trasnkripsheni ya kifonotiki inayotolewa na Mate kwa maneno na misemo."
+   },
+   "Settings_Interface_ShowTranslit": {
+      "message": "Onyesha trasnkripsheni ya kila kitu"
+   },
+   "Settings_Interface_ShowTranslit_Description": {
+      "message": "Kwa alfabeti zisizo za Kilatini, Mate itakuonyesha trasnkripsheni ya Kilatini ya tafsiri ili iwe rahisi kusoma."
+   },
+   "Settings_Legal": {
+      "message": "Mambo ya Kisheria"
+   },
+   "Settings_Netflix": {
+      "message": "Tafsiri maandishi dondoo ya Netflix"
+   },
+   "Settings_NetflixDesc": {
+      "message": "Bonyeza maneno katika maandishi dondoo ya Netflix ili kutafsiri hapo hapo."
+   },
+   "Settings_NetflixView": {
+      "message": "tazama maneno yaliyohifadhiwa →"
+   },
+   "Settings_NewLine": {
+      "message": "kwa mstari mpya"
+   },
+   "Settings_Newsletter": {
+      "message": "jarida"
+   },
+   "Settings_NoConsentPro": {
+      "message": "Kulingana na GDPR, hatuwezi kukutoza toleo la Pro mpaka ukubali masharti yetu ya matumizi... Kubali na uburudishe ukurasa huu ili kuendelea na Pro."
+   },
+   "Settings_NoProSync": {
+      "message": "Boresha hadi Pro ili kuwezesha usawazishaji"
+   },
+   "Settings_Or": {
+      "message": "au"
+   },
+   "Settings_PopupShortcuts": {
+      "message": "Njia za mkato kwenye ibukizi"
+   },
+   "Settings_PopupShortcutsDesc": {
+      "message": "Tafsiri maandishi kwenye uwanja wa kuingiza kwa kutumia njia ya mkato."
+   },
+   "Settings_PrefsTab": {
+      "message": "Mapendeleo"
+   },
+   "Settings_PrivacyPolicy": {
+      "message": "Sera ya faragha"
+   },
+   "Settings_ProActivated": {
+      "message": "Uko tayari kabisa! Pro imewezeshwa."
+   },
+   "Settings_ProFeature8": {
+      "message": "Msaada wa barua pepe uliojitolea"
+   },
+   "Settings_ProFeature8_Desc": {
+      "message": "Msaada ni wa walio na Pro pekee ili tuweze kuwafikia watu haraka na majibu ya kina. \u003Cbr>Watumiaji wa bure wanaweza kupata majibu ya kawaida katika \u003Ca href=\"https://help.gikken.co/hc/\" target=\"_blank\">Kituo chetu cha Msaada\u003C/a>."
+   },
+   "Settings_ProTab": {
+      "message": "Pro & Usawazishaji"
+   },
+   "Settings_Restore": {
+      "message": "rejesha ununuzi"
+   },
+   "Settings_RevokeConsent": {
+      "message": "sitakubali masharti tena"
+   },
+   "Settings_RevokeConsentDesc": {
+      "message": "Ikiwa haukubaliani tena na Sera yetu ya Faragha au Masharti ya matumizi, unaweza kufuta ridhaa yako ya awali. Hata hivyo, hutaweza kutumia Mate tena pia."
+   },
+   "Settings_Share": {
+      "message": "Waambie marafiki zako kuhusu Mate"
+   },
+   "Settings_ShareDesc": {
+      "message": "Watumie kiungo au shiriki kwenye mitandao ya kijamii. Itasaidia sana kutupa msaada!"
+   },
+   "Settings_ShareText": {
+      "message": "Mate ni programu ya tafsiri rafiki zaidi, ya haraka, na inayojali faragha kwa {{platform}}, Mac, iPhone na iPad. Utaipenda."
+   },
+   "Settings_ShortcutClick": {
+      "message": "bonyeza uwanja huu kisha bonyeza njia ya mkato inayohitajika..."
+   },
+   "Settings_ShortcutMain": {
+      "message": "Njia ya mkato kuu"
+   },
+   "Settings_ShortcutSuppl": {
+      "message": "Njia ya mkato ya nyongeza"
+   },
+   "Settings_SignOut": {
+      "message": "ONDOA MUUNGANISHO"
+   },
+   "Settings_SourceLang": {
+      "message": "Lugha chanzo"
+   },
+   "Settings_StayInTouch": {
+      "message": "Endelea kuwasiliana nasi"
+   },
+   "Settings_SyncText": {
+      "message": "Ikiwa na akaunti ya Pro, tafsiri zako, na Kitabu cha Misemo vinaendelea kusawazishwa kwenye vifaa vyote."
+   },
+   "Settings_TWShare": {
+      "message": "shiriki kwenye twitter"
+   },
+   "Settings_ToS": {
+      "message": "masharti ya matumizi"
+   },
+   "Settings_ToTranslate": {
+      "message": "kutafsiri"
+   },
+   "Settings_Tooltip": {
+      "message": "Ukubwa wa arifa"
+   },
+   "Settings_TooltipBig": {
+      "message": "kubwa"
+   },
+   "Settings_TooltipDesc": {
+      "message": "Ukubwa wa arifa inayoonesha tafsiri kwenye kurasa za wavuti."
+   },
+   "Settings_TooltipMedium": {
+      "message": "wastani"
+   },
+   "Settings_TooltipSmall": {
+      "message": "ndogo"
+   },
+   "Settings_TranslateSelection": {
+      "message": "Chagua kutafsiri"
+   },
+   "Settings_TranslateSelectionDesc": {
+      "message": "Onyesha kifungo cha kutafsiri karibu na maandishi yaliyochaguliwa kwenye kurasa za wavuti."
+   },
+   "Settings_Translation_History": {
+      "message": "Historia ya tafsiri"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "Hifadhi tafsiri zote ili upitie wakati wowote."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Kwenye-kurasa"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "Chagua maandishi yoyote kwenye ukurasa wowote (isipokuwa faili za PDF), bonyeza njia ya mkato na upate tafsiri mara moja kwenye dirisha lilio mbele yako."
+   },
+   "Settings_Twitter": {
+      "message": "twitter"
+   },
+   "Settings_UsageDesc": {
+      "message": "Tunapendekeza uboreshaji wa Pro ikiwa unatafsiri zaidi ya mara 500 kwa mwezi. Inatusaidia kudumisha upande wa seva yetu.\u003Cbr>\u003Cbr>Hivyo, tunaweza kuthibitisha kasi ya haraka ya tafsiri."
+   },
+   "Settings_Website": {
+      "message": "wavuti"
+   },
+   "Settings_YouAreSignedIn": {
+      "message": "Umeingia kama"
+   },
+   "Settings_YouPro": {
+      "message": "Una toleo la Pro!"
+   },
+   "Settings_YouUsed": {
+      "message": "umetumia"
+   },
+   "ShareOnVK": {
+      "message": "shiriki kwenye vk"
+   },
+   "ShareViaEmail": {
+      "message": "shiriki kupitia barua pepe"
+   },
+   "SignUp_Name": {
+      "message": "Jina (hiari)"
+   },
+   "SignUp_Password": {
+      "message": "Nenosiri (angalau herufi 8)"
+   },
+   "Sponsorship_Bar": {
+      "message": "Kuwa salama na Akaunti ya Mate"
+   },
+   "Sponsorship_DismissPro": {
+      "message": "Boresha hadi Pro ili kuficha matangazo."
+   },
+   "Sub_48hNotificationBodyAnnual": {
+      "message": "Tutaweza kukutoza hivi karibuni {{amount}} kwa usajili wako wa Mate Pro wa kila mwaka."
+   },
+   "Sub_48hNotificationBodyMonthly": {
+      "message": "Tutaweza kukutoza hivi karibuni {{amount}} kwa usajili wako wa Mate Pro wa kila mwezi."
+   },
+   "Sub_48hNotificationLabel": {
+      "message": "\u003Cb>Hakuna hatari.\u003C/b> Tutakutumia ukumbusho masaa 48 kabla ya malipo ya kwanza."
+   },
+   "Sub_48hNotificationTitle": {
+      "message": "Majaribio yako ya Mate yakoje?"
+   },
+   "Sub_ApplyForStudentDiscount": {
+      "message": "Punguzo la mwanafunzi"
+   },
+   "Sub_Cancel": {
+      "message": "Ghairi usajili"
+   },
+   "Sub_ChangePaymentMethod": {
+      "message": "Badilisha njia ya malipo"
+   },
+   "Sub_ComingSoon": {
+      "message": "inakuja hivi karibuni"
+   },
+   "Sub_CouldNotGetPayLink": {
+      "message": "Hatukuweza kupata kiunganishi cha malipo. Tafadhali jaribu tena baadaye au wasiliana nasi kupitia support@matetranslate.com"
+   },
+   "Sub_CrossPlatformProComingSoon": {
+      "message": "Tunafanya kazi kwa bidii kuhakikisha Mate Pro inaweza kutumika kwenye majukwaa yote.\n\nUnaweza tayari kufurahia Mate Pro kwenye viendelezi vya kivinjari vyote kwa kuingia kwa akaunti hiyo hiyo ya Mate kwenye kila kifaa. Hata hivyo, programu za iOS na Mac zinauzwa moja kwa moja kwenye maduka ya Apple.\n\nHadi tutakapopata suluhisho la kudumu, unaweza kututumia barua pepe kwa hello@gikken.co na uambatanishe na risiti baada ya kusajili kwa Mate Pro — tutakusaidia kupata programu hizo bila malipo.\n\nSamahani sana kwa usumbufu wa muda."
+   },
+   "Sub_DueAfterTrial": {
+      "message": "\u003Cspan class=\"price-due\">\u003C/span> baada ya majaribio"
+   },
+   "Sub_FAQ": {
+      "message": "Maswali yanayoulizwa mara kwa mara"
+   },
+   "Sub_FinishCreatingAccount": {
+      "message": "Maliza Kuunda Akaunti"
+   },
+   "Sub_FreeTrialVerificationCharge": {
+      "message": "Unaweza kutozwa $1 na Paddle ili kuthibitisha kadi ya mkopo. Itarejeshwa papo hapo. Majaribio ni bure."
+   },
+   "Sub_LegacyUsersDisclaimer": {
+      "message": "Mate Pro sasa inategemea usajili kwa watumiaji wapya. Kwa kuwa umenunua Pro kabla ya mabadiliko, utahifadhi bila malipo ya ziada, milele! Asante kwa kutuunga mkono mapema \u003C3"
+   },
+   "Sub_Month": {
+      "message": "/mwezi"
+   },
+   "Sub_MoreInlineInfo": {
+      "message": "Jifunze zaidi"
+   },
+   "Sub_NextBilling": {
+      "message": "Malipo yanayofuata: {{next_amount_billed}} mnamo {{next_billing_date}}"
+   },
+   "Sub_NoNotifPermissionAlert": {
+      "message": "Bila ruhusa ya arifa, hatutaweza kukujulisha kuhusu malipo ya kwanza... Hata hivyo, unaweza kuona muda utakaofanyika kwenye mipangilio hapa."
+   },
+   "Sub_PleaseCreateAccount": {
+      "message": "Sasa, tafadhali maliza kuunda akaunti yako ya Mate, ili tuweze kuthibitisha usajili wako. Haitachukua zaidi ya dakika moja!"
+   },
+   "Sub_PleaseSignBackIn": {
+      "message": "Tafadhali ingia tena na akaunti yako ya Mate inayohusishwa na \u003Cb>{{email}}\u003C/b>.\u003Cbr>Hatuwezi kuthibitisha usajili wako vinginevyo."
+   },
+   "Sub_ProStatusForLegacyUsers": {
+      "message": "Una ufikivu usio na kipimo, wa maisha yote kwa Mate Pro"
+   },
+   "Sub_PurchasedBefore": {
+      "message": "Umenunua Pro kabla?"
+   },
+   "Sub_Resubscribe": {
+      "message": "Jisajili tena"
+   },
+   "Sub_Savings": {
+      "message": "okoa {{savings}}%"
+   },
+   "Sub_ScrewSubscription": {
+      "message": "Hutaki kusajili?"
+   },
+   "Sub_StatusFetchError": {
+      "message": "Ilikuwa vigumu kupata hali yako ya usajili."
+   },
+   "Sub_StatusFetchTryAgain": {
+      "message": "Jaribu tena"
+   },
+   "Sub_SubscribeNow": {
+      "message": "Jisajili Sasa"
+   },
+   "Sub_TryFreeCTA": {
+      "message": "jaribu bure kwa \u003Cspan class=\"trial-days\">\u003C/span> siku"
+   },
+   "Sub_WhenCancelled": {
+      "message": "Umefuta usajili wako lakini bado utaweza kufurahia Mate Pro hadi {{sub_ends_on}}. Ili kuendelea kutumia Pro baada ya wakati huo, unahitaji kujisajili tena."
+   },
+   "Sub_WhenTrialing": {
+      "message": "Majaribio yako yanaisha mnamo {{next_billing_date}} na utatozwa {{next_amount_billed}}"
+   },
+   "Sub_Year": {
+      "message": "/mwaka"
+   },
+   "Sub_YouAreAlmostInTheFamily": {
+      "message": "Uko karibu kuwa katika familia ya Mate Pro!"
+   },
+   "Sub_YouAreInTheFamily": {
+      "message": "Uko katika familia ya Mate Pro!"
+   },
+   "Sync_FailedError": {
+      "message": "Hakuna usawazishaji. Hitilafu imetokea."
+   },
+   "Sync_NetworkError": {
+      "message": "Inaonekana kuwa hakuna muunganisho wa Mtandao. Tafadhali unganisha kwenye Mtandao na ujaribu kusawazisha tena."
+   },
+   "Sync_NoItemsError": {
+      "message": "Hakuna vitu vya kusawazisha."
+   },
+   "Sync_NotSignedInError": {
+      "message": "Unahitaji kuwa umeingia ili kusawazisha historia yako na Kitabu cha Misemo."
+   },
+   "TD_AddPB": {
+      "message": "Ongeza kwenye Kitabu cha Misemo"
+   },
+   "TD_Copy": {
+      "message": "Nakili"
+   },
+   "TD_Create": {
+      "message": "Unda orodha mpya ya maneno..."
+   },
+   "TD_NoWordlists": {
+      "message": "Hakuna orodha ya maneno kwa"
+   },
+   "There_Is_Localised_Site": {
+      "message": "Angalia toleo lililotafsiriwa la tovuti"
+   },
+   "There_Is_Localised_Site_Desc": {
+      "message": "Kuna toleo lililotafsiriwa la tovuti hii"
+   },
+   "Tooltip_DisableDoubleClick": {
+      "message": "Usitafsiri kwa kubofya-mara mbili"
+   },
+   "Tooltip_DisableDoubleClickDesc": {
+      "message": "Hutaona dirisha la tafsiri unapobofya-mara mbili kwenye neno tena."
+   },
+   "Tooltip_DisableSelection": {
+      "message": "Usionyeshe kifungo kinachoelea"
+   },
+   "Tooltip_DisableSelectionDesc": {
+      "message": "Hutaona kifungo cha tafsiri kinachoelea unapochagua maandishi tena."
+   },
+   "Tooltip_InlineOptionDisabled": {
+      "message": "Unaweza kuiwasha tena kwenye mipangilio"
+   },
+   "Tour_Agree": {
+      "message": "Bonyeza kitufe hapa chini ili kukubaliana na \u003Cb>Masharti ya Matumizi\u003C/b> na \u003Cb>Sera ya Faragha\u003C/b>, na uanze kutafsiri kwa Mate."
+   },
+   "Tour_AutoFPOption": {
+      "message": "Pendekeza kutafsiri tovuti"
+   },
+   "Tour_DoubleClick": {
+      "message": "Tafsiri kwa bofu mara mbili"
+   },
+   "Tour_DoubleClickDesc": {
+      "message": "Bofya-mara mbili kwenye neno lolote ili kuona tafsiri ya papo hapo kwenye kurasa za wavuti."
+   },
+   "Tour_DoubleClickOption": {
+      "message": "Tafsiri kwa kubonyeza mara mbili"
+   },
+   "Tour_GotIt": {
+      "message": "ANZA"
+   },
+   "Tour_HowToContext": {
+      "message": "Au chagua maandishi yoyote na utumie menyu ya muktadha (bonyeza-kulia) kuona tafsiri."
+   },
+   "Tour_HowToPopUp": {
+      "message": "Ikiwa unahitaji kuandika maneno mwenyewe, fungua tu dirisha la pop-up kwa kubonyeza kifungo cha Mate karibu na upau wa anwani wa kivinjari chako."
+   },
+   "Tour_HowToSelect": {
+      "message": "Chagua neno au maandishi yoyote kwenye ukurasa wowote wa wavuti na bonyeza Shift+T ili kupata tafsiri yake."
+   },
+   "Tour_HowToUse": {
+      "message": "Jinsi ya Kutumia?"
+   },
+   "Tour_Important": {
+      "message": "Ni muhimu sana!"
+   },
+   "Tour_ImportantSub": {
+      "message": "Ukurasa huu utakufundisha jinsi ya kutumia \u003Cb>Mate Translate\u003C/b>"
+   },
+   "Tour_ImportantText": {
+      "message": "Chukua sekunde 40 tu kupitia"
+   },
+   "Tour_Langs": {
+      "message": "Ungependa kutafsiri kwa lugha gani?"
+   },
+   "Tour_LangsDesc": {
+      "message": "Chagua lugha unayotaka kutafsiri:"
+   },
+   "Tour_LangsSupported": {
+      "message": "ona lugha zinazoangaliwa"
+   },
+   "Tour_MacUser": {
+      "message": "Nilikuwa natumia Mate kwa Mac"
+   },
+   "Tour_NoShiftT": {
+      "message": "Mate haiwezi kutafsiri maandishi yaliyoteuliwa kwenye ukurasa huu na kwenye faili za PDF kwa sababu ya vikwazo maalum vya kiufundi vya \u003C%=browser%>.\u003Cbr>\u003Cbr>Tafadhali jaribu kufanya hivyo kwenye \u003Ca href='https://reji.me' target='_blank'>ukurasa huu\u003C/a>, kwa mfano."
+   },
+   "Tour_PDF": {
+      "message": "Tafsiri katika PDFs"
+   },
+   "Tour_PDFDesc": {
+      "message": "Chagua maandishi kwenye faili za PDF ndani ya Chrome, bonyeza kulia na uyatafsiri."
+   },
+   "Tour_PDFNote": {
+      "message": "Kitufe cha kuelea na tafsiri za Shift+T hazitafanya kazi katika PDFs kwa sababu ya vikwazo vya kiufundi."
+   },
+   "Tour_Pages": {
+      "message": "Tafsiri kurasa zote za wavuti"
+   },
+   "Tour_PagesDesc": {
+      "message": "Tovuti zote kwa lugha yako. Kiotomatiki."
+   },
+   "Tour_Phrasebook": {
+      "message": "Hifadhi kitabu chako cha maneno binafsi"
+   },
+   "Tour_PhrasebookCreate": {
+      "message": "Unda orodha yangu ya kwanza ya maneno"
+   },
+   "Tour_PhrasebookDesc": {
+      "message": "Hifadhi maneno yote unayotaka kukumbuka katika Kitabu cha Maneno cha Mate.\u003Cbr>Weka msamiati wako wote sehemu moja!"
+   },
+   "Tour_PhrasebookFeature": {
+      "message": "Weka maneno yote unayotaka kukumbuka sehemu moja!"
+   },
+   "Tour_PhrasebookLaunch": {
+      "message": "zindua kitabu cha maneno"
+   },
+   "Tour_PinExtension": {
+      "message": "Gandisha Mate"
+   },
+   "Tour_PinExtensionDesc": {
+      "message": "Pata ufikiaji wa haraka kwa Mate kutoka upau wa anwani."
+   },
+   "Tour_ProCTA": {
+      "message": "Pia fungua vipengele hivi vya kupendeza kwa kusasisha hadi \u003Cb>Mate Pro\u003C/b> sasa hivi:"
+   },
+   "Tour_ProFeature2": {
+      "message": "Tafsiri hotuba"
+   },
+   "Tour_ProFeature3": {
+      "message": "Vifupisho visivyo na kikomo"
+   },
+   "Tour_ProFeature4": {
+      "message": "Kitabu cha Maneno + kulandanisha kwa urahisi"
+   },
+   "Tour_ProFeature7": {
+      "message": "Hamisha Historia na Kitabu cha Maneno kama CSV"
+   },
+   "Tour_ProUpgradedSuccessfully": {
+      "message": "Funga ukurasa huu na anza kuvinjari wavuti bila vizuizi vya lugha!"
+   },
+   "Tour_Ready": {
+      "message": "Tunazingatia \u003Ca href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\" target=\"_blank\">GDPR\u003C/a>!"
+   },
+   "Tour_SafariGet": {
+      "message": "pata mate kwa $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Tour_SelectAndTranslate": {
+      "message": "Chagua na tafsiri"
+   },
+   "Tour_Selected": {
+      "message": "Tafsiri maandishi kwenye tovuti"
+   },
+   "Tour_SelectedDesc": {
+      "message": "Bonyeza mara mbili, chagua kutafsiri, au bonyeza Shift+T."
+   },
+   "Tour_ShortcutsFeature": {
+      "message": "Unda vifupisho vingi kadri unavyohitaji (vs 1 kwenye toleo la bila malipo) kwa lugha tofauti za kutafsiri kwenye kurasa za wavuti."
+   },
+   "Tour_Start": {
+      "message": "Anza bila malipo"
+   },
+   "Tour_Sync": {
+      "message": "Sambaza data katika vifaa vyote"
+   },
+   "Tour_SyncDesc": {
+      "message": "Historia yako ya tafsiri na Kitabu cha Maneno itasambazwa baina ya vifaa vyote unavyotumia Mate."
+   },
+   "Tour_SyncSignIn": {
+      "message": "ingia ili kusambaza"
+   },
+   "Tour_Title": {
+      "message": "Karibu kwenye Mate Translate"
+   },
+   "Tour_TranslationsFeature": {
+      "message": "Tafsiri mara nyingi unavyohitaji wakati wowote."
+   },
+   "Tour_UhHuh": {
+      "message": "Ah huh!"
+   },
+   "Tour_Unlock": {
+      "message": "Mate Pro"
+   },
+   "Tour_UnlockDesc": {
+      "message": "Pata ufikiaji wa vipengele vyote vya premium na uone tovuti bila matangazo."
+   },
+   "Window_AntiWarBanner": {
+      "message": "🇺🇦 Tunapinga vita vya Urusi dhidi ya Ukraine na demokrasia ya Ulaya 🇺🇦"
+   },
+   "Window_CannotTranslatePDF": {
+      "message": "Hatuwezi kutafsiri maandishi yaliyoteuliwa katika faili za PDF. Vikwazo vya kiufundi vya {{browser}}..."
+   },
+   "Window_CannotTranslatePDFChrome": {
+      "message": "Tafadhali utumie menyu ya muktadha kutafsiri maandishi yaliyoteuliwa katika faili za PDF. Vikwazo vya kiufundi vya Chrome..."
+   },
+   "Window_Content_AllLang": {
+      "message": "Zote"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "Zilizotumika Hivi Karibuni"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Tafsiri ..."
+   },
+   "Window_DoYouKnowSomeone": {
+      "message": "Je, unamjua mtu ambaye angeona Mate Translate ni muhimu?"
+   },
+   "Window_DoYouLike": {
+      "message": "Je, unapenda Mate?"
+   },
+   "Window_DoYouLikeDesc": {
+      "message": "Je, kuna kitu kinahitaji kuboreshwa au Mate ni karibu kamili kwako?"
+   },
+   "Window_DontAutocorrect": {
+      "message": "Usirekebishe moja kwa moja"
+   },
+   "Window_Improve": {
+      "message": "inahitaji kuboreshwa"
+   },
+   "Window_LearnMoreAboutPro": {
+      "message": "Jifunze zaidi kuhusu Pro"
+   },
+   "Window_Love": {
+      "message": "naipenda"
+   },
+   "Window_MateFreeDesc": {
+      "message": "Ili kufungua vipengele vyote vipya, unapaswa kusasisha hadi toleo la Pro."
+   },
+   "Window_MateProDesc": {
+      "message": "Unapaswa kujisajili ili kuweza kuwezesha usawazishaji wa historia na Kitabu cha Maneno."
+   },
+   "Window_Mw_LaterButton": {
+      "message": "Nikumbushe baadaye"
+   },
+   "Window_Mw_NeverButton": {
+      "message": "Usinikumbushe kamwe"
+   },
+   "Window_Mw_NotChromeNotNow": {
+      "message": "Sio sasa"
+   },
+   "Window_Mw_RateButton": {
+      "message": "Pima sasa"
+   },
+   "Window_Mw_RateDesc": {
+      "message": "Tungefurahi kuona tathmini yako katika Duka la App! Haita chukua zaidi ya dakika moja. Endelea na injini yetu ya tafsiri iwe vizuri kwa ukaguzi wako!"
+   },
+   "Window_Mw_RateTitle": {
+      "message": "Pima Mate yako"
+   },
+   "Window_Mw_UpgradeButton": {
+      "message": "boresha kwa $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Window_NetflixFeatureDesc": {
+      "message": "Tafsiri na ujifunze maneno wakati unatazama Netflix. Bonyeza neno kwenye manukuu ili kuona tafsiri na uhifadhi kwa baadaye."
+   },
+   "Window_NewFeature": {
+      "message": "Kipengele kipya!"
+   },
+   "Window_No": {
+      "message": "hapana"
+   },
+   "Window_Offline": {
+      "message": "Hakuna Muunganisho wa Mtandao"
+   },
+   "Window_OfflineDesc": {
+      "message": "Haiwezi kutafsiri maneno mapya kwa hivyo"
+   },
+   "Window_Pro": {
+      "message": "Pata uzoefu wa tafsiri haraka na laini zaidi na Mate Pro!"
+   },
+   "Window_ProBannerAds": {
+      "message": "Boresha hadi Pro ili kufungua vipengele zaidi."
+   },
+   "Window_QuickQuestion": {
+      "message": "Swali la haraka..."
+   },
+   "Window_RateUsDesc": {
+      "message": "Je, unaweza kuchukua dakika moja kutupatia alama kwenye Duka la Programu? Itatusaidia sana."
+   },
+   "Window_ReadMore": {
+      "message": "soma zaidi"
+   },
+   "Window_SendFeedback": {
+      "message": "Tuma maoni kwetu"
+   },
+   "Window_SendFeedbackDesc": {
+      "message": "Tafadhali tujulishe jinsi tunavyoweza kufanya Mate kuwa bora zaidi."
+   },
+   "Window_Share": {
+      "message": "Sambaza Mate"
+   },
+   "Window_ShareDesc": {
+      "message": "Itatusaidia sana kama utasambaza habari kuhusu Mate!"
+   },
+   "Window_Shortcut": {
+      "message": "Bonyeza Ctrl+T kufungua dirisha hili haraka."
+   },
+   "Window_TranslationCopied": {
+      "message": "Tafsiri imekopiwa!"
+   },
+   "Window_UnpinPro": {
+      "message": "Boresha hadi Pro ili kuondoa dirisha la Mate."
+   },
+   "Window_WriteUs": {
+      "message": "tuandikie barua pepe"
+   },
+   "Window_Yes": {
+      "message": "ndio"
+   }
+}

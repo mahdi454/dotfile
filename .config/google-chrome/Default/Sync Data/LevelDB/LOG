@@ -1,0 +1,9 @@
+2024/12/12-16:11:56.386 27f7 Reusing MANIFEST /home/madi/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/12/12-16:11:56.728 27f7 Recovering log #8
+2024/12/12-16:11:57.377 27f7 Reusing old log /home/madi/.config/google-chrome/Default/Sync Data/LevelDB/000008.log 
+2024/12/12-16:12:19.954 2835 Level-0 table #12: started
+2024/12/12-16:12:20.543 2835 Level-0 table #12: 105930 bytes OK
+2024/12/12-16:12:20.977 2835 Delete type=0 #8
+2024/12/12-18:00:31.379 27f7 Level-0 table #14: started
+2024/12/12-18:00:31.437 27f7 Level-0 table #14: 103375 bytes OK
+2024/12/12-18:00:31.480 27f7 Delete type=0 #11

@@ -1,0 +1,179 @@
+{
+   "account": {
+      "message": "Акаунт"
+   },
+   "au": {
+      "message": "Австралія"
+   },
+   "br": {
+      "message": "Бразилія"
+   },
+   "ca": {
+      "message": "Канада"
+   },
+   "cl": {
+      "message": "Чилі"
+   },
+   "connected": {
+      "message": "Підключено"
+   },
+   "contactUs": {
+      "message": "Зв'язатися з нами"
+   },
+   "continueText": {
+      "message": "Або продовжити без акаунту"
+   },
+   "de": {
+      "message": "Німеччина"
+   },
+   "disableAddressAutofill": {
+      "message": "Вимкнути автозаповнення адрес"
+   },
+   "disableAddressAutofillSubTitle": {
+      "message": "Вимкніть автоматичне заповнення адрес у формах, щоб захистити своє місцезнаходження."
+   },
+   "disableWebRtc": {
+      "message": "Вимкнути WebRTC"
+   },
+   "disableWebRtcSubTitle": {
+      "message": "Вимкніть WebRTC, щоб запобігти витоку вашої реальної IP-адреси."
+   },
+   "disconnected": {
+      "message": "Відключено"
+   },
+   "editInfo": {
+      "message": "Редагувати інформацію"
+   },
+   "email": {
+      "message": "Електронна пошта"
+   },
+   "es": {
+      "message": "Іспанія"
+   },
+   "extDesc": {
+      "message": "Безкоштовний VPN, необмежені дані, висока швидкість, безпечне шифрування, відсутність логів і легкість у використанні."
+   },
+   "extName": {
+      "message": "Безкоштовний VPN - 1VPN"
+   },
+   "forgotPassword": {
+      "message": "Забули пароль?"
+   },
+   "fr": {
+      "message": "Франція"
+   },
+   "free": {
+      "message": "Безкоштовно"
+   },
+   "goToLocationsPage": {
+      "message": "Перейти до сторінки локацій"
+   },
+   "goToOptionsPage": {
+      "message": "Перейти до сторінки налаштувань"
+   },
+   "in": {
+      "message": "Індія"
+   },
+   "jp": {
+      "message": "Японія"
+   },
+   "kr": {
+      "message": "Південна Корея"
+   },
+   "loading": {
+      "message": "Завантаження..."
+   },
+   "locations": {
+      "message": "Локації"
+   },
+   "login": {
+      "message": "Увійти"
+   },
+   "logout": {
+      "message": "Вийти"
+   },
+   "menu": {
+      "message": "Меню"
+   },
+   "mx": {
+      "message": "Мексика"
+   },
+   "nl": {
+      "message": "Нідерланди"
+   },
+   "options": {
+      "message": "Опції"
+   },
+   "password": {
+      "message": "Пароль"
+   },
+   "pl": {
+      "message": "Польща"
+   },
+   "plan": {
+      "message": "План підписки"
+   },
+   "premium": {
+      "message": "Преміум"
+   },
+   "rateText1": {
+      "message": "Якщо вам подобається 1VPN, будь ласка"
+   },
+   "rateText2": {
+      "message": "оцініть нас на 5 зірок"
+   },
+   "ro": {
+      "message": "Румунія"
+   },
+   "se": {
+      "message": "Швеція"
+   },
+   "sg": {
+      "message": "Сінгапур"
+   },
+   "signUp": {
+      "message": "Реєстрація"
+   },
+   "spoofGeolocation": {
+      "message": "Підробка геолокації"
+   },
+   "spoofGeolocationSubTitle": {
+      "message": "Підробіть API геолокації HTML5, щоб відповідати вашому поточному розташуванню VPN."
+   },
+   "ue": {
+      "message": "Схід США"
+   },
+   "uk": {
+      "message": "Велика Британія"
+   },
+   "upgradeLocation": {
+      "message": "Перейдіть на преміум план підписки, щоб отримати доступ до цієї локації"
+   },
+   "upgradeText1": {
+      "message": "Перейти на преміум-версію"
+   },
+   "upgradeText2": {
+      "message": "для більшої кількості локацій та кращої швидкості"
+   },
+   "us": {
+      "message": "Güney ABD"
+   },
+   "use": {
+      "message": "Схід США"
+   },
+   "username": {
+      "message": "Ім'я користувача"
+   },
+   "uss": {
+      "message": "Güney ABD"
+   },
+   "usw": {
+      "message": "Захід США"
+   },
+   "uw": {
+      "message": "Захід США"
+   },
+   "za": {
+      "message": "Південна Африка"
+   }
+}

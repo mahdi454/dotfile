@@ -1,0 +1,179 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "au": {
+      "message": "Australien"
+   },
+   "br": {
+      "message": "Brasilien"
+   },
+   "ca": {
+      "message": "Kanada"
+   },
+   "cl": {
+      "message": "Chile"
+   },
+   "connected": {
+      "message": "Verbunden"
+   },
+   "contactUs": {
+      "message": "Kontaktieren Sie uns"
+   },
+   "continueText": {
+      "message": "Oder ohne Konto fortfahren"
+   },
+   "de": {
+      "message": "Deutschland"
+   },
+   "disableAddressAutofill": {
+      "message": "Automatisches Ausfüllen der Adresse deaktivieren"
+   },
+   "disableAddressAutofillSubTitle": {
+      "message": "Deaktiviere das automatische Ausfüllen von Adressen in Formularen, um deinen Standort zu schützen."
+   },
+   "disableWebRtc": {
+      "message": "WebRTC deaktivieren"
+   },
+   "disableWebRtcSubTitle": {
+      "message": "Deaktiviere WebRTC, um das Lecken deiner realen IP-Adresse zu verhindern."
+   },
+   "disconnected": {
+      "message": "Getrennt"
+   },
+   "editInfo": {
+      "message": "Info bearbeiten"
+   },
+   "email": {
+      "message": "E-Mail"
+   },
+   "es": {
+      "message": "Spanien"
+   },
+   "extDesc": {
+      "message": "Kostenloses VPN, unbegrenzte Daten, schnelle Geschwindigkeiten, sichere Verschlüsselung, keine Protokollierung."
+   },
+   "extName": {
+      "message": "Kostenloses VPN - 1VPN"
+   },
+   "forgotPassword": {
+      "message": "Passwort vergessen?"
+   },
+   "fr": {
+      "message": "Frankreich"
+   },
+   "free": {
+      "message": "Kostenlos"
+   },
+   "goToLocationsPage": {
+      "message": "Zur Standortseite gehen"
+   },
+   "goToOptionsPage": {
+      "message": "Zur Einstellungsseite gehen"
+   },
+   "in": {
+      "message": "Indien"
+   },
+   "jp": {
+      "message": "Japan"
+   },
+   "kr": {
+      "message": "Südkorea"
+   },
+   "loading": {
+      "message": "Lädt..."
+   },
+   "locations": {
+      "message": "Standorte"
+   },
+   "login": {
+      "message": "Anmelden"
+   },
+   "logout": {
+      "message": "Abmelden"
+   },
+   "menu": {
+      "message": "Menü"
+   },
+   "mx": {
+      "message": "Mexiko"
+   },
+   "nl": {
+      "message": "Niederlande"
+   },
+   "options": {
+      "message": "Einstellungen"
+   },
+   "password": {
+      "message": "Passwort"
+   },
+   "pl": {
+      "message": "Polen"
+   },
+   "plan": {
+      "message": "Tarif"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "rateText1": {
+      "message": "Wenn Ihnen 1VPN gefällt, bewerten"
+   },
+   "rateText2": {
+      "message": "Sie uns bitte mit 5 Sternen"
+   },
+   "ro": {
+      "message": "Rumänien"
+   },
+   "se": {
+      "message": "Schweden"
+   },
+   "sg": {
+      "message": "Singapur"
+   },
+   "signUp": {
+      "message": "Registrieren"
+   },
+   "spoofGeolocation": {
+      "message": "Geolocation fälschen"
+   },
+   "spoofGeolocationSubTitle": {
+      "message": "Spoof HTML5-Geolocation-API, um deinen aktuellen VPN-Standort zu entsprechen."
+   },
+   "ue": {
+      "message": "USA Ost"
+   },
+   "uk": {
+      "message": "Vereinigtes Königreich"
+   },
+   "upgradeLocation": {
+      "message": "Upgraden, um diesen Standort zu erreichen"
+   },
+   "upgradeText1": {
+      "message": "Upgraden"
+   },
+   "upgradeText2": {
+      "message": "für mehr Standorte und schnellere Geschwindigkeiten"
+   },
+   "us": {
+      "message": "USA Süd"
+   },
+   "use": {
+      "message": "USA Ost"
+   },
+   "username": {
+      "message": "Benutzername"
+   },
+   "uss": {
+      "message": "USA Süd"
+   },
+   "usw": {
+      "message": "USA West"
+   },
+   "uw": {
+      "message": "USA West"
+   },
+   "za": {
+      "message": "Südafrika"
+   }
+}

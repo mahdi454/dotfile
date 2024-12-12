@@ -1,0 +1,1739 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Kratice"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Pridjevi"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Prilozi"
+   },
+   "CommonUi_LangPart_Auxiliaryverb": {
+      "message": "Pomoćni glagoli"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Veznici"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Usklici"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Imenice"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Fraze"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Prijedlozi"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Zamjenice"
+   },
+   "CommonUi_LangPart_Suffix": {
+      "message": "Sufiksi"
+   },
+   "CommonUi_LangPart_Transliteration": {
+      "message": "Transliteracija"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Glagoli"
+   },
+   "CommonUi_NoResults": {
+      "message": "Nema rezultata"
+   },
+   "Common_Copied": {
+      "message": "Kopirano!"
+   },
+   "ContextMenu_FullPage": {
+      "message": "Prevedi ovu stranicu na \u003C%=lang%>"
+   },
+   "Csv_FromLang": {
+      "message": "IZ JEZIKA"
+   },
+   "Csv_Input": {
+      "message": "UNOS"
+   },
+   "Csv_IntoLang": {
+      "message": "U JEZIK"
+   },
+   "Csv_Synonyms": {
+      "message": "SINONIMI"
+   },
+   "Csv_TimeDate": {
+      "message": "VRIJEME/DATUM"
+   },
+   "Csv_Translation": {
+      "message": "PRIJEVOD"
+   },
+   "Csv_Transliteration": {
+      "message": "TRANSLITERACIJA"
+   },
+   "Csv_WhereTranslated": {
+      "message": "GDJE JE PREVEDENO"
+   },
+   "Dict_DictionaryTab": {
+      "message": "Rječnik"
+   },
+   "Dict_NotFoundCaption": {
+      "message": "Ispričavamo se — naporno radimo na širenju našeg rječnika"
+   },
+   "Dict_NotFoundTitle": {
+      "message": "Nije moguće pronaći definiciju"
+   },
+   "Dict_UpgradeToPro": {
+      "message": "Nadogradite na Pro za definicije"
+   },
+   "DotsButton_Added": {
+      "message": "Dodano u \u003C%=wl%>"
+   },
+   "DotsButton_Copied": {
+      "message": "Prijevod je kopiran"
+   },
+   "DotsButton_OrigCopied": {
+      "message": "Izvorni tekst je kopiran"
+   },
+   "FullPage": {
+      "message": "Prevedi cijelu stranicu"
+   },
+   "FullPageDesc": {
+      "message": "Prikaži ikonu Mate u gornjem desnom kutu, ako je web stranica na stranom jeziku. Kliknite na tu ikonu kako biste preveli stranicu na svoj jezik."
+   },
+   "FullPageShowOriginal": {
+      "message": "Prikaži izvorno"
+   },
+   "FullPageTranslate": {
+      "message": "Prevedi"
+   },
+   "FullPageTranslatedTo": {
+      "message": "Prevedeno na"
+   },
+   "FullPage_AlwaysTranslate": {
+      "message": "Uvijek prevedi {{page_lang_beautiful}} na {{target_lang_beautiful}}"
+   },
+   "FullPage_ChangeLanguage": {
+      "message": "Promijeni jezik"
+   },
+   "FullPage_ContextMenuOption": {
+      "message": "Otvori prijevod cijele stranice"
+   },
+   "FullPage_CurrentPageLang": {
+      "message": "Ova stranica je na jeziku {{page_lang_beautiful}}"
+   },
+   "FullPage_NeverTranslate": {
+      "message": "Nikad ne prevodi {{page_lang_beautiful}}"
+   },
+   "FullPage_SwitchBackTo": {
+      "message": "Vrati na {{language}}"
+   },
+   "FullPage_TranslateTo": {
+      "message": "Prevedi na {{target_lang_beautiful}}"
+   },
+   "FullPage_WeTranslatedIt": {
+      "message": "Preveli smo ovu stranicu na {{language}}"
+   },
+   "History_AnotherDevice": {
+      "message": "Na drugom uređaju"
+   },
+   "History_Content_GoUpButton": {
+      "message": "Idi gore"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "Ovdje će biti povijest vaših prijevoda"
+   },
+   "History_Export_OnlyProDesc": {
+      "message": "Nadogradite na Pro verziju kako biste svoju povijest prijevoda izvezli u CSV datoteku"
+   },
+   "History_FullyBlockedOut": {
+      "message": "Nadogradite na Pro da biste imali neograničen pristup povijesti prijevoda."
+   },
+   "History_InPopup": {
+      "message": "U skočnom prozoru"
+   },
+   "History_Options_DeleteMarked_1": {
+      "message": "Izbriši"
+   },
+   "History_Options_DeleteMarked_2": {
+      "message": "označeno"
+   },
+   "History_Options_SelectToDelete": {
+      "message": "označi za brisanje"
+   },
+   "History_Options_SelectToDelete_MarkAll": {
+      "message": "Označi sve"
+   },
+   "History_Options_SelectToDelete_UnmarkAll": {
+      "message": "Poništi označavanje"
+   },
+   "Human_OrderButton": {
+      "message": "Prevoditeljska usluga od strane profesionalaca"
+   },
+   "IDB_Error": {
+      "message": "Vaš preglednik ima onemogućenu Indexed DB bazu podataka"
+   },
+   "IDB_ErrorDesc": {
+      "message": "Mate Translate zahtijeva omogućenu Indexed DB bazu podataka (lokalnu pohranu u kojoj pohranjujemo vaše prijevode i rječnik) za punu funkcionalnost.\u003Cbr>\u003Cbr>Vaš preglednik je čini se u privatnom načinu rada što onemogućava Indexed DB funkcionalnost (to je \u003Ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=781982\" target=\"_blank\">greška #781982\u003C/a> za Firefox).\u003Cbr>\u003Cbr>Možda možete promijeniti postavku Povijesti na \u003Ca href=\"about:preferences#privacy\" target=\"_blank\">about:preferences#privacy\u003C/a> na opciju \"Firefox će pamtiti povijest\". To može pomoći, ali nije zajamčeno. U protivnom, možete kontaktirati Mozillu i zatražiti brže popravljanje spomenute greške.\u003Cbr>\u003Cbr>Iskreno se ispričavamo zbog neugodnosti, ali nažalost ne možemo učiniti ništa u vezi s time."
+   },
+   "Kernel_AppDescription": {
+      "message": "Vaš prevoditelj za web stranice, PDF-ove, označeni tekst i Netflix titlove. Lako razumite 103 jezika."
+   },
+   "Kernel_AppName": {
+      "message": "Mate Translate – prevoditelj, rječnik"
+   },
+   "Kernel_Cancel": {
+      "message": "odustani"
+   },
+   "Kernel_ClearInput": {
+      "message": "Očisti polje za unos"
+   },
+   "Kernel_Context_Into": {
+      "message": "u"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "Povijest"
+   },
+   "Kernel_IPA": {
+      "message": "Fonetska transkripcija"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "Afrikaans"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "Albanski"
+   },
+   "Kernel_Lang_Amharic": {
+      "message": "Amharski"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "Arapski"
+   },
+   "Kernel_Lang_ArabicAlgeria": {
+      "message": "Arapski (Alžir)"
+   },
+   "Kernel_Lang_ArabicBahrain": {
+      "message": "Arapski (Bahrein)"
+   },
+   "Kernel_Lang_ArabicEgypt": {
+      "message": "Arapski (Egipat)"
+   },
+   "Kernel_Lang_ArabicGeneral": {
+      "message": "Arapski (Opći)"
+   },
+   "Kernel_Lang_ArabicIraq": {
+      "message": "Arapski (Irak)"
+   },
+   "Kernel_Lang_ArabicJordan": {
+      "message": "Arapski (Jordan)"
+   },
+   "Kernel_Lang_ArabicKuwait": {
+      "message": "Arapski (Kuvajt)"
+   },
+   "Kernel_Lang_ArabicLebanon": {
+      "message": "Arapski (Libanon)"
+   },
+   "Kernel_Lang_ArabicLibyan": {
+      "message": "Arapski (Libija)"
+   },
+   "Kernel_Lang_ArabicMorocco": {
+      "message": "Arapski (Maroko)"
+   },
+   "Kernel_Lang_ArabicOman": {
+      "message": "Arapski (Oman)"
+   },
+   "Kernel_Lang_ArabicQatar": {
+      "message": "Arapski (Katar)"
+   },
+   "Kernel_Lang_ArabicSaudi": {
+      "message": "Arapski (Saudijska Arabija)"
+   },
+   "Kernel_Lang_ArabicSudan": {
+      "message": "Arapski (Sudan)"
+   },
+   "Kernel_Lang_ArabicSyria": {
+      "message": "Arapski (Sirija)"
+   },
+   "Kernel_Lang_ArabicTunisia": {
+      "message": "Arapski (Tunis)"
+   },
+   "Kernel_Lang_ArabicUAE": {
+      "message": "Arapski (UAE)"
+   },
+   "Kernel_Lang_ArabicYemen": {
+      "message": "Arapski (Jemen)"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "Armenski"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "Automatsko prepoznavanje"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "Azerbajdžanski"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "Baskijski"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "Bjeloruski"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "Bengalski"
+   },
+   "Kernel_Lang_Bosnian": {
+      "message": "Bosanski"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "Bugarski"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "Katalonski"
+   },
+   "Kernel_Lang_Cebuano": {
+      "message": "Cebuano"
+   },
+   "Kernel_Lang_Chichewa": {
+      "message": "Čičeva"
+   },
+   "Kernel_Lang_Chinese": {
+      "message": "Kineski"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "Pojednostavljeni kineski"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "Tradicionalni kineski"
+   },
+   "Kernel_Lang_Corsican": {
+      "message": "Korzikanski"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "Hrvatski"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "Češki"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "Danski"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "Nizozemski"
+   },
+   "Kernel_Lang_DutchBelgium": {
+      "message": "Nizozemski (Belgija)"
+   },
+   "Kernel_Lang_DutchNetherlands": {
+      "message": "Nizozemski (Nizozemska)"
+   },
+   "Kernel_Lang_English": {
+      "message": "Engleski"
+   },
+   "Kernel_Lang_EnglishUS": {
+      "message": "Engleski (SAD)"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "Esperanto"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "Estonski"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "Filipinski"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "Finski"
+   },
+   "Kernel_Lang_French": {
+      "message": "Francuski"
+   },
+   "Kernel_Lang_FrenchBelgium": {
+      "message": "Francuski (Belgija)"
+   },
+   "Kernel_Lang_FrenchCanada": {
+      "message": "Francuski (Kanada)"
+   },
+   "Kernel_Lang_FrenchFrance": {
+      "message": "Francuski (Francuska)"
+   },
+   "Kernel_Lang_FrenchSwiss": {
+      "message": "Francuski (Švicarska)"
+   },
+   "Kernel_Lang_Frisian": {
+      "message": "Frizijski"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Galicijski"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "Gruzijski"
+   },
+   "Kernel_Lang_German": {
+      "message": "Njemački"
+   },
+   "Kernel_Lang_GermanAustria": {
+      "message": "Njemački (Austrija)"
+   },
+   "Kernel_Lang_GermanGermany": {
+      "message": "Njemački (Njemačka)"
+   },
+   "Kernel_Lang_GermanLichtenstein": {
+      "message": "Njemački (Lihtenštajn)"
+   },
+   "Kernel_Lang_GermanLux": {
+      "message": "Njemački (Luksemburg)"
+   },
+   "Kernel_Lang_GermanSwiss": {
+      "message": "Njemački (Švicarska)"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Grčki"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Gudžarati"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Haićanski kreolski"
+   },
+   "Kernel_Lang_Hausa": {
+      "message": "Hausa"
+   },
+   "Kernel_Lang_Hawaiian": {
+      "message": "Havajski"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "Hebrejski"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Hindski"
+   },
+   "Kernel_Lang_Hmong": {
+      "message": "Hmong"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "Mađarski"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "Islandski"
+   },
+   "Kernel_Lang_Igbo": {
+      "message": "Igbo"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Indonezijski"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Irski"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Talijanski"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Japanski"
+   },
+   "Kernel_Lang_Javanese": {
+      "message": "Javanski"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Kannada"
+   },
+   "Kernel_Lang_Kazakh": {
+      "message": "Kazahstanski"
+   },
+   "Kernel_Lang_Khmer": {
+      "message": "Kmerski"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Korejski"
+   },
+   "Kernel_Lang_Kurdish": {
+      "message": "Kurdski (Kurmanji)"
+   },
+   "Kernel_Lang_KurdishKurmanji": {
+      "message": "Kurdski (Kurmanji)"
+   },
+   "Kernel_Lang_Kyrgyz": {
+      "message": "Kirgizijski"
+   },
+   "Kernel_Lang_Lao": {
+      "message": "Laoski"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Latinski"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Latvijski"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Litvanski"
+   },
+   "Kernel_Lang_Luxembourgish": {
+      "message": "Luksemburški"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Makedonski"
+   },
+   "Kernel_Lang_Malagasy": {
+      "message": "Malagaški"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Malezijski"
+   },
+   "Kernel_Lang_Malayalam": {
+      "message": "Malajalam"
+   },
+   "Kernel_Lang_Malayam": {
+      "message": "Malajalam"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Malteški"
+   },
+   "Kernel_Lang_Maori": {
+      "message": "Maorski"
+   },
+   "Kernel_Lang_Marathi": {
+      "message": "Marati"
+   },
+   "Kernel_Lang_Mongolian": {
+      "message": "Mongolski"
+   },
+   "Kernel_Lang_Myanmar": {
+      "message": "Mjanmarski (burmanski)"
+   },
+   "Kernel_Lang_MyanmarBurmese": {
+      "message": "Mjanmarski (burmanski)"
+   },
+   "Kernel_Lang_Nepali": {
+      "message": "Nepalski"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Norveški"
+   },
+   "Kernel_Lang_Pashto": {
+      "message": "Paštunski"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Perzijski"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Poljski"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Portugalski"
+   },
+   "Kernel_Lang_PortugueseBrazil": {
+      "message": "Portugalski (Brazilija)"
+   },
+   "Kernel_Lang_PortuguesePortugal": {
+      "message": "Portugalski (Portugal)"
+   },
+   "Kernel_Lang_Punjabi": {
+      "message": "Pandžapski"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Rumunjski"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Ruski"
+   },
+   "Kernel_Lang_Samoan": {
+      "message": "Samoanski"
+   },
+   "Kernel_Lang_ScotsGaelic": {
+      "message": "Škotski galski"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Srpski"
+   },
+   "Kernel_Lang_Sesotho": {
+      "message": "Sesotski"
+   },
+   "Kernel_Lang_Shona": {
+      "message": "Šona"
+   },
+   "Kernel_Lang_Sindhi": {
+      "message": "Sindi"
+   },
+   "Kernel_Lang_Sinhala": {
+      "message": "Sinhalski"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Slovački"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Slovenski"
+   },
+   "Kernel_Lang_Somali": {
+      "message": "Somalski"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Španjolski"
+   },
+   "Kernel_Lang_SpanishArgentina": {
+      "message": "Španjolski (Argentina)"
+   },
+   "Kernel_Lang_SpanishBolivia": {
+      "message": "Španjolski (Bolivija)"
+   },
+   "Kernel_Lang_SpanishChile": {
+      "message": "Španjolski (Čile)"
+   },
+   "Kernel_Lang_SpanishColombia": {
+      "message": "Španjolski (Kolumbija)"
+   },
+   "Kernel_Lang_SpanishCostaRica": {
+      "message": "Španjolski (Kostarika)"
+   },
+   "Kernel_Lang_SpanishDR": {
+      "message": "Španjolski (Dominikanska Republika)"
+   },
+   "Kernel_Lang_SpanishEquador": {
+      "message": "Španjolski (Ekvador)"
+   },
+   "Kernel_Lang_SpanishGuatemala": {
+      "message": "Španjolski (Gvatemala)"
+   },
+   "Kernel_Lang_SpanishHonduras": {
+      "message": "Španjolski (Honduras)"
+   },
+   "Kernel_Lang_SpanishMexico": {
+      "message": "Španjolski (Meksiko)"
+   },
+   "Kernel_Lang_SpanishNicaragua": {
+      "message": "Španjolski (Nikaragva)"
+   },
+   "Kernel_Lang_SpanishPanama": {
+      "message": "Španjolski (Panama)"
+   },
+   "Kernel_Lang_SpanishParaguay": {
+      "message": "Španjolski (Paragvaj)"
+   },
+   "Kernel_Lang_SpanishPeru": {
+      "message": "Španjolski (Peru)"
+   },
+   "Kernel_Lang_SpanishPuertoRico": {
+      "message": "Španjolski (Portoriko)"
+   },
+   "Kernel_Lang_SpanishSalvador": {
+      "message": "Španjolski (Salvador)"
+   },
+   "Kernel_Lang_SpanishSpain": {
+      "message": "Španjolski (Španjolska)"
+   },
+   "Kernel_Lang_SpanishUS": {
+      "message": "Španjolski (SAD)"
+   },
+   "Kernel_Lang_SpanishUruguay": {
+      "message": "Španjolski (Urugvaj)"
+   },
+   "Kernel_Lang_SpanishVenezuela": {
+      "message": "Španjolski (Venezuela)"
+   },
+   "Kernel_Lang_Sundanese": {
+      "message": "Sundanski"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Svahili"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Švedski"
+   },
+   "Kernel_Lang_Tajik": {
+      "message": "Tadžički"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Tamilski"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Telugu"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Tajlandski"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "Turski"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Ukrajinski"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Urdu"
+   },
+   "Kernel_Lang_Uzbek": {
+      "message": "Uzbekistanski"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Vijetnamski"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Velški"
+   },
+   "Kernel_Lang_Xhosa": {
+      "message": "Xhosa"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Jidiš"
+   },
+   "Kernel_Lang_Yoruba": {
+      "message": "Joruba"
+   },
+   "Kernel_Lang_Zulu": {
+      "message": "Zulu"
+   },
+   "Kernel_NoResults": {
+      "message": "Nema rezultata"
+   },
+   "Kernel_Ok": {
+      "message": "U redu"
+   },
+   "Kernel_PhrasebookTitle": {
+      "message": "Rječnik fraza"
+   },
+   "Kernel_RemoveCombination": {
+      "message": "ukloni"
+   },
+   "Kernel_SearchPlaceholder": {
+      "message": "Traži"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "Postavke"
+   },
+   "Kernel_Vowels": {
+      "message": "aeiou"
+   },
+   "Login_ByClicking": {
+      "message": "Klikom na 'Kreiraj račun' slažete se s našim \u003Cb>\u003Ca href=\"https://matetranslate.com/terms\">Uvjetima korištenja\u003C/a>\u003C/b> i \u003Cb>\u003Ca href=\"https://matetranslate.com/privacy\">Pravilima o privatnosti\u003C/a>\u003C/b>."
+   },
+   "Login_Continue": {
+      "message": "NASTAVI"
+   },
+   "Login_ContinueWithout": {
+      "message": "Preskoči"
+   },
+   "Login_Create": {
+      "message": "Kreiraj račun"
+   },
+   "Login_Email": {
+      "message": "Unesite svoju email adresu..."
+   },
+   "Login_Forgot": {
+      "message": "Zaboravili ste lozinku?"
+   },
+   "Login_GDPR": {
+      "message": "\u003Cb>Dobrodošli u translator koji zaista brine o vašoj privatnosti.\u003C/b> Nikada nećemo pratiti ili prodavati vaše podatke. Naša \u003Ca class=\"open-pp\" href=\"javascript:;\">Politika privatnosti\u003C/a> je jedinstvena—kratka i ugodna za čitanje. Molimo pročitajte i prihvatite je da biste započeli koristiti Mate račun."
+   },
+   "Login_IReadAndAgree": {
+      "message": "Slažem se"
+   },
+   "Login_NewPassword": {
+      "message": "Nova lozinka..."
+   },
+   "Login_NoAccountHead": {
+      "message": "Nemam račun"
+   },
+   "Login_NoAccountText": {
+      "message": "Ako ste kupili Pro, ali tada niste bili prijavljeni i niste dovršili registraciju putem poveznice koju smo poslali na email adresu koju ste naveli pri kupnji, trebali biste dovršiti registraciju putem poveznice iz emaila. Nakon što to završite, moći ćete se prijaviti u aplikaciju."
+   },
+   "Login_NoRememberHead": {
+      "message": "Ne sjećam se"
+   },
+   "Login_NoRememberText": {
+      "message": "Ako se ne sjećate emaila koji ste koristili za kupovinu, pokušajte pronaći email s potvrdom kupnje od nas u svojoj ulaznoj pošti."
+   },
+   "Login_OrSignInWith": {
+      "message": "ILI SE PRIJAVITE S"
+   },
+   "Login_Password": {
+      "message": "Unesite svoju lozinku..."
+   },
+   "Login_PasswordMin8": {
+      "message": "Vaša lozinka treba imati najmanje 8 znakova"
+   },
+   "Login_Promo": {
+      "message": "Prijavite se za korištenje Matea i sinkronizirajte sve svoje podatke na svim uređajima!"
+   },
+   "Login_QuestionsHead": {
+      "message": "Imate li pitanja?"
+   },
+   "Login_QuestionsText": {
+      "message": "Ako i dalje imate poteškoće, možete nas kontaktirati na \u003Ca href=\"mailto:support@matetranslate.com?subject=Login Issues\">support@matetranslate.com\u003C/a>."
+   },
+   "Login_Restore": {
+      "message": "Kako biste vratili Mate Translate Pro, prijavite se na račun s kojeg ste ga kupili (\u003Ca href=\"javascript:;\" class=\"show-info\">ne znate koji je?\u003C/a>)"
+   },
+   "Login_SignIn": {
+      "message": "PRIJAVITE SE"
+   },
+   "Login_SignUp": {
+      "message": "Registrirajte se"
+   },
+   "Login_Sync": {
+      "message": "Vaš Mate račun je najbolji način da zadržite svoju povijest, Phrasebook i postavke sigurnosno kopirane i sinkronizirane na svim uređajima."
+   },
+   "Login_YourName": {
+      "message": "Vaše ime (neobavezno)..."
+   },
+   "MatePro_Description": {
+      "message": "Poboljšajte svoje iskustvo prevođenja s Mate Pro! Platite jednom, koristite zauvijek."
+   },
+   "MicAccess_HowToUnlock": {
+      "message": "Izbrišite \u003Cb>$id$\u003C/b> iz blokiranih u mikrofon iznimkama. Nakon toga, \u003Cb>\u003Ca href=\"../public/mic_access.html\">kliknite ovdje\u003C/a>\u003C/b>.",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/"
+         }
+      }
+   },
+   "MicAccess_Note": {
+      "message": "Kako bi prepoznao i preveo govor, Mate Translate treba dopuštenje za korištenje mikrofona vašeg računala."
+   },
+   "MicAccess_PageTitle": {
+      "message": "Pristup mikrofonu"
+   },
+   "MicAccess_Title": {
+      "message": "Mikrofon"
+   },
+   "MicAccess_UnlockButton": {
+      "message": "dopuštam u postavkama sadržaja"
+   },
+   "Options_TooltipSizePro": {
+      "message": "Nadogradite na Pro da biste promijenili veličinu tooltip-a na stranici."
+   },
+   "Pb_AddButton": {
+      "message": "Dodaj"
+   },
+   "Pb_EarlyAccess": {
+      "message": "zatraži rano pristupanje"
+   },
+   "Pb_Empty": {
+      "message": "Rječnik fraza je prazan"
+   },
+   "Pb_EmptyWl_Text1": {
+      "message": "Pohranite sve riječi koje želite zapamtiti na ovoj temi ovdje."
+   },
+   "Pb_EmptyWl_Text2": {
+      "message": "Samo upišite riječi, Mate će prikazati prijevode za njih."
+   },
+   "Pb_EmptyWl_Title2": {
+      "message": "Jednostavno spremanje"
+   },
+   "Pb_Empty_Button": {
+      "message": "kreiraj popis riječi"
+   },
+   "Pb_Empty_Text1": {
+      "message": "Kreirajte popise riječi za pohranu riječi koje želite naučiti."
+   },
+   "Pb_Empty_Text2": {
+      "message": "Držite sav svoj vokabular na jednom mjestu!"
+   },
+   "Pb_Empty_Title": {
+      "message": "Što je ovo?"
+   },
+   "Pb_EnterWordOrPhrase": {
+      "message": "Unesite riječ ili frazu ..."
+   },
+   "Pb_HowToAddPhrase": {
+      "message": "Koristite tekstno polje iznad za dodavanje novih fraza"
+   },
+   "Pb_HowToCreateWordlist": {
+      "message": "Kliknite gumb \"+\" gore za kreiranje novog popisa riječi"
+   },
+   "Pb_Learn": {
+      "message": "Uči"
+   },
+   "Pb_LearnOnboardingDesc": {
+      "message": "Želimo da Mate ostane dobar za jednu svrhu - prevođenje.\u003Cbr>\u003Cbr>Zato smo napravili Reji - super jednostavnu besplatnu aplikaciju za učinkovito učenje vokabulara. Također smo omogućili da sve svoje riječi iz Matea izvezete u Reji jednim klikom!"
+   },
+   "Pb_Loading": {
+      "message": "učitavanje..."
+   },
+   "Pb_NewWlNote": {
+      "message": "Kreirajte popis riječi za fiksni jezični par i dodajte neograničen broj fraza u njega."
+   },
+   "Pb_NewWordlist": {
+      "message": "Novi popis riječi"
+   },
+   "Pb_NewWordlistName": {
+      "message": "Naziv novog popisa riječi ..."
+   },
+   "Pb_NoInternet": {
+      "message": "Čini se da vaša internetska veza nije dostupna. Da biste dodali nove fraze, morate biti povezani s internetom!"
+   },
+   "Pb_NotOnIOS": {
+      "message": "Ne koristite iOS? Kliknite za učenje riječi na \u003Ca class=\"show-android-form\" href=\"#\">Androidu\u003C/a> ili izravno u \u003Ca class=\"show-chrome-form\" href=\"#\">pregledniku\u003C/a>."
+   },
+   "Pb_RejiAndroid": {
+      "message": "Reji za Android još nije dostupan. Radimo naporno da ga omogućimo što prije. Međutim, možete biti prvi koji će saznati ako ostavite svoj email:"
+   },
+   "Pb_RejiBrowser": {
+      "message": "Reji preglednička verzija još nije dostupna. Radimo naporno da je omogućimo što prije. Međutim, možete biti prvi koji će saznati ako ostavite svoj email:"
+   },
+   "Pb_SaveButton": {
+      "message": "Spremi"
+   },
+   "Pb_ScanQR": {
+      "message": "Skenirajte ovaj QR kod aplikacijom Kamera na svom iPhoneu ili iPadu za otvaranje i učenje riječi u Rejiju."
+   },
+   "Pb_SelectLearnLanguage": {
+      "message": "Koji jezik učite?"
+   },
+   "Pb_SureToDeleteWordlist": {
+      "message": "Jeste li sigurni da želite izbrisati ovaj popis riječi? Ova radnja se ne može poništiti."
+   },
+   "Pb_WlEmpty": {
+      "message": "Popis riječi je prazan"
+   },
+   "Phrasebook_FullyBlockedOut": {
+      "message": "Nadogradite na Pro da biste imali neograničen pristup Phrasebook-u."
+   },
+   "Phrasebook_Phrases1": {
+      "message": "fraz"
+   },
+   "Phrasebook_Phrases2": {
+      "message": "fraze"
+   },
+   "Phrasebook_Phrases3": {
+      "message": "fraze"
+   },
+   "ProSplitTests_2_F1": {
+      "message": "Prevodite govor"
+   },
+   "ProSplitTests_2_F2": {
+      "message": "Povijest i Phrasebook"
+   },
+   "ProSplitTests_2_F3": {
+      "message": "Sinonimi"
+   },
+   "ProSplitTests_2_F4": {
+      "message": "Izgovor i rod imenica"
+   },
+   "ProSplitTests_2_F5": {
+      "message": "Tamni način rada i bez oglasa"
+   },
+   "ProSplitTests_2_F6": {
+      "message": "Prioritetna korisnička podrška"
+   },
+   "ProSplitTests_2_F7": {
+      "message": "Pro na \u003Ca href=\"https://gikken.co/mate-translate/?ref=BrowserProBlock\">svim uređajima\u003C/a>"
+   },
+   "ProSplitTests_2_F8": {
+      "message": "Automatski prijevod web stranica"
+   },
+   "ProSplitTests_2_Pitch": {
+      "message": "Mate je odličan, Pro ga čini još boljim!\u003Cbr>Pristupite svim premium značajkama na svim uređajima i nećete vidjeti reklame."
+   },
+   "Pro_Articles": {
+      "message": "Članci imenica"
+   },
+   "Pro_Articles_Desc": {
+      "message": "Naučite kako koristiti riječi na njemačkom, francuskom, španjolskom, talijanskom i portugalskom jeziku."
+   },
+   "Pro_Articles_Msg": {
+      "message": "Kupite Pro da biste otključali članke imenica."
+   },
+   "Pro_ComesAlong": {
+      "message": ", i još mnogo toga:"
+   },
+   "Pro_DoubleClickFeature": {
+      "message": "Prevedite riječi na web stranicama dvostrukim klikom na njih s Mate Pro!"
+   },
+   "Pro_ExportFeature": {
+      "message": "Preuzmite svoju povijest kao CSV datoteku s Mate Pro!"
+   },
+   "Pro_FullPageTranslation": {
+      "message": "Kupite Pro kako biste omogućili automatski prijevod web stranica."
+   },
+   "Pro_IPA": {
+      "message": "Fonetksi prijepis"
+   },
+   "Pro_IPA_Desc": {
+      "message": "Naučite kako točno izgovarati riječi."
+   },
+   "Pro_IPA_Msg": {
+      "message": "Kupite Pro da biste otključali fonetski prijepis."
+   },
+   "Pro_MainSettingsPitch": {
+      "message": "Nadogradnja se isplati, što više prevodite. Ubacili smo značajke koje čine Mate Pro jezičnim snagom gdje god ga koristite."
+   },
+   "Pro_NetflixPhrasebookSaving": {
+      "message": "Kupite Pro kako biste spremili riječi s Netflixa."
+   },
+   "Pro_PhrasebookFeature": {
+      "message": "Pristupite svom osobnom Phrasebook-u. Sinkronizirajte ga (i svoju povijest) s Mate-om na \u003Ca href=\"https://gikken.co/mate-translate/download/\" target=\"_blank\">svim svojim uređajima\u003C/a>. Izvezite kao CSV za korištenje drugdje."
+   },
+   "Pro_STTFeature": {
+      "message": "Govorite Mate-u na preko \u003Ca href=\"https://gikken.co/mate-translate/languages\" target=\"_blank\">40 jezika\u003C/a>, dobijte izuzetno brze i točne prijevode."
+   },
+   "Pro_ShortcutsFeature": {
+      "message": "Postavite svoju tipkovnicu da prevodi više jezika umjesto samo jednog (Shift+T)."
+   },
+   "Pro_SyncFeature": {
+      "message": "Sinkronizirajte sve svoje podatke na svim uređajima s Mate Pro!"
+   },
+   "Pro_SynonymsPaywall": {
+      "message": "Nadogradite na Pro da biste vidjeli više sinonima."
+   },
+   "Pro_UnlockMore": {
+      "message": "I također otključajte ove značajke:"
+   },
+   "Promo_Android": {
+      "message": "Android"
+   },
+   "Promo_Chrome": {
+      "message": "Chrome"
+   },
+   "Promo_Edge": {
+      "message": "Edge"
+   },
+   "Promo_Firefox": {
+      "message": "Firefox"
+   },
+   "Promo_Ios": {
+      "message": "iOS"
+   },
+   "Promo_Mac": {
+      "message": "macOS"
+   },
+   "Promo_Safari": {
+      "message": "Safari"
+   },
+   "Promo_Samsunginternet": {
+      "message": "Samsung Internet"
+   },
+   "Promo_Windows": {
+      "message": "Windows"
+   },
+   "RejiAd": {
+      "message": "Naša nova aplikacija pomoći će vam unaprijediti vokabular. Provjerite!"
+   },
+   "SafariWall_Desc": {
+      "message": "Platite Mate jedanput i dobivate sve ove sjajne značajke direktno u svom Safariju."
+   },
+   "SafariWall_Feature1": {
+      "message": "Odaberite riječi na bilo kojoj stranici i prevedite ih"
+   },
+   "SafariWall_Feature2": {
+      "message": "Dvostrukim klikom na bilo koju riječ je prevedite"
+   },
+   "SafariWall_Feature3": {
+      "message": "Spremite riječi koje želite zapamtiti u svoj osobni frazar"
+   },
+   "SafariWall_Feature4": {
+      "message": "Prevedite 103 jezika"
+   },
+   "SafariWall_Feature5": {
+      "message": "Naučite pravilan izgovor"
+   },
+   "SafariWall_Feature6": {
+      "message": "Sinkronizirajte sve svoje prijevode na svim uređajima"
+   },
+   "SafariWall_Title": {
+      "message": "Nemojte tabirati do prijevodnih web stranica više!"
+   },
+   "Settings_21max": {
+      "message": "Možete napraviti najviše 21 prečac..."
+   },
+   "Settings_Articles": {
+      "message": "Prikaži članke imenica"
+   },
+   "Settings_Autoswap": {
+      "message": "Automatski zamijenite jezike"
+   },
+   "Settings_Autoswap_Description": {
+      "message": "Jezici će se automatski zamijeniti ako unesete tekst na ciljnom jeziku umjesto izvornog jezika i obratno."
+   },
+   "Settings_CP": {
+      "message": "Mate za druge uređaje"
+   },
+   "Settings_CPDesc": {
+      "message": "Mate je dostupan za iOS, Mac (+ Safari proširenje), Chrome, Firefox, Opera i Edge. Možete sinkronizirati svoju povijest prijevoda i Phrasebook između svih aplikacija sa Mate računom."
+   },
+   "Settings_CP_Get": {
+      "message": "Nabavite druge Mate aplikacije"
+   },
+   "Settings_Close": {
+      "message": "zatvori"
+   },
+   "Settings_Contacts": {
+      "message": "Više"
+   },
+   "Settings_CtxMenu": {
+      "message": "Kontekstni izbornik"
+   },
+   "Settings_CtxMenuDesc": {
+      "message": "Prikazat će se gumb za prijevod u kontekstnom izborniku (desni klik). Radi za odabrani tekst na web stranicama."
+   },
+   "Settings_DarkMode": {
+      "message": "Lijepi tamni način rada"
+   },
+   "Settings_DarkModeDesc": {
+      "message": "Štedite energiju i izbjegavajte naprezanje očiju uz Mateov moderan tamni način rada."
+   },
+   "Settings_DataEraseError": {
+      "message": "Došlo je do neočekivane greške, pokušajte ponovno kasnije!"
+   },
+   "Settings_DataErased": {
+      "message": "Svi vaši podaci su uklonjeni s Mate servera!"
+   },
+   "Settings_DestLang": {
+      "message": "Ciljni jezik"
+   },
+   "Settings_Email": {
+      "message": "pošaljite nam email"
+   },
+   "Settings_EnableSync": {
+      "message": "Omogućite sinkronizaciju povijesti i Frasebooka"
+   },
+   "Settings_EraseConfirm": {
+      "message": "Jeste li sigurni? Ovo će izbrisati sve vaše sinkronizirane prijevode i Frasebook (lokalni podaci neće biti pogođeni). Ovo se ne može poništiti."
+   },
+   "Settings_EraseData": {
+      "message": "izbriši sve moje podatke"
+   },
+   "Settings_EraseDataDesc": {
+      "message": "U skladu s GDPR-om, možete zatražiti uklanjanje svojih podataka s Mate servera."
+   },
+   "Settings_FBShare": {
+      "message": "podijeli na facebooku"
+   },
+   "Settings_Facebook": {
+      "message": "facebook"
+   },
+   "Settings_HelpCenter": {
+      "message": "Centar za pomoć"
+   },
+   "Settings_Interface_Autocorrection": {
+      "message": "Autokorekcija"
+   },
+   "Settings_Interface_Autocorrection_Description": {
+      "message": "Mate će automatski ispravljati krivo napisane riječi."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Pametan prijevod"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Mate će prevesti unos kada završiš s tipkanjem."
+   },
+   "Settings_Interface_Save": {
+      "message": "Sačuvaj zadnji prijevod"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "Mate će sačuvati zadnji prijevod napravljen u skočnom prozoru, tako da je tamo kada ga ponovno otvorite."
+   },
+   "Settings_Interface_ShowIPA": {
+      "message": "Prikaži fonetski prijepis"
+   },
+   "Settings_Interface_ShowIPA_Description": {
+      "message": "Naučite kako izgovarati uz Mateov fonetski prijepis riječi i fraza."
+   },
+   "Settings_Interface_ShowTranslit": {
+      "message": "Prikaži transliteraciju"
+   },
+   "Settings_Interface_ShowTranslit_Description": {
+      "message": "Za nelatinske abecede, Mate će vam prikazati latinsku transkripciju prijevoda radi lakšeg čitanja."
+   },
+   "Settings_Legal": {
+      "message": "Pravno"
+   },
+   "Settings_Netflix": {
+      "message": "Prevedite Netflix titlove"
+   },
+   "Settings_NetflixDesc": {
+      "message": "Kliknite na riječi u Netflix titlovima za prijevod izravno tamo."
+   },
+   "Settings_NetflixView": {
+      "message": "pogledajte spremljene riječi →"
+   },
+   "Settings_NewLine": {
+      "message": "za novi red"
+   },
+   "Settings_Newsletter": {
+      "message": "newsletter"
+   },
+   "Settings_NoConsentPro": {
+      "message": "U skladu s GDPR-om, ne možemo vam naplatiti Pro verziju dok ne prihvatite naše uvjete korištenja... Prihvatite ih i osvježite ovu stranicu kako biste nastavili s Pro."
+   },
+   "Settings_NoProSync": {
+      "message": "Nadogradite na Pro za omogućavanje sinkronizacije"
+   },
+   "Settings_Or": {
+      "message": "ili"
+   },
+   "Settings_PopupShortcuts": {
+      "message": "Prečaci u pop-upu"
+   },
+   "Settings_PopupShortcutsDesc": {
+      "message": "Prevedite tekst u polju za unos pomoću prečaca."
+   },
+   "Settings_PrefsTab": {
+      "message": "Postavke"
+   },
+   "Settings_PrivacyPolicy": {
+      "message": "Pravila privatnosti"
+   },
+   "Settings_ProActivated": {
+      "message": "Sve je postavljeno! Pro je aktiviran."
+   },
+   "Settings_ProFeature8": {
+      "message": "Posvećena podrška putem emaila"
+   },
+   "Settings_ProFeature8_Desc": {
+      "message": "Podrška je samo za Pro korisnike kako bismo brzo pružili detaljne odgovore. \u003Cbr>Besplatni korisnici mogu naći uobičajene odgovore u našem \u003Ca href=\"https://help.gikken.co/hc/\" target=\"_blank\">Centru za pomoć\u003C/a>."
+   },
+   "Settings_ProTab": {
+      "message": "Pro & Sinkronizacija"
+   },
+   "Settings_Restore": {
+      "message": "vrati kupovinu"
+   },
+   "Settings_RevokeConsent": {
+      "message": "više se ne slažem s uvjetima"
+   },
+   "Settings_RevokeConsentDesc": {
+      "message": "Ako se više ne slažete s našim Pravilima privatnosti ili Uvjetima korištenja, možete povući svoj prijašnji pristanak. Međutim, više nećete moći koristiti Mate."
+   },
+   "Settings_Share": {
+      "message": "Recite svojim prijateljima o Mateu"
+   },
+   "Settings_ShareDesc": {
+      "message": "Pošaljite im poveznicu ili podijelite na društvenim mrežama. Mnogo će nam značiti!"
+   },
+   "Settings_ShareText": {
+      "message": "Mate je najprijateljskija, najbrža i najprivatnija aplikacija za prevođenje za {{platform}}, Mac, iPhone i iPad. Obožavat ćete je."
+   },
+   "Settings_ShortcutClick": {
+      "message": "kliknite na ovo polje i zatim pritisnite željeni prečac..."
+   },
+   "Settings_ShortcutMain": {
+      "message": "Glavni prečac"
+   },
+   "Settings_ShortcutSuppl": {
+      "message": "Dodatni prečac"
+   },
+   "Settings_SignOut": {
+      "message": "ODJAVI SE"
+   },
+   "Settings_SourceLang": {
+      "message": "Izvorni jezik"
+   },
+   "Settings_StayInTouch": {
+      "message": "Ostanite u kontaktu s nama"
+   },
+   "Settings_SyncText": {
+      "message": "Držite svoj Pro račun, prijevode i Rječnik sinkroniziranima između svih uređaja."
+   },
+   "Settings_TWShare": {
+      "message": "podijeli na twitteru"
+   },
+   "Settings_ToS": {
+      "message": "uvjeti korištenja"
+   },
+   "Settings_ToTranslate": {
+      "message": "za prevođenje"
+   },
+   "Settings_Tooltip": {
+      "message": "Veličina skočnog prozora"
+   },
+   "Settings_TooltipBig": {
+      "message": "velik"
+   },
+   "Settings_TooltipDesc": {
+      "message": "Koliko velik skočni prozor s prijevodima na web stranicama treba biti."
+   },
+   "Settings_TooltipMedium": {
+      "message": "srednji"
+   },
+   "Settings_TooltipSmall": {
+      "message": "mali"
+   },
+   "Settings_TranslateSelection": {
+      "message": "Odaberite za prevođenje"
+   },
+   "Settings_TranslateSelectionDesc": {
+      "message": "Prikažite gumb za prijevod pored odabranog teksta na web stranicama."
+   },
+   "Settings_Translation_History": {
+      "message": "Povijest prijevoda"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "Spremite sve prijevode kako biste ih mogli pregledavati u bilo kojem trenutku."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Na stranici"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "Odaberite tekst na bilo kojoj stranici (osim PDF datoteka), pritisnite prečac i odmah dobijte prijevod u neometajućem skočnom prozoru ispred vas."
+   },
+   "Settings_Twitter": {
+      "message": "twitter"
+   },
+   "Settings_UsageDesc": {
+      "message": "Preporučujemo nadogradnju na Pro ako prevodite više od 500 puta mjesečno. To nam pomaže održavati naše poslužitelje.\u003Cbr>\u003Cbr>Na taj način možemo jamčiti veću brzinu prijevoda."
+   },
+   "Settings_Website": {
+      "message": "web stranica"
+   },
+   "Settings_YouAreSignedIn": {
+      "message": "Prijavljeni ste kao"
+   },
+   "Settings_YouPro": {
+      "message": "Imate Pro verziju!"
+   },
+   "Settings_YouUsed": {
+      "message": "koristili ste"
+   },
+   "ShareOnVK": {
+      "message": "podijeli na vk"
+   },
+   "ShareViaEmail": {
+      "message": "podijeli putem emaila"
+   },
+   "SignUp_Name": {
+      "message": "Ime (opcionalno)"
+   },
+   "SignUp_Password": {
+      "message": "Lozinka (najmanje 8 znakova)"
+   },
+   "Sponsorship_Bar": {
+      "message": "Ostanite sigurni uz Mate račun"
+   },
+   "Sponsorship_DismissPro": {
+      "message": "Nadogradite na Pro da biste sakrili reklame."
+   },
+   "Sub_48hNotificationBodyAnnual": {
+      "message": "Ubrzo ćemo vam naplatiti {{amount}} za vašu Mate Pro godišnju pretplatu."
+   },
+   "Sub_48hNotificationBodyMonthly": {
+      "message": "Ubrzo ćemo vam naplatiti {{amount}} za vašu Mate Pro mjesečnu pretplatu."
+   },
+   "Sub_48hNotificationLabel": {
+      "message": "\u003Cb>Bez rizika.\u003C/b> Poslat ćemo vam podsjetnik 48 sati prije prvog naplate."
+   },
+   "Sub_48hNotificationTitle": {
+      "message": "Kako vam se sviđa vaše Mate probno razdoblje?"
+   },
+   "Sub_ApplyForStudentDiscount": {
+      "message": "Studentski popust"
+   },
+   "Sub_Cancel": {
+      "message": "Otkažite pretplatu"
+   },
+   "Sub_ChangePaymentMethod": {
+      "message": "Promijenite način plaćanja"
+   },
+   "Sub_ComingSoon": {
+      "message": "stiže uskoro"
+   },
+   "Sub_CouldNotGetPayLink": {
+      "message": "Nije moguće dobiti poveznicu za plaćanje. Pokušajte ponovo kasnije ili nas kontaktirajte na support@matetranslate.com"
+   },
+   "Sub_CrossPlatformProComingSoon": {
+      "message": "Naporno radimo na tome da Mate Pro bude dostupan na više platformi.\n\nVeć sad možete koristiti Mate Pro u svim proširenjima za preglednike prijavom na svaki uređaj sa istim Mate računom. Međutim, iOS i Mac aplikacije se prodaju unaprijed u Apple App Stores.\n\nKao privremeno rješenje, možete nam poslati email na hello@gikken.co i priložiti račun nakon što se pretplatite na Mate Pro — pomoći ćemo vam da te aplikacije dobijete besplatno.\n\nIspričavamo se zbog privremene neugodnosti."
+   },
+   "Sub_DueAfterTrial": {
+      "message": "\u003Cspan class=\"price-due\">\u003C/span> nakon probnog razdoblja"
+   },
+   "Sub_FAQ": {
+      "message": "Često postavljana pitanja"
+   },
+   "Sub_FinishCreatingAccount": {
+      "message": "Završite kreiranje računa"
+   },
+   "Sub_FreeTrialVerificationCharge": {
+      "message": "Paddle vam može naplatiti 1$ za provjeru kreditne kartice. Bit će odmah vraćeno. Probno razdoblje je besplatno."
+   },
+   "Sub_LegacyUsersDisclaimer": {
+      "message": "Mate Pro sada zahtijeva pretplatu za nove korisnike. Budući da ste kupili Pro prije prijelaza, zauvijek ga zadržavate bez dodatnih troškova! Hvala vam što ste nas podržali u ranoj fazi \u003C3"
+   },
+   "Sub_Month": {
+      "message": "/mjesec"
+   },
+   "Sub_MoreInlineInfo": {
+      "message": "Saznajte više"
+   },
+   "Sub_NextBilling": {
+      "message": "Sljedeća naplata: {{next_amount_billed}} dana {{next_billing_date}}"
+   },
+   "Sub_NoNotifPermissionAlert": {
+      "message": "Bez dopuštenja za obavijesti, nećemo vas moći obavijestiti o prvoj naplati... Uvijek možete vidjeti kada će se dogoditi ovdje u postavkama."
+   },
+   "Sub_PleaseCreateAccount": {
+      "message": "Sada, molimo završite izradu svog Mate računa, kako bismo mogli valjdati vašu pretplatu. To neće trajati više od jedne minute!"
+   },
+   "Sub_PleaseSignBackIn": {
+      "message": "Molimo, ponovno se prijavite svojim Mate računom povezan s \u003Cb>{{email}}\u003C/b>.\u003Cbr>Inače ne možemo valjdati vašu pretplatu."
+   },
+   "Sub_ProStatusForLegacyUsers": {
+      "message": "Imate neograničen, doživotni pristup Mate Pro"
+   },
+   "Sub_PurchasedBefore": {
+      "message": "Prije ste kupili Pro?"
+   },
+   "Sub_Resubscribe": {
+      "message": "Ponovno se pretplatite"
+   },
+   "Sub_Savings": {
+      "message": "uštedite {{savings}}%"
+   },
+   "Sub_ScrewSubscription": {
+      "message": "Ne želite se pretplatiti?"
+   },
+   "Sub_StatusFetchError": {
+      "message": "Nije moguće dohvatiti status vaše pretplate."
+   },
+   "Sub_StatusFetchTryAgain": {
+      "message": "Pokušajte ponovno"
+   },
+   "Sub_SubscribeNow": {
+      "message": "Pretplatite se sada"
+   },
+   "Sub_TryFreeCTA": {
+      "message": "isprobajte besplatno \u003Cspan class=\"trial-days\">\u003C/span> dana"
+   },
+   "Sub_WhenCancelled": {
+      "message": "Otkažili ste svoju pretplatu ali ćete zadržati pristup Mate Pro do {{sub_ends_on}}. Da biste nastavili koristiti Pro nakon toga, možete se ponovno pretplatiti."
+   },
+   "Sub_WhenTrialing": {
+      "message": "Vaše probno razdoblje završava {{next_billing_date}} i naplatit će vam se {{next_amount_billed}}"
+   },
+   "Sub_Year": {
+      "message": "/godina"
+   },
+   "Sub_YouAreAlmostInTheFamily": {
+      "message": "Vi ste (gotovo) u Mate Pro obitelji!"
+   },
+   "Sub_YouAreInTheFamily": {
+      "message": "Vi ste u Mate Pro obitelji!"
+   },
+   "Sync_FailedError": {
+      "message": "Nije se moglo sinkronizirati. Dogodila se pogreška."
+   },
+   "Sync_NetworkError": {
+      "message": "Čini se da nema internetske veze. Molimo povežite se na internet i pokušajte ponovno sinkronizirati."
+   },
+   "Sync_NoItemsError": {
+      "message": "Nema stavki za sinkronizaciju."
+   },
+   "Sync_NotSignedInError": {
+      "message": "Morate biti prijavljeni da biste sinkronizirali svoju povijest i Rječnik."
+   },
+   "TD_AddPB": {
+      "message": "Dodaj u Rječnik"
+   },
+   "TD_Copy": {
+      "message": "Kopiraj"
+   },
+   "TD_Create": {
+      "message": "Kreirajte novi popis riječi..."
+   },
+   "TD_NoWordlists": {
+      "message": "Nema popisa riječi za "
+   },
+   "There_Is_Localised_Site": {
+      "message": "Provjerite lokaliziranu verziju stranice"
+   },
+   "There_Is_Localised_Site_Desc": {
+      "message": "Postoji lokalizirana verzija ove web stranice"
+   },
+   "Tooltip_DisableDoubleClick": {
+      "message": "Nemojte prevoditi na dvoklik"
+   },
+   "Tooltip_DisableDoubleClickDesc": {
+      "message": "Nećete ponovno vidjeti prozor za prijevod kada dvaput kliknete na riječ."
+   },
+   "Tooltip_DisableSelection": {
+      "message": "Nemojte prikazivati plutajući gumb"
+   },
+   "Tooltip_DisableSelectionDesc": {
+      "message": "Nećete ponovno vidjeti plutajući gumb za prijevod kada odaberete tekst."
+   },
+   "Tooltip_InlineOptionDisabled": {
+      "message": "Možete ga ponovno omogućiti u postavkama"
+   },
+   "Tour_Agree": {
+      "message": "Kliknite na tipku ispod kako biste prihvatili naše \u003Cb>Uvjetima korištenja\u003C/b> i \u003Cb>Pravila privatnosti\u003C/b> i započeli s prevođenjem uz Mate."
+   },
+   "Tour_AutoFPOption": {
+      "message": "Predloži prijevod web stranica"
+   },
+   "Tour_DoubleClick": {
+      "message": "Dvoklikom na prijevod"
+   },
+   "Tour_DoubleClickDesc": {
+      "message": "Dvaput kliknite na bilo koju riječ kako biste vidjeli trenutni prijevod na web stranicama."
+   },
+   "Tour_DoubleClickOption": {
+      "message": "Prevedi dvostrukim klikom"
+   },
+   "Tour_GotIt": {
+      "message": "POČNITE"
+   },
+   "Tour_HowToContext": {
+      "message": "Ili odaberite bilo koji tekst i koristite kontekstni izbornik (desni klik) kako biste vidjeli prijevod."
+   },
+   "Tour_HowToPopUp": {
+      "message": "Ako trebate sami unijeti neke riječi, samo otvorite skočni prozor klikom na Mate gumb pokraj adresne trake preglednika."
+   },
+   "Tour_HowToSelect": {
+      "message": "Odaberite bilo koju riječ ili tekst na bilo kojoj web stranici i pritisnite Shift+T kako biste dobili prijevod."
+   },
+   "Tour_HowToUse": {
+      "message": "Kako koristiti?"
+   },
+   "Tour_Important": {
+      "message": "Izuzetno je važno!"
+   },
+   "Tour_ImportantSub": {
+      "message": "Ova stranica će vam pokazati kako koristiti \u003Cb>Mate Translate\u003C/b>"
+   },
+   "Tour_ImportantText": {
+      "message": "Odvojite samo 40 sekundi da je pregledate"
+   },
+   "Tour_Langs": {
+      "message": "Na koji jezik želite prevesti?"
+   },
+   "Tour_LangsDesc": {
+      "message": "Odaberite jezik na koji želite prevoditi:"
+   },
+   "Tour_LangsSupported": {
+      "message": "pogledajte podržane jezike"
+   },
+   "Tour_MacUser": {
+      "message": "Koristio/la sam Mate za Mac"
+   },
+   "Tour_NoShiftT": {
+      "message": "Mate ne može prevesti odabrani tekst na ovoj stranici i u PDF datotekama zbog određenih tehničkih ograničenja \u003C%=browser%>.\u003Cbr>\u003Cbr>Pokušajte to učiniti na \u003Ca href='https://reji.me' target='_blank'>ovoj stranici\u003C/a>, na primjer."
+   },
+   "Tour_PDF": {
+      "message": "Prevodite u PDF-ovima"
+   },
+   "Tour_PDFDesc": {
+      "message": "Odaberite tekst u PDF datotekama unutar Chrome-a, kliknite desnom tipkom miša i prevedite ga."
+   },
+   "Tour_PDFNote": {
+      "message": "Plutajući gumb i Shift+T prevodi neće raditi u PDF-ovima zbog tehničkih ograničenja."
+   },
+   "Tour_Pages": {
+      "message": "Prevedite cijele web stranice"
+   },
+   "Tour_PagesDesc": {
+      "message": "Sve web stranice na vašem jeziku. Automatski."
+   },
+   "Tour_Phrasebook": {
+      "message": "Čuvajte svoju osobnu knjižicu fraza"
+   },
+   "Tour_PhrasebookCreate": {
+      "message": "Kreiraj svoj prvi popis riječi"
+   },
+   "Tour_PhrasebookDesc": {
+      "message": "Spremite sve riječi koje želite zapamtiti u Mate Knjižicu fraza.\u003Cbr>Čuvajte sav svoj vokabular na jednom mjestu!"
+   },
+   "Tour_PhrasebookFeature": {
+      "message": "Držite sve riječi koje želite zapamtiti na jednom mjestu!"
+   },
+   "Tour_PhrasebookLaunch": {
+      "message": "pokreni knjižicu fraza"
+   },
+   "Tour_PinExtension": {
+      "message": "Prikvači Mate"
+   },
+   "Tour_PinExtensionDesc": {
+      "message": "Imajte brz pristup Mateu iz adresne trake."
+   },
+   "Tour_ProCTA": {
+      "message": "Otključajte i ove sjajne značajke nadogradnjom na \u003Cb>Mate Pro\u003C/b> odmah:"
+   },
+   "Tour_ProFeature2": {
+      "message": "Prevodite govor"
+   },
+   "Tour_ProFeature3": {
+      "message": "Neograničene prečace"
+   },
+   "Tour_ProFeature4": {
+      "message": "Phrasebook i besprijekorna sinkronizacija"
+   },
+   "Tour_ProFeature7": {
+      "message": "Izvoz povijesti i Knjižice fraza kao CSV"
+   },
+   "Tour_ProUpgradedSuccessfully": {
+      "message": "Zatvorite ovu stranicu i počnite surfati internetom bez jezičnih barijera!"
+   },
+   "Tour_Ready": {
+      "message": "Usklađeni smo s \u003Ca href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\" target=\"_blank\">GDPR-om\u003C/a>!"
+   },
+   "Tour_SafariGet": {
+      "message": "nabavite Mate za $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9,99$"
+         }
+      }
+   },
+   "Tour_SelectAndTranslate": {
+      "message": "Odaberite i preveďite"
+   },
+   "Tour_Selected": {
+      "message": "Prevedi tekst na web stranicama"
+   },
+   "Tour_SelectedDesc": {
+      "message": "Dvokliknite, odaberite za prijevod ili pritisnite Shift+T."
+   },
+   "Tour_ShortcutsFeature": {
+      "message": "Napravite koliko god prečaca trebate (naspram 1 u besplatnoj verziji) za različite jezike za prevođenje na web stranicama."
+   },
+   "Tour_Start": {
+      "message": "Počnite besplatno"
+   },
+   "Tour_Sync": {
+      "message": "Sinkronizirajte podatke na svim uređajima"
+   },
+   "Tour_SyncDesc": {
+      "message": "Vaša povijest prevođenja i Knjižica fraza bit će sinkronizirani između svih uređaja na kojima koristite Mate."
+   },
+   "Tour_SyncSignIn": {
+      "message": "prijavite se za sinkronizaciju"
+   },
+   "Tour_Title": {
+      "message": "Dobrodošli u Mate Translate"
+   },
+   "Tour_TranslationsFeature": {
+      "message": "Prevodi koliko god puta želiš u bilo koje vrijeme."
+   },
+   "Tour_UhHuh": {
+      "message": "Da da!"
+   },
+   "Tour_Unlock": {
+      "message": "Mate Pro"
+   },
+   "Tour_UnlockDesc": {
+      "message": "Dobijte pristup svim premium značajkama i bez oglasa."
+   },
+   "Window_AntiWarBanner": {
+      "message": "🇺🇦 Mi se protivimo ruskom ratu protiv Ukrajine i europske demokracije 🇺🇦"
+   },
+   "Window_CannotTranslatePDF": {
+      "message": "Ne možemo prevesti odabrani tekst u PDF datotekama. Tehnička ograničenja {{browser}}-a..."
+   },
+   "Window_CannotTranslatePDFChrome": {
+      "message": "Koristite kontekstualni izbornik za prevođenje odabranog teksta u PDF datotekama. Tehnička ograničenja Chrome-a..."
+   },
+   "Window_Content_AllLang": {
+      "message": "Svi"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "Nedavno korišteni"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Prevedi ..."
+   },
+   "Window_DoYouKnowSomeone": {
+      "message": "Znate li nekoga kome bi Mate Translate bio koristan?"
+   },
+   "Window_DoYouLike": {
+      "message": "Sviđa li vam se Mate?"
+   },
+   "Window_DoYouLikeDesc": {
+      "message": "Treba li nešto poboljšati ili je Mate gotovo savršen za vas?"
+   },
+   "Window_DontAutocorrect": {
+      "message": "Ne automatski ispravljaj"
+   },
+   "Window_Improve": {
+      "message": "potrebno je poboljšanje"
+   },
+   "Window_LearnMoreAboutPro": {
+      "message": "Saznajte više o pro"
+   },
+   "Window_Love": {
+      "message": "Volim ga"
+   },
+   "Window_MateFreeDesc": {
+      "message": "Da biste otključali sve nove značajke, trebali biste nadograditi na Pro verziju."
+   },
+   "Window_MateProDesc": {
+      "message": "Trebali biste se prijaviti kako biste omogućili sinkronizaciju povijesti i Knjižice fraza."
+   },
+   "Window_Mw_LaterButton": {
+      "message": "Podsjeti me kasnije"
+   },
+   "Window_Mw_NeverButton": {
+      "message": "Nikad me ne podsjećaj"
+   },
+   "Window_Mw_NotChromeNotNow": {
+      "message": "Ne sada"
+   },
+   "Window_Mw_RateButton": {
+      "message": "Ocijeni sada"
+   },
+   "Window_Mw_RateDesc": {
+      "message": "Bili bismo sretni da vidimo vašu recenziju u App Store-u! To neće trajati više od minute. Održavajte naš prijevodni stroj u pogonu sa svojim recenzijama!"
+   },
+   "Window_Mw_RateTitle": {
+      "message": "Ocijeni svoj Mate"
+   },
+   "Window_Mw_UpgradeButton": {
+      "message": "nadogradite za $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9,99$"
+         }
+      }
+   },
+   "Window_NetflixFeatureDesc": {
+      "message": "Prevodite i učite riječi dok gledate Netflix. Kliknite na riječ u titlovima da biste vidjeli prijevod i spremili je za kasnije."
+   },
+   "Window_NewFeature": {
+      "message": "Nova značajka!"
+   },
+   "Window_No": {
+      "message": "ne"
+   },
+   "Window_Offline": {
+      "message": "Nema internet veze"
+   },
+   "Window_OfflineDesc": {
+      "message": "Ne možemo prevesti nove riječi bez interneta"
+   },
+   "Window_Pro": {
+      "message": "Iskusite brže i glatke prijevode s Mate Pro!"
+   },
+   "Window_ProBannerAds": {
+      "message": "Nadogradite na Pro da biste otključali više značajki."
+   },
+   "Window_QuickQuestion": {
+      "message": "Brzo pitanje..."
+   },
+   "Window_RateUsDesc": {
+      "message": "Da li biste mogli odvojiti minut da nas ocijenite na App Store-u? Vaše povratne informacije su nam važna podrška."
+   },
+   "Window_ReadMore": {
+      "message": "pročitajte više"
+   },
+   "Window_SendFeedback": {
+      "message": "Pošaljite nam povratne informacije"
+   },
+   "Window_SendFeedbackDesc": {
+      "message": "Molimo javite nam kako možemo poboljšati Mate."
+   },
+   "Window_Share": {
+      "message": "Podijelite Mate"
+   },
+   "Window_ShareDesc": {
+      "message": "Podrška nam puno znači ako podijelite informaciju o Mate-u!"
+   },
+   "Window_Shortcut": {
+      "message": "Pritisnite Ctrl+T za brzo otvaranje ovog prozora."
+   },
+   "Window_TranslationCopied": {
+      "message": "Prijevod je kopiran!"
+   },
+   "Window_UnpinPro": {
+      "message": "Nadogradite na Pro da biste odkačili Mate prozor."
+   },
+   "Window_WriteUs": {
+      "message": "pišite nam email"
+   },
+   "Window_Yes": {
+      "message": "da"
+   }
+}

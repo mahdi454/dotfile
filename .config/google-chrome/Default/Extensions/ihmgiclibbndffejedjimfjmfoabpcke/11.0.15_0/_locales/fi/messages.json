@@ -1,0 +1,1739 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Lyhenteet"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Adjektiivit"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Adverbit"
+   },
+   "CommonUi_LangPart_Auxiliaryverb": {
+      "message": "Apuverbit"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Konjunktiot"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Interjektiot"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Substantiivit"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Fraasit"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Prepositiot"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Pronominit"
+   },
+   "CommonUi_LangPart_Suffix": {
+      "message": "Päätteet"
+   },
+   "CommonUi_LangPart_Transliteration": {
+      "message": "Translitterointi"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Verbit"
+   },
+   "CommonUi_NoResults": {
+      "message": "Ei tuloksia"
+   },
+   "Common_Copied": {
+      "message": "Kopioitu!"
+   },
+   "ContextMenu_FullPage": {
+      "message": "Käännä tämä sivu kielelle \u003C%=lang%>"
+   },
+   "Csv_FromLang": {
+      "message": "LÄHTÖKIELI"
+   },
+   "Csv_Input": {
+      "message": "SYÖTE"
+   },
+   "Csv_IntoLang": {
+      "message": "KOHTEEKIELI"
+   },
+   "Csv_Synonyms": {
+      "message": "SYNONYYMIT"
+   },
+   "Csv_TimeDate": {
+      "message": "AIKA/PÄIVÄMÄÄRÄ"
+   },
+   "Csv_Translation": {
+      "message": "KÄÄNNÖS"
+   },
+   "Csv_Transliteration": {
+      "message": "TRANSLITTEROINTI"
+   },
+   "Csv_WhereTranslated": {
+      "message": "MISSÄ KÄÄNNETTY"
+   },
+   "Dict_DictionaryTab": {
+      "message": "Sanakirja"
+   },
+   "Dict_NotFoundCaption": {
+      "message": "Pahoittelemme — työskentelemme ahkerasti laajentaaksemme sanakirjaamme"
+   },
+   "Dict_NotFoundTitle": {
+      "message": "Määritelmää ei löytynyt"
+   },
+   "Dict_UpgradeToPro": {
+      "message": "Päivitä Pro:hon saadaksesi määritelmät"
+   },
+   "DotsButton_Added": {
+      "message": "Lisätty kohteeseen \u003C%=wl%>"
+   },
+   "DotsButton_Copied": {
+      "message": "Käännös kopioitiin"
+   },
+   "DotsButton_OrigCopied": {
+      "message": "Alkuperäinen teksti kopioitiin"
+   },
+   "FullPage": {
+      "message": "Koko sivun käännös"
+   },
+   "FullPageDesc": {
+      "message": "Näytä Mate-kuvake oikeassa yläkulmassa, jos verkkosivu on vieraalla kielellä. Napsauta kuvaketta kääntääksesi sivun omaan kieleesi."
+   },
+   "FullPageShowOriginal": {
+      "message": "Näytä alkuperäinen"
+   },
+   "FullPageTranslate": {
+      "message": "Käännä"
+   },
+   "FullPageTranslatedTo": {
+      "message": "Käännetty kielelle"
+   },
+   "FullPage_AlwaysTranslate": {
+      "message": "Käännä aina {{page_lang_beautiful}} kielelle {{target_lang_beautiful}}"
+   },
+   "FullPage_ChangeLanguage": {
+      "message": "Vaihda kieli"
+   },
+   "FullPage_ContextMenuOption": {
+      "message": "Avaa koko sivun käännös"
+   },
+   "FullPage_CurrentPageLang": {
+      "message": "Sivu on kielellä {{page_lang_beautiful}}"
+   },
+   "FullPage_NeverTranslate": {
+      "message": "Älä koskaan käännä {{page_lang_beautiful}}"
+   },
+   "FullPage_SwitchBackTo": {
+      "message": "Vaihda takaisin kielelle {{language}}"
+   },
+   "FullPage_TranslateTo": {
+      "message": "Käännä kielelle {{target_lang_beautiful}}"
+   },
+   "FullPage_WeTranslatedIt": {
+      "message": "Käänsimme tämän sivun kielelle {{language}}"
+   },
+   "History_AnotherDevice": {
+      "message": "Toisella laitteella"
+   },
+   "History_Content_GoUpButton": {
+      "message": "Mene ylös"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "Käännöshistoriasi näkyy täällä"
+   },
+   "History_Export_OnlyProDesc": {
+      "message": "Päivitä Pro-versioon viedäksesi käännöshistoriasi CSV-tiedostoon"
+   },
+   "History_FullyBlockedOut": {
+      "message": "Päivitä Pro-versioon saadaksesi rajattoman pääsyn käännöshistoriaan."
+   },
+   "History_InPopup": {
+      "message": "Popup-ikkunassa"
+   },
+   "History_Options_DeleteMarked_1": {
+      "message": "Poista"
+   },
+   "History_Options_DeleteMarked_2": {
+      "message": "merkitty"
+   },
+   "History_Options_SelectToDelete": {
+      "message": "merkitse poistettavaksi"
+   },
+   "History_Options_SelectToDelete_MarkAll": {
+      "message": "Merkitse kaikki"
+   },
+   "History_Options_SelectToDelete_UnmarkAll": {
+      "message": "Poista kaikki merkinnät"
+   },
+   "Human_OrderButton": {
+      "message": "Käännätä ammattilaisella"
+   },
+   "IDB_Error": {
+      "message": "Selaimessa on Indexed DB pois käytöstä"
+   },
+   "IDB_ErrorDesc": {
+      "message": "Mate Translate tarvitsee Indexed DB:tä (paikallinen tallennustila, jossa tallennamme kaikki käännöksesi ja fraasikirjan) toimiakseen täysillä.\u003Cbr>\u003Cbr>Selaimesi näyttää olevan yksityisessä selaustilassa, mikä poistaa Indexed DB:n käytöstä (se on Firefoxin \u003Ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=781982\" target=\"_blank\">bugi #781982\u003C/a>).\u003Cbr>\u003Cbr>Voit asettaa Historia-asetuksen \u003Ca href=\"about:preferences#privacy\" target=\"_blank\">about:preferences#privacy\u003C/a> kohtaan \"Firefox muistaa historian\". Tämä saattaisi auttaa, mutta ei ole taattua. Muussa tapauksessa voit ottaa yhteyttä Mozillaan ja pyytää korjaamaan mainitun bugiin nopeammin.\u003Cbr>\u003Cbr>Pahoittelemme häiriötä, mutta valitettavasti emme voi tehdä asialle mitään."
+   },
+   "Kernel_AppDescription": {
+      "message": "Kääntäjäsi verkkosivuille, PDF-tiedostoille, korostetulle tekstille ja Netflixin tekstityksille. Ymmärrä 103 kieltä helposti."
+   },
+   "Kernel_AppName": {
+      "message": "Mate Translate – kääntäjä, sanakirja"
+   },
+   "Kernel_Cancel": {
+      "message": "peruuta"
+   },
+   "Kernel_ClearInput": {
+      "message": "Tyhjennä syötekenttä"
+   },
+   "Kernel_Context_Into": {
+      "message": "kielelle"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "Historia"
+   },
+   "Kernel_IPA": {
+      "message": "Foneettinen transkriptio"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "afrikaans"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "albania"
+   },
+   "Kernel_Lang_Amharic": {
+      "message": "amhara"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "arabia"
+   },
+   "Kernel_Lang_ArabicAlgeria": {
+      "message": "arabia (Algeria)"
+   },
+   "Kernel_Lang_ArabicBahrain": {
+      "message": "arabia (Bahrain)"
+   },
+   "Kernel_Lang_ArabicEgypt": {
+      "message": "arabia (Egypti)"
+   },
+   "Kernel_Lang_ArabicGeneral": {
+      "message": "arabia (yleinen)"
+   },
+   "Kernel_Lang_ArabicIraq": {
+      "message": "arabia (Irak)"
+   },
+   "Kernel_Lang_ArabicJordan": {
+      "message": "arabia (Jordania)"
+   },
+   "Kernel_Lang_ArabicKuwait": {
+      "message": "arabia (Kuwait)"
+   },
+   "Kernel_Lang_ArabicLebanon": {
+      "message": "arabia (Libanon)"
+   },
+   "Kernel_Lang_ArabicLibyan": {
+      "message": "arabia (Libya)"
+   },
+   "Kernel_Lang_ArabicMorocco": {
+      "message": "arabia (Marokko)"
+   },
+   "Kernel_Lang_ArabicOman": {
+      "message": "arabia (Oman)"
+   },
+   "Kernel_Lang_ArabicQatar": {
+      "message": "arabia (Qatar)"
+   },
+   "Kernel_Lang_ArabicSaudi": {
+      "message": "arabia (Saudi-Arabia)"
+   },
+   "Kernel_Lang_ArabicSudan": {
+      "message": "arabia (Sudan)"
+   },
+   "Kernel_Lang_ArabicSyria": {
+      "message": "arabia (Syyria)"
+   },
+   "Kernel_Lang_ArabicTunisia": {
+      "message": "arabia (Tunisia)"
+   },
+   "Kernel_Lang_ArabicUAE": {
+      "message": "arabia (Yhdistyneet arabiemiirikunnat)"
+   },
+   "Kernel_Lang_ArabicYemen": {
+      "message": "arabia (Jemen)"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "armenia"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "Automaattinen tunnistus"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "azerbaidžani"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "baskia"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "valkovenäjä"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "bengali"
+   },
+   "Kernel_Lang_Bosnian": {
+      "message": "bosnia"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "bulgaria"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "katalaani"
+   },
+   "Kernel_Lang_Cebuano": {
+      "message": "cebuano"
+   },
+   "Kernel_Lang_Chichewa": {
+      "message": "chichewa"
+   },
+   "Kernel_Lang_Chinese": {
+      "message": "kiina"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "yksinkertaistettu kiina"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "perinteinen kiina"
+   },
+   "Kernel_Lang_Corsican": {
+      "message": "korsika"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "kroatia"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "tšekki"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "tanska"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "hollanti"
+   },
+   "Kernel_Lang_DutchBelgium": {
+      "message": "hollanti (Belgia)"
+   },
+   "Kernel_Lang_DutchNetherlands": {
+      "message": "hollanti (Alankomaat)"
+   },
+   "Kernel_Lang_English": {
+      "message": "englanti"
+   },
+   "Kernel_Lang_EnglishUS": {
+      "message": "englanti (USA)"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "esperanto"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "viro"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "filippiino"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "suomi"
+   },
+   "Kernel_Lang_French": {
+      "message": "Ranska"
+   },
+   "Kernel_Lang_FrenchBelgium": {
+      "message": "Ranska (Belgia)"
+   },
+   "Kernel_Lang_FrenchCanada": {
+      "message": "Ranska (Kanada)"
+   },
+   "Kernel_Lang_FrenchFrance": {
+      "message": "Ranska (Ranska)"
+   },
+   "Kernel_Lang_FrenchSwiss": {
+      "message": "Ranska (Sveitsi)"
+   },
+   "Kernel_Lang_Frisian": {
+      "message": "Friisi"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Galicia"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "Georgia"
+   },
+   "Kernel_Lang_German": {
+      "message": "Saksa"
+   },
+   "Kernel_Lang_GermanAustria": {
+      "message": "Saksa (Itävalta)"
+   },
+   "Kernel_Lang_GermanGermany": {
+      "message": "Saksa (Saksa)"
+   },
+   "Kernel_Lang_GermanLichtenstein": {
+      "message": "Saksa (Liechtenstein)"
+   },
+   "Kernel_Lang_GermanLux": {
+      "message": "Saksa (Luxemburg)"
+   },
+   "Kernel_Lang_GermanSwiss": {
+      "message": "Saksa (Sveitsi)"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Kreikka"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Gujarati"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Haitin kreoli"
+   },
+   "Kernel_Lang_Hausa": {
+      "message": "Hausa"
+   },
+   "Kernel_Lang_Hawaiian": {
+      "message": "Havaiji"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "Heprea"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Hindi"
+   },
+   "Kernel_Lang_Hmong": {
+      "message": "Hmongi"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "Unkari"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "Islanti"
+   },
+   "Kernel_Lang_Igbo": {
+      "message": "Igbo"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Indonesia"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Iiri"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Italia"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Japani"
+   },
+   "Kernel_Lang_Javanese": {
+      "message": "Jaava"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Kannada"
+   },
+   "Kernel_Lang_Kazakh": {
+      "message": "Kazakki"
+   },
+   "Kernel_Lang_Khmer": {
+      "message": "Khmer"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Korea"
+   },
+   "Kernel_Lang_Kurdish": {
+      "message": "Kurdi (Kurmanji)"
+   },
+   "Kernel_Lang_KurdishKurmanji": {
+      "message": "Kurdi (Kurmanji)"
+   },
+   "Kernel_Lang_Kyrgyz": {
+      "message": "Kirgisia"
+   },
+   "Kernel_Lang_Lao": {
+      "message": "Lao"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Latina"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Latvia"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Liettua"
+   },
+   "Kernel_Lang_Luxembourgish": {
+      "message": "Luxemburg"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Makedonia"
+   },
+   "Kernel_Lang_Malagasy": {
+      "message": "Malagasi"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Malaiji"
+   },
+   "Kernel_Lang_Malayalam": {
+      "message": "Malajalam"
+   },
+   "Kernel_Lang_Malayam": {
+      "message": "Malajalam"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Malta"
+   },
+   "Kernel_Lang_Maori": {
+      "message": "Maori"
+   },
+   "Kernel_Lang_Marathi": {
+      "message": "Marathi"
+   },
+   "Kernel_Lang_Mongolian": {
+      "message": "Mongoliankieli"
+   },
+   "Kernel_Lang_Myanmar": {
+      "message": "Myanmarin kieli (burma)"
+   },
+   "Kernel_Lang_MyanmarBurmese": {
+      "message": "Myanmarin kieli (burma)"
+   },
+   "Kernel_Lang_Nepali": {
+      "message": "Nepalinkieli"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Norjankieli"
+   },
+   "Kernel_Lang_Pashto": {
+      "message": "Pashtunkieli"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Persiankieli"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Puolankieli"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Portugalinkieli"
+   },
+   "Kernel_Lang_PortugueseBrazil": {
+      "message": "Portugalinkieli (Brasilia)"
+   },
+   "Kernel_Lang_PortuguesePortugal": {
+      "message": "Portugalinkieli (Portugali)"
+   },
+   "Kernel_Lang_Punjabi": {
+      "message": "Punjabinkieli"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Romaniaakieli"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Venäjänkieli"
+   },
+   "Kernel_Lang_Samoan": {
+      "message": "Samoankieli"
+   },
+   "Kernel_Lang_ScotsGaelic": {
+      "message": "Skottigaeli"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Serbiankieli"
+   },
+   "Kernel_Lang_Sesotho": {
+      "message": "Sesotho"
+   },
+   "Kernel_Lang_Shona": {
+      "message": "Shona"
+   },
+   "Kernel_Lang_Sindhi": {
+      "message": "Sindhi"
+   },
+   "Kernel_Lang_Sinhala": {
+      "message": "Sinhala"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Slovakki"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Sloveenin kieli"
+   },
+   "Kernel_Lang_Somali": {
+      "message": "Somalinkieli"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Espanja"
+   },
+   "Kernel_Lang_SpanishArgentina": {
+      "message": "Espanja (Argentiina)"
+   },
+   "Kernel_Lang_SpanishBolivia": {
+      "message": "Espanja (Bolivia)"
+   },
+   "Kernel_Lang_SpanishChile": {
+      "message": "Espanja (Chile)"
+   },
+   "Kernel_Lang_SpanishColombia": {
+      "message": "Espanja (Kolumbia)"
+   },
+   "Kernel_Lang_SpanishCostaRica": {
+      "message": "Espanja (Costa Rica)"
+   },
+   "Kernel_Lang_SpanishDR": {
+      "message": "Espanja (Dominikaaninen Tasavalta)"
+   },
+   "Kernel_Lang_SpanishEquador": {
+      "message": "Espanja (Ecuador)"
+   },
+   "Kernel_Lang_SpanishGuatemala": {
+      "message": "Espanja (Guatemala)"
+   },
+   "Kernel_Lang_SpanishHonduras": {
+      "message": "Espanja (Honduras)"
+   },
+   "Kernel_Lang_SpanishMexico": {
+      "message": "Espanja (Meksiko)"
+   },
+   "Kernel_Lang_SpanishNicaragua": {
+      "message": "Espanja (Nicaragua)"
+   },
+   "Kernel_Lang_SpanishPanama": {
+      "message": "Espanja (Panama)"
+   },
+   "Kernel_Lang_SpanishParaguay": {
+      "message": "Espanja (Paraguay)"
+   },
+   "Kernel_Lang_SpanishPeru": {
+      "message": "Espanja (Peru)"
+   },
+   "Kernel_Lang_SpanishPuertoRico": {
+      "message": "Espanja (Puerto Rico)"
+   },
+   "Kernel_Lang_SpanishSalvador": {
+      "message": "Espanja (El Salvador)"
+   },
+   "Kernel_Lang_SpanishSpain": {
+      "message": "Espanja (Espanja)"
+   },
+   "Kernel_Lang_SpanishUS": {
+      "message": "Espanja (USA)"
+   },
+   "Kernel_Lang_SpanishUruguay": {
+      "message": "Espanja (Uruguay)"
+   },
+   "Kernel_Lang_SpanishVenezuela": {
+      "message": "Espanja (Venezuela)"
+   },
+   "Kernel_Lang_Sundanese": {
+      "message": "Sundanese"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Swahili"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Ruotsinkieli"
+   },
+   "Kernel_Lang_Tajik": {
+      "message": "Tadžikkieli"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Tamiili"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Telugu"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Thai"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "Turkki"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Ukraina"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Urdu"
+   },
+   "Kernel_Lang_Uzbek": {
+      "message": "Uzbekki"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Vietnami"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Kymri"
+   },
+   "Kernel_Lang_Xhosa": {
+      "message": "Xhosa"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Jiddiš"
+   },
+   "Kernel_Lang_Yoruba": {
+      "message": "Joruba"
+   },
+   "Kernel_Lang_Zulu": {
+      "message": "Zulu"
+   },
+   "Kernel_NoResults": {
+      "message": "Ei tuloksia"
+   },
+   "Kernel_Ok": {
+      "message": "OK"
+   },
+   "Kernel_PhrasebookTitle": {
+      "message": "Sanakirja"
+   },
+   "Kernel_RemoveCombination": {
+      "message": "poista"
+   },
+   "Kernel_SearchPlaceholder": {
+      "message": "Etsi"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "Asetukset"
+   },
+   "Kernel_Vowels": {
+      "message": "aeiou"
+   },
+   "Login_ByClicking": {
+      "message": "Klikkaamalla 'Luo tili' hyväksyt \u003Cb>\u003Ca href=\"https://matetranslate.com/terms\">käyttöehdot\u003C/a>\u003C/b> ja \u003Cb>\u003Ca href=\"https://matetranslate.com/privacy\">tietosuojakäytännön\u003C/a>\u003C/b>."
+   },
+   "Login_Continue": {
+      "message": "JATKA"
+   },
+   "Login_ContinueWithout": {
+      "message": "Ohita"
+   },
+   "Login_Create": {
+      "message": "Luo tili"
+   },
+   "Login_Email": {
+      "message": "Syötä sähköpostiosoitteesi..."
+   },
+   "Login_Forgot": {
+      "message": "Unohditko salasanasi?"
+   },
+   "Login_GDPR": {
+      "message": "\u003Cb>Tervetuloa kääntäjään, joka todella välittää yksityisyydestäsi.\u003C/b> Emme koskaan seuraa tai myy tietojasi. \u003Ca class=\"open-pp\" href=\"javascript:;\">Tietosuojakäytäntömme\u003C/a> on toisin kuin mikään muu – se on ytimekäs ja miellyttävä. Lue ja hyväksy se käyttääksesi Mate-tiliä."
+   },
+   "Login_IReadAndAgree": {
+      "message": "Hyväksyn"
+   },
+   "Login_NewPassword": {
+      "message": "Uusi salasana..."
+   },
+   "Login_NoAccountHead": {
+      "message": "Ei tiliä"
+   },
+   "Login_NoAccountText": {
+      "message": "Jos ostit Pro-version etkä ollut kirjautunut sisään silloin etkä suorittanut rekisteröitymistä sähköpostiin lähettämämme linkin kautta, sinun tulee suorittaa rekisteröityminen loppuun tämän linkin kautta. Kun olet valmis, voit kirjautua sovellukseen."
+   },
+   "Login_NoRememberHead": {
+      "message": "En muista sitä"
+   },
+   "Login_NoRememberText": {
+      "message": "Jos et muista käytettyä sähköpostiosoitetta, yritä löytää ostovahvistusviesti sähköpostistasi."
+   },
+   "Login_OrSignInWith": {
+      "message": "TAI KIRJAUDU SISÄÄN"
+   },
+   "Login_Password": {
+      "message": "Syötä salasanasi..."
+   },
+   "Login_PasswordMin8": {
+      "message": "Salasanasi tulee koostua vähintään kahdeksasta merkistä"
+   },
+   "Login_Promo": {
+      "message": "Kirjaudu sisään käyttämään Matea ja synkronoimaan kaikki tietosi kaikilla laitteilla!"
+   },
+   "Login_QuestionsHead": {
+      "message": "Kysyttävää?"
+   },
+   "Login_QuestionsText": {
+      "message": "Jos sinulla on edelleen ongelmia, voit ottaa meihin yhteyttä osoitteessa \u003Ca href=\"mailto:support@matetranslate.com?subject=Login Issues\">support@matetranslate.com\u003C/a>."
+   },
+   "Login_Restore": {
+      "message": "Palauta Mate Translate Pro kirjautumalla tilille, josta ostit sen (\u003Ca href=\"javascript:;\" class=\"show-info\">etkö tiedä sitä?\u003C/a>)"
+   },
+   "Login_SignIn": {
+      "message": "KIRJAUDU SISÄÄN"
+   },
+   "Login_SignUp": {
+      "message": "Rekisteröidy"
+   },
+   "Login_Sync": {
+      "message": "Mate-tilisi on paras tapa pitää historiasi, sanakirjasi ja asetuksesi varmuuskopioituna ja synkronoituna kaikkien laitteiden välillä saumattomasti."
+   },
+   "Login_YourName": {
+      "message": "Nimesi (valinnainen)..."
+   },
+   "MatePro_Description": {
+      "message": "Vie käännöskokemuksesi aivan uudelle tasolle Mate Pro:n kanssa! Maksa kerran, käytä ikuisesti."
+   },
+   "MicAccess_HowToUnlock": {
+      "message": "Poista \u003Cb>$id$\u003C/b> estoa mikrofonin poikkeuksista. Sen jälkeen \u003Cb>\u003Ca href=\"../public/mic_access.html\">klikkaa tästä\u003C/a>\u003C/b>.",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/"
+         }
+      }
+   },
+   "MicAccess_Note": {
+      "message": "Puheen tunnistamiseksi ja kääntämiseksi Mate Translate tarvitsee luvan käyttää tietokoneesi mikrofonia."
+   },
+   "MicAccess_PageTitle": {
+      "message": "Pääsy mikrofoniin"
+   },
+   "MicAccess_Title": {
+      "message": "Mikrofoni"
+   },
+   "MicAccess_UnlockButton": {
+      "message": "salli sisältöasetuksissa"
+   },
+   "Options_TooltipSizePro": {
+      "message": "Päivitä Pro-versioon muuttaaksesi työkaluvihjeen kokoa."
+   },
+   "Pb_AddButton": {
+      "message": "Lisää"
+   },
+   "Pb_EarlyAccess": {
+      "message": "pyydä aikaista pääsyä"
+   },
+   "Pb_Empty": {
+      "message": "Sanakirja on tyhjä"
+   },
+   "Pb_EmptyWl_Text1": {
+      "message": "Tallenna kaikki sanat, jotka haluat muistaa tästä aiheesta, tänne."
+   },
+   "Pb_EmptyWl_Text2": {
+      "message": "Kirjoita vain sanat, Mate hakee niille käännökset."
+   },
+   "Pb_EmptyWl_Title2": {
+      "message": "Tallenna helposti"
+   },
+   "Pb_Empty_Button": {
+      "message": "luo sanalista"
+   },
+   "Pb_Empty_Text1": {
+      "message": "Luo sanalistoja tallentaaksesi sanat, jotka haluat oppia."
+   },
+   "Pb_Empty_Text2": {
+      "message": "Pidä kaikki sanastosi yhdessä paikassa!"
+   },
+   "Pb_Empty_Title": {
+      "message": "Mikä tämä on?"
+   },
+   "Pb_EnterWordOrPhrase": {
+      "message": "Syötä sana tai lause ..."
+   },
+   "Pb_HowToAddPhrase": {
+      "message": "Käytä yläpuolella olevaa tekstikenttää lisätäksesi uusia lauseita"
+   },
+   "Pb_HowToCreateWordlist": {
+      "message": "Napsauta ylhäällä olevaa \"+\" -painiketta luodaksesi uuden sanalistan"
+   },
+   "Pb_Learn": {
+      "message": "Opettele"
+   },
+   "Pb_LearnOnboardingDesc": {
+      "message": "Haluamme pitää Maten hyvänä yhdessä tarkoituksessa - käännöksissä.\u003Cbr>\u003Cbr>Siksi teimme Rejin - erittäin yksinkertaisen ilmaisen sovelluksen tehokkaaseen sanaston oppimiseen. Teimme myös mahdolliseksi viedä kaikki sanasi Matesta Rejiin yhdellä napsautuksella!"
+   },
+   "Pb_Loading": {
+      "message": "ladataan..."
+   },
+   "Pb_NewWlNote": {
+      "message": "Luo sanalista kiinteälle kieliparille ja lisää siihen rajattomasti lauseita."
+   },
+   "Pb_NewWordlist": {
+      "message": "Uusi sanalista"
+   },
+   "Pb_NewWordlistName": {
+      "message": "Uuden sanalistan nimi ..."
+   },
+   "Pb_NoInternet": {
+      "message": "Internet-yhteytesi näyttää olevan offline-tilassa. Uusien lauseiden lisäämiseen tarvitset Internet-yhteyden!"
+   },
+   "Pb_NotOnIOS": {
+      "message": "Et käytä iOS:ää? Napsauta oppiaksesi sanoja \u003Ca class=\"show-android-form\" href=\"#\">Androidissa\u003C/a> tai suoraan \u003Ca class=\"show-chrome-form\" href=\"#\">selaimessa\u003C/a>."
+   },
+   "Pb_RejiAndroid": {
+      "message": "Reji Androidille ei ole vielä saatavilla. Työskentelemme kovasti sen julkaisemiseksi mahdollisimman pian. Voit kuitenkin olla ensimmäinen, joka saa tietää siitä, jos jätät sähköpostisi:"
+   },
+   "Pb_RejiBrowser": {
+      "message": "Rejin selainversio ei ole vielä saatavilla. Työskentelemme kovasti sen julkaisemiseksi mahdollisimman pian. Voit kuitenkin olla ensimmäinen, joka saa tietää siitä, jos jätät sähköpostisi:"
+   },
+   "Pb_SaveButton": {
+      "message": "Tallenna"
+   },
+   "Pb_ScanQR": {
+      "message": "Skannaa tämä QR-koodi iPhonen tai iPadin Kamera-sovelluksella avataksesi ja oppiaksesi sanoja Rejissä."
+   },
+   "Pb_SelectLearnLanguage": {
+      "message": "Mitä kieltä opit?"
+   },
+   "Pb_SureToDeleteWordlist": {
+      "message": "Oletko varma, että haluat poistaa tämän sanalistan? Tätä toimintoa ei voi peruuttaa."
+   },
+   "Pb_WlEmpty": {
+      "message": "Sanallista on tyhjä"
+   },
+   "Phrasebook_FullyBlockedOut": {
+      "message": "Päivitä Pro-versioon saadaksesi rajattoman pääsyn sanakirjaan."
+   },
+   "Phrasebook_Phrases1": {
+      "message": "lause"
+   },
+   "Phrasebook_Phrases2": {
+      "message": "lauseet"
+   },
+   "Phrasebook_Phrases3": {
+      "message": "lauseet"
+   },
+   "ProSplitTests_2_F1": {
+      "message": "Käännä puhetta"
+   },
+   "ProSplitTests_2_F2": {
+      "message": "Historia & Sanakirja"
+   },
+   "ProSplitTests_2_F3": {
+      "message": "Synonyymit"
+   },
+   "ProSplitTests_2_F4": {
+      "message": "Ääntäminen ja substantiivien suvut"
+   },
+   "ProSplitTests_2_F5": {
+      "message": "Tumma tila ja ei mainoksia"
+   },
+   "ProSplitTests_2_F6": {
+      "message": "Etusijalla oleva asiakastuki"
+   },
+   "ProSplitTests_2_F7": {
+      "message": "Pro \u003Ca href=\"https://gikken.co/mate-translate/?ref=BrowserProBlock\">kaikilla laitteilla\u003C/a>"
+   },
+   "ProSplitTests_2_F8": {
+      "message": "Automaattinen verkkosivun käännös"
+   },
+   "ProSplitTests_2_Pitch": {
+      "message": "Mate on mahtava, Pro tekee siitä vielä mahtavamman!\u003Cbr>Saat pääsyn kaikkiin premium-ominaisuuksiin kaikilla laitteilla ja näet ei-mainoksia."
+   },
+   "Pro_Articles": {
+      "message": "Substantiivin artikkelit"
+   },
+   "Pro_Articles_Desc": {
+      "message": "Opi käyttämään sanoja saksaksi, ranskaksi, espanjaksi, italiaksi ja portugaliksi."
+   },
+   "Pro_Articles_Msg": {
+      "message": "Osta Pro avataksesi substantiivien artikkelit."
+   },
+   "Pro_ComesAlong": {
+      "message": ", ja enemmän:"
+   },
+   "Pro_DoubleClickFeature": {
+      "message": "Käännä sanat verkkosivuilla kaksoisnapsauttamalla niitä Mate Pro:lla!"
+   },
+   "Pro_ExportFeature": {
+      "message": "Hanki historia CSV-tiedostona Mate Pro:lla!"
+   },
+   "Pro_FullPageTranslation": {
+      "message": "Osta Pro saadaksesi automaattisen verkkosivun käännöksen."
+   },
+   "Pro_IPA": {
+      "message": "Äänteellinen transkriptio"
+   },
+   "Pro_IPA_Desc": {
+      "message": "Opi ääntämään sanat oikein."
+   },
+   "Pro_IPA_Msg": {
+      "message": "Osta Pro avataksesi äänteellisen transkription."
+   },
+   "Pro_MainSettingsPitch": {
+      "message": "Päivitys kannattaa, mikäli käännät paljon. Olemme pakanneet mukaan ominaisuuksia, jotka tekevät Mate Prosta kielten mahtavan työkalun."
+   },
+   "Pro_NetflixPhrasebookSaving": {
+      "message": "Osta Pro tallentaaksesi sanoja Netflixistä."
+   },
+   "Pro_PhrasebookFeature": {
+      "message": "Saatavilla henkilökohtainen sanakirja. Synkronoi se (ja historiasi) Maten kanssa \u003Ca href=\"https://gikken.co/mate-translate/download/\" target=\"_blank\">kaikilla laitteillasi\u003C/a>. Vie CSV-tiedostona muihin paikka."
+   },
+   "Pro_STTFeature": {
+      "message": "Puhu Matelle yli \u003Ca href=\"https://gikken.co/mate-translate/languages\" target=\"_blank\">40 kielellä\u003C/a>, saat erittäin nopean ja tarkan käännöksen."
+   },
+   "Pro_ShortcutsFeature": {
+      "message": "Aseta näppäimistösi kääntämään useita kieliä yhden sijasta (Shift+T)."
+   },
+   "Pro_SyncFeature": {
+      "message": "Synkronoi kaikki tietosi kaikilla laitteilla Mate Pro:n kanssa!"
+   },
+   "Pro_SynonymsPaywall": {
+      "message": "Päivitä Pro-versioon nähdäksesi enemmän synonyymejä."
+   },
+   "Pro_UnlockMore": {
+      "message": "Ja myös avaa nämä ominaisuudet:"
+   },
+   "Promo_Android": {
+      "message": "Android"
+   },
+   "Promo_Chrome": {
+      "message": "Chrome"
+   },
+   "Promo_Edge": {
+      "message": "Edge"
+   },
+   "Promo_Firefox": {
+      "message": "Firefox"
+   },
+   "Promo_Ios": {
+      "message": "iOS"
+   },
+   "Promo_Mac": {
+      "message": "macOS"
+   },
+   "Promo_Safari": {
+      "message": "Safari"
+   },
+   "Promo_Samsunginternet": {
+      "message": "Samsung Internet"
+   },
+   "Promo_Windows": {
+      "message": "Windows"
+   },
+   "RejiAd": {
+      "message": "Uusi sovelluksemme auttaa sinua parantamaan sanastoasi. Tutustu siihen!"
+   },
+   "SafariWall_Desc": {
+      "message": "Maksamalla Mate:sta kerran saat kaikki nämä upeat ominaisuudet suoraan Safari-selaimeesi."
+   },
+   "SafariWall_Feature1": {
+      "message": "Valitse sanat millä tahansa sivulla ja käännä ne"
+   },
+   "SafariWall_Feature2": {
+      "message": "Kaksoisnapsauta mitä tahansa sanaa ja käännä se"
+   },
+   "SafariWall_Feature3": {
+      "message": "Tallenna sanat muistaaksesi ne henkilökohtaiseen sanakirjaasi"
+   },
+   "SafariWall_Feature4": {
+      "message": "Käännä 103 kieltä"
+   },
+   "SafariWall_Feature5": {
+      "message": "Opettele oikeaa ääntämistä"
+   },
+   "SafariWall_Feature6": {
+      "message": "Synkronoi kaikki käännöksesi kaikilla laitteilla"
+   },
+   "SafariWall_Title": {
+      "message": "Älä enää siirry käännössivustoille!"
+   },
+   "Settings_21max": {
+      "message": "Voit luoda enintään 21 pikakuvaketta..."
+   },
+   "Settings_Articles": {
+      "message": "Näytä substantiivien artikkelit"
+   },
+   "Settings_Autoswap": {
+      "message": "Vaihda kielet automaattisesti"
+   },
+   "Settings_Autoswap_Description": {
+      "message": "Kielet vaihdetaan automaattisesti, jos syötät tekstiä kohdekielellä lähdekielen sijaan ja päinvastoin."
+   },
+   "Settings_CP": {
+      "message": "Mate muille laitteille"
+   },
+   "Settings_CPDesc": {
+      "message": "Mate on saatavilla iOS:lle, Mac:ille (+ Safari -laajennus), Chromelle, Firefoxille, Operalle ja Edgelle. Voit synkronoida käännöshistoriasi ja sanakirjasi kaikkien sovellusten välillä Mate-tilillä."
+   },
+   "Settings_CP_Get": {
+      "message": "Hanki muut Mate-sovellukset"
+   },
+   "Settings_Close": {
+      "message": "sulje"
+   },
+   "Settings_Contacts": {
+      "message": "Lisää"
+   },
+   "Settings_CtxMenu": {
+      "message": "Kontekstivalikko"
+   },
+   "Settings_CtxMenuDesc": {
+      "message": "Näytä käännöspainike kontekstivalikossa (hiiren oikealla painikkeella). Toimii valitulle tekstille verkkosivuilla."
+   },
+   "Settings_DarkMode": {
+      "message": "Kaunis tumma tila"
+   },
+   "Settings_DarkModeDesc": {
+      "message": "Säästä energiaa ja vältä silmien rasitusta Mate:n siistillä tummalla tilalla."
+   },
+   "Settings_DataEraseError": {
+      "message": "Tapahtui odottamaton virhe, yritä uudelleen myöhemmin!"
+   },
+   "Settings_DataErased": {
+      "message": "Kaikki tietosi poistettiin Mate:n palvelimilta!"
+   },
+   "Settings_DestLang": {
+      "message": "Kohdekieli"
+   },
+   "Settings_Email": {
+      "message": "lähetä meille sähköpostia"
+   },
+   "Settings_EnableSync": {
+      "message": "Ota historian ja Fraasikirjan synkronointi käyttöön"
+   },
+   "Settings_EraseConfirm": {
+      "message": "Oletko varma? Tämä poistaa kaikki synkronoidut käännöksesi ja Fraasikirjan (paikalliset tiedot eivät vaikuta). Tätä ei voi peruuttaa."
+   },
+   "Settings_EraseData": {
+      "message": "poista kaikki tietoni"
+   },
+   "Settings_EraseDataDesc": {
+      "message": "GDPR:n mukaisesti voit pyytää tietojasi poistettavaksi Mate:n palvelimilta."
+   },
+   "Settings_FBShare": {
+      "message": "jaa facebookissa"
+   },
+   "Settings_Facebook": {
+      "message": "facebook"
+   },
+   "Settings_HelpCenter": {
+      "message": "Ohjekeskus"
+   },
+   "Settings_Interface_Autocorrection": {
+      "message": "Automaattinen korjaus"
+   },
+   "Settings_Interface_Autocorrection_Description": {
+      "message": "Mate korjaa automaattisesti väärin kirjoitetut sanat."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Älykäs käännös"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Mate kääntää syötteen, kun lopetat kirjoittamisen."
+   },
+   "Settings_Interface_Save": {
+      "message": "Säilytä viimeisin käännös"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "Mate säilyttää viimeksi tehdyn käännöksen ponnahdusikkunassa, jotta se on siellä, kun avaat sen uudelleen."
+   },
+   "Settings_Interface_ShowIPA": {
+      "message": "Näytä foneettinen transkriptio"
+   },
+   "Settings_Interface_ShowIPA_Description": {
+      "message": "Opi ääntämään Mate:n tarjoaman sanojen ja lauseiden foneettisen transkription avulla."
+   },
+   "Settings_Interface_ShowTranslit": {
+      "message": "Näytä translitteraatio"
+   },
+   "Settings_Interface_ShowTranslit_Description": {
+      "message": "Ei-latinalaisille aakkosille Mate näyttää käännöksen latinalaisin kirjaimin helpottamaan lukemista."
+   },
+   "Settings_Legal": {
+      "message": "Oikeudellinen"
+   },
+   "Settings_Netflix": {
+      "message": "Käännä Netflixin tekstitykset"
+   },
+   "Settings_NetflixDesc": {
+      "message": "Klikkaa sanoja Netflixin tekstityksissä saadaksesi käännöksen heti."
+   },
+   "Settings_NetflixView": {
+      "message": "näytä tallennetut sanat →"
+   },
+   "Settings_NewLine": {
+      "message": "uudelle riville"
+   },
+   "Settings_Newsletter": {
+      "message": "uutiskirje"
+   },
+   "Settings_NoConsentPro": {
+      "message": "GDPR:n mukaisesti emme voi laskuttaa sinua Pro-versiosta ennen kuin hyväksyt käyttöehtomme... Hyväksy ja päivitä tämä sivu jatkaaksesi Pro-ohjelman käyttöä."
+   },
+   "Settings_NoProSync": {
+      "message": "Päivitä Pro:hon ottaaksesi synkronoinnin käyttöön"
+   },
+   "Settings_Or": {
+      "message": "tai"
+   },
+   "Settings_PopupShortcuts": {
+      "message": "Pikakuvakkeet ponnahdusikkunassa"
+   },
+   "Settings_PopupShortcutsDesc": {
+      "message": "Käännä teksti syöttökentässä pikakuvakkeen avulla."
+   },
+   "Settings_PrefsTab": {
+      "message": "Asetukset"
+   },
+   "Settings_PrivacyPolicy": {
+      "message": "Tietosuojakäytäntö"
+   },
+   "Settings_ProActivated": {
+      "message": "Kaikki valmista! Pro on aktivoitu."
+   },
+   "Settings_ProFeature8": {
+      "message": "Oma sähköpostituki"
+   },
+   "Settings_ProFeature8_Desc": {
+      "message": "Tuki on vain Pro-käyttäjille, jotta voimme vastata nopeasti ja yksityiskohtaisesti. \u003Cbr>Ilmaiset käyttäjät voivat löytää yleisiä vastauksia meidän \u003Ca href=\"https://help.gikken.co/hc/\" target=\"_blank\">Ohjekeskuksesta\u003C/a>."
+   },
+   "Settings_ProTab": {
+      "message": "Pro & Synkronointi"
+   },
+   "Settings_Restore": {
+      "message": "palauta ostos"
+   },
+   "Settings_RevokeConsent": {
+      "message": "en hyväksy ehtoja enää"
+   },
+   "Settings_RevokeConsentDesc": {
+      "message": "Jos et enää hyväksy tietosuojakäytäntöämme tai käyttöehtojamme, voit peruuttaa aiemman suostumuksesi. Et kuitenkaan voi enää käyttää Matea."
+   },
+   "Settings_Share": {
+      "message": "Kerro ystävillesi Matesta"
+   },
+   "Settings_ShareDesc": {
+      "message": "Lähetä heille linkki tai jaa sosiaalisessa mediassa. Se auttaa meitä paljon!"
+   },
+   "Settings_ShareText": {
+      "message": "Mate on ystävällisin, nopein ja yksityisyyttä kunnioittavin käännössovellus {{alustalle}}, Macille, iPhonelle ja iPadille. Tulet rakastamaan sitä."
+   },
+   "Settings_ShortcutClick": {
+      "message": "klikkaa tätä kenttää ja paina haluamasi pikakuvake..."
+   },
+   "Settings_ShortcutMain": {
+      "message": "Pääpikakuvake"
+   },
+   "Settings_ShortcutSuppl": {
+      "message": "Lisävalikkokuvake"
+   },
+   "Settings_SignOut": {
+      "message": "KIRJAUDU ULOS"
+   },
+   "Settings_SourceLang": {
+      "message": "Lähdekieli"
+   },
+   "Settings_StayInTouch": {
+      "message": "Pidä yhteyttä meihin"
+   },
+   "Settings_SyncText": {
+      "message": "Pidä Pro-tilisi, käännökset ja sanakirja synkronoituna kaikilla laitteilla."
+   },
+   "Settings_TWShare": {
+      "message": "jaa Twitterissä"
+   },
+   "Settings_ToS": {
+      "message": "käyttöehdot"
+   },
+   "Settings_ToTranslate": {
+      "message": "käännettävä"
+   },
+   "Settings_Tooltip": {
+      "message": "Työkaluvihjeen koko"
+   },
+   "Settings_TooltipBig": {
+      "message": "suuri"
+   },
+   "Settings_TooltipDesc": {
+      "message": "Kuinka suuri työkaluvihjeen, josta käännökset verkkosivuilla näkyvät, pitäisi olla."
+   },
+   "Settings_TooltipMedium": {
+      "message": "keskikokoinen"
+   },
+   "Settings_TooltipSmall": {
+      "message": "pieni"
+   },
+   "Settings_TranslateSelection": {
+      "message": "Valitse käännettävä teksti"
+   },
+   "Settings_TranslateSelectionDesc": {
+      "message": "Näytä käännöspainike valitun tekstin vieressä verkkosivuilla."
+   },
+   "Settings_Translation_History": {
+      "message": "Käännöshistoria"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "Tallenna kaikki käännökset, jotta voit selata niitä milloin tahansa."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Sivulla"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "Valitse teksti miltä tahansa sivulta (paitsi PDF-tiedostoista), paina pikakuvaketta ja saat käännöksen heti häiritsemättömässä ponnahdusikkunassa."
+   },
+   "Settings_Twitter": {
+      "message": "twitter"
+   },
+   "Settings_UsageDesc": {
+      "message": "Suosittelemme päivittämään Pro-versioon, jos käännät yli 500 kertaa kuukaudessa. Tämä auttaa meitä ylläpitämään palvelintamme.\u003Cbr>\u003Cbr>Näin voimme taata nopeamman käännösnopeuden."
+   },
+   "Settings_Website": {
+      "message": "verkkosivusto"
+   },
+   "Settings_YouAreSignedIn": {
+      "message": "Olet kirjautunut sisään käyttäjänä"
+   },
+   "Settings_YouPro": {
+      "message": "Sinulla on Pro-versio!"
+   },
+   "Settings_YouUsed": {
+      "message": "olet käyttänyt"
+   },
+   "ShareOnVK": {
+      "message": "jaa VK:ssa"
+   },
+   "ShareViaEmail": {
+      "message": "jaa sähköpostilla"
+   },
+   "SignUp_Name": {
+      "message": "Nimi (vapaaehtoinen)"
+   },
+   "SignUp_Password": {
+      "message": "Salasana (vähintään 8 merkkiä)"
+   },
+   "Sponsorship_Bar": {
+      "message": "Pysykää turvassa Mate-tilillä"
+   },
+   "Sponsorship_DismissPro": {
+      "message": "Päivitä Pro-versioon poistaaksesi mainokset."
+   },
+   "Sub_48hNotificationBodyAnnual": {
+      "message": "Laskutamme sinulta pian {{amount}} Mate Pro vuosittaisesta tilauksesta."
+   },
+   "Sub_48hNotificationBodyMonthly": {
+      "message": "Laskutamme sinulta pian {{amount}} Mate Pro kuukaudentilauksesta."
+   },
+   "Sub_48hNotificationLabel": {
+      "message": "\u003Cb>Riskitön.\u003C/b> Lähetämme sinulle muistutuksen 48 tuntia ennen ensimmäistä maksua."
+   },
+   "Sub_48hNotificationTitle": {
+      "message": "Miten Mate kokeilusi sujuu?"
+   },
+   "Sub_ApplyForStudentDiscount": {
+      "message": "Opiskelija-alennus"
+   },
+   "Sub_Cancel": {
+      "message": "Peruuta tilaus"
+   },
+   "Sub_ChangePaymentMethod": {
+      "message": "Vaihda maksutapaa"
+   },
+   "Sub_ComingSoon": {
+      "message": "tulossa pian"
+   },
+   "Sub_CouldNotGetPayLink": {
+      "message": "Maksulinkkiä ei voitu saada. Yritä myöhemmin uudelleen tai ota yhteyttä meihin sähköpostitse support@matetranslate.com"
+   },
+   "Sub_CrossPlatformProComingSoon": {
+      "message": "Työskentelemme kovasti tehdäksemme Mate Pro:sta alustariippumattoman.\n\nVoit jo nauttia Mate Pro:sta kaikissa selaimen laajennuksissa kirjautumalla samalla Mate-tilillä kaikilla laitteilla. iOS- ja Mac-sovellukset myydään kuitenkin suoraan Applen App Storesta.\n\nTilapäisenä ratkaisuna voit lähettää meille sähköpostia osoitteeseen hello@gikken.co ja liittää kuitin tilauksestasi — autamme sinua saamaan nämä sovellukset käyttöön ilmaiseksi.\n\nPahoittelemme väliaikaista hankaluutta."
+   },
+   "Sub_DueAfterTrial": {
+      "message": "\u003Cspan class=\"price-due\">\u003C/span> kokeilujakson jälkeen"
+   },
+   "Sub_FAQ": {
+      "message": "UKK"
+   },
+   "Sub_FinishCreatingAccount": {
+      "message": "Viimeistele tilin luonti"
+   },
+   "Sub_FreeTrialVerificationCharge": {
+      "message": "Sinua voidaan veloittaa 1 $ Paddle-palvelussa luottokortin vahvistamiseksi. Se palautetaan välittömästi. Kokeilu on ilmainen."
+   },
+   "Sub_LegacyUsersDisclaimer": {
+      "message": "Mate Pro on tilauspohjainen uusille käyttäjille nyt. Koska olet ostanut Pron ennen siirtymää, pidät sen ilman lisäkustannuksia ikuisesti! Kiitos, kun tuet meitä alusta alkaen \u003C3"
+   },
+   "Sub_Month": {
+      "message": "/kuukausi"
+   },
+   "Sub_MoreInlineInfo": {
+      "message": "Lue lisää"
+   },
+   "Sub_NextBilling": {
+      "message": "Seuraava laskutus: {{next_amount_billed}} {{next_billing_date}}"
+   },
+   "Sub_NoNotifPermissionAlert": {
+      "message": "Ilman ilmoituslupaa emme voi ilmoittaa sinulle ensimmäisestä laskutuksesta... Voit kuitenkin aina katsoa, milloin se tapahtuu täältä asetuksista."
+   },
+   "Sub_PleaseCreateAccount": {
+      "message": "Luo nyt tilisi, jotta voimme vahvistaa tilaustasi. Se kestää vain hetken!"
+   },
+   "Sub_PleaseSignBackIn": {
+      "message": "Kirjaudu takaisin tilillesi, joka on yhdistetty Mate-tiliisi \u003Cb>{{email}}\u003C/b>.\u003Cbr>Emme voi muuten vahvistaa tilaustasi."
+   },
+   "Sub_ProStatusForLegacyUsers": {
+      "message": "Sinulla on rajoittamaton, elinikäinen pääsy Mate Pro:hon"
+   },
+   "Sub_PurchasedBefore": {
+      "message": "Oletko ostanut Pron aiemmin?"
+   },
+   "Sub_Resubscribe": {
+      "message": "Tilaa uudelleen"
+   },
+   "Sub_Savings": {
+      "message": "säästä {{savings}}%"
+   },
+   "Sub_ScrewSubscription": {
+      "message": "Et halua tilata?"
+   },
+   "Sub_StatusFetchError": {
+      "message": "Ei voitu hakea tilaustasi."
+   },
+   "Sub_StatusFetchTryAgain": {
+      "message": "Yritä uudelleen"
+   },
+   "Sub_SubscribeNow": {
+      "message": "Tilaa nyt"
+   },
+   "Sub_TryFreeCTA": {
+      "message": "kokeile ilmaiseksi \u003Cspan class=\"trial-days\">\u003C/span> päivää"
+   },
+   "Sub_WhenCancelled": {
+      "message": "Olet peruutanut tilauksesi, mutta sinulla on edelleen pääsy Mate Pro:hon {{sub_ends_on}} asti. Jatkaaksesi Pro:n käyttöä sen jälkeen voit tilata uudelleen."
+   },
+   "Sub_WhenTrialing": {
+      "message": "Kokeilujaksosi päättyy {{next_billing_date}} ja sinulta veloitetaan {{next_amount_billed}}"
+   },
+   "Sub_Year": {
+      "message": "/vuosi"
+   },
+   "Sub_YouAreAlmostInTheFamily": {
+      "message": "Olet (melkein) Mate Pro -perheessä!"
+   },
+   "Sub_YouAreInTheFamily": {
+      "message": "Olet Mate Pro -perheessä!"
+   },
+   "Sync_FailedError": {
+      "message": "Synkronointi epäonnistui. Tapahtui virhe."
+   },
+   "Sync_NetworkError": {
+      "message": "Näyttää siltä, ettei ole internet-yhteyttä. Ole hyvä ja muodosta yhteys internetiin ja yritä synkronoida uudelleen."
+   },
+   "Sync_NoItemsError": {
+      "message": "Ei synkronoitavia kohteita."
+   },
+   "Sync_NotSignedInError": {
+      "message": "Sinun täytyy olla kirjautunut sisään synkronoidaksesi historian ja sanakirjan."
+   },
+   "TD_AddPB": {
+      "message": "Lisää sanakirjaan"
+   },
+   "TD_Copy": {
+      "message": "Kopioi"
+   },
+   "TD_Create": {
+      "message": "Luo uusi sanalista..."
+   },
+   "TD_NoWordlists": {
+      "message": "Ei sanalistoja"
+   },
+   "There_Is_Localised_Site": {
+      "message": "Tarkista lokalisoitu sivustoversio"
+   },
+   "There_Is_Localised_Site_Desc": {
+      "message": "Tämä verkkosivusto on lokalisoitu versio"
+   },
+   "Tooltip_DisableDoubleClick": {
+      "message": "Älä käännä kaksoisnapsautuksella"
+   },
+   "Tooltip_DisableDoubleClickDesc": {
+      "message": "Et näe käännösikkunaa, kun kaksoisnapsautat sanaa uudelleen."
+   },
+   "Tooltip_DisableSelection": {
+      "message": "Älä näytä kelluvaa painiketta"
+   },
+   "Tooltip_DisableSelectionDesc": {
+      "message": "Et näe kelluvaa käännöspainiketta, kun valitset uudelleen tekstiä."
+   },
+   "Tooltip_InlineOptionDisabled": {
+      "message": "Voit ottaa sen uudelleen käyttöön asetuksista"
+   },
+   "Tour_Agree": {
+      "message": "Napsauta alla olevaa painiketta hyväksyäksesi \u003Cb>Käyttöehdot\u003C/b> ja \u003Cb>Tietosuojakäytännön\u003C/b>, ja aloittaaksesi kääntämisen Mate-sovelluksella."
+   },
+   "Tour_AutoFPOption": {
+      "message": "Ehdota verkkosivujen käännöstä"
+   },
+   "Tour_DoubleClick": {
+      "message": "Kaksoisnapsautuskäännös"
+   },
+   "Tour_DoubleClickDesc": {
+      "message": "Kaksoisnapsauta mitä tahansa sanaa nähdäksesi välittömän käännöksen verkkosivuilla."
+   },
+   "Tour_DoubleClickOption": {
+      "message": "Käännä kaksoisnapsautuksella"
+   },
+   "Tour_GotIt": {
+      "message": "ALOITA"
+   },
+   "Tour_HowToContext": {
+      "message": "Tai valitse mikä tahansa teksti ja käytä kontekstivalikkoa (hiiren oikea painike) nähdäksesi käännöksen."
+   },
+   "Tour_HowToPopUp": {
+      "message": "Jos sinun täytyy kirjoittaa itse muutamia sanoja, avaa ponnahdusikkuna napsauttamalla Mate-painiketta selaimesi osoiterivin vieressä."
+   },
+   "Tour_HowToSelect": {
+      "message": "Valitse mikä tahansa sana tai teksti millä tahansa verkkosivulla ja paina Shift+T saadaksesi sen käännettyä."
+   },
+   "Tour_HowToUse": {
+      "message": "Kuinka käyttää?"
+   },
+   "Tour_Important": {
+      "message": "Tämä on todella tärkeää!"
+   },
+   "Tour_ImportantSub": {
+      "message": "Tämä sivu näyttää sinulle, miten käytät \u003Cb>Mate Translate\u003C/b>"
+   },
+   "Tour_ImportantText": {
+      "message": "Käytä vain 40 sekuntia tutustuaksesi tähän"
+   },
+   "Tour_Langs": {
+      "message": "Mille kielelle haluat kääntää?"
+   },
+   "Tour_LangsDesc": {
+      "message": "Valitse kieli, johon haluat kääntää:"
+   },
+   "Tour_LangsSupported": {
+      "message": "katso tuetut kielet"
+   },
+   "Tour_MacUser": {
+      "message": "Käytin Matea Macilla"
+   },
+   "Tour_NoShiftT": {
+      "message": "Mate ei pysty kääntämään valittua tekstiä tällä sivulla ja PDF-tiedostoissa tiettyjen \u003C%=browser%> teknisten rajoitusten vuoksi.\u003Cbr>\u003Cbr>Kokeile tehdä tämä esimerkiksi \u003Ca href='https://reji.me' target='_blank'>tällä sivulla\u003C/a>."
+   },
+   "Tour_PDF": {
+      "message": "Käännä PDF-tiedostoissa"
+   },
+   "Tour_PDFDesc": {
+      "message": "Valitse teksti PDF-tiedostoista Chromessa, napsauta hiiren oikealla ja käännä."
+   },
+   "Tour_PDFNote": {
+      "message": "Kelluva painike ja Shift+T kääntämiset eivät toimi PDF-tiedostoissa teknisten rajoitusten vuoksi."
+   },
+   "Tour_Pages": {
+      "message": "Käännä kokonaiset verkkosivut"
+   },
+   "Tour_PagesDesc": {
+      "message": "Kaikki verkkosivut omalla kielelläsi. Automaattisesti."
+   },
+   "Tour_Phrasebook": {
+      "message": "Pidä oma fraasisanakirjasi"
+   },
+   "Tour_PhrasebookCreate": {
+      "message": "Luo ensimmäinen sanalistani"
+   },
+   "Tour_PhrasebookDesc": {
+      "message": "Tallenna kaikki sanat, jotka haluat muistaa Mate-fraasisanakirjaan. Pidä kaikki sanastosi yhdessä paikassa!"
+   },
+   "Tour_PhrasebookFeature": {
+      "message": "Pidä kaikki sanat, jotka haluat muistaa, yhdessä paikassa!"
+   },
+   "Tour_PhrasebookLaunch": {
+      "message": "avaaa fraasisanakirja"
+   },
+   "Tour_PinExtension": {
+      "message": "Kiinnitä Mate"
+   },
+   "Tour_PinExtensionDesc": {
+      "message": "Pääset nopeasti käsiksi Mateen osoitepalkista."
+   },
+   "Tour_ProCTA": {
+      "message": "Avaa myös nämä mahtavat ominaisuudet päivittämällä \u003Cb>Mate Pro\u003C/b> -versioon juuri nyt:"
+   },
+   "Tour_ProFeature2": {
+      "message": "Käännä puhetta"
+   },
+   "Tour_ProFeature3": {
+      "message": "Rajoittamattomat pikakuvakkeet"
+   },
+   "Tour_ProFeature4": {
+      "message": "Sanakirja + saumaton synkronointi"
+   },
+   "Tour_ProFeature7": {
+      "message": "Vie historia ja fraasisanakirja CSV-muodossa"
+   },
+   "Tour_ProUpgradedSuccessfully": {
+      "message": "Sulje tämä sivu ja ala selata verkkoa ilman kielimuureja!"
+   },
+   "Tour_Ready": {
+      "message": "Noudatamme \u003Ca href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\" target=\"_blank\">GDPR\u003C/a>-säännöksiä!"
+   },
+   "Tour_SafariGet": {
+      "message": "hanki mate hintaan $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Tour_SelectAndTranslate": {
+      "message": "Valitse ja käännä"
+   },
+   "Tour_Selected": {
+      "message": "Käännä teksti verkkosivuilla"
+   },
+   "Tour_SelectedDesc": {
+      "message": "Napsauta kaksoisnapsautuksella, valitse käännettäväksi tai paina Shift+T."
+   },
+   "Tour_ShortcutsFeature": {
+      "message": "Luo niin monta pikakuvaketta kuin tarvitset (ilmaisen version yhtä vastaan) eri kielille, jotka käännettäväksi verkkosivuilla."
+   },
+   "Tour_Start": {
+      "message": "Aloita ilmaiseksi"
+   },
+   "Tour_Sync": {
+      "message": "Synkronoi data kaikilla laitteilla"
+   },
+   "Tour_SyncDesc": {
+      "message": "Käännöshistoriasi ja fraasisanakirjasi synkronoidaan kaikilla laitteilla, joilla käytät Matea."
+   },
+   "Tour_SyncSignIn": {
+      "message": "kirjaudu sisään synkronoidaksesi"
+   },
+   "Tour_Title": {
+      "message": "Tervetuloa Mate Translateen"
+   },
+   "Tour_TranslationsFeature": {
+      "message": "Käännä niin monta kertaa kuin tarvitset milloin tahansa."
+   },
+   "Tour_UhHuh": {
+      "message": "Uh huh!"
+   },
+   "Tour_Unlock": {
+      "message": "Mate Pro"
+   },
+   "Tour_UnlockDesc": {
+      "message": "Saat pääsyn kaikkiin premium-ominaisuuksiin ja näet vähemmän mainoksia."
+   },
+   "Window_AntiWarBanner": {
+      "message": "🇺🇦 Vastustamme Venäjän sotaa Ukrainaa ja Euroopan demokratiaa vastaan 🇺🇦"
+   },
+   "Window_CannotTranslatePDF": {
+      "message": "Emme voi kääntää valittua tekstiä PDF-tiedostoissa. {{browser}} tekniset rajoitukset..."
+   },
+   "Window_CannotTranslatePDFChrome": {
+      "message": "Käytä kontekstivalikkoa kääntääksesi valitun tekstin PDF-tiedostoissa. Chromen tekniset rajoitukset..."
+   },
+   "Window_Content_AllLang": {
+      "message": "Kaikki"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "Äskettäin käytetyt"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Käännä ..."
+   },
+   "Window_DoYouKnowSomeone": {
+      "message": "Tunnetko jonkun, jolle Mate Translate olisi hyödyllinen?"
+   },
+   "Window_DoYouLike": {
+      "message": "Pidätkö Matesta?"
+   },
+   "Window_DoYouLikeDesc": {
+      "message": "Tarvitseeko jotain parantaa vai onko Mate melkein täydellinen sinulle?"
+   },
+   "Window_DontAutocorrect": {
+      "message": "Älä korjaa automaattisesti"
+   },
+   "Window_Improve": {
+      "message": "se tarvitsee parannusta"
+   },
+   "Window_LearnMoreAboutPro": {
+      "message": "Lue lisää pro-versiosta"
+   },
+   "Window_Love": {
+      "message": "Rakastan sitä"
+   },
+   "Window_MateFreeDesc": {
+      "message": "Avaa kaikki uudet ominaisuudet päivittämällä Pro-versioon."
+   },
+   "Window_MateProDesc": {
+      "message": "Kirjaudu sisään mahdollistamaan historian ja fraasisanakirjan synkronointi."
+   },
+   "Window_Mw_LaterButton": {
+      "message": "Muistuta myöhemmin"
+   },
+   "Window_Mw_NeverButton": {
+      "message": "Älä muistuta koskaan"
+   },
+   "Window_Mw_NotChromeNotNow": {
+      "message": "Ei nyt"
+   },
+   "Window_Mw_RateButton": {
+      "message": "Arvioi nyt"
+   },
+   "Window_Mw_RateDesc": {
+      "message": "Olisimme iloisia nähdessämme arviosi App Storessa! Se vie alle minuutin. Pidä käännöskoneemme käynnissä arvosteluillasi!"
+   },
+   "Window_Mw_RateTitle": {
+      "message": "Arvostele Mate"
+   },
+   "Window_Mw_UpgradeButton": {
+      "message": "päivitä hintaan $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Window_NetflixFeatureDesc": {
+      "message": "Käännä ja opi sanoja katsoessasi Netflixiä. Klikkaa tekstityksen sanaa nähdäksesi käännöksen ja tallentaaksesi sen myöhempää käyttöä varten."
+   },
+   "Window_NewFeature": {
+      "message": "Uusi ominaisuus!"
+   },
+   "Window_No": {
+      "message": "ei"
+   },
+   "Window_Offline": {
+      "message": "Ei internetyhteyttä"
+   },
+   "Window_OfflineDesc": {
+      "message": "Uusia sanoja ei voida kääntää ilman internetyhteyttä."
+   },
+   "Window_Pro": {
+      "message": "Koe nopeampi ja sujuvampi käännöskokemus Mate Pron avulla!"
+   },
+   "Window_ProBannerAds": {
+      "message": "Päivitä Pro-versioon avataksesi enemmän ominaisuuksia."
+   },
+   "Window_QuickQuestion": {
+      "message": "Pieni kysymys..."
+   },
+   "Window_RateUsDesc": {
+      "message": "Voisitko mahdollisesti käyttää minuutin arvioidaksesi meidät App Storessa? Tuki on meille todella tärkeää."
+   },
+   "Window_ReadMore": {
+      "message": "lue lisää"
+   },
+   "Window_SendFeedback": {
+      "message": "Lähetä palautetta"
+   },
+   "Window_SendFeedbackDesc": {
+      "message": "Kerro meille, miten voimme parantaa Matea."
+   },
+   "Window_Share": {
+      "message": "Jaa Mate"
+   },
+   "Window_ShareDesc": {
+      "message": "Tulemme arvostamaan, jos kerrot Matesta muille!"
+   },
+   "Window_Shortcut": {
+      "message": "Paina Ctrl+T avataksesi tämän ikkunan nopeasti."
+   },
+   "Window_TranslationCopied": {
+      "message": "Käännös kopioitiin!"
+   },
+   "Window_UnpinPro": {
+      "message": "Päivitä Pro-versioon avataksesi Maten ikkunan."
+   },
+   "Window_WriteUs": {
+      "message": "kirjoita meille sähköpostia"
+   },
+   "Window_Yes": {
+      "message": "kyllä"
+   }
+}

@@ -1,0 +1,1739 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Skratky"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Prídavné mená"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Príslovky"
+   },
+   "CommonUi_LangPart_Auxiliaryverb": {
+      "message": "Pomocné slovesá"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Spojky"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Citoslovce"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Podstatné mená"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Frázy"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Predložky"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Zámená"
+   },
+   "CommonUi_LangPart_Suffix": {
+      "message": "Prípony"
+   },
+   "CommonUi_LangPart_Transliteration": {
+      "message": "Prepis"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Slovesá"
+   },
+   "CommonUi_NoResults": {
+      "message": "Žiadne výsledky"
+   },
+   "Common_Copied": {
+      "message": "Skopírované!"
+   },
+   "ContextMenu_FullPage": {
+      "message": "Preložiť túto stránku do \u003C%=lang%>"
+   },
+   "Csv_FromLang": {
+      "message": "Z JAZYKA"
+   },
+   "Csv_Input": {
+      "message": "VSTUP"
+   },
+   "Csv_IntoLang": {
+      "message": "DO JAZYKA"
+   },
+   "Csv_Synonyms": {
+      "message": "SYNONYMÁ"
+   },
+   "Csv_TimeDate": {
+      "message": "ČAS/ DÁTUM"
+   },
+   "Csv_Translation": {
+      "message": "PREKLAD"
+   },
+   "Csv_Transliteration": {
+      "message": "PREPIS"
+   },
+   "Csv_WhereTranslated": {
+      "message": "KDE PRELOŽENÉ"
+   },
+   "Dict_DictionaryTab": {
+      "message": "Slovník"
+   },
+   "Dict_NotFoundCaption": {
+      "message": "Ospravedlňujeme sa — pracujeme tvrdo na rozšírení nášho slovníka"
+   },
+   "Dict_NotFoundTitle": {
+      "message": "Nepodarilo sa nájsť definíciu"
+   },
+   "Dict_UpgradeToPro": {
+      "message": "Inovujte na Pro pre definície"
+   },
+   "DotsButton_Added": {
+      "message": "Pridané do \u003C%=wl%>"
+   },
+   "DotsButton_Copied": {
+      "message": "Preklad bol skopírovaný"
+   },
+   "DotsButton_OrigCopied": {
+      "message": "Originálny text bol skopírovaný"
+   },
+   "FullPage": {
+      "message": "Preklad celej stránky"
+   },
+   "FullPageDesc": {
+      "message": "Zobraziť ikonu Mate v pravom hornom rohu, ak je webová stránka v cudzom jazyku. Kliknutím na túto ikonu preložíte stránku do svojho jazyka."
+   },
+   "FullPageShowOriginal": {
+      "message": "Zobraziť originál"
+   },
+   "FullPageTranslate": {
+      "message": "Preložiť"
+   },
+   "FullPageTranslatedTo": {
+      "message": "Preložené do"
+   },
+   "FullPage_AlwaysTranslate": {
+      "message": "Vždy preložiť {{page_lang_beautiful}} do {{target_lang_beautiful}}"
+   },
+   "FullPage_ChangeLanguage": {
+      "message": "Zmeniť jazyk"
+   },
+   "FullPage_ContextMenuOption": {
+      "message": "Otvoriť úplný preklad stránky"
+   },
+   "FullPage_CurrentPageLang": {
+      "message": "Táto stránka je v {{page_lang_beautiful}}"
+   },
+   "FullPage_NeverTranslate": {
+      "message": "Nikdy neprekladať {{page_lang_beautiful}}"
+   },
+   "FullPage_SwitchBackTo": {
+      "message": "Prepnúť späť na {{language}}"
+   },
+   "FullPage_TranslateTo": {
+      "message": "Preložiť do {{target_lang_beautiful}}"
+   },
+   "FullPage_WeTranslatedIt": {
+      "message": "Preložili sme túto stránku do {{language}}"
+   },
+   "History_AnotherDevice": {
+      "message": "Na inom zariadení"
+   },
+   "History_Content_GoUpButton": {
+      "message": "Hore"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "História vašich prekladov bude tu"
+   },
+   "History_Export_OnlyProDesc": {
+      "message": "Prejdite na verziu Pro a exportujte svoju históriu prekladov do súboru CSV"
+   },
+   "History_FullyBlockedOut": {
+      "message": "Inovujte na Pro pre neobmedzený prístup k histórii prekladov."
+   },
+   "History_InPopup": {
+      "message": "V kontextovom okne"
+   },
+   "History_Options_DeleteMarked_1": {
+      "message": "Vymazať"
+   },
+   "History_Options_DeleteMarked_2": {
+      "message": "označené"
+   },
+   "History_Options_SelectToDelete": {
+      "message": "označiť na vymazanie"
+   },
+   "History_Options_SelectToDelete_MarkAll": {
+      "message": "Označiť všetko"
+   },
+   "History_Options_SelectToDelete_UnmarkAll": {
+      "message": "Odznačiť všetko"
+   },
+   "Human_OrderButton": {
+      "message": "Preložiť profesionálom"
+   },
+   "IDB_Error": {
+      "message": "Váš prehliadač má zakázanú Indexed DB"
+   },
+   "IDB_ErrorDesc": {
+      "message": "Mate Translate vyžaduje Indexovanú DB (to je lokálne úložisko, kde uchovávame všetky vaše preklady a slovník) na plný výkon.\u003Cbr>\u003Cbr>Váš prehliadač je zrejme v režime súkromného prehliadania, ktorý zakazuje Indexed DB (to je chyba Firefoxu \u003Ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=781982\" target=\"_blank\">bug #781982\u003C/a>).\u003Cbr>\u003Cbr>Môžete nastaviť možnosť História na \u003Ca href=\"about:preferences#privacy\" target=\"_blank\">about:preferences#privacy\u003C/a> na „Firefox si bude pamätať históriu“. Toto môže pomôcť, ale nie je zaručené. Inak môžete kontaktovať Mozillu a požiadať ju, aby túto chybu opravila rýchlejšie.\u003Cbr>\u003Cbr>Veľmi sa ospravedlňujeme za nepríjemnosti, ale bohužiaľ s tým nemôžeme nič urobiť."
+   },
+   "Kernel_AppDescription": {
+      "message": "Váš prekladateľ pre webové stránky, PDF súbory, zvýraznené texty a titulky na Netflixe. Rozumejte ľahko 103 jazykom."
+   },
+   "Kernel_AppName": {
+      "message": "Mate Translate – prekladač, slovník"
+   },
+   "Kernel_Cancel": {
+      "message": "zrušiť"
+   },
+   "Kernel_ClearInput": {
+      "message": "Vymazať vstupné pole"
+   },
+   "Kernel_Context_Into": {
+      "message": "do"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "História"
+   },
+   "Kernel_IPA": {
+      "message": "Fonematický prepis"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "Afrikánčina"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "Albánčina"
+   },
+   "Kernel_Lang_Amharic": {
+      "message": "Amharčina"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "Arabčina"
+   },
+   "Kernel_Lang_ArabicAlgeria": {
+      "message": "Arabčina (Alžírsko)"
+   },
+   "Kernel_Lang_ArabicBahrain": {
+      "message": "Arabčina (Bahrajn)"
+   },
+   "Kernel_Lang_ArabicEgypt": {
+      "message": "Arabčina (Egypt)"
+   },
+   "Kernel_Lang_ArabicGeneral": {
+      "message": "Arabčina (všeobecná)"
+   },
+   "Kernel_Lang_ArabicIraq": {
+      "message": "Arabčina (Irak)"
+   },
+   "Kernel_Lang_ArabicJordan": {
+      "message": "Arabčina (Jordánsko)"
+   },
+   "Kernel_Lang_ArabicKuwait": {
+      "message": "Arabčina (Kuvajt)"
+   },
+   "Kernel_Lang_ArabicLebanon": {
+      "message": "Arabčina (Libanon)"
+   },
+   "Kernel_Lang_ArabicLibyan": {
+      "message": "Arabčina (Líbya)"
+   },
+   "Kernel_Lang_ArabicMorocco": {
+      "message": "Arabčina (Maroko)"
+   },
+   "Kernel_Lang_ArabicOman": {
+      "message": "Arabčina (Omán)"
+   },
+   "Kernel_Lang_ArabicQatar": {
+      "message": "Arabčina (Katar)"
+   },
+   "Kernel_Lang_ArabicSaudi": {
+      "message": "Arabčina (Saudská Arábia)"
+   },
+   "Kernel_Lang_ArabicSudan": {
+      "message": "Arabčina (Sudán)"
+   },
+   "Kernel_Lang_ArabicSyria": {
+      "message": "Arabčina (Sýria)"
+   },
+   "Kernel_Lang_ArabicTunisia": {
+      "message": "Arabčina (Tunisko)"
+   },
+   "Kernel_Lang_ArabicUAE": {
+      "message": "Arabčina (SAE)"
+   },
+   "Kernel_Lang_ArabicYemen": {
+      "message": "Arabčina (Jemen)"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "Arménčina"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "Automatická detekcia"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "Azerbajdžanský"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "Baskický"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "Bieloruský"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "Bengálčina"
+   },
+   "Kernel_Lang_Bosnian": {
+      "message": "Bosniansky"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "Bulharský"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "Katalánsky"
+   },
+   "Kernel_Lang_Cebuano": {
+      "message": "Cebuánčina"
+   },
+   "Kernel_Lang_Chichewa": {
+      "message": "Čičevčina"
+   },
+   "Kernel_Lang_Chinese": {
+      "message": "Čínsky"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "Zjednodušená čínština"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "Tradičná čínština"
+   },
+   "Kernel_Lang_Corsican": {
+      "message": "Korzika"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "Chorvátsky"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "Český"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "Dánsky"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "Holandský"
+   },
+   "Kernel_Lang_DutchBelgium": {
+      "message": "Holandsky (Belgicko)"
+   },
+   "Kernel_Lang_DutchNetherlands": {
+      "message": "Holandsky (Holandsko)"
+   },
+   "Kernel_Lang_English": {
+      "message": "Anglický"
+   },
+   "Kernel_Lang_EnglishUS": {
+      "message": "Anglicky (USA)"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "Esperanto"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "Estónsky"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "Filipínčina"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "Fínsky"
+   },
+   "Kernel_Lang_French": {
+      "message": "Francúzština"
+   },
+   "Kernel_Lang_FrenchBelgium": {
+      "message": "Francúzština (Belgicko)"
+   },
+   "Kernel_Lang_FrenchCanada": {
+      "message": "Francúzština (Kanada)"
+   },
+   "Kernel_Lang_FrenchFrance": {
+      "message": "Francúzština (Francúzsko)"
+   },
+   "Kernel_Lang_FrenchSwiss": {
+      "message": "Francúzština (Švajčiarsko)"
+   },
+   "Kernel_Lang_Frisian": {
+      "message": "Frízština"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Galícijčina"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "Gruzínčina"
+   },
+   "Kernel_Lang_German": {
+      "message": "Nemčina"
+   },
+   "Kernel_Lang_GermanAustria": {
+      "message": "Nemčina (Rakúsko)"
+   },
+   "Kernel_Lang_GermanGermany": {
+      "message": "Nemčina (Nemecko)"
+   },
+   "Kernel_Lang_GermanLichtenstein": {
+      "message": "Nemčina (Lichtenštajnsko)"
+   },
+   "Kernel_Lang_GermanLux": {
+      "message": "Nemčina (Luxembursko)"
+   },
+   "Kernel_Lang_GermanSwiss": {
+      "message": "Nemčina (Švajčiarsko)"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Gréčtina"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Gudžarátčina"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Haitská kreolčina"
+   },
+   "Kernel_Lang_Hausa": {
+      "message": "Hausčina"
+   },
+   "Kernel_Lang_Hawaiian": {
+      "message": "Havajčina"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "Hebrejčina"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Hindčina"
+   },
+   "Kernel_Lang_Hmong": {
+      "message": "Hmongčina"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "Maďarčina"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "Islandčina"
+   },
+   "Kernel_Lang_Igbo": {
+      "message": "Igbo"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Indonézština"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Írčina"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Taliančina"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Japončina"
+   },
+   "Kernel_Lang_Javanese": {
+      "message": "Javánčina"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Kannadčina"
+   },
+   "Kernel_Lang_Kazakh": {
+      "message": "Kazaština"
+   },
+   "Kernel_Lang_Khmer": {
+      "message": "Khmérčina"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Kórejčina"
+   },
+   "Kernel_Lang_Kurdish": {
+      "message": "Kurdčina (Kurmanji)"
+   },
+   "Kernel_Lang_KurdishKurmanji": {
+      "message": "Kurdčina (Kurmanji)"
+   },
+   "Kernel_Lang_Kyrgyz": {
+      "message": "Kirgizština"
+   },
+   "Kernel_Lang_Lao": {
+      "message": "Laosčina"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Latinčina"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Lotyština"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Litovčina"
+   },
+   "Kernel_Lang_Luxembourgish": {
+      "message": "Luxemburčina"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Macedónčina"
+   },
+   "Kernel_Lang_Malagasy": {
+      "message": "Malgaština"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Malayčina"
+   },
+   "Kernel_Lang_Malayalam": {
+      "message": "Malajálamčina"
+   },
+   "Kernel_Lang_Malayam": {
+      "message": "Malajálamčina"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Maltčina"
+   },
+   "Kernel_Lang_Maori": {
+      "message": "Maorijčina"
+   },
+   "Kernel_Lang_Marathi": {
+      "message": "Maráthčina"
+   },
+   "Kernel_Lang_Mongolian": {
+      "message": "Mongolčina"
+   },
+   "Kernel_Lang_Myanmar": {
+      "message": "Mjanmarsko (Burmančina)"
+   },
+   "Kernel_Lang_MyanmarBurmese": {
+      "message": "Mjanmarsko (Burmančina)"
+   },
+   "Kernel_Lang_Nepali": {
+      "message": "Nepálčina"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Nórčina"
+   },
+   "Kernel_Lang_Pashto": {
+      "message": "Paštčina"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Perzština"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Poľština"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Portugalčina"
+   },
+   "Kernel_Lang_PortugueseBrazil": {
+      "message": "Portugalčina (Brazília)"
+   },
+   "Kernel_Lang_PortuguesePortugal": {
+      "message": "Portugalčina (Portugalsko)"
+   },
+   "Kernel_Lang_Punjabi": {
+      "message": "Pandžábčina"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Rumunčina"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Ruština"
+   },
+   "Kernel_Lang_Samoan": {
+      "message": "Samoančina"
+   },
+   "Kernel_Lang_ScotsGaelic": {
+      "message": "Škótska gaelčina"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Srbčina"
+   },
+   "Kernel_Lang_Sesotho": {
+      "message": "Sotština"
+   },
+   "Kernel_Lang_Shona": {
+      "message": "Šonačina"
+   },
+   "Kernel_Lang_Sindhi": {
+      "message": "Sindčina"
+   },
+   "Kernel_Lang_Sinhala": {
+      "message": "Sinhálčina"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Slovenčina"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Slovinčina"
+   },
+   "Kernel_Lang_Somali": {
+      "message": "Somálčina"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Španielčina"
+   },
+   "Kernel_Lang_SpanishArgentina": {
+      "message": "Španielčina (Argentína)"
+   },
+   "Kernel_Lang_SpanishBolivia": {
+      "message": "Španielčina (Bolívia)"
+   },
+   "Kernel_Lang_SpanishChile": {
+      "message": "Španielčina (Čile)"
+   },
+   "Kernel_Lang_SpanishColombia": {
+      "message": "Španielčina (Kolumbia)"
+   },
+   "Kernel_Lang_SpanishCostaRica": {
+      "message": "Španielčina (Kostarika)"
+   },
+   "Kernel_Lang_SpanishDR": {
+      "message": "Španielčina (Dominikánska republika)"
+   },
+   "Kernel_Lang_SpanishEquador": {
+      "message": "Španielčina (Ekvádor)"
+   },
+   "Kernel_Lang_SpanishGuatemala": {
+      "message": "Španielčina (Guatemala)"
+   },
+   "Kernel_Lang_SpanishHonduras": {
+      "message": "Španielčina (Honduras)"
+   },
+   "Kernel_Lang_SpanishMexico": {
+      "message": "Španielčina (Mexiko)"
+   },
+   "Kernel_Lang_SpanishNicaragua": {
+      "message": "Španielčina (Nikaragua)"
+   },
+   "Kernel_Lang_SpanishPanama": {
+      "message": "Španielčina (Panama)"
+   },
+   "Kernel_Lang_SpanishParaguay": {
+      "message": "Španielčina (Paraguaj)"
+   },
+   "Kernel_Lang_SpanishPeru": {
+      "message": "Španielčina (Peru)"
+   },
+   "Kernel_Lang_SpanishPuertoRico": {
+      "message": "Španielčina (Portoriko)"
+   },
+   "Kernel_Lang_SpanishSalvador": {
+      "message": "Španielčina (Salvádor)"
+   },
+   "Kernel_Lang_SpanishSpain": {
+      "message": "Španielčina (Španielsko)"
+   },
+   "Kernel_Lang_SpanishUS": {
+      "message": "Španielčina (USA)"
+   },
+   "Kernel_Lang_SpanishUruguay": {
+      "message": "Španielčina (Uruguaj)"
+   },
+   "Kernel_Lang_SpanishVenezuela": {
+      "message": "Španielčina (Venezuela)"
+   },
+   "Kernel_Lang_Sundanese": {
+      "message": "Sundčina"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Swahilčina"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Švédčina"
+   },
+   "Kernel_Lang_Tajik": {
+      "message": "Tadžičtina"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Tamilčina"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Telugčina"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Thajčina"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "Turečtina"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Ukrajinčina"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Urdu"
+   },
+   "Kernel_Lang_Uzbek": {
+      "message": "Uzbečtina"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Vietnamčina"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Welština"
+   },
+   "Kernel_Lang_Xhosa": {
+      "message": "Xhoština"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Jidiš"
+   },
+   "Kernel_Lang_Yoruba": {
+      "message": "Jorubčina"
+   },
+   "Kernel_Lang_Zulu": {
+      "message": "Zulčina"
+   },
+   "Kernel_NoResults": {
+      "message": "Žiadne výsledky"
+   },
+   "Kernel_Ok": {
+      "message": "OK"
+   },
+   "Kernel_PhrasebookTitle": {
+      "message": "Frázová kniha"
+   },
+   "Kernel_RemoveCombination": {
+      "message": "odstrániť"
+   },
+   "Kernel_SearchPlaceholder": {
+      "message": "Hľadať"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "Nastavenia"
+   },
+   "Kernel_Vowels": {
+      "message": "aeiou"
+   },
+   "Login_ByClicking": {
+      "message": "Kliknutím na 'Vytvoriť účet' súhlasíte s našimi \u003Cb>\u003Ca href=\"https://matetranslate.com/terms\">Podmienkami používania\u003C/a>\u003C/b> a \u003Cb>\u003Ca href=\"https://matetranslate.com/privacy\">Zásadami ochrany súkromia\u003C/a>\u003C/b>."
+   },
+   "Login_Continue": {
+      "message": "POKRAČOVAŤ"
+   },
+   "Login_ContinueWithout": {
+      "message": "Preskočiť"
+   },
+   "Login_Create": {
+      "message": "Vytvoriť účet"
+   },
+   "Login_Email": {
+      "message": "Zadajte svoju emailovú adresu..."
+   },
+   "Login_Forgot": {
+      "message": "Zabudli ste heslo?"
+   },
+   "Login_GDPR": {
+      "message": "\u003Cb>Vitajte v prekladači, ktorý sa skutočne stará o vaše súkromie.\u003C/b> Nikdy nebudeme sledovať ani predávať vaše údaje. Naše \u003Ca class=\"open-pp\" href=\"javascript:;\">Zásady ochrany osobných údajov\u003C/a> sú iné ako ostatné— sú stručné a príjemné. Prosím, prečítajte si ich a prijmite na začatie používania Mate účtu."
+   },
+   "Login_IReadAndAgree": {
+      "message": "Súhlasím"
+   },
+   "Login_NewPassword": {
+      "message": "Nové heslo..."
+   },
+   "Login_NoAccountHead": {
+      "message": "Nemám účet"
+   },
+   "Login_NoAccountText": {
+      "message": "Ak ste si zakúpili Pro verziu, no vtedy neboli prihlásení a nedokončili ste registráciu cez odkaz, ktorý sme vám poslali na email zadaný počas nákupu, mali by ste dokončiť registráciu cez odkaz uvedený v emaili. Po dokončení sa budete môcť prihlásiť do aplikácie."
+   },
+   "Login_NoRememberHead": {
+      "message": "Nepamätám si to"
+   },
+   "Login_NoRememberText": {
+      "message": "Ak si nepamätáte email, ktorý ste použili pri nákupe, skúste si vo svojej schránke nájsť email s potvrdením nákupu od nás."
+   },
+   "Login_OrSignInWith": {
+      "message": "ALEBO SA PRIHLÁSIŤ S"
+   },
+   "Login_Password": {
+      "message": "Zadajte svoje heslo..."
+   },
+   "Login_PasswordMin8": {
+      "message": "Vaše heslo by malo obsahovať aspoň 8 znakov"
+   },
+   "Login_Promo": {
+      "message": "Prihláste sa a synchronizujte všetky svoje dáta na všetkých zariadeniach!"
+   },
+   "Login_QuestionsHead": {
+      "message": "Máte nejaké otázky?"
+   },
+   "Login_QuestionsText": {
+      "message": "Ak stále máte problémy, môžete nás kontaktovať na \u003Ca href=\"mailto:support@matetranslate.com?subject=Login Issues\">support@matetranslate.com\u003C/a>."
+   },
+   "Login_Restore": {
+      "message": "Ak chcete obnoviť Mate Translate Pro, prihláste sa do účtu, z ktorého ste ju zakúpili (\u003Ca href=\"javascript:;\" class=\"show-info\">neviete to?\u003C/a>)"
+   },
+   "Login_SignIn": {
+      "message": "PRIHLÁSIŤ SA"
+   },
+   "Login_SignUp": {
+      "message": "Zaregistrovať sa"
+   },
+   "Login_Sync": {
+      "message": "Váš Mate účet je najlepšia cesta, ako udržať históriu, slovník a preferencie zálohované a synchronizované medzi zariadeniami."
+   },
+   "Login_YourName": {
+      "message": "Vaše meno (voliteľné)..."
+   },
+   "MatePro_Description": {
+      "message": "Posuňte svoje prekladateľské skúsenosti na úplne novú úroveň s Mate Pro! Plaťte raz, používajte navždy."
+   },
+   "MicAccess_HowToUnlock": {
+      "message": "Zmažte \u003Cb>$id$\u003C/b> z blokovaných v výnimkách mikrofónu. Potom \u003Cb>\u003Ca href=\"../public/mic_access.html\">kliknite sem\u003C/a>\u003C/b>.",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/"
+         }
+      }
+   },
+   "MicAccess_Note": {
+      "message": "Aby Mate Translate mohol rozpoznávať a prekladať reč, potrebuje povolenie na používanie mikrofónu vášho počítača."
+   },
+   "MicAccess_PageTitle": {
+      "message": "Prístup k mikrofónu"
+   },
+   "MicAccess_Title": {
+      "message": "Mikrofón"
+   },
+   "MicAccess_UnlockButton": {
+      "message": "povoliť v nastaveniach obsahu"
+   },
+   "Options_TooltipSizePro": {
+      "message": "Inovujte na Pro, aby ste mohli zmeniť veľkosť pop-up nápovedy na stránke."
+   },
+   "Pb_AddButton": {
+      "message": "Pridať"
+   },
+   "Pb_EarlyAccess": {
+      "message": "požiadať o skorý prístup"
+   },
+   "Pb_Empty": {
+      "message": "Frázová kniha je prázdna"
+   },
+   "Pb_EmptyWl_Text1": {
+      "message": "Uložte si všetky slová, ktoré si chcete zapamätať na túto tému, tu."
+   },
+   "Pb_EmptyWl_Text2": {
+      "message": "Stačí napísať slová a Mate pre ne nájde preklady."
+   },
+   "Pb_EmptyWl_Title2": {
+      "message": "Uložte si jednoducho"
+   },
+   "Pb_Empty_Button": {
+      "message": "vytvoriť zoznam slov"
+   },
+   "Pb_Empty_Text1": {
+      "message": "Vytvorte zoznamy slov, aby ste si uložili slová, ktoré sa chcete naučiť."
+   },
+   "Pb_Empty_Text2": {
+      "message": "Majte všetky svoje slovníky na jednom mieste!"
+   },
+   "Pb_Empty_Title": {
+      "message": "Čo je to?"
+   },
+   "Pb_EnterWordOrPhrase": {
+      "message": "Zadajte slovo alebo frázu ..."
+   },
+   "Pb_HowToAddPhrase": {
+      "message": "Použite textové pole vyššie na pridanie nových fráz"
+   },
+   "Pb_HowToCreateWordlist": {
+      "message": "Kliknite na tlačidlo \"+\" hore na vytvorenie nového zoznamu slov"
+   },
+   "Pb_Learn": {
+      "message": "Učiť sa"
+   },
+   "Pb_LearnOnboardingDesc": {
+      "message": "Chceme, aby Mate zostal dobrý pre jeden účel - preklady.\u003Cbr>\u003Cbr>Preto sme vytvorili Reji - super jednoduchú bezplatnú aplikáciu, ktorá pomáha s efektívnym učením slovnej zásoby. Tiež sme umožnili exportovať všetky vaše slová z Mate do Reji jedným kliknutím!"
+   },
+   "Pb_Loading": {
+      "message": "načítanie..."
+   },
+   "Pb_NewWlNote": {
+      "message": "Vytvorte zoznam slov pre fixný jazykový pár a pridajte do neho neobmedzené množstvo fráz."
+   },
+   "Pb_NewWordlist": {
+      "message": "Nový zoznam slov"
+   },
+   "Pb_NewWordlistName": {
+      "message": "Názov nového zoznamu slov ..."
+   },
+   "Pb_NoInternet": {
+      "message": "Zdá sa, že vaše internetové pripojenie je offline. Aby ste mohli pridávať nové frázy, musíte byť pripojení k internetu!"
+   },
+   "Pb_NotOnIOS": {
+      "message": "Nepoužívate iOS? Kliknite sem a učte sa slová na \u003Ca class=\"show-android-form\" href=\"#\">Android\u003C/a> alebo priamo v \u003Ca class=\"show-chrome-form\" href=\"#\">prehliadači\u003C/a>."
+   },
+   "Pb_RejiAndroid": {
+      "message": "Reji pre Android ešte nie je dostupný. Usilovne pracujeme na tom, aby sme ho poskytli čo najskôr. Môžete byť prví, kto sa to dozvie, ak necháte svoj email:"
+   },
+   "Pb_RejiBrowser": {
+      "message": "Verzia Reji pre prehliadač ešte nie je dostupná. Usilovne pracujeme na tom, aby sme ju poskytli čo najskôr. Môžete byť prví, kto sa to dozvie, ak necháte svoj email:"
+   },
+   "Pb_SaveButton": {
+      "message": "Uložiť"
+   },
+   "Pb_ScanQR": {
+      "message": "Naskenujte tento QR kód pomocou aplikácie Fotoaparát na vašom iPhone alebo iPade na otvorenie a učenie sa slov v Reji."
+   },
+   "Pb_SelectLearnLanguage": {
+      "message": "Ktorý jazyk sa učíte?"
+   },
+   "Pb_SureToDeleteWordlist": {
+      "message": "Ste si istí, že chcete odstrániť tento zoznam slov? Táto akcia sa nedá vrátiť späť."
+   },
+   "Pb_WlEmpty": {
+      "message": "Zoznam slov je prázdny"
+   },
+   "Phrasebook_FullyBlockedOut": {
+      "message": "Inovujte na Pro pre neobmedzený prístup k slovníku."
+   },
+   "Phrasebook_Phrases1": {
+      "message": "fráza"
+   },
+   "Phrasebook_Phrases2": {
+      "message": "frázy"
+   },
+   "Phrasebook_Phrases3": {
+      "message": "fráz"
+   },
+   "ProSplitTests_2_F1": {
+      "message": "Preklad reči"
+   },
+   "ProSplitTests_2_F2": {
+      "message": "História & Slovník"
+   },
+   "ProSplitTests_2_F3": {
+      "message": "Synonymá"
+   },
+   "ProSplitTests_2_F4": {
+      "message": "Výslovnosť a rod podstatných mien"
+   },
+   "ProSplitTests_2_F5": {
+      "message": "Tmavý režim a žiadne reklamy"
+   },
+   "ProSplitTests_2_F6": {
+      "message": "Prioritná zákaznícka podpora"
+   },
+   "ProSplitTests_2_F7": {
+      "message": "Pro na \u003Ca href=\"https://gikken.co/mate-translate/?ref=BrowserProBlock\">všetkých zariadeniach\u003C/a>"
+   },
+   "ProSplitTests_2_F8": {
+      "message": "Automatický preklad webových stránok"
+   },
+   "ProSplitTests_2_Pitch": {
+      "message": "Mate je skvelý, Pro ho robí ešte lepším!\u003Cbr>Získajte prístup ku všetkým prémiovým funkciám na všetkých zariadeniach a bez reklám."
+   },
+   "Pro_Articles": {
+      "message": "Články podstatných mien"
+   },
+   "Pro_Articles_Desc": {
+      "message": "Naučte sa používať slová v nemčine, francúzštine, španielčine, taliančine a portugalčine."
+   },
+   "Pro_Articles_Msg": {
+      "message": "Kúpte Pro na odomknutie článkov podstatných mien."
+   },
+   "Pro_ComesAlong": {
+      "message": ", a ešte oveľa viac:"
+   },
+   "Pro_DoubleClickFeature": {
+      "message": "Prekladajte slová na weboch dvojitým kliknutím s Mate Pro!"
+   },
+   "Pro_ExportFeature": {
+      "message": "Získajte svoju históriu ako súbor CSV s Mate Pro!"
+   },
+   "Pro_FullPageTranslation": {
+      "message": "Zakúpte Pro na umožnenie automatického prekladu webových stránok."
+   },
+   "Pro_IPA": {
+      "message": "Fonematický prepis"
+   },
+   "Pro_IPA_Desc": {
+      "message": "Naučte sa presne vyslovovať slová."
+   },
+   "Pro_IPA_Msg": {
+      "message": "Kúpte Pro na odomknutie fonematického prepisu."
+   },
+   "Pro_MainSettingsPitch": {
+      "message": "Inovácia sa oplatí čím viac prekladáte. Pridali sme funkcie, aby bolo Mate Pro jazykovým powerhouse kdekoľvek ho používate."
+   },
+   "Pro_NetflixPhrasebookSaving": {
+      "message": "Zakúpte Pro na ukladanie slov z Netflixu."
+   },
+   "Pro_PhrasebookFeature": {
+      "message": "Získajte prístup k svojmu osobnému slovníku. Synchronizujte ho (a svoju históriu) s Mate medzi \u003Ca href=\"https://gikken.co/mate-translate/download/\" target=\"_blank\">všetkými svojimi zariadeniami\u003C/a>. Exportujte ako CSV pre použitie inde."
+   },
+   "Pro_STTFeature": {
+      "message": "Hovorte s Mate vo viac ako \u003Ca href=\"https://gikken.co/mate-translate/languages\" target=\"_blank\">40 jazykoch\u003C/a>, získajte super rýchly a presný preklad."
+   },
+   "Pro_ShortcutsFeature": {
+      "message": "Nastavte si klávesnicu na preklad viacerých jazykov namiesto iba jedného (Shift+T)."
+   },
+   "Pro_SyncFeature": {
+      "message": "Synchronizujte všetky svoje údaje na všetkých zariadeniach s Mate Pro!"
+   },
+   "Pro_SynonymsPaywall": {
+      "message": "Inovujte na Pro, aby ste videli viac synonym."
+   },
+   "Pro_UnlockMore": {
+      "message": "A tiež odomknete tieto funkcie:"
+   },
+   "Promo_Android": {
+      "message": "Android"
+   },
+   "Promo_Chrome": {
+      "message": "Chrome"
+   },
+   "Promo_Edge": {
+      "message": "Edge"
+   },
+   "Promo_Firefox": {
+      "message": "Firefox"
+   },
+   "Promo_Ios": {
+      "message": "iOS"
+   },
+   "Promo_Mac": {
+      "message": "macOS"
+   },
+   "Promo_Safari": {
+      "message": "Safari"
+   },
+   "Promo_Samsunginternet": {
+      "message": "Samsung Internet"
+   },
+   "Promo_Windows": {
+      "message": "Windows"
+   },
+   "RejiAd": {
+      "message": "Naša nová aplikácia vám pomôže zlepšiť slovnú zásobu. Skontrolujte to!"
+   },
+   "SafariWall_Desc": {
+      "message": "Platte za Mate raz a získajte všetky tieto úžasné funkcie priamo vo vašom Safari."
+   },
+   "SafariWall_Feature1": {
+      "message": "Vyberte slová na akejkoľvek stránke a preložte ich"
+   },
+   "SafariWall_Feature2": {
+      "message": "Kliknite dvakrát na akékoľvek slovo a preložte ho"
+   },
+   "SafariWall_Feature3": {
+      "message": "Uložte si slová na zapamätanie do svojho osobného slovníka"
+   },
+   "SafariWall_Feature4": {
+      "message": "Preložte 103 jazykov"
+   },
+   "SafariWall_Feature5": {
+      "message": "Naučte sa správnu výslovnosť"
+   },
+   "SafariWall_Feature6": {
+      "message": "Synchronizujte všetky svoje preklady na všetkých zariadeniach"
+   },
+   "SafariWall_Title": {
+      "message": "Už nechodte na prekladateľské weby!"
+   },
+   "Settings_21max": {
+      "message": "Môžete vytvoriť maximálne 21 skratiek..."
+   },
+   "Settings_Articles": {
+      "message": "Ukazovať články podstatných mien"
+   },
+   "Settings_Autoswap": {
+      "message": "Automaticky vymeniť jazyky"
+   },
+   "Settings_Autoswap_Description": {
+      "message": "Jazyky budú automaticky vymenené, ak zadáte text v cieľovom jazyku namiesto zdrojového a naopak."
+   },
+   "Settings_CP": {
+      "message": "Mate pre iné zariadenia"
+   },
+   "Settings_CPDesc": {
+      "message": "Mate je k dispozícii pre iOS, Mac (+ rozšírenie pre Safari), Chrome, Firefox, Opera a Edge. Môžete synchronizovať svoju históriu prekladov a slovník medzi všetkými aplikáciami pomocou Mate Account."
+   },
+   "Settings_CP_Get": {
+      "message": "Získajte ďalšie aplikácie Mate"
+   },
+   "Settings_Close": {
+      "message": "zatvoriť"
+   },
+   "Settings_Contacts": {
+      "message": "Viac"
+   },
+   "Settings_CtxMenu": {
+      "message": "Kontextové menu"
+   },
+   "Settings_CtxMenuDesc": {
+      "message": "Zobraziť tlačidlo na preklad v kontextovom menu (pravé tlačidlo myši). Funguje pre vybraný text na webových stránkach."
+   },
+   "Settings_DarkMode": {
+      "message": "Krásny tmavý režim"
+   },
+   "Settings_DarkModeDesc": {
+      "message": "Ušetrite energiu a predíďte namáhaniu očí pomocou elegantného tmavého režimu Mate."
+   },
+   "Settings_DataEraseError": {
+      "message": "Vyskytla sa neočakávaná chyba, skúste to neskôr znova!"
+   },
+   "Settings_DataErased": {
+      "message": "Všetky vaše dáta boli odstránené zo serverov Mate!"
+   },
+   "Settings_DestLang": {
+      "message": "Cieľový jazyk"
+   },
+   "Settings_Email": {
+      "message": "pošlite nám email"
+   },
+   "Settings_EnableSync": {
+      "message": "Povoliť synchronizáciu histórie a frázovníka"
+   },
+   "Settings_EraseConfirm": {
+      "message": "Ste si istí? Týmto sa vymažú všetky synchronizované preklady a frázovník (lokálne údaje nebudú ovplyvnené). Toto nemožno vrátiť späť."
+   },
+   "Settings_EraseData": {
+      "message": "vymazať všetky moje údaje"
+   },
+   "Settings_EraseDataDesc": {
+      "message": "Podľa GDPR môžete požiadať o odstránenie vašich údajov zo serverov Mate."
+   },
+   "Settings_FBShare": {
+      "message": "zdieľať na facebooku"
+   },
+   "Settings_Facebook": {
+      "message": "facebook"
+   },
+   "Settings_HelpCenter": {
+      "message": "Centrum pomoci"
+   },
+   "Settings_Interface_Autocorrection": {
+      "message": "Automatická korekcia"
+   },
+   "Settings_Interface_Autocorrection_Description": {
+      "message": "Mate automaticky opraví preklepy."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Inteligentný preklad"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Mate preloží vstup, keď prestanete písať."
+   },
+   "Settings_Interface_Save": {
+      "message": "Uložiť posledný preklad"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "Mate uloží posledný preklad vykonaný v rozbaľovacom okne, aby bol k dispozícii, keď ho znova otvoríte."
+   },
+   "Settings_Interface_ShowIPA": {
+      "message": "Zobraziť fonetický prepis"
+   },
+   "Settings_Interface_ShowIPA_Description": {
+      "message": "Naučte sa vyslovovať pomocou fonetického prepisu slov a fráz, ktoré poskytuje Mate."
+   },
+   "Settings_Interface_ShowTranslit": {
+      "message": "Zobraziť transliteráciu"
+   },
+   "Settings_Interface_ShowTranslit_Description": {
+      "message": "Pre nelatinské abecedy vám Mate zobrazí latinský prepis prekladu pre jednoduchšie čítanie."
+   },
+   "Settings_Legal": {
+      "message": "Právne"
+   },
+   "Settings_Netflix": {
+      "message": "Prekladať titulky na Netflixe"
+   },
+   "Settings_NetflixDesc": {
+      "message": "Kliknite na slová v titulkoch Netflixe, aby ste ich preložili priamo tam."
+   },
+   "Settings_NetflixView": {
+      "message": "zobraziť uložené slová →"
+   },
+   "Settings_NewLine": {
+      "message": "pre nový riadok"
+   },
+   "Settings_Newsletter": {
+      "message": "newsletter"
+   },
+   "Settings_NoConsentPro": {
+      "message": "Podľa GDPR vám nemôžeme účtovať poplatok za verziu Pro, kým neprijmete naše podmienky používania... Akceptujte ich a obnovte túto stránku, aby ste mohli pokračovať s Pro verziou."
+   },
+   "Settings_NoProSync": {
+      "message": "Inovujte na Pro verziu pre povolenie synchronizácie"
+   },
+   "Settings_Or": {
+      "message": "alebo"
+   },
+   "Settings_PopupShortcuts": {
+      "message": "Skratky v rozbaľovacom okne"
+   },
+   "Settings_PopupShortcutsDesc": {
+      "message": "Preložte text vo vstupnom poli pomocou skratky."
+   },
+   "Settings_PrefsTab": {
+      "message": "Nastavenia"
+   },
+   "Settings_PrivacyPolicy": {
+      "message": "Zásady ochrany osobných údajov"
+   },
+   "Settings_ProActivated": {
+      "message": "Všetko je nastavené! Pro verzia bola aktivovaná."
+   },
+   "Settings_ProFeature8": {
+      "message": "Zasvätená e-mailová podpora"
+   },
+   "Settings_ProFeature8_Desc": {
+      "message": "Podpora je len pre Pro, aby sme mohli rýchlo odpovedať na otázky s hĺbkovými odpoveďami. \u003Cbr> Bezplatní používatelia môžu nájsť bežné odpovede v našom \u003Ca href=\"https://help.gikken.co/hc/\" target=\"_blank\">Centre pomoci\u003C/a>."
+   },
+   "Settings_ProTab": {
+      "message": "Pro a Synchronizácia"
+   },
+   "Settings_Restore": {
+      "message": "obnoviť nákup"
+   },
+   "Settings_RevokeConsent": {
+      "message": "už nesúhlasím s podmienkami"
+   },
+   "Settings_RevokeConsentDesc": {
+      "message": "Ak už nesúhlasíte s našimi Zásadami ochrany osobných údajov alebo Podmienkami používania, môžete odvolať svoj predchádzajúci súhlas. Mate však už nebudete môcť používať."
+   },
+   "Settings_Share": {
+      "message": "Povedzte svojim priateľom o Mate"
+   },
+   "Settings_ShareDesc": {
+      "message": "Pošlite im odkaz alebo zdieľajte na sociálnych sieťach. Veľmi nám tým pomôžete!"
+   },
+   "Settings_ShareText": {
+      "message": "Mate - najpriateľskejšia, najrýchlejšia a najviac súkromie rešpektujúca prekladateľská aplikácia pre {{platform}}, Mac, iPhone a iPad. Určite si ju zamilujete."
+   },
+   "Settings_ShortcutClick": {
+      "message": "kliknite na toto pole a potom stlačte požadovanú skratku..."
+   },
+   "Settings_ShortcutMain": {
+      "message": "Hlavná skratka"
+   },
+   "Settings_ShortcutSuppl": {
+      "message": "Doplnková skratka"
+   },
+   "Settings_SignOut": {
+      "message": "ODHLÁSIŤ SA"
+   },
+   "Settings_SourceLang": {
+      "message": "Východiskový jazyk"
+   },
+   "Settings_StayInTouch": {
+      "message": "Zostaňte s nami v kontakte"
+   },
+   "Settings_SyncText": {
+      "message": "Udržujte svoj Pro účet, preklady a frázy synchronizované medzi všetkými zariadeniami."
+   },
+   "Settings_TWShare": {
+      "message": "zdieľať na twitteri"
+   },
+   "Settings_ToS": {
+      "message": "podmienky použitia"
+   },
+   "Settings_ToTranslate": {
+      "message": "preložiť"
+   },
+   "Settings_Tooltip": {
+      "message": "Veľkosť bublinovej nápovedy"
+   },
+   "Settings_TooltipBig": {
+      "message": "veľká"
+   },
+   "Settings_TooltipDesc": {
+      "message": "Aká veľká by mala byť bublinová nápoveda, kde sa zobrazujú preklady na webových stránkach."
+   },
+   "Settings_TooltipMedium": {
+      "message": "stredná"
+   },
+   "Settings_TooltipSmall": {
+      "message": "malá"
+   },
+   "Settings_TranslateSelection": {
+      "message": "Vybrať na preklad"
+   },
+   "Settings_TranslateSelectionDesc": {
+      "message": "Zobrazte tlačidlo na preklad vedľa vybraného textu na webových stránkach."
+   },
+   "Settings_Translation_History": {
+      "message": "História prekladov"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "Uložte všetky preklady, aby ste ich mohli kedykoľvek prehliadať."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Na stránke"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "Vyberte text na akejkoľvek stránke (okrem PDF súborov), stlačte skratku a okamžite získate preklad v nenápadnom vyskakovacom okne pred vami."
+   },
+   "Settings_Twitter": {
+      "message": "twitter"
+   },
+   "Settings_UsageDesc": {
+      "message": "Odporúčame vám upgradovať na Pro, ak prekladáte viac ako 500 krát za mesiac. Pomáha nám to udržiavať naše servery.\u003Cbr>\u003Cbr>Tým môžeme zaručiť rýchlejšiu rýchlosť prekladu."
+   },
+   "Settings_Website": {
+      "message": "webová stránka"
+   },
+   "Settings_YouAreSignedIn": {
+      "message": "Ste prihlásený ako"
+   },
+   "Settings_YouPro": {
+      "message": "Máte verziu Pro!"
+   },
+   "Settings_YouUsed": {
+      "message": "použili ste"
+   },
+   "ShareOnVK": {
+      "message": "zdieľať na vk"
+   },
+   "ShareViaEmail": {
+      "message": "zdieľať emailom"
+   },
+   "SignUp_Name": {
+      "message": "Meno (voliteľné)"
+   },
+   "SignUp_Password": {
+      "message": "Heslo (minimálne 8 znakov)"
+   },
+   "Sponsorship_Bar": {
+      "message": "Zostaňte v bezpečí s Mate účtom"
+   },
+   "Sponsorship_DismissPro": {
+      "message": "Inovujte na Pro pre skrytie reklám."
+   },
+   "Sub_48hNotificationBodyAnnual": {
+      "message": "Čoskoro vám bude účtovaných {{amount}} za ročné predplatné Mate Pro."
+   },
+   "Sub_48hNotificationBodyMonthly": {
+      "message": "Čoskoro vám bude účtovaných {{amount}} za mesačné predplatné Mate Pro."
+   },
+   "Sub_48hNotificationLabel": {
+      "message": "\u003Cb>Bez rizika.\u003C/b> Pošleme vám pripomienku 48 hodín pred prvým účtovaním."
+   },
+   "Sub_48hNotificationTitle": {
+      "message": "Ako prebieha vaša skúšobná doba Mate?"
+   },
+   "Sub_ApplyForStudentDiscount": {
+      "message": "Študentská zľava"
+   },
+   "Sub_Cancel": {
+      "message": "Zrušiť predplatné"
+   },
+   "Sub_ChangePaymentMethod": {
+      "message": "Zmeniť spôsob platby"
+   },
+   "Sub_ComingSoon": {
+      "message": "čoskoro"
+   },
+   "Sub_CouldNotGetPayLink": {
+      "message": "Nemohli sme získať platobný odkaz. Skúste to prosím neskôr alebo nás kontaktujte na support@matetranslate.com"
+   },
+   "Sub_CrossPlatformProComingSoon": {
+      "message": "Intenzívne pracujeme na tom, aby bolo Mate Pro dostupné na všetkých platformách.\n\nUž teraz si môžete užívať Mate Pro vo všetkých rozšíreniach prehliadača jednoduchým prihlásením sa s rovnakým Mate účtom na každom zariadení. Avšak, aplikácie pre iOS a Mac sú predávané priamo cez App Store spoločnosti Apple.\n\nAko dočasné riešenie nám môžete poslať email na hello@gikken.co a pripojiť doklad o kúpe po prihlásení sa na Mate Pro — pomôžeme vám získať tieto aplikácie zadarmo.\n\nOspravedlňujeme sa za toto dočasné nepohodlie."
+   },
+   "Sub_DueAfterTrial": {
+      "message": "\u003Cspan class=\"price-due\">\u003C/span> po skúšobnej dobe"
+   },
+   "Sub_FAQ": {
+      "message": "Často kladené otázky"
+   },
+   "Sub_FinishCreatingAccount": {
+      "message": "Dokončiť Vytvorenie Účtu"
+   },
+   "Sub_FreeTrialVerificationCharge": {
+      "message": "Spoločnosť Paddle vám môže účtovať $1 na overenie kreditnej karty. Táto suma bude okamžite vrátená. Skúšobná doba je zadarmo."
+   },
+   "Sub_LegacyUsersDisclaimer": {
+      "message": "Mate Pro je teraz založené na predplatnom pre nových užívateľov. Keďže ste si zakúpili Pro pred prechodom, zachovávate ho bez dodatočných poplatkov, navždy! Ďakujeme, že ste nás podporili v začiatkoch \u003C3"
+   },
+   "Sub_Month": {
+      "message": "/mesiac"
+   },
+   "Sub_MoreInlineInfo": {
+      "message": "Zistiť viac"
+   },
+   "Sub_NextBilling": {
+      "message": "Ďalšie fakturovanie: {{next_amount_billed}} dňa {{next_billing_date}}"
+   },
+   "Sub_NoNotifPermissionAlert": {
+      "message": "Bez povolenia na oznámenia vám nebudeme môcť oznámiť prvé účtovanie... V nastaveniach však môžete vždy vidieť, kedy sa to stane."
+   },
+   "Sub_PleaseCreateAccount": {
+      "message": "Dokončite prosím vytvorenie svojho Mate účtu, aby sme mohli overiť vaše predplatné. Nebude to trvať viac ako minútu!"
+   },
+   "Sub_PleaseSignBackIn": {
+      "message": "Prosím, prihláste sa späť so svojím Mate účtom priradeným k \u003Cb>{{email}}\u003C/b>.\u003Cbr>Inak nebudeme môcť overiť vaše predplatné."
+   },
+   "Sub_ProStatusForLegacyUsers": {
+      "message": "Máte neobmedzený, doživotný prístup k Mate Pro"
+   },
+   "Sub_PurchasedBefore": {
+      "message": "Zakúpili ste si Pro už predtým?"
+   },
+   "Sub_Resubscribe": {
+      "message": "Znovu sa prihlásiť na odber"
+   },
+   "Sub_Savings": {
+      "message": "ušetrite {{savings}}%"
+   },
+   "Sub_ScrewSubscription": {
+      "message": "Nechcete sa prihlásiť na odber?"
+   },
+   "Sub_StatusFetchError": {
+      "message": "Nepodarilo sa získať informáciu o vašom stave predplatného."
+   },
+   "Sub_StatusFetchTryAgain": {
+      "message": "Skúsiť znova"
+   },
+   "Sub_SubscribeNow": {
+      "message": "Prihlásiť sa teraz"
+   },
+   "Sub_TryFreeCTA": {
+      "message": "vyskúšajte zadarmo na \u003Cspan class=\"trial-days\">\u003C/span> dní"
+   },
+   "Sub_WhenCancelled": {
+      "message": "Zrušili ste svoje predplatné, ale prístup k Mate Pro budete mať do {{sub_ends_on}}. Ak chcete používať Pro aj po tomto dátume, môžete sa znova prihlásiť na odber."
+   },
+   "Sub_WhenTrialing": {
+      "message": "Vaša skúšobná doba končí {{next_billing_date}} a bude vám účtovaných {{next_amount_billed}}."
+   },
+   "Sub_Year": {
+      "message": "/rok"
+   },
+   "Sub_YouAreAlmostInTheFamily": {
+      "message": "Ste (takmer) súčasťou rodiny Mate Pro!"
+   },
+   "Sub_YouAreInTheFamily": {
+      "message": "Ste súčasťou rodiny Mate Pro!"
+   },
+   "Sync_FailedError": {
+      "message": "Nepodarilo sa synchronizovať. Vyskytla sa chyba."
+   },
+   "Sync_NetworkError": {
+      "message": "Zdá sa, že nie je pripojenie na internet. Pripojte sa na internet a skúste synchronizovať znova."
+   },
+   "Sync_NoItemsError": {
+      "message": "Nie sú položky na synchronizáciu."
+   },
+   "Sync_NotSignedInError": {
+      "message": "Na synchronizáciu histórie a frázy musíte byť prihlásený."
+   },
+   "TD_AddPB": {
+      "message": "Pridať do frázy"
+   },
+   "TD_Copy": {
+      "message": "Kopírovať"
+   },
+   "TD_Create": {
+      "message": "Vytvoriť nový zoznam slov..."
+   },
+   "TD_NoWordlists": {
+      "message": "Žiadne zoznamy slov pre "
+   },
+   "There_Is_Localised_Site": {
+      "message": "Skontrolujte lokalizovanú verziu stránky"
+   },
+   "There_Is_Localised_Site_Desc": {
+      "message": "Existuje lokalizovaná verzia tejto webovej stránky"
+   },
+   "Tooltip_DisableDoubleClick": {
+      "message": "Neprekladať na dvojklik"
+   },
+   "Tooltip_DisableDoubleClickDesc": {
+      "message": "Pri ďalšom dvojkliku na slovo neuvidíte prekladové okno."
+   },
+   "Tooltip_DisableSelection": {
+      "message": "Nezobrazovať plávajúce tlačidlo"
+   },
+   "Tooltip_DisableSelectionDesc": {
+      "message": "Pri ďalšom výbere textu neuvidíte plávajúce prekladové tlačidlo."
+   },
+   "Tooltip_InlineOptionDisabled": {
+      "message": "Môžete to opäť zapnúť v nastaveniach"
+   },
+   "Tour_Agree": {
+      "message": "Kliknite na tlačidlo nižšie, aby ste súhlasili s našimi \u003Cb>Podmienkami použitia\u003C/b> a \u003Cb>Zásadami ochrany osobných údajov\u003C/b> a začali prekladať s Mate."
+   },
+   "Tour_AutoFPOption": {
+      "message": "Navrhovať preklad webových stránok"
+   },
+   "Tour_DoubleClick": {
+      "message": "Dvojklikový preklad"
+   },
+   "Tour_DoubleClickDesc": {
+      "message": "Dvojklik na akékoľvek slovo zobrazí okamžitý preklad na webových stránkach."
+   },
+   "Tour_DoubleClickOption": {
+      "message": "Prekladať dvojklikom"
+   },
+   "Tour_GotIt": {
+      "message": "ZAČAŤ"
+   },
+   "Tour_HowToContext": {
+      "message": "Alebo vyberte akýkoľvek text a použite kontextové menu (pravý klik) na zobrazenie prekladu."
+   },
+   "Tour_HowToPopUp": {
+      "message": "Ak potrebujete sami zadať nejaké slová, stačí otvoriť vyskakovacie okno kliknutím na tlačidlo Mate vedľa adresného riadku prehliadača."
+   },
+   "Tour_HowToSelect": {
+      "message": "Vyberte akékoľvek slovo alebo text na akejkoľvek webovej stránke a stlačte Shift+T na jeho preklad."
+   },
+   "Tour_HowToUse": {
+      "message": "Ako používať?"
+   },
+   "Tour_Important": {
+      "message": "Je to veľmi dôležité!"
+   },
+   "Tour_ImportantSub": {
+      "message": "Táto stránka vám ukáže, ako používať \u003Cb>Mate Translate\u003C/b>"
+   },
+   "Tour_ImportantText": {
+      "message": "Venujte tomu len 40 sekúnd"
+   },
+   "Tour_Langs": {
+      "message": "Do akého jazyka chcete prekladať?"
+   },
+   "Tour_LangsDesc": {
+      "message": "Vyberte jazyk, do ktorého chcete prekladať:"
+   },
+   "Tour_LangsSupported": {
+      "message": "zobraziť podporované jazyky"
+   },
+   "Tour_MacUser": {
+      "message": "Používal som Mate pre Mac"
+   },
+   "Tour_NoShiftT": {
+      "message": "Mate nemôže prekladať vybraný text na tejto stránke a v PDF súboroch kvôli určitým technickým obmedzeniam \u003C%=browser%>.\u003Cbr>\u003Cbr>Prosím, skúste to napríklad na \u003Ca href='https://reji.me' target='_blank'>tejto stránke\u003C/a>."
+   },
+   "Tour_PDF": {
+      "message": "Prekladať v PDF"
+   },
+   "Tour_PDFDesc": {
+      "message": "Vyberte text v PDF súboroch v Chrome, kliknite pravým tlačidlom a preložte ho."
+   },
+   "Tour_PDFNote": {
+      "message": "Plávajúce tlačidlo a preklady pomocou Shift+T nebudú fungovať v PDF kvôli technickým obmedzeniam."
+   },
+   "Tour_Pages": {
+      "message": "Prekladať celé webové stránky"
+   },
+   "Tour_PagesDesc": {
+      "message": "Všetky weby vo vašom jazyku. Automaticky."
+   },
+   "Tour_Phrasebook": {
+      "message": "Udržujte si svoj osobný slovníček"
+   },
+   "Tour_PhrasebookCreate": {
+      "message": "Vytvoriť môj prvý zoznam slov"
+   },
+   "Tour_PhrasebookDesc": {
+      "message": "Uložte si všetky slová, ktoré chcete zapamätať, v Mate Phrasebook.\u003Cbr>Majte všetok svoj slovník na jednom mieste!"
+   },
+   "Tour_PhrasebookFeature": {
+      "message": "Majte všetky slová, ktoré chcete zapamätať, na jednom mieste!"
+   },
+   "Tour_PhrasebookLaunch": {
+      "message": "spustiť slovníček"
+   },
+   "Tour_PinExtension": {
+      "message": "Pripnúť Mate"
+   },
+   "Tour_PinExtensionDesc": {
+      "message": "Majte rýchly prístup k Mate z adresného riadku."
+   },
+   "Tour_ProCTA": {
+      "message": "Odomknite tiež tieto úžasné funkcie upgradom na \u003Cb>Mate Pro\u003C/b> hneď teraz:"
+   },
+   "Tour_ProFeature2": {
+      "message": "Prekladať reč"
+   },
+   "Tour_ProFeature3": {
+      "message": "Neobmedzené skratky"
+   },
+   "Tour_ProFeature4": {
+      "message": "Slovník + plynulá synchronizácia"
+   },
+   "Tour_ProFeature7": {
+      "message": "Exportovať históriu a slovníček ako CSV"
+   },
+   "Tour_ProUpgradedSuccessfully": {
+      "message": "Zavrite túto stránku a začnite surfovať na webe bez jazykových bariér!"
+   },
+   "Tour_Ready": {
+      "message": "Súhlasíme s \u003Ca href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\" target=\"_blank\">GDPR\u003C/a>!"
+   },
+   "Tour_SafariGet": {
+      "message": "získať mate za $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Tour_SelectAndTranslate": {
+      "message": "Vyberte a preložte"
+   },
+   "Tour_Selected": {
+      "message": "Prekladať text na webových stránkach"
+   },
+   "Tour_SelectedDesc": {
+      "message": "Dvojklikom, výberom alebo stlačením Shift+T preložte text."
+   },
+   "Tour_ShortcutsFeature": {
+      "message": "Vytvorte toľko skratiek, koľko potrebujete (oproti 1 v bezplatnej verzii) pre rôzne jazyky na preklad na webových stránkach."
+   },
+   "Tour_Start": {
+      "message": "Začnite zdarma"
+   },
+   "Tour_Sync": {
+      "message": "Synchronizujte dáta naprieč všetkými zariadeniami"
+   },
+   "Tour_SyncDesc": {
+      "message": "Vaša história prekladov a slovníček budú synchronizované medzi všetkými zariadeniami, kde používate Mate."
+   },
+   "Tour_SyncSignIn": {
+      "message": "prihlásiť sa na synchronizáciu"
+   },
+   "Tour_Title": {
+      "message": "Vitajte v Mate Translate"
+   },
+   "Tour_TranslationsFeature": {
+      "message": "Prekladajte toľkokrát, koľko potrebujete, kedykoľvek."
+   },
+   "Tour_UhHuh": {
+      "message": "Áno!"
+   },
+   "Tour_Unlock": {
+      "message": "Mate Pro"
+   },
+   "Tour_UnlockDesc": {
+      "message": "Získajte prístup ku všetkým prémiovým funkciám a žiadne reklamy."
+   },
+   "Window_AntiWarBanner": {
+      "message": "🇺🇦 Stojíme proti vojne Ruska na Ukrajine a proti európskej demokracii 🇺🇦"
+   },
+   "Window_CannotTranslatePDF": {
+      "message": "Nemôžeme prekladať vybraný text v PDF súboroch. Technické obmedzenia {{browser}}..."
+   },
+   "Window_CannotTranslatePDFChrome": {
+      "message": "Prosím, použite kontextové menu na preklad vybraného textu v PDF súboroch. Technické obmedzenia Chrome..."
+   },
+   "Window_Content_AllLang": {
+      "message": "Všetky"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "Nedávno použité"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Preložiť..."
+   },
+   "Window_DoYouKnowSomeone": {
+      "message": "Poznáte niekoho, kto by našiel Mate Translate užitočným?"
+   },
+   "Window_DoYouLike": {
+      "message": "Páči sa vám Mate?"
+   },
+   "Window_DoYouLikeDesc": {
+      "message": "Potrebujete niečo zlepšiť, alebo je Mate pre vás takmer dokonalý?"
+   },
+   "Window_DontAutocorrect": {
+      "message": "Nepoužívať automatickú korekciu"
+   },
+   "Window_Improve": {
+      "message": "potrebuje zlepšenie"
+   },
+   "Window_LearnMoreAboutPro": {
+      "message": "Zistiť viac o Pro"
+   },
+   "Window_Love": {
+      "message": "Milujem to"
+   },
+   "Window_MateFreeDesc": {
+      "message": "Ak chcete odomknúť všetky nové funkcie, mali by ste upgradovať na verziu Pro."
+   },
+   "Window_MateProDesc": {
+      "message": "Mali by ste sa prihlásiť na synchronizáciu histórie a slovníčka."
+   },
+   "Window_Mw_LaterButton": {
+      "message": "Pripomeňte mi neskôr"
+   },
+   "Window_Mw_NeverButton": {
+      "message": "Nikdy ma nepripomínajte"
+   },
+   "Window_Mw_NotChromeNotNow": {
+      "message": "Teraz nie"
+   },
+   "Window_Mw_RateButton": {
+      "message": "Ohodnotiť teraz"
+   },
+   "Window_Mw_RateDesc": {
+      "message": "Bol by sme radi, keby ste nám napísali recenziu na App Store! Nezabere to viac než minútu. Podporte náš prekladový motor svojimi recenziami!"
+   },
+   "Window_Mw_RateTitle": {
+      "message": "Ohodnotiť svojho Mate"
+   },
+   "Window_Mw_UpgradeButton": {
+      "message": "upgradovať za $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Window_NetflixFeatureDesc": {
+      "message": "Prekladaj a uč sa slová počas sledovania Netflixu. Klikni na slovo v titulkoch, aby si videl preklad a uložil ho na neskôr."
+   },
+   "Window_NewFeature": {
+      "message": "Nová funkcia!"
+   },
+   "Window_No": {
+      "message": "nie"
+   },
+   "Window_Offline": {
+      "message": "Žiadne internetové pripojenie"
+   },
+   "Window_OfflineDesc": {
+      "message": "Nemôžem preto prekladať nové slová"
+   },
+   "Window_Pro": {
+      "message": "Vyskúšaj rýchlejší a plynulejší preklad s Mate Pro!"
+   },
+   "Window_ProBannerAds": {
+      "message": "Inovujte na Pro pre odomknutie viacerých funkcií."
+   },
+   "Window_QuickQuestion": {
+      "message": "Rýchla otázka..."
+   },
+   "Window_RateUsDesc": {
+      "message": "Mohli by ste si nájsť minútu a hodnotiť nás na App Store? Veľmi by nám to pomohlo."
+   },
+   "Window_ReadMore": {
+      "message": "čítať viac"
+   },
+   "Window_SendFeedback": {
+      "message": "Pošlite nám spätnú väzbu"
+   },
+   "Window_SendFeedbackDesc": {
+      "message": "Prosím, dajte nám vedieť, ako môžeme vylepšiť Mate."
+   },
+   "Window_Share": {
+      "message": "Zdieľajte Mate"
+   },
+   "Window_ShareDesc": {
+      "message": "Ak nás odporučíte, veľmi nám to pomôže!"
+   },
+   "Window_Shortcut": {
+      "message": "Stlačte Ctrl+T pre rýchle otvorenie tohto okna."
+   },
+   "Window_TranslationCopied": {
+      "message": "Preklad bol skopírovaný!"
+   },
+   "Window_UnpinPro": {
+      "message": "Inovujte na Pro, aby ste odomkli okno Mate."
+   },
+   "Window_WriteUs": {
+      "message": "napíšte nám email"
+   },
+   "Window_Yes": {
+      "message": "áno"
+   }
+}

@@ -1,0 +1,1739 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Afkortingen"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Bijvoeglijke naamwoorden"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Bijwoorden"
+   },
+   "CommonUi_LangPart_Auxiliaryverb": {
+      "message": "Hulpwerkwoorden"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Voegwoorden"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Tussenwerpsels"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Zelfstandige naamwoorden"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Uitdrukkingen"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Voorzetsels"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Voornaamwoorden"
+   },
+   "CommonUi_LangPart_Suffix": {
+      "message": "Achtervoegsels"
+   },
+   "CommonUi_LangPart_Transliteration": {
+      "message": "Transliteratie"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Werkwoorden"
+   },
+   "CommonUi_NoResults": {
+      "message": "Geen resultaten"
+   },
+   "Common_Copied": {
+      "message": "Gekopieerd!"
+   },
+   "ContextMenu_FullPage": {
+      "message": "Vertaal deze pagina naar het \u003C%=lang%>"
+   },
+   "Csv_FromLang": {
+      "message": "VANUIT TAAL"
+   },
+   "Csv_Input": {
+      "message": "INVOER"
+   },
+   "Csv_IntoLang": {
+      "message": "NAAR TAAL"
+   },
+   "Csv_Synonyms": {
+      "message": "SYNONIEMEN"
+   },
+   "Csv_TimeDate": {
+      "message": "TIJD/DATUM"
+   },
+   "Csv_Translation": {
+      "message": "VERTALING"
+   },
+   "Csv_Transliteration": {
+      "message": "TRANSLITERATIE"
+   },
+   "Csv_WhereTranslated": {
+      "message": "WAAR VERTAALD"
+   },
+   "Dict_DictionaryTab": {
+      "message": "Woordenboek"
+   },
+   "Dict_NotFoundCaption": {
+      "message": "Sorry — we werken hard aan het uitbreiden van ons woordenboek"
+   },
+   "Dict_NotFoundTitle": {
+      "message": "Kan geen definitie vinden"
+   },
+   "Dict_UpgradeToPro": {
+      "message": "Upgrade naar Pro voor definities"
+   },
+   "DotsButton_Added": {
+      "message": "Toegevoegd aan \u003C%=wl%>"
+   },
+   "DotsButton_Copied": {
+      "message": "Vertaling is gekopieerd"
+   },
+   "DotsButton_OrigCopied": {
+      "message": "Originele tekst is gekopieerd"
+   },
+   "FullPage": {
+      "message": "Vertaling van volledige pagina"
+   },
+   "FullPageDesc": {
+      "message": "Toon een Mate-pictogram in de rechterbovenhoek als een webpagina in een vreemde taal is. Klik op dat pictogram om de pagina naar jouw taal te vertalen."
+   },
+   "FullPageShowOriginal": {
+      "message": "Toon origineel"
+   },
+   "FullPageTranslate": {
+      "message": "Vertaal"
+   },
+   "FullPageTranslatedTo": {
+      "message": "Vertaald naar"
+   },
+   "FullPage_AlwaysTranslate": {
+      "message": "Vertaal altijd {{page_lang_beautiful}} naar {{target_lang_beautiful}}"
+   },
+   "FullPage_ChangeLanguage": {
+      "message": "Taal wijzigen"
+   },
+   "FullPage_ContextMenuOption": {
+      "message": "Volledige pagina vertaling openen"
+   },
+   "FullPage_CurrentPageLang": {
+      "message": "Deze pagina is in {{page_lang_beautiful}}"
+   },
+   "FullPage_NeverTranslate": {
+      "message": "Vertaal nooit {{page_lang_beautiful}}"
+   },
+   "FullPage_SwitchBackTo": {
+      "message": "Schakel terug naar {{language}}"
+   },
+   "FullPage_TranslateTo": {
+      "message": "Vertalen naar {{target_lang_beautiful}}"
+   },
+   "FullPage_WeTranslatedIt": {
+      "message": "We hebben deze pagina vertaald naar {{language}}"
+   },
+   "History_AnotherDevice": {
+      "message": "Op een ander apparaat"
+   },
+   "History_Content_GoUpButton": {
+      "message": "Ga omhoog"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "De geschiedenis van jouw vertalingen wordt hier weergegeven"
+   },
+   "History_Export_OnlyProDesc": {
+      "message": "Upgrade naar de Pro-versie om jouw vertaalgeschiedenis te exporteren naar een CSV-bestand"
+   },
+   "History_FullyBlockedOut": {
+      "message": "Upgrade naar Pro voor onbeperkte toegang tot de vertaalgeschiedenis."
+   },
+   "History_InPopup": {
+      "message": "In de pop-up"
+   },
+   "History_Options_DeleteMarked_1": {
+      "message": "Verwijder"
+   },
+   "History_Options_DeleteMarked_2": {
+      "message": "gemarkeerd"
+   },
+   "History_Options_SelectToDelete": {
+      "message": "markeer om te verwijderen"
+   },
+   "History_Options_SelectToDelete_MarkAll": {
+      "message": "Markeer alles"
+   },
+   "History_Options_SelectToDelete_UnmarkAll": {
+      "message": "Deselecteer alles"
+   },
+   "Human_OrderButton": {
+      "message": "Laat vertalen door een professional"
+   },
+   "IDB_Error": {
+      "message": "Jouw browser heeft Indexed DB uitgeschakeld"
+   },
+   "IDB_ErrorDesc": {
+      "message": "Mate Translate vereist dat Indexed DB (lokale opslag waar we al jouw vertalingen en uitdrukkingen opslaan) is ingeschakeld om volledig te kunnen functioneren.\u003Cbr>\u003Cbr>Jouw browser lijkt te zijn ingesteld op de Privé Navigatiemodus die Indexed DB uitschakelt (dit is een Firefox \u003Ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=781982\" target=\"_blank\">bug #781982\u003C/a>).\u003Cbr>\u003Cbr>Je kunt de optie \"Geschiedenis onthouden\" instellen bij \u003Ca href=\"about:preferences#privacy\" target=\"_blank\">about:preferences#privacy\u003C/a> in Firefox. Dit kan mogelijk helpen maar is niet gegarandeerd. Anders kun je contact opnemen met Mozilla en vragen om de genoemde bug sneller op te lossen.\u003Cbr>\u003Cbr>We bieden oprecht onze excuses aan voor het ongemak, maar we kunnen er helaas niets aan doen."
+   },
+   "Kernel_AppDescription": {
+      "message": "Jouw vertaler voor webpagina's, PDF's, gemarkeerde tekst en Netflix-ondertiteling. Begrijp eenvoudig 103 talen."
+   },
+   "Kernel_AppName": {
+      "message": "Mate Translate - vertaler, woordenboek"
+   },
+   "Kernel_Cancel": {
+      "message": "annuleren"
+   },
+   "Kernel_ClearInput": {
+      "message": "Wis het invoerveld"
+   },
+   "Kernel_Context_Into": {
+      "message": "naar"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "Geschiedenis"
+   },
+   "Kernel_IPA": {
+      "message": "Fonetische transcriptie"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "Afrikaans"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "Albanees"
+   },
+   "Kernel_Lang_Amharic": {
+      "message": "Amhaars"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "Arabisch"
+   },
+   "Kernel_Lang_ArabicAlgeria": {
+      "message": "Arabisch (Algerije)"
+   },
+   "Kernel_Lang_ArabicBahrain": {
+      "message": "Arabisch (Bahrein)"
+   },
+   "Kernel_Lang_ArabicEgypt": {
+      "message": "Arabisch (Egypte)"
+   },
+   "Kernel_Lang_ArabicGeneral": {
+      "message": "Arabisch (Algemeen)"
+   },
+   "Kernel_Lang_ArabicIraq": {
+      "message": "Arabisch (Irak)"
+   },
+   "Kernel_Lang_ArabicJordan": {
+      "message": "Arabisch (Jordanië)"
+   },
+   "Kernel_Lang_ArabicKuwait": {
+      "message": "Arabisch (Koeweit)"
+   },
+   "Kernel_Lang_ArabicLebanon": {
+      "message": "Arabisch (Libanon)"
+   },
+   "Kernel_Lang_ArabicLibyan": {
+      "message": "Arabisch (Libië)"
+   },
+   "Kernel_Lang_ArabicMorocco": {
+      "message": "Arabisch (Marokko)"
+   },
+   "Kernel_Lang_ArabicOman": {
+      "message": "Arabisch (Oman)"
+   },
+   "Kernel_Lang_ArabicQatar": {
+      "message": "Arabisch (Qatar)"
+   },
+   "Kernel_Lang_ArabicSaudi": {
+      "message": "Arabisch (Saoedi-Arabië)"
+   },
+   "Kernel_Lang_ArabicSudan": {
+      "message": "Arabisch (Soedan)"
+   },
+   "Kernel_Lang_ArabicSyria": {
+      "message": "Arabisch (Syrië)"
+   },
+   "Kernel_Lang_ArabicTunisia": {
+      "message": "Arabisch (Tunesië)"
+   },
+   "Kernel_Lang_ArabicUAE": {
+      "message": "Arabisch (Verenigde Arabische Emiraten)"
+   },
+   "Kernel_Lang_ArabicYemen": {
+      "message": "Arabisch (Jemen)"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "Armeens"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "Automatische detectie"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "Azerbeidzjaans"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "Baskisch"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "Wit-Russisch"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "Bengaals"
+   },
+   "Kernel_Lang_Bosnian": {
+      "message": "Bosnisch"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "Bulgaars"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "Catalaans"
+   },
+   "Kernel_Lang_Cebuano": {
+      "message": "Cebuano"
+   },
+   "Kernel_Lang_Chichewa": {
+      "message": "Chichewa"
+   },
+   "Kernel_Lang_Chinese": {
+      "message": "Chinees"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "Vereenvoudigd Chinees"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "Traditioneel Chinees"
+   },
+   "Kernel_Lang_Corsican": {
+      "message": "Corsicaans"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "Kroatisch"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "Tsjechisch"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "Deens"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "Nederlands"
+   },
+   "Kernel_Lang_DutchBelgium": {
+      "message": "Nederlands (België)"
+   },
+   "Kernel_Lang_DutchNetherlands": {
+      "message": "Nederlands (Nederland)"
+   },
+   "Kernel_Lang_English": {
+      "message": "Engels"
+   },
+   "Kernel_Lang_EnglishUS": {
+      "message": "Engels (Verenigde Staten)"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "Esperanto"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "Ests"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "Filipijns"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "Fins"
+   },
+   "Kernel_Lang_French": {
+      "message": "Frans"
+   },
+   "Kernel_Lang_FrenchBelgium": {
+      "message": "Frans (België)"
+   },
+   "Kernel_Lang_FrenchCanada": {
+      "message": "Frans (Canada)"
+   },
+   "Kernel_Lang_FrenchFrance": {
+      "message": "Frans (Frankrijk)"
+   },
+   "Kernel_Lang_FrenchSwiss": {
+      "message": "Frans (Zwitserland)"
+   },
+   "Kernel_Lang_Frisian": {
+      "message": "Fries"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Galicisch"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "Georgisch"
+   },
+   "Kernel_Lang_German": {
+      "message": "Duits"
+   },
+   "Kernel_Lang_GermanAustria": {
+      "message": "Duits (Oostenrijk)"
+   },
+   "Kernel_Lang_GermanGermany": {
+      "message": "Duits (Duitsland)"
+   },
+   "Kernel_Lang_GermanLichtenstein": {
+      "message": "Duits (Liechtenstein)"
+   },
+   "Kernel_Lang_GermanLux": {
+      "message": "Duits (Luxemburg)"
+   },
+   "Kernel_Lang_GermanSwiss": {
+      "message": "Duits (Zwitserland)"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Grieks"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Gujarati"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Haïtiaanse Creools"
+   },
+   "Kernel_Lang_Hausa": {
+      "message": "Hausa"
+   },
+   "Kernel_Lang_Hawaiian": {
+      "message": "Hawaïaans"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "Hebreeuws"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Hindi"
+   },
+   "Kernel_Lang_Hmong": {
+      "message": "Hmong"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "Hongaars"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "IJslands"
+   },
+   "Kernel_Lang_Igbo": {
+      "message": "Igbo"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Indonesisch"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Iers"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Italiaans"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Japans"
+   },
+   "Kernel_Lang_Javanese": {
+      "message": "Javaans"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Kannada"
+   },
+   "Kernel_Lang_Kazakh": {
+      "message": "Kazachs"
+   },
+   "Kernel_Lang_Khmer": {
+      "message": "Khmer"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Koreaans"
+   },
+   "Kernel_Lang_Kurdish": {
+      "message": "Koerdisch (Kurmanji)"
+   },
+   "Kernel_Lang_KurdishKurmanji": {
+      "message": "Koerdisch (Kurmanji)"
+   },
+   "Kernel_Lang_Kyrgyz": {
+      "message": "Kirgizisch"
+   },
+   "Kernel_Lang_Lao": {
+      "message": "Lao"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Latijn"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Lets"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Litouws"
+   },
+   "Kernel_Lang_Luxembourgish": {
+      "message": "Luxemburgs"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Macedonisch"
+   },
+   "Kernel_Lang_Malagasy": {
+      "message": "Malagasi"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Maleis"
+   },
+   "Kernel_Lang_Malayalam": {
+      "message": "Malayalam"
+   },
+   "Kernel_Lang_Malayam": {
+      "message": "Malayalam"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Maltees"
+   },
+   "Kernel_Lang_Maori": {
+      "message": "Maori"
+   },
+   "Kernel_Lang_Marathi": {
+      "message": "Marathi"
+   },
+   "Kernel_Lang_Mongolian": {
+      "message": "Mongools"
+   },
+   "Kernel_Lang_Myanmar": {
+      "message": "Myanmar (Birmaans)"
+   },
+   "Kernel_Lang_MyanmarBurmese": {
+      "message": "Myanmar (Birmaans)"
+   },
+   "Kernel_Lang_Nepali": {
+      "message": "Nepalees"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Noors"
+   },
+   "Kernel_Lang_Pashto": {
+      "message": "Pasjtoe"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Perzisch"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Pools"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Portugees"
+   },
+   "Kernel_Lang_PortugueseBrazil": {
+      "message": "Portugees (Brazilië)"
+   },
+   "Kernel_Lang_PortuguesePortugal": {
+      "message": "Portugees (Portugal)"
+   },
+   "Kernel_Lang_Punjabi": {
+      "message": "Punjabi"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Roemeens"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Russisch"
+   },
+   "Kernel_Lang_Samoan": {
+      "message": "Samoaans"
+   },
+   "Kernel_Lang_ScotsGaelic": {
+      "message": "Schots-Gaelisch"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Servisch"
+   },
+   "Kernel_Lang_Sesotho": {
+      "message": "Sesotho"
+   },
+   "Kernel_Lang_Shona": {
+      "message": "Shona"
+   },
+   "Kernel_Lang_Sindhi": {
+      "message": "Sindhi"
+   },
+   "Kernel_Lang_Sinhala": {
+      "message": "Sinhala"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Slowaaks"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Sloveens"
+   },
+   "Kernel_Lang_Somali": {
+      "message": "Somalisch"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Spaans"
+   },
+   "Kernel_Lang_SpanishArgentina": {
+      "message": "Spaans (Argentinië)"
+   },
+   "Kernel_Lang_SpanishBolivia": {
+      "message": "Spaans (Bolivia)"
+   },
+   "Kernel_Lang_SpanishChile": {
+      "message": "Spaans (Chili)"
+   },
+   "Kernel_Lang_SpanishColombia": {
+      "message": "Spaans (Colombia)"
+   },
+   "Kernel_Lang_SpanishCostaRica": {
+      "message": "Spaans (Costa Rica)"
+   },
+   "Kernel_Lang_SpanishDR": {
+      "message": "Spaans (Dominicaanse Republiek)"
+   },
+   "Kernel_Lang_SpanishEquador": {
+      "message": "Spaans (Ecuador)"
+   },
+   "Kernel_Lang_SpanishGuatemala": {
+      "message": "Spaans (Guatemala)"
+   },
+   "Kernel_Lang_SpanishHonduras": {
+      "message": "Spaans (Honduras)"
+   },
+   "Kernel_Lang_SpanishMexico": {
+      "message": "Spaans (Mexico)"
+   },
+   "Kernel_Lang_SpanishNicaragua": {
+      "message": "Spaans (Nicaragua)"
+   },
+   "Kernel_Lang_SpanishPanama": {
+      "message": "Spaans (Panama)"
+   },
+   "Kernel_Lang_SpanishParaguay": {
+      "message": "Spaans (Paraguay)"
+   },
+   "Kernel_Lang_SpanishPeru": {
+      "message": "Spaans (Peru)"
+   },
+   "Kernel_Lang_SpanishPuertoRico": {
+      "message": "Spaans (Puerto Rico)"
+   },
+   "Kernel_Lang_SpanishSalvador": {
+      "message": "Spaans (El Salvador)"
+   },
+   "Kernel_Lang_SpanishSpain": {
+      "message": "Spaans (Spanje)"
+   },
+   "Kernel_Lang_SpanishUS": {
+      "message": "Spaans (VS)"
+   },
+   "Kernel_Lang_SpanishUruguay": {
+      "message": "Spaans (Uruguay)"
+   },
+   "Kernel_Lang_SpanishVenezuela": {
+      "message": "Spaans (Venezuela)"
+   },
+   "Kernel_Lang_Sundanese": {
+      "message": "Soendanees"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Swahili"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Zweeds"
+   },
+   "Kernel_Lang_Tajik": {
+      "message": "Tadzjieks"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Tamil"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Telugu"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Thai"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "Turks"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Oekraïens"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Urdu"
+   },
+   "Kernel_Lang_Uzbek": {
+      "message": "Oezbeeks"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Vietnamees"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Welsh"
+   },
+   "Kernel_Lang_Xhosa": {
+      "message": "Xhosa"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Jiddisch"
+   },
+   "Kernel_Lang_Yoruba": {
+      "message": "Joruba"
+   },
+   "Kernel_Lang_Zulu": {
+      "message": "Zoeloe"
+   },
+   "Kernel_NoResults": {
+      "message": "Geen resultaten"
+   },
+   "Kernel_Ok": {
+      "message": "OK"
+   },
+   "Kernel_PhrasebookTitle": {
+      "message": "Woordenboek"
+   },
+   "Kernel_RemoveCombination": {
+      "message": "verwijderen"
+   },
+   "Kernel_SearchPlaceholder": {
+      "message": "Zoeken"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "Instellingen"
+   },
+   "Kernel_Vowels": {
+      "message": "aeiou"
+   },
+   "Login_ByClicking": {
+      "message": "Door op 'Maak een account aan' te klikken, gaat u akkoord met onze \u003Cb>\u003Ca href=\"https://matetranslate.com/terms\">Gebruiksvoorwaarden\u003C/a>\u003C/b> en \u003Cb>\u003Ca href=\"https://matetranslate.com/privacy\">Privacybeleid\u003C/a>\u003C/b>."
+   },
+   "Login_Continue": {
+      "message": "DOORGAAN"
+   },
+   "Login_ContinueWithout": {
+      "message": "Overslaan"
+   },
+   "Login_Create": {
+      "message": "Maak een account aan"
+   },
+   "Login_Email": {
+      "message": "Voer uw e-mailadres in..."
+   },
+   "Login_Forgot": {
+      "message": "Wachtwoord vergeten?"
+   },
+   "Login_GDPR": {
+      "message": "\u003Cb>Welkom bij de vertaler die echt om je privacy geeft.\u003C/b> We zullen je gegevens nooit volgen of verkopen. Ons \u003Ca class=\"open-pp\" href=\"javascript:;\">Privacybeleid\u003C/a> is anders dan alle andere: het is beknopt en aangenaam. Lees en accepteer het om te beginnen met het gebruiken van Mate Account."
+   },
+   "Login_IReadAndAgree": {
+      "message": "Ik ga akkoord"
+   },
+   "Login_NewPassword": {
+      "message": "Nieuw wachtwoord..."
+   },
+   "Login_NoAccountHead": {
+      "message": "Ik heb geen account"
+   },
+   "Login_NoAccountText": {
+      "message": "Als u Pro hebt gekocht maar op dat moment niet was ingelogd en de registratie niet hebt voltooid via een link die we naar het door u bij de afreken opgegeven e-mailadres hebben gestuurd, dient u de registratie via de link in de e-mail te voltooien. Nadat u dit heeft gedaan, kunt u zich aanmelden in de app."
+   },
+   "Login_NoRememberHead": {
+      "message": "Ik herinner het mij niet"
+   },
+   "Login_NoRememberText": {
+      "message": "Als u het e-mailadres dat u voor de afreken heeft gebruikt niet meer weet, probeer dan een e-mail met een aankoopbevestiging van ons in uw inbox te vinden."
+   },
+   "Login_OrSignInWith": {
+      "message": "OF AANMELDEN MET"
+   },
+   "Login_Password": {
+      "message": "Voer uw wachtwoord in..."
+   },
+   "Login_PasswordMin8": {
+      "message": "Uw wachtwoord moet uit minstens 8 tekens bestaan"
+   },
+   "Login_Promo": {
+      "message": "Meld u aan om Mate te gebruiken en synchroniseer al uw gegevens op alle apparaten!"
+   },
+   "Login_QuestionsHead": {
+      "message": "Vragen?"
+   },
+   "Login_QuestionsText": {
+      "message": "Als u nog steeds problemen ondervindt, kunt u contact met ons opnemen via \u003Ca href=\"mailto:support@matetranslate.com?subject=Login Issues\">support@matetranslate.com\u003C/a>."
+   },
+   "Login_Restore": {
+      "message": "Om Mate Translate Pro te herstellen, logt u in op het account waarmee u het heeft gekocht (\u003Ca href=\"javascript:;\" class=\"show-info\">weet u het niet?\u003C/a>)"
+   },
+   "Login_SignIn": {
+      "message": "INLOGGEN"
+   },
+   "Login_SignUp": {
+      "message": "Registreren"
+   },
+   "Login_Sync": {
+      "message": "Je Mate Account is de beste manier om je geschiedenis, woordenboek en voorkeuren veilig en synchroon te houden tussen apparaten."
+   },
+   "Login_YourName": {
+      "message": "Uw naam (optioneel)..."
+   },
+   "MatePro_Description": {
+      "message": "Breng uw vertaalervaring naar een hoger niveau met Mate Pro! Eenmalig betalen, voor altijd gebruiken."
+   },
+   "MicAccess_HowToUnlock": {
+      "message": "Verwijder \u003Cb>$id$\u003C/b> uit de geblokkeerde microfoonuitzonderingen. \u003Cb>\u003Ca href=\"../public/mic_access.html\">Klik hier\u003C/a>\u003C/b> daarna.",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/"
+         }
+      }
+   },
+   "MicAccess_Note": {
+      "message": "Om spraak te herkennen en te vertalen, heeft Mate Translate toestemming nodig om de microfoon van uw computer te gebruiken."
+   },
+   "MicAccess_PageTitle": {
+      "message": "Toegang tot microfoon"
+   },
+   "MicAccess_Title": {
+      "message": "Microfoon"
+   },
+   "MicAccess_UnlockButton": {
+      "message": "toestaan in inhoudsinstellingen"
+   },
+   "Options_TooltipSizePro": {
+      "message": "Upgrade naar Pro om de grootte van de tooltip op pagina's te wijzigen."
+   },
+   "Pb_AddButton": {
+      "message": "Toevoegen"
+   },
+   "Pb_EarlyAccess": {
+      "message": "vroege toegang aanvragen"
+   },
+   "Pb_Empty": {
+      "message": "Woordenboek is leeg"
+   },
+   "Pb_EmptyWl_Text1": {
+      "message": "Bewaar hier alle woorden die je over dit onderwerp wilt onthouden."
+   },
+   "Pb_EmptyWl_Text2": {
+      "message": "Typ gewoon woorden in, Mate haalt de vertalingen voor je op."
+   },
+   "Pb_EmptyWl_Title2": {
+      "message": "Sla eenvoudig op"
+   },
+   "Pb_Empty_Button": {
+      "message": "maak een woordenlijst"
+   },
+   "Pb_Empty_Text1": {
+      "message": "Maak woordenlijsten om woorden die je wilt leren op te slaan."
+   },
+   "Pb_Empty_Text2": {
+      "message": "Bewaar al je woordenschat op één plek!"
+   },
+   "Pb_Empty_Title": {
+      "message": "Wat is dit?"
+   },
+   "Pb_EnterWordOrPhrase": {
+      "message": "Voer een woord of zin in ..."
+   },
+   "Pb_HowToAddPhrase": {
+      "message": "Gebruik het tekstveld hierboven om nieuwe zinnen toe te voegen"
+   },
+   "Pb_HowToCreateWordlist": {
+      "message": "Klik daarboven op de \"+\" knop om een nieuwe woordenlijst te maken"
+   },
+   "Pb_Learn": {
+      "message": "Leren"
+   },
+   "Pb_LearnOnboardingDesc": {
+      "message": "We willen Mate goed houden voor één doel - vertalingen.\u003Cbr>\u003Cbr>Dus, we hebben Reji gemaakt - een super eenvoudige gratis app om efficiënt woordenschat te leren. We hebben het ook mogelijk gemaakt om al je woorden van Mate naar Reji te exporteren met één klik!"
+   },
+   "Pb_Loading": {
+      "message": "laden..."
+   },
+   "Pb_NewWlNote": {
+      "message": "Maak een woordenlijst voor een vaste taalcombinatie en voeg een onbeperkt aantal zinnen toe."
+   },
+   "Pb_NewWordlist": {
+      "message": "Nieuwe woordenlijst"
+   },
+   "Pb_NewWordlistName": {
+      "message": "Naam van de nieuwe woordenlijst ..."
+   },
+   "Pb_NoInternet": {
+      "message": "Je internetverbinding lijkt offline te zijn. Om nieuwe zinnen toe te voegen, moet je verbonden zijn met het internet!"
+   },
+   "Pb_NotOnIOS": {
+      "message": "Gebruik je geen iOS? Klik om woorden te leren op \u003Ca class=\"show-android-form\" href=\"#\">Android\u003C/a> of direct in \u003Ca class=\"show-chrome-form\" href=\"#\">de browser\u003C/a>."
+   },
+   "Pb_RejiAndroid": {
+      "message": "Reji voor Android is nog niet beschikbaar. We werken hard om het ASAP te leveren. Maar je kunt de eerste zijn die het weet als je je e-mail achterlaat:"
+   },
+   "Pb_RejiBrowser": {
+      "message": "Reji's browser versie is nog niet beschikbaar. We werken hard om het ASAP te leveren. Maar je kunt de eerste zijn die het weet als je je e-mail achterlaat:"
+   },
+   "Pb_SaveButton": {
+      "message": "Opslaan"
+   },
+   "Pb_ScanQR": {
+      "message": "Scan deze QR-code met de Camera-app op je iPhone of iPad om woorden te openen en te leren in Reji."
+   },
+   "Pb_SelectLearnLanguage": {
+      "message": "Welke taal leer je?"
+   },
+   "Pb_SureToDeleteWordlist": {
+      "message": "Weet je zeker dat je deze woordenlijst wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt."
+   },
+   "Pb_WlEmpty": {
+      "message": "Woordenlijst is leeg"
+   },
+   "Phrasebook_FullyBlockedOut": {
+      "message": "Upgrade naar Pro voor onbeperkte toegang tot het woordenboek."
+   },
+   "Phrasebook_Phrases1": {
+      "message": "zin"
+   },
+   "Phrasebook_Phrases2": {
+      "message": "zinnen"
+   },
+   "Phrasebook_Phrases3": {
+      "message": "zinnen"
+   },
+   "ProSplitTests_2_F1": {
+      "message": "Vertaal spraak"
+   },
+   "ProSplitTests_2_F2": {
+      "message": "Geschiedenis & Woordenboek"
+   },
+   "ProSplitTests_2_F3": {
+      "message": "Synoniemen"
+   },
+   "ProSplitTests_2_F4": {
+      "message": "Uitspraak & zelfstandige naamwoorden gender"
+   },
+   "ProSplitTests_2_F5": {
+      "message": "Donkere modus & geen advertenties"
+   },
+   "ProSplitTests_2_F6": {
+      "message": "Prioritaire klantenondersteuning"
+   },
+   "ProSplitTests_2_F7": {
+      "message": "Pro op \u003Ca href=\"https://gikken.co/mate-translate/?ref=BrowserProBlock\">alle apparaten\u003C/a>"
+   },
+   "ProSplitTests_2_F8": {
+      "message": "Automatische websitevertaling"
+   },
+   "ProSplitTests_2_Pitch": {
+      "message": "Mate is geweldig, Pro maakt het nog geweldiger!\u003Cbr>Krijg toegang tot alle premium functies op alle apparaten en zie geen advertenties."
+   },
+   "Pro_Articles": {
+      "message": "Zelfstandige naamwoord lidwoorden"
+   },
+   "Pro_Articles_Desc": {
+      "message": "Leer hoe je woorden gebruikt in het Duits, Frans, Spaans, Italiaans en Portugees."
+   },
+   "Pro_Articles_Msg": {
+      "message": "Koop Pro om zelfstandige naamwoord lidwoorden te ontgrendelen."
+   },
+   "Pro_ComesAlong": {
+      "message": ", en meer:"
+   },
+   "Pro_DoubleClickFeature": {
+      "message": "Vertaal woorden op webpagina's door er met Mate Pro dubbel op te klikken!"
+   },
+   "Pro_ExportFeature": {
+      "message": "Verkrijg je geschiedenis als een CSV-bestand met Mate Pro!"
+   },
+   "Pro_FullPageTranslation": {
+      "message": "Koop Pro om automatische websitevertaling in te schakelen."
+   },
+   "Pro_IPA": {
+      "message": "Fonetische transcriptie"
+   },
+   "Pro_IPA_Desc": {
+      "message": "Leer hoe je woorden nauwkeurig uitspreekt."
+   },
+   "Pro_IPA_Msg": {
+      "message": "Koop Pro om fonetische transcriptie te ontgrendelen."
+   },
+   "Pro_MainSettingsPitch": {
+      "message": "Upgraden is de moeite waard hoe meer je vertaalt. We hebben functies toegevoegd om Mate Pro een taal powerhouse te maken, waar je het ook gebruikt."
+   },
+   "Pro_NetflixPhrasebookSaving": {
+      "message": "Koop Pro om woorden van Netflix op te slaan."
+   },
+   "Pro_PhrasebookFeature": {
+      "message": "Krijg toegang tot je eigen persoonlijke woordenboek. Synchroniseer het (en je geschiedenis) met Mate op \u003Ca href=\"https://gikken.co/mate-translate/download/\" target=\"_blank\">al je apparaten\u003C/a>. Exporteer als CSV om het elders te gebruiken."
+   },
+   "Pro_STTFeature": {
+      "message": "Praat met Mate in meer dan \u003Ca href=\"https://gikken.co/mate-translate/languages\" target=\"_blank\">40 talen\u003C/a>, krijg supersnelle en nauwkeurige vertalingen."
+   },
+   "Pro_ShortcutsFeature": {
+      "message": "Stel je toetsenbord in om meerdere talen te vertalen in plaats van slechts één (Shift+T)."
+   },
+   "Pro_SyncFeature": {
+      "message": "Synchroniseer al je gegevens op alle apparaten met Mate Pro!"
+   },
+   "Pro_SynonymsPaywall": {
+      "message": "Upgrade naar Pro om meer synoniemen te zien."
+   },
+   "Pro_UnlockMore": {
+      "message": "En ontgrendel ook deze functies:"
+   },
+   "Promo_Android": {
+      "message": "Android"
+   },
+   "Promo_Chrome": {
+      "message": "Chrome"
+   },
+   "Promo_Edge": {
+      "message": "Edge"
+   },
+   "Promo_Firefox": {
+      "message": "Firefox"
+   },
+   "Promo_Ios": {
+      "message": "iOS"
+   },
+   "Promo_Mac": {
+      "message": "macOS"
+   },
+   "Promo_Safari": {
+      "message": "Safari"
+   },
+   "Promo_Samsunginternet": {
+      "message": "Samsung Internet"
+   },
+   "Promo_Windows": {
+      "message": "Windows"
+   },
+   "RejiAd": {
+      "message": "Onze nieuwe app helpt je woordenschat verbeteren. Kijk maar!"
+   },
+   "SafariWall_Desc": {
+      "message": "Betaal één keer voor Mate en krijg al deze geweldige functies direct in je Safari."
+   },
+   "SafariWall_Feature1": {
+      "message": "Selecteer woorden op elke pagina & vertaal ze"
+   },
+   "SafariWall_Feature2": {
+      "message": "Dubbelklik op elk woord & vertaal het"
+   },
+   "SafariWall_Feature3": {
+      "message": "Bewaar woorden om te onthouden in je persoonlijke Woordenboek"
+   },
+   "SafariWall_Feature4": {
+      "message": "Vertaal in 103 talen"
+   },
+   "SafariWall_Feature5": {
+      "message": "Leer de juiste uitspraak"
+   },
+   "SafariWall_Feature6": {
+      "message": "Synchroniseer al je vertalingen op alle apparaten"
+   },
+   "SafariWall_Title": {
+      "message": "Niet meer naar vertaalwebsites tabben!"
+   },
+   "Settings_21max": {
+      "message": "Je kunt maximaal 21 sneltoetsen maken..."
+   },
+   "Settings_Articles": {
+      "message": "Toon zelfstandige naamwoord lidwoorden"
+   },
+   "Settings_Autoswap": {
+      "message": "Talen automatisch omwisselen"
+   },
+   "Settings_Autoswap_Description": {
+      "message": "Talen worden automatisch omgewisseld als je tekst invoert in de doeltaal in plaats van de brontaal en omgekeerd."
+   },
+   "Settings_CP": {
+      "message": "Mate voor andere apparaten"
+   },
+   "Settings_CPDesc": {
+      "message": "Mate is beschikbaar voor iOS, Mac (+ Safari extensie), Chrome, Firefox, Opera en Edge. Je kunt je vertaalgeschiedenis en woordenboek synchroniseren tussen alle apps met een Mate Account."
+   },
+   "Settings_CP_Get": {
+      "message": "Download andere Mate-apps"
+   },
+   "Settings_Close": {
+      "message": "sluiten"
+   },
+   "Settings_Contacts": {
+      "message": "Meer"
+   },
+   "Settings_CtxMenu": {
+      "message": "Contextmenu"
+   },
+   "Settings_CtxMenuDesc": {
+      "message": "Toon een vertaal-knop in het contextmenu (rechtermuisklik). Werkt voor geselecteerde tekst op webpagina's."
+   },
+   "Settings_DarkMode": {
+      "message": "Prachtige donkere modus"
+   },
+   "Settings_DarkModeDesc": {
+      "message": "Bespaar energie en vermijd oogvermoeidheid met de strakke donkere modus van Mate."
+   },
+   "Settings_DataEraseError": {
+      "message": "Er is een onverwachte fout opgetreden, probeer het later opnieuw!"
+   },
+   "Settings_DataErased": {
+      "message": "Al je gegevens zijn verwijderd van de Mate-servers!"
+   },
+   "Settings_DestLang": {
+      "message": "Doeltaal"
+   },
+   "Settings_Email": {
+      "message": "stuur ons een e-mail"
+   },
+   "Settings_EnableSync": {
+      "message": "Synchronisatie van geschiedenis en de Woordenboek inschakelen"
+   },
+   "Settings_EraseConfirm": {
+      "message": "Weet je het zeker? Dit zal al jouw gesynchroniseerde vertalingen en Woordenboek wissen (lokale gegevens worden niet beïnvloed). Dit kan niet ongedaan gemaakt worden."
+   },
+   "Settings_EraseData": {
+      "message": "wis al mijn gegevens"
+   },
+   "Settings_EraseDataDesc": {
+      "message": "Volgens de GDPR kun je verzoeken om je gegevens van de Mate-servers te verwijderen."
+   },
+   "Settings_FBShare": {
+      "message": "delen op Facebook"
+   },
+   "Settings_Facebook": {
+      "message": "facebook"
+   },
+   "Settings_HelpCenter": {
+      "message": "Helpcentrum"
+   },
+   "Settings_Interface_Autocorrection": {
+      "message": "Autocorrectie"
+   },
+   "Settings_Interface_Autocorrection_Description": {
+      "message": "Mate zal automatisch verkeerd gespelde woorden corrigeren."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Slimme vertaling"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Mate zal de invoer vertalen wanneer je stopt met typen."
+   },
+   "Settings_Interface_Save": {
+      "message": "Houd laatste vertaling"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "Mate zal de laatste vertaling gemaakt in de pop-up bewaren, zodat deze er is wanneer je het weer opent."
+   },
+   "Settings_Interface_ShowIPA": {
+      "message": "Toon fonetische transcriptie"
+   },
+   "Settings_Interface_ShowIPA_Description": {
+      "message": "Leer hoe je woorden en zinnen moet uitspreken met de door Mate verstrekte fonetische transcriptie."
+   },
+   "Settings_Interface_ShowTranslit": {
+      "message": "Toon transliteratie"
+   },
+   "Settings_Interface_ShowTranslit_Description": {
+      "message": "Voor niet-Latijnse alfabetten zal Mate een Latijnse transcriptie van de vertaling tonen voor gemakkelijker lezen."
+   },
+   "Settings_Legal": {
+      "message": "Juridisch"
+   },
+   "Settings_Netflix": {
+      "message": "Vertaal Netflix-ondertitels"
+   },
+   "Settings_NetflixDesc": {
+      "message": "Klik op woorden in de ondertitels van Netflix om ze direct te vertalen."
+   },
+   "Settings_NetflixView": {
+      "message": "bekijk opgeslagen woorden →"
+   },
+   "Settings_NewLine": {
+      "message": "voor een nieuwe regel"
+   },
+   "Settings_Newsletter": {
+      "message": "nieuwsbrief"
+   },
+   "Settings_NoConsentPro": {
+      "message": "Volgens de GDPR kunnen we je niet voor de Pro-versie belasten totdat je onze gebruiksvoorwaarden accepteert... Accepteer het en vernieuw deze pagina om door te gaan met Pro."
+   },
+   "Settings_NoProSync": {
+      "message": "Upgrade naar Pro om synchronisatie in te schakelen"
+   },
+   "Settings_Or": {
+      "message": "of"
+   },
+   "Settings_PopupShortcuts": {
+      "message": "Sneltoetsen in de pop-up"
+   },
+   "Settings_PopupShortcutsDesc": {
+      "message": "Vertaal tekst in het invoerveld met een sneltoets."
+   },
+   "Settings_PrefsTab": {
+      "message": "Voorkeuren"
+   },
+   "Settings_PrivacyPolicy": {
+      "message": "Privacybeleid"
+   },
+   "Settings_ProActivated": {
+      "message": "Alles is klaar! Pro is geactiveerd."
+   },
+   "Settings_ProFeature8": {
+      "message": "Speciale e-mail ondersteuning"
+   },
+   "Settings_ProFeature8_Desc": {
+      "message": "Ondersteuning is exclusief voor Pro, zodat wij snel en diepgaande antwoorden kunnen geven. \u003Cbr>Gratis gebruikers kunnen veelvoorkomende antwoorden vinden in ons \u003Ca href=\"https://help.gikken.co/hc/\" target=\"_blank\">Helpcentrum\u003C/a>."
+   },
+   "Settings_ProTab": {
+      "message": "Pro & Synchronisatie"
+   },
+   "Settings_Restore": {
+      "message": "aankoop herstellen"
+   },
+   "Settings_RevokeConsent": {
+      "message": "ik stem niet langer in met de voorwaarden"
+   },
+   "Settings_RevokeConsentDesc": {
+      "message": "Als je niet langer akkoord gaat met ons Privacybeleid of onze Gebruiksvoorwaarden, kun je je eerdere toestemming intrekken. Je kunt Mate echter ook niet meer gebruiken."
+   },
+   "Settings_Share": {
+      "message": "Vertel je vrienden over Mate"
+   },
+   "Settings_ShareDesc": {
+      "message": "Stuur ze een link of deel op sociale media. Het zal ons enorm steunen!"
+   },
+   "Settings_ShareText": {
+      "message": "Mate de vriendelijkste, snelste en meest privacybewuste vertaal-app voor {{platform}}, Mac, iPhone en iPad. Je zult ervan houden."
+   },
+   "Settings_ShortcutClick": {
+      "message": "klik op dit veld en druk dan op een gewenste sneltoets..."
+   },
+   "Settings_ShortcutMain": {
+      "message": "Hoofd snelkoppeling"
+   },
+   "Settings_ShortcutSuppl": {
+      "message": "Aanvullende snelkoppeling"
+   },
+   "Settings_SignOut": {
+      "message": "UITLOGGEN"
+   },
+   "Settings_SourceLang": {
+      "message": "Bron taal"
+   },
+   "Settings_StayInTouch": {
+      "message": "Blijf in contact met ons"
+   },
+   "Settings_SyncText": {
+      "message": "Houd je Pro-account, vertalingen en Woordenboek gesynchroniseerd tussen alle apparaten."
+   },
+   "Settings_TWShare": {
+      "message": "delen op twitter"
+   },
+   "Settings_ToS": {
+      "message": "gebruiksvoorwaarden"
+   },
+   "Settings_ToTranslate": {
+      "message": "te vertalen"
+   },
+   "Settings_Tooltip": {
+      "message": "Tooltips formaat"
+   },
+   "Settings_TooltipBig": {
+      "message": "groot"
+   },
+   "Settings_TooltipDesc": {
+      "message": "Hoe groot moet de tooltip zijn waarin vertalingen op webpagina's verschijnen."
+   },
+   "Settings_TooltipMedium": {
+      "message": "middellijn"
+   },
+   "Settings_TooltipSmall": {
+      "message": "klein"
+   },
+   "Settings_TranslateSelection": {
+      "message": "Selecteren om te vertalen"
+   },
+   "Settings_TranslateSelectionDesc": {
+      "message": "Toon een vertaal knop naast de geselecteerde tekst op webpagina's."
+   },
+   "Settings_Translation_History": {
+      "message": "Geschiedenis van vertalingen"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "Bewaar alle vertalingen om ze op elk moment te bekijken."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Op pagina"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "Selecteer tekst op een willekeurige pagina (behalve PDF-bestanden), druk op een snelkoppeling en krijg de vertaling meteen in een onopvallend pop-up venster voor je."
+   },
+   "Settings_Twitter": {
+      "message": "twitter"
+   },
+   "Settings_UsageDesc": {
+      "message": "We raden je aan om over te schakelen naar Pro als je meer dan 500 keer per maand vertaalt. Het helpt ons om onze server te onderhouden.\u003Cbr>\u003Cbr>Op die manier kunnen we een snellere vertaalsnelheid garanderen."
+   },
+   "Settings_Website": {
+      "message": "website"
+   },
+   "Settings_YouAreSignedIn": {
+      "message": "Je bent ingelogd als"
+   },
+   "Settings_YouPro": {
+      "message": "Je hebt de Pro versie!"
+   },
+   "Settings_YouUsed": {
+      "message": "je hebt gebruikt"
+   },
+   "ShareOnVK": {
+      "message": "delen op vk"
+   },
+   "ShareViaEmail": {
+      "message": "delen via e-mail"
+   },
+   "SignUp_Name": {
+      "message": "Naam (optioneel)"
+   },
+   "SignUp_Password": {
+      "message": "Wachtwoord (minimaal 8 tekens)"
+   },
+   "Sponsorship_Bar": {
+      "message": "Blijf veilig met een Mate Account"
+   },
+   "Sponsorship_DismissPro": {
+      "message": "Upgrade naar Pro om advertenties te verbergen."
+   },
+   "Sub_48hNotificationBodyAnnual": {
+      "message": "We zullen u binnenkort {{amount}} in rekening brengen voor uw jaarlijkse Mate Pro-abonnement."
+   },
+   "Sub_48hNotificationBodyMonthly": {
+      "message": "We zullen u binnenkort {{amount}} in rekening brengen voor uw maandelijkse Mate Pro-abonnement."
+   },
+   "Sub_48hNotificationLabel": {
+      "message": "\u003Cb>Geen risico.\u003C/b> We sturen u een herinnering 48 uur voor de eerste betaling."
+   },
+   "Sub_48hNotificationTitle": {
+      "message": "Hoe bevalt je Mate proefperiode?"
+   },
+   "Sub_ApplyForStudentDiscount": {
+      "message": "Studentenkorting"
+   },
+   "Sub_Cancel": {
+      "message": "Abonnement annuleren"
+   },
+   "Sub_ChangePaymentMethod": {
+      "message": "Wijzig betaalmethode"
+   },
+   "Sub_ComingSoon": {
+      "message": "binnenkort"
+   },
+   "Sub_CouldNotGetPayLink": {
+      "message": "Kon geen betalingslink krijgen. Probeer het later opnieuw of neem contact met ons op via support@matetranslate.com"
+   },
+   "Sub_CrossPlatformProComingSoon": {
+      "message": "We werken er hard aan om Mate Pro platformonafhankelijk te maken.\n\nJe kunt nu al genieten van Mate Pro in alle browserextensies door je simpelweg aan te melden met hetzelfde Mate-account op elk apparaat. iOS- en Mac-apps worden echter vooraf verkocht in de app stores van Apple.\n\nAls tijdelijke oplossing kun je ons mailen op hello@gikken.co en de bon bijvoegen na je abonnement op Mate Pro — we helpen je om die apps gratis te krijgen.\n\nWe verontschuldigen ons diep voor het tijdelijke ongemak."
+   },
+   "Sub_DueAfterTrial": {
+      "message": "\u003Cspan class=\"price-due\">\u003C/span> na proefperiode"
+   },
+   "Sub_FAQ": {
+      "message": "FAQ"
+   },
+   "Sub_FinishCreatingAccount": {
+      "message": "Account aanmaken voltooien"
+   },
+   "Sub_FreeTrialVerificationCharge": {
+      "message": "U kunt $1 in rekening worden gebracht door Paddle om de creditcard te verifiëren. Dit wordt direct terugbetaald. De proefperiode is gratis."
+   },
+   "Sub_LegacyUsersDisclaimer": {
+      "message": "Mate Pro is nu abonnement-gebaseerd voor nieuwe gebruikers. Aangezien je Pro hebt gekocht vóór de overgang, behoud je het voor altijd zonder extra kosten! Bedankt voor je vroege steun \u003C3"
+   },
+   "Sub_Month": {
+      "message": "/maand"
+   },
+   "Sub_MoreInlineInfo": {
+      "message": "Lees meer"
+   },
+   "Sub_NextBilling": {
+      "message": "Volgende facturering: {{next_amount_billed}} op {{next_billing_date}}"
+   },
+   "Sub_NoNotifPermissionAlert": {
+      "message": "Zonder toestemming voor meldingen kunnen we u niet op de hoogte stellen van de eerste facturering... U kunt echter altijd hier in de instellingen zien wanneer het zal gebeuren."
+   },
+   "Sub_PleaseCreateAccount": {
+      "message": "Voltooi nu het aanmaken van je Mate-account, dan kunnen we je abonnement valideren. Het duurt niet langer dan een minuut!"
+   },
+   "Sub_PleaseSignBackIn": {
+      "message": "Meld u opnieuw aan met uw Mate-account dat is gekoppeld aan \u003Cb>{{email}}\u003C/b>.\u003Cbr>We kunnen uw abonnement anders niet valideren."
+   },
+   "Sub_ProStatusForLegacyUsers": {
+      "message": "Je hebt onbeperkte, levenslange toegang tot Mate Pro"
+   },
+   "Sub_PurchasedBefore": {
+      "message": "Eerder Pro gekocht?"
+   },
+   "Sub_Resubscribe": {
+      "message": "Opnieuw abonneren"
+   },
+   "Sub_Savings": {
+      "message": "bespaar {{savings}}%"
+   },
+   "Sub_ScrewSubscription": {
+      "message": "Geen abonnement nemen?"
+   },
+   "Sub_StatusFetchError": {
+      "message": "Uw abonnementstatus kon niet worden opgehaald."
+   },
+   "Sub_StatusFetchTryAgain": {
+      "message": "Probeer opnieuw"
+   },
+   "Sub_SubscribeNow": {
+      "message": "Abonneer Nu"
+   },
+   "Sub_TryFreeCTA": {
+      "message": "probeer gratis voor \u003Cspan class=\"trial-days\">\u003C/span> dagen"
+   },
+   "Sub_WhenCancelled": {
+      "message": "Je hebt je abonnement opgezegd, maar behoudt toegang tot Mate Pro tot {{sub_ends_on}}. Om daarna Pro te blijven gebruiken, kun je je opnieuw abonneren."
+   },
+   "Sub_WhenTrialing": {
+      "message": "Je proefperiode eindigt {{next_billing_date}} en je wordt gefactureerd {{next_amount_billed}}"
+   },
+   "Sub_Year": {
+      "message": "/jaar"
+   },
+   "Sub_YouAreAlmostInTheFamily": {
+      "message": "Je hoort (bijna) bij de Mate Pro familie!"
+   },
+   "Sub_YouAreInTheFamily": {
+      "message": "Je hoort bij de Mate Pro familie!"
+   },
+   "Sync_FailedError": {
+      "message": "Kon niet synchroniseren. Er is een fout opgetreden."
+   },
+   "Sync_NetworkError": {
+      "message": "Het lijkt erop dat er geen internet verbinding is. Maak verbinding met internet en probeer opnieuw te synchroniseren."
+   },
+   "Sync_NoItemsError": {
+      "message": "Geen items om te synchroniseren."
+   },
+   "Sync_NotSignedInError": {
+      "message": "Je moet ingelogd zijn om je geschiedenis en het Woordenboek te synchroniseren."
+   },
+   "TD_AddPB": {
+      "message": "Toevoegen aan Woordenboek"
+   },
+   "TD_Copy": {
+      "message": "Kopiëren"
+   },
+   "TD_Create": {
+      "message": "Maak een nieuwe woordenlijst..."
+   },
+   "TD_NoWordlists": {
+      "message": "Geen woordenlijsten voor "
+   },
+   "There_Is_Localised_Site": {
+      "message": "Bekijk de gelokaliseerde versie van de site"
+   },
+   "There_Is_Localised_Site_Desc": {
+      "message": "Er is een gelokaliseerde versie van deze website"
+   },
+   "Tooltip_DisableDoubleClick": {
+      "message": "Niet vertalen bij dubbelklik"
+   },
+   "Tooltip_DisableDoubleClickDesc": {
+      "message": "Je ziet geen vertaal venster meer wanneer je dubbel klikt op een woord."
+   },
+   "Tooltip_DisableSelection": {
+      "message": "Zwevende knop niet weergeven"
+   },
+   "Tooltip_DisableSelectionDesc": {
+      "message": "Je ziet geen vertaal knop meer wanneer je tekst selecteert."
+   },
+   "Tooltip_InlineOptionDisabled": {
+      "message": "Je kunt het opnieuw inschakelen in de instellingen"
+   },
+   "Tour_Agree": {
+      "message": "Klik op de knop hieronder om akkoord te gaan met onze \u003Cb>Gebruiksvoorwaarden\u003C/b> en \u003Cb>Privacybeleid\u003C/b>, en begin met vertalen met Mate."
+   },
+   "Tour_AutoFPOption": {
+      "message": "Stel voor om websites te vertalen"
+   },
+   "Tour_DoubleClick": {
+      "message": "Dubbelklik vertaling"
+   },
+   "Tour_DoubleClickDesc": {
+      "message": "Dubbelklik op een willekeurig woord om directe vertaling op webpagina's te zien."
+   },
+   "Tour_DoubleClickOption": {
+      "message": "Vertaal met een dubbelklik"
+   },
+   "Tour_GotIt": {
+      "message": "START"
+   },
+   "Tour_HowToContext": {
+      "message": "Of selecteer een willekeurige tekst en gebruik het context menu (rechtermuisklik) om de vertaling te zien."
+   },
+   "Tour_HowToPopUp": {
+      "message": "Als je zelf woorden wilt typen, open dan het pop-up venster door op de Mate-knop naast je browser adres balk te klikken."
+   },
+   "Tour_HowToSelect": {
+      "message": "Selecteer een willekeurig woord of tekst op een webpagina en druk op Shift+T om het te vertalen."
+   },
+   "Tour_HowToUse": {
+      "message": "Hoe te gebruiken?"
+   },
+   "Tour_Important": {
+      "message": "Het is super belangrijk!"
+   },
+   "Tour_ImportantSub": {
+      "message": "Deze pagina laat je zien hoe je \u003Cb>Mate Translate\u003C/b> gebruikt"
+   },
+   "Tour_ImportantText": {
+      "message": "Neem slechts 40 seconden de tijd om het door te nemen"
+   },
+   "Tour_Langs": {
+      "message": "Naar welke taal wil je vertalen?"
+   },
+   "Tour_LangsDesc": {
+      "message": "Kies de taal waarnaar je wilt vertalen:"
+   },
+   "Tour_LangsSupported": {
+      "message": "bekijk ondersteunde talen"
+   },
+   "Tour_MacUser": {
+      "message": "Ik gebruikte Mate voor Mac"
+   },
+   "Tour_NoShiftT": {
+      "message": "Mate kan geen geselecteerde tekst op deze pagina en in PDF-bestanden vertalen vanwege bepaalde technische beperkingen van \u003C%=browser%>.\u003Cbr>\u003Cbr>Probeer het bijvoorbeeld op \u003Ca href='https://reji.me' target='_blank'>deze pagina\u003C/a>."
+   },
+   "Tour_PDF": {
+      "message": "Vertalen in PDF's"
+   },
+   "Tour_PDFDesc": {
+      "message": "Selecteer tekst in PDF-bestanden binnen Chrome, klik met de rechter muisknop en vertaal het."
+   },
+   "Tour_PDFNote": {
+      "message": "Drijvende knop en Shift+T vertalingen werken niet in PDF's vanwege technische beperkingen."
+   },
+   "Tour_Pages": {
+      "message": "Vertaal volledige webpagina's"
+   },
+   "Tour_PagesDesc": {
+      "message": "Alle websites in jouw taal. Automatisch."
+   },
+   "Tour_Phrasebook": {
+      "message": "Houd je persoonlijke woordboek bij"
+   },
+   "Tour_PhrasebookCreate": {
+      "message": "Maak mijn eerste woordenlijst"
+   },
+   "Tour_PhrasebookDesc": {
+      "message": "Sla alle woorden die je wilt onthouden op in het Mate Woordenboek.\u003Cbr>Houd al je woordenschat op één plek!"
+   },
+   "Tour_PhrasebookFeature": {
+      "message": "Houd alle woorden die je wilt onthouden op één plek!"
+   },
+   "Tour_PhrasebookLaunch": {
+      "message": "start woordenboek"
+   },
+   "Tour_PinExtension": {
+      "message": "Pin Mate"
+   },
+   "Tour_PinExtensionDesc": {
+      "message": "Heb snel toegang tot Mate vanaf de adresbalk."
+   },
+   "Tour_ProCTA": {
+      "message": "Ontgrendel ook deze geweldige functies door nu te upgraden naar \u003Cb>Mate Pro\u003C/b>:"
+   },
+   "Tour_ProFeature2": {
+      "message": "Vertaal spraak"
+   },
+   "Tour_ProFeature3": {
+      "message": "Onbeperkte sneltoetsen"
+   },
+   "Tour_ProFeature4": {
+      "message": "Woordenboek + naadloze synchronisatie"
+   },
+   "Tour_ProFeature7": {
+      "message": "Exporteer Geschiedenis en Woordenboek als CSV"
+   },
+   "Tour_ProUpgradedSuccessfully": {
+      "message": "Sluit deze pagina en begin met surfen op het web zonder taalbarrières!"
+   },
+   "Tour_Ready": {
+      "message": "Wij voldoen aan de \u003Ca href=\"https://nl.wikipedia.org/wiki/Algemene_verordening_gegevensbescherming\" target=\"_blank\">AVG\u003C/a>!"
+   },
+   "Tour_SafariGet": {
+      "message": "haal mate voor $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Tour_SelectAndTranslate": {
+      "message": "Selecteer en vertaal"
+   },
+   "Tour_Selected": {
+      "message": "Vertaal tekst op websites"
+   },
+   "Tour_SelectedDesc": {
+      "message": "Dubbelklik, selecteer om te vertalen, of druk op Shift+T."
+   },
+   "Tour_ShortcutsFeature": {
+      "message": "Maak zoveel snelkoppelingen als je nodig hebt (vs. 1 in de gratis versie) voor verschillende talen om op webpagina's te vertalen."
+   },
+   "Tour_Start": {
+      "message": "Begin gratis"
+   },
+   "Tour_Sync": {
+      "message": "Synchroniseer gegevens op alle apparaten"
+   },
+   "Tour_SyncDesc": {
+      "message": "Je vertaalgeschiedenis en Woordenboek worden gesynchroniseerd tussen alle apparaten waar je Mate gebruikt."
+   },
+   "Tour_SyncSignIn": {
+      "message": "log in om te synchroniseren"
+   },
+   "Tour_Title": {
+      "message": "Welkom bij Mate Translate"
+   },
+   "Tour_TranslationsFeature": {
+      "message": "Vertaal zo vaak als je wilt op elk moment."
+   },
+   "Tour_UhHuh": {
+      "message": "Uh huh!"
+   },
+   "Tour_Unlock": {
+      "message": "Mate Pro"
+   },
+   "Tour_UnlockDesc": {
+      "message": "Krijg toegang tot alle premiumfuncties en zie geen advertenties."
+   },
+   "Window_AntiWarBanner": {
+      "message": "🇺🇦 Wij zijn tegen Rusland's oorlog tegen Oekraïne en de Europese democratie 🇺🇦"
+   },
+   "Window_CannotTranslatePDF": {
+      "message": "We kunnen geen geselecteerde tekst in PDF-bestanden vertalen. Technische beperkingen van {{browser}}..."
+   },
+   "Window_CannotTranslatePDFChrome": {
+      "message": "Gebruik het contextmenu om geselecteerde tekst in PDF-bestanden te vertalen. Technische beperkingen van Chrome..."
+   },
+   "Window_Content_AllLang": {
+      "message": "Alle"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "Recent gebruikt"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Vertaal ..."
+   },
+   "Window_DoYouKnowSomeone": {
+      "message": "Ken je iemand die Mate Translate nuttig zou vinden?"
+   },
+   "Window_DoYouLike": {
+      "message": "Vind je Mate leuk?"
+   },
+   "Window_DoYouLikeDesc": {
+      "message": "Moet er iets verbeterd worden of is Mate bijna perfect voor jou?"
+   },
+   "Window_DontAutocorrect": {
+      "message": "Niet automatisch corrigeren"
+   },
+   "Window_Improve": {
+      "message": "het moet beter"
+   },
+   "Window_LearnMoreAboutPro": {
+      "message": "Meer informatie over pro"
+   },
+   "Window_Love": {
+      "message": "Ik hou ervan"
+   },
+   "Window_MateFreeDesc": {
+      "message": "Om alle nieuwe functies te ontgrendelen, moet je upgraden naar de Pro-versie."
+   },
+   "Window_MateProDesc": {
+      "message": "Je moet je aanmelden om synchronisatie van geschiedenis en Woordenboek mogelijk te maken."
+   },
+   "Window_Mw_LaterButton": {
+      "message": "Herinner mij later"
+   },
+   "Window_Mw_NeverButton": {
+      "message": "Herinner mij nooit"
+   },
+   "Window_Mw_NotChromeNotNow": {
+      "message": "Niet nu"
+   },
+   "Window_Mw_RateButton": {
+      "message": "Beoordeel nu"
+   },
+   "Window_Mw_RateDesc": {
+      "message": "We zouden blij zijn met je beoordeling in de App Store! Het kost niet meer dan een minuut. Houd onze vertaalmachine draaiende met jouw beoordelingen!"
+   },
+   "Window_Mw_RateTitle": {
+      "message": "Beoordeel je Mate"
+   },
+   "Window_Mw_UpgradeButton": {
+      "message": "upgrade voor $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Window_NetflixFeatureDesc": {
+      "message": "Vertaal en leer woorden terwijl je Netflix kijkt. Klik op een woord in de ondertitels om een vertaling te zien en bewaar deze voor later."
+   },
+   "Window_NewFeature": {
+      "message": "Nieuwe functie!"
+   },
+   "Window_No": {
+      "message": "nee"
+   },
+   "Window_Offline": {
+      "message": "Geen internetverbinding"
+   },
+   "Window_OfflineDesc": {
+      "message": "Kan geen nieuwe woorden vertalen daardoor"
+   },
+   "Window_Pro": {
+      "message": "Ervaar snellere en vloeiendere vertalingen met Mate Pro!"
+   },
+   "Window_ProBannerAds": {
+      "message": "Upgrade naar Pro om meer functies te ontgrendelen."
+   },
+   "Window_QuickQuestion": {
+      "message": "Een snelle vraag..."
+   },
+   "Window_RateUsDesc": {
+      "message": "Zou je een minuutje willen nemen om ons te beoordelen in de App Store? Het zal ons enorm helpen."
+   },
+   "Window_ReadMore": {
+      "message": "lees meer"
+   },
+   "Window_SendFeedback": {
+      "message": "Stuur ons feedback"
+   },
+   "Window_SendFeedbackDesc": {
+      "message": "Laat ons weten hoe we Mate kunnen verbeteren."
+   },
+   "Window_Share": {
+      "message": "Deel Mate"
+   },
+   "Window_ShareDesc": {
+      "message": "Het zal ons enorm helpen als je Mate onder de aandacht brengt!"
+   },
+   "Window_Shortcut": {
+      "message": "Druk op Ctrl+T om dit venster snel te openen."
+   },
+   "Window_TranslationCopied": {
+      "message": "Vertaling is gekopieerd!"
+   },
+   "Window_UnpinPro": {
+      "message": "Upgrade naar Pro om het Mate-venster vast te zetten."
+   },
+   "Window_WriteUs": {
+      "message": "schrijf ons een e-mail"
+   },
+   "Window_Yes": {
+      "message": "ja"
+   }
+}

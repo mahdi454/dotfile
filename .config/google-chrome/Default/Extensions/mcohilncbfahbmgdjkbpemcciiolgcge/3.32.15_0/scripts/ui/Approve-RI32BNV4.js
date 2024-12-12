@@ -1,0 +1,7 @@
+import{b as A}from"./chunk-MR2MVEPN.js";import{A as T}from"./chunk-33Y4IZ5Y.js";import{l as u,o as i}from"./chunk-G5U7ERLN.js";import{D as p}from"./chunk-3RNOIYOK.js";import{f as C}from"./chunk-OQFQ7WFP.js";import"./chunk-6O63U2D6.js";import"./chunk-RIOWPXBZ.js";import{a as d}from"./chunk-O337TVCZ.js";import"./chunk-NCANHNXF.js";import{f as v,m as a,o as n}from"./chunk-GLD6H5Q5.js";a();n();var c=v(d()),P=v(T());a();n();var m=v(d());var k=()=>{let[s,r]=(0,m.useState)(null),{approveStore:l,fromToStore:f}=i(),{computedApprovalStatus:t}=l,{from:e}=f,o=e?.chainId;return(0,m.useEffect)(()=>{[p.UnApproved,p.Approving,p.CancelApprove,p.CancelApproving].includes(t)?r(o):r(null)},[t,o]),{tokenChainId:s}},y=k;a();n();var I={approve:"_approve_fnf0u_1"};var b=()=>{let{approveStore:s}=i(),{tokenChainId:r}=y(),{EvmConfirm:l,TronConfirm:f}=C.components,{approveConfirm:t,approveCancel:e,approveInfo:o}=s;if(!r||!o?.transactionPayload)return null;let S=s.isCancelApprove(o.cancelApproveTag)?6:4;return c.default.createElement("div",{className:(0,P.default)("background-base-primary",I.approve)},A(r)?c.default.createElement(f,{txParams:o.transactionPayload,onCancel:e,onConfirm:t,onBack:e,backable:!0,asPage:!0}):c.default.createElement(l,{txType:S,chainId:r,txParams:o.transactionPayload,onCancel:e,onConfirm:t,onBack:e,backable:!0,asPage:!0}))},H=u(b);export{H as default};
+
+window.inOKXExtension = true;
+window.inMiniApp = false;
+window.ASSETS_BUILD_TYPE = "publish";
+
+//# sourceMappingURL=Approve-RI32BNV4.js.map

@@ -1,0 +1,179 @@
+{
+   "account": {
+      "message": "บัญชี"
+   },
+   "au": {
+      "message": "ออสเตรเลีย"
+   },
+   "br": {
+      "message": "บราซิล"
+   },
+   "ca": {
+      "message": "แคนาดา"
+   },
+   "cl": {
+      "message": "ชิลี"
+   },
+   "connected": {
+      "message": "เชื่อมต่อแล้ว"
+   },
+   "contactUs": {
+      "message": "ติดต่อเรา"
+   },
+   "continueText": {
+      "message": "หรือดำเนินการต่อโดยไม่มีบัญชี"
+   },
+   "de": {
+      "message": "เยอรมนี"
+   },
+   "disableAddressAutofill": {
+      "message": "ปิดใช้งานการเติมช่องที่อยู่อัตโนมัติ"
+   },
+   "disableAddressAutofillSubTitle": {
+      "message": "ปิดใช้งานการเติมที่อยู่โดยอัตโนมัติในแบบฟอร์มเพื่อปกป้องตำแหน่งของคุณ"
+   },
+   "disableWebRtc": {
+      "message": "ปิดใช้งาน WebRTC"
+   },
+   "disableWebRtcSubTitle": {
+      "message": "ปิดใช้งาน WebRTC เพื่อป้องกันไม่ให้ที่อยู่ IP จริงของคุณรั่วไหล"
+   },
+   "disconnected": {
+      "message": "ยังไม่ได้เชื่อมต่อ"
+   },
+   "editInfo": {
+      "message": "แก้ไขข้อมูล"
+   },
+   "email": {
+      "message": "อีเมล"
+   },
+   "es": {
+      "message": "สเปน"
+   },
+   "extDesc": {
+      "message": "VPN ฟรี, ข้อมูลไม่จำกัด, ความเร็วสูง, การเข้ารหัสที่ปลอดภัย, ไม่มีนโยบายบันทึกข้อมูล และใช้งานง่าย."
+   },
+   "extName": {
+      "message": "VPN ฟรี - 1VPN"
+   },
+   "forgotPassword": {
+      "message": "ลืมรหัสผ่าน?"
+   },
+   "fr": {
+      "message": "ฝรั่งเศส"
+   },
+   "free": {
+      "message": "ฟรี"
+   },
+   "goToLocationsPage": {
+      "message": "ไปที่หน้าสถานที่"
+   },
+   "goToOptionsPage": {
+      "message": "ไปที่หน้าตัวเลือก"
+   },
+   "in": {
+      "message": "อินเดีย"
+   },
+   "jp": {
+      "message": "ญี่ปุ่น"
+   },
+   "kr": {
+      "message": "เกาหลีใต้"
+   },
+   "loading": {
+      "message": "กำลังโหลด..."
+   },
+   "locations": {
+      "message": "สถานที่ตั้ง"
+   },
+   "login": {
+      "message": "เข้าสู่ระบบ"
+   },
+   "logout": {
+      "message": "ออกจากระบบ"
+   },
+   "menu": {
+      "message": "เมนู"
+   },
+   "mx": {
+      "message": "เม็กซิโก"
+   },
+   "nl": {
+      "message": "เนเธอร์แลนด์"
+   },
+   "options": {
+      "message": "ตัวเลือก"
+   },
+   "password": {
+      "message": "รหัสผ่าน"
+   },
+   "pl": {
+      "message": "โปแลนด์"
+   },
+   "plan": {
+      "message": "แผน"
+   },
+   "premium": {
+      "message": "พรีเมียม"
+   },
+   "rateText1": {
+      "message": "หากคุณถูกใจ 1VPN โปรด"
+   },
+   "rateText2": {
+      "message": "ให้คะแนน 5 ดาวกับเรา"
+   },
+   "ro": {
+      "message": "โรมาเนีย"
+   },
+   "se": {
+      "message": "สวีเดน"
+   },
+   "sg": {
+      "message": "สิงคโปร์"
+   },
+   "signUp": {
+      "message": "สมัครสมาชิก"
+   },
+   "spoofGeolocation": {
+      "message": "ปลอมแปลง Geolocation"
+   },
+   "spoofGeolocationSubTitle": {
+      "message": "ปลอมแปลง API การระบุตำแหน่งทางภูมิศาสตร์ HTML5 ให้ตรงกับตำแหน่ง VPN ปัจจุบันของคุณ"
+   },
+   "ue": {
+      "message": "อเมริกาตะวันออก"
+   },
+   "uk": {
+      "message": "สหราชอาณาจักร"
+   },
+   "upgradeLocation": {
+      "message": "อัพเกรดเพื่อเข้าถึงสถานที่ตั้งดังนี้"
+   },
+   "upgradeText1": {
+      "message": "อัพเกรด"
+   },
+   "upgradeText2": {
+      "message": "เพื่อตัวเลือกสถานที่ตั้งที่มากขึ้นและความเร็วที่เร็วที่มากขึ้น"
+   },
+   "us": {
+      "message": "อเมริกาตอนใต้"
+   },
+   "use": {
+      "message": "อเมริกาตะวันออก"
+   },
+   "username": {
+      "message": "ชื่อผู้ใช้"
+   },
+   "uss": {
+      "message": "อเมริกาตอนใต้"
+   },
+   "usw": {
+      "message": "อเมริกาตะวันตก"
+   },
+   "uw": {
+      "message": "อเมริกาตะวันตก"
+   },
+   "za": {
+      "message": "แอฟริกาใต้"
+   }
+}

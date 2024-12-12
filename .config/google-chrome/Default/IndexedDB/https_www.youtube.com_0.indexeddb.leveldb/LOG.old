@@ -1,0 +1,6 @@
+2024/12/12-14:41:47.277 642 Reusing MANIFEST /home/madi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/12-14:41:47.278 642 Recovering log #3
+2024/12/12-14:41:47.427 642 Reusing old log /home/madi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2024/12/12-14:49:27.101 642 Level-0 table #5: started
+2024/12/12-14:49:27.215 642 Level-0 table #5: 1409922 bytes OK
+2024/12/12-14:49:27.260 642 Delete type=0 #3

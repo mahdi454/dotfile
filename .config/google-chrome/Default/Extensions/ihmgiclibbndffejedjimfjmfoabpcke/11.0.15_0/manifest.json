@@ -1,0 +1,49 @@
+{
+   "action": {
+      "default_icon": {
+         "19": "images/icons/icon19@2x.png",
+         "38": "images/icons/icon19@2x.png"
+      },
+      "default_popup": "window.html",
+      "default_title": "__MSG_Kernel_AppName__"
+   },
+   "author": "Gikken UG",
+   "background": {
+      "service_worker": "background.bundle.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "styles/pages/common/main.css", "styles/ui_components/tooltip/helpSelected.css", "styles/ui_components/dropdown.css", "styles/ui_components/fpTranslator.css", "styles/ui_components/contextMenu.css" ],
+      "js": [ "content.bundle.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' *; object-src 'self';"
+   },
+   "default_locale": "en",
+   "description": "__MSG_Kernel_AppDescription__",
+   "homepage_url": "https://gikken.co/mate-translate/",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "images/icons/icon128@2x.png",
+      "16": "images/icons/icon16@2x.png",
+      "256": "images/icons/icon128@2x.png",
+      "32": "images/icons/icon16@2x.png",
+      "48": "images/icons/icon48@2x.png",
+      "96": "images/icons/icon48@2x.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDkOqWNYxiJx8tna4iC3m5gof8gEaRmi4c/DzV3DL34xUHVvoIUuVMiEM2jUjtrP07l9y3BYiZFE6gJ+J9YiWDMEetzO8Rr6kfKz1q7rxVruC1Ov1HimngpG87Ke0BJvFx3i9m/cmw93VvuPjtFSK1mQiXAucfDroBDVthjos8bAQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_Kernel_AppName__",
+   "options_ui": {
+      "page": "options.html"
+   },
+   "permissions": [ "tabs", "contextMenus", "storage", "webRequest" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "11.0.15",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "/images/*/*.png" ]
+   } ]
+}

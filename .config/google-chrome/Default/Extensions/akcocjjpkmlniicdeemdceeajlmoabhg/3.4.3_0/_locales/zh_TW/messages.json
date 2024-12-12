@@ -1,0 +1,179 @@
+{
+   "account": {
+      "message": "帳號"
+   },
+   "au": {
+      "message": "澳洲"
+   },
+   "br": {
+      "message": "巴西"
+   },
+   "ca": {
+      "message": "加拿大"
+   },
+   "cl": {
+      "message": "智利"
+   },
+   "connected": {
+      "message": "已連線"
+   },
+   "contactUs": {
+      "message": "聯絡我們"
+   },
+   "continueText": {
+      "message": "或繼續無帳號登入"
+   },
+   "de": {
+      "message": "德國"
+   },
+   "disableAddressAutofill": {
+      "message": "停用地址自動填入"
+   },
+   "disableAddressAutofillSubTitle": {
+      "message": "禁用表單中的自動地址填充以保護您的位置。"
+   },
+   "disableWebRtc": {
+      "message": "停用WebRTC"
+   },
+   "disableWebRtcSubTitle": {
+      "message": "禁用WebRTC以防止洩露您的真實IP地址。"
+   },
+   "disconnected": {
+      "message": "未連線"
+   },
+   "editInfo": {
+      "message": "編輯信息"
+   },
+   "email": {
+      "message": "電子郵件"
+   },
+   "es": {
+      "message": "西班牙"
+   },
+   "extDesc": {
+      "message": "免費VPN，無限數據，快速速度，安全加密，無日誌政策，且容易使用。"
+   },
+   "extName": {
+      "message": "免費VPN - 1VPN"
+   },
+   "forgotPassword": {
+      "message": "忘記密碼？"
+   },
+   "fr": {
+      "message": "法國"
+   },
+   "free": {
+      "message": "免費版"
+   },
+   "goToLocationsPage": {
+      "message": "前往位置頁面"
+   },
+   "goToOptionsPage": {
+      "message": "前往選項頁面"
+   },
+   "in": {
+      "message": "印度"
+   },
+   "jp": {
+      "message": "日本"
+   },
+   "kr": {
+      "message": "韓國"
+   },
+   "loading": {
+      "message": "載入中..."
+   },
+   "locations": {
+      "message": "位置"
+   },
+   "login": {
+      "message": "登入"
+   },
+   "logout": {
+      "message": "退出"
+   },
+   "menu": {
+      "message": "選單"
+   },
+   "mx": {
+      "message": "墨西哥"
+   },
+   "nl": {
+      "message": "荷蘭"
+   },
+   "options": {
+      "message": "選項"
+   },
+   "password": {
+      "message": "密碼"
+   },
+   "pl": {
+      "message": "波蘭"
+   },
+   "plan": {
+      "message": "計畫"
+   },
+   "premium": {
+      "message": "進階版"
+   },
+   "rateText1": {
+      "message": "如果您喜歡1VPN，請"
+   },
+   "rateText2": {
+      "message": "給我們5顆星好評"
+   },
+   "ro": {
+      "message": "羅馬尼亞"
+   },
+   "se": {
+      "message": "瑞典"
+   },
+   "sg": {
+      "message": "新加坡"
+   },
+   "signUp": {
+      "message": "註冊"
+   },
+   "spoofGeolocation": {
+      "message": "偽造地理定位"
+   },
+   "spoofGeolocationSubTitle": {
+      "message": "偽造HTML5地理位置API以匹配您當前的VPN位置。"
+   },
+   "ue": {
+      "message": "美國東部"
+   },
+   "uk": {
+      "message": "英國"
+   },
+   "upgradeLocation": {
+      "message": "升級以存取此位置。"
+   },
+   "upgradeText1": {
+      "message": "升級"
+   },
+   "upgradeText2": {
+      "message": "以獲得更多位置和更快速度。"
+   },
+   "us": {
+      "message": "美國南部"
+   },
+   "use": {
+      "message": "美國東部"
+   },
+   "username": {
+      "message": "使用者名稱"
+   },
+   "uss": {
+      "message": "美國南部"
+   },
+   "usw": {
+      "message": "美國西部"
+   },
+   "uw": {
+      "message": "美國西部"
+   },
+   "za": {
+      "message": "南非"
+   }
+}

@@ -1,0 +1,179 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "au": {
+      "message": "Australia"
+   },
+   "br": {
+      "message": "Brazylia"
+   },
+   "ca": {
+      "message": "Kanada"
+   },
+   "cl": {
+      "message": "Chile"
+   },
+   "connected": {
+      "message": "Połączono"
+   },
+   "contactUs": {
+      "message": "Skontaktuj się z nami"
+   },
+   "continueText": {
+      "message": "Lub kontynuuj bez konta"
+   },
+   "de": {
+      "message": "Niemcy"
+   },
+   "disableAddressAutofill": {
+      "message": "Wyłącz Automatyczne Wypełnianie Adresów"
+   },
+   "disableAddressAutofillSubTitle": {
+      "message": "Wyłącz automatyczne wypełnianie adresów w formularzach, aby chronić swoją lokalizację."
+   },
+   "disableWebRtc": {
+      "message": "Wyłącz WebRTC"
+   },
+   "disableWebRtcSubTitle": {
+      "message": "Wyłącz WebRTC, aby zapobiec wyciekowi Twojego prawdziwego adresu IP."
+   },
+   "disconnected": {
+      "message": "Rozłączono"
+   },
+   "editInfo": {
+      "message": "Edytuj informacje"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "es": {
+      "message": "Hiszpania"
+   },
+   "extDesc": {
+      "message": "Darmowy VPN, nieograniczone dane, szybkie prędkości, bezpieczne szyfrowanie, brak logów i łatwy w użyciu."
+   },
+   "extName": {
+      "message": "Darmowy VPN - 1VPN"
+   },
+   "forgotPassword": {
+      "message": "Nie pamiętasz hasła?"
+   },
+   "fr": {
+      "message": "Francja"
+   },
+   "free": {
+      "message": "Darmowy"
+   },
+   "goToLocationsPage": {
+      "message": "Przejdź do Strony Lokalizacji"
+   },
+   "goToOptionsPage": {
+      "message": "Przejdź do Strony Opcji"
+   },
+   "in": {
+      "message": "Indie"
+   },
+   "jp": {
+      "message": "Japonia"
+   },
+   "kr": {
+      "message": "Korea Południowa"
+   },
+   "loading": {
+      "message": "Ładowanie..."
+   },
+   "locations": {
+      "message": "Lokalizacje"
+   },
+   "login": {
+      "message": "Zaloguj"
+   },
+   "logout": {
+      "message": "Wyloguj się"
+   },
+   "menu": {
+      "message": "Menu"
+   },
+   "mx": {
+      "message": "Meksyk"
+   },
+   "nl": {
+      "message": "Holandia"
+   },
+   "options": {
+      "message": "Opcje"
+   },
+   "password": {
+      "message": "Hasło"
+   },
+   "pl": {
+      "message": "Polska"
+   },
+   "plan": {
+      "message": "Plan"
+   },
+   "premium": {
+      "message": "Premium"
+   },
+   "rateText1": {
+      "message": "Jeśli podoba Ci się 1VPN,"
+   },
+   "rateText2": {
+      "message": "oceń nas na 5 gwiazdek"
+   },
+   "ro": {
+      "message": "Rumunia"
+   },
+   "se": {
+      "message": "Szwecja"
+   },
+   "sg": {
+      "message": "Singapur"
+   },
+   "signUp": {
+      "message": "Zarejestruj się"
+   },
+   "spoofGeolocation": {
+      "message": "Fałszowanie geolokalizacji"
+   },
+   "spoofGeolocationSubTitle": {
+      "message": "Fałszuj API geolokalizacji HTML5, aby dopasować do swojej bieżącej lokalizacji VPN."
+   },
+   "ue": {
+      "message": "Wschodnie USA"
+   },
+   "uk": {
+      "message": "Wielka Brytania"
+   },
+   "upgradeLocation": {
+      "message": "Zaktualizuj, aby uzyskać dostęp do tej lokalizacji"
+   },
+   "upgradeText1": {
+      "message": "Aktualizuj"
+   },
+   "upgradeText2": {
+      "message": "dla większej liczby lokalizacji i szybszych prędkości"
+   },
+   "us": {
+      "message": "Południowe USA"
+   },
+   "use": {
+      "message": "Wschodnie USA"
+   },
+   "username": {
+      "message": "Nazwa użytkownika"
+   },
+   "uss": {
+      "message": "Południowe USA"
+   },
+   "usw": {
+      "message": "Zachodnie USA"
+   },
+   "uw": {
+      "message": "Zachodnie USA"
+   },
+   "za": {
+      "message": "RPA"
+   }
+}

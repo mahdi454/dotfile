@@ -1,0 +1,1739 @@
+{
+   "CommonUi_LangPart_Abbreviation": {
+      "message": "Peringkasan"
+   },
+   "CommonUi_LangPart_Adjective": {
+      "message": "Kata Adjektif"
+   },
+   "CommonUi_LangPart_Adverb": {
+      "message": "Kata Adverba"
+   },
+   "CommonUi_LangPart_Auxiliaryverb": {
+      "message": "Kata Kerja Bantu"
+   },
+   "CommonUi_LangPart_Conjunction": {
+      "message": "Kata Hubung"
+   },
+   "CommonUi_LangPart_Interjection": {
+      "message": "Kata Seru"
+   },
+   "CommonUi_LangPart_Noun": {
+      "message": "Kata Nama"
+   },
+   "CommonUi_LangPart_Phrase": {
+      "message": "Frasa"
+   },
+   "CommonUi_LangPart_Preposition": {
+      "message": "Kata Sendi"
+   },
+   "CommonUi_LangPart_Pronoun": {
+      "message": "Kata Ganti Nama"
+   },
+   "CommonUi_LangPart_Suffix": {
+      "message": "Akhiran"
+   },
+   "CommonUi_LangPart_Transliteration": {
+      "message": "Transliterasi"
+   },
+   "CommonUi_LangPart_Verb": {
+      "message": "Kata Kerja"
+   },
+   "CommonUi_NoResults": {
+      "message": "Tiada keputusan"
+   },
+   "Common_Copied": {
+      "message": "Disalin!"
+   },
+   "ContextMenu_FullPage": {
+      "message": "Terjemahkan halaman ini ke \u003C%=lang%>"
+   },
+   "Csv_FromLang": {
+      "message": "DARI BAHASA"
+   },
+   "Csv_Input": {
+      "message": "MASUKAN"
+   },
+   "Csv_IntoLang": {
+      "message": "KE BAHASA"
+   },
+   "Csv_Synonyms": {
+      "message": "SINONIM"
+   },
+   "Csv_TimeDate": {
+      "message": "MASA/TARIKH"
+   },
+   "Csv_Translation": {
+      "message": "TERJEMAHAN"
+   },
+   "Csv_Transliteration": {
+      "message": "TRANSLITERASI"
+   },
+   "Csv_WhereTranslated": {
+      "message": "DIMANA DITERJEMAHKAN"
+   },
+   "Dict_DictionaryTab": {
+      "message": "Kamus"
+   },
+   "Dict_NotFoundCaption": {
+      "message": "Maaf — kami sedang berusaha keras untuk mengembangkan Kamus kami"
+   },
+   "Dict_NotFoundTitle": {
+      "message": "Tidak dapat mencari definisi"
+   },
+   "Dict_UpgradeToPro": {
+      "message": "Naik taraf ke Pro untuk definisi"
+   },
+   "DotsButton_Added": {
+      "message": "Ditambahkan ke \u003C%=wl%>"
+   },
+   "DotsButton_Copied": {
+      "message": "Terjemahan telah disalin"
+   },
+   "DotsButton_OrigCopied": {
+      "message": "Teks asal telah disalin"
+   },
+   "FullPage": {
+      "message": "Terjemahan seluruh halaman"
+   },
+   "FullPageDesc": {
+      "message": "Paparkan ikon Mate di penjuru kanan atas jika laman web dalam bahasa asing. Klik pada ikon tersebut untuk menterjemahkan laman ke dalam bahasa anda."
+   },
+   "FullPageShowOriginal": {
+      "message": "Tunjukkan asal"
+   },
+   "FullPageTranslate": {
+      "message": "Terjemahkan"
+   },
+   "FullPageTranslatedTo": {
+      "message": "Diterjemahkan ke"
+   },
+   "FullPage_AlwaysTranslate": {
+      "message": "Sentiasa terjemah {{page_lang_beautiful}} ke {{target_lang_beautiful}}"
+   },
+   "FullPage_ChangeLanguage": {
+      "message": "Tukar bahasa"
+   },
+   "FullPage_ContextMenuOption": {
+      "message": "Buka terjemahan halaman penuh"
+   },
+   "FullPage_CurrentPageLang": {
+      "message": "Halaman ini dalam {{page_lang_beautiful}}"
+   },
+   "FullPage_NeverTranslate": {
+      "message": "Tidak pernah terjemah {{page_lang_beautiful}}"
+   },
+   "FullPage_SwitchBackTo": {
+      "message": "Berpindah balik ke {{language}}"
+   },
+   "FullPage_TranslateTo": {
+      "message": "Terjemah ke {{target_lang_beautiful}}"
+   },
+   "FullPage_WeTranslatedIt": {
+      "message": "Kami telah menterjemahkan halaman ini ke {{language}}"
+   },
+   "History_AnotherDevice": {
+      "message": "Di peranti lain"
+   },
+   "History_Content_GoUpButton": {
+      "message": "Naik"
+   },
+   "History_Content_List_OnEmpty": {
+      "message": "Sejarah terjemahan anda akan berada di sini"
+   },
+   "History_Export_OnlyProDesc": {
+      "message": "Tingkatkan ke versi Pro untuk mengeksport sejarah terjemahan anda ke dalam fail CSV"
+   },
+   "History_FullyBlockedOut": {
+      "message": "Tingkatkan ke Pro untuk mempunyai akses tanpa had ke sejarah terjemahan."
+   },
+   "History_InPopup": {
+      "message": "Dalam pop-up"
+   },
+   "History_Options_DeleteMarked_1": {
+      "message": "Padam"
+   },
+   "History_Options_DeleteMarked_2": {
+      "message": "bermarkah"
+   },
+   "History_Options_SelectToDelete": {
+      "message": "tandai untuk dipadam"
+   },
+   "History_Options_SelectToDelete_MarkAll": {
+      "message": "Tandai semua"
+   },
+   "History_Options_SelectToDelete_UnmarkAll": {
+      "message": "Nyah tanda semua"
+   },
+   "Human_OrderButton": {
+      "message": "Diterjemahkan oleh profesional"
+   },
+   "IDB_Error": {
+      "message": "Pelayar anda telah melumpuhkan Indexed DB"
+   },
+   "IDB_ErrorDesc": {
+      "message": "Mate Translate memerlukan Indexed DB (itulah storan tempatan di mana kami menyimpan semua terjemahan dan Buku Frasa anda) untuk diaktifkan untuk berfungsi sepenuhnya.\u003Cbr>\u003Cbr>Browser anda nampaknya berada dalam Mode Penyemakan Imbas Peribadi yang melumpuhkan Indexed DB (ini adalah \u003Ca href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=781982\" target=\"_blank\">bug #781982\u003C/a> dari Firefox).\u003Cbr>\u003Cbr>Anda boleh menetapkan pilihan Sejarah di \u003Ca href=\"about:preferences#privacy\" target=\"_blank\">about:preferences#privacy\u003C/a> kepada \"Firefox akan mengingati sejarah\". Ini mungkin membantu tetapi tidak terjamin. Sebaliknya, anda boleh menghubungi Mozilla dan meminta untuk membaiki bug yang telah disebutkan sebelumnya dengan lebih cepat.\u003Cbr>\u003Cbr>Kami sangat meminta maaf atas kesulitan tetapi malangnya kami tidak dapat berbuat apa-apa mengenai perkara ini."
+   },
+   "Kernel_AppDescription": {
+      "message": "Penterjemah anda untuk halaman web, PDF, teks yang diserlahkan & sari kata Netflix. Memahami 103 bahasa dengan mudah."
+   },
+   "Kernel_AppName": {
+      "message": "Mate Translate – penterjemah, kamus"
+   },
+   "Kernel_Cancel": {
+      "message": "batal"
+   },
+   "Kernel_ClearInput": {
+      "message": "Kosongkan medan input"
+   },
+   "Kernel_Context_Into": {
+      "message": "ke dalam"
+   },
+   "Kernel_HistoryTitle": {
+      "message": "Sejarah"
+   },
+   "Kernel_IPA": {
+      "message": "Transkripsi Fonetik"
+   },
+   "Kernel_Lang_Afrikaans": {
+      "message": "Afrikaans"
+   },
+   "Kernel_Lang_Albanian": {
+      "message": "Albania"
+   },
+   "Kernel_Lang_Amharic": {
+      "message": "Amharik"
+   },
+   "Kernel_Lang_Arabic": {
+      "message": "Arab"
+   },
+   "Kernel_Lang_ArabicAlgeria": {
+      "message": "Arab (Algeria)"
+   },
+   "Kernel_Lang_ArabicBahrain": {
+      "message": "Arab (Bahrain)"
+   },
+   "Kernel_Lang_ArabicEgypt": {
+      "message": "Arab (Mesir)"
+   },
+   "Kernel_Lang_ArabicGeneral": {
+      "message": "Arab (Umum)"
+   },
+   "Kernel_Lang_ArabicIraq": {
+      "message": "Arab (Iraq)"
+   },
+   "Kernel_Lang_ArabicJordan": {
+      "message": "Arab (Jordan)"
+   },
+   "Kernel_Lang_ArabicKuwait": {
+      "message": "Arab (Kuwait)"
+   },
+   "Kernel_Lang_ArabicLebanon": {
+      "message": "Arab (Lubnan)"
+   },
+   "Kernel_Lang_ArabicLibyan": {
+      "message": "Arab (Libya)"
+   },
+   "Kernel_Lang_ArabicMorocco": {
+      "message": "Arab (Maghribi)"
+   },
+   "Kernel_Lang_ArabicOman": {
+      "message": "Arab (Oman)"
+   },
+   "Kernel_Lang_ArabicQatar": {
+      "message": "Arab (Qatar)"
+   },
+   "Kernel_Lang_ArabicSaudi": {
+      "message": "Arab (Arab Saudi)"
+   },
+   "Kernel_Lang_ArabicSudan": {
+      "message": "Arab (Sudan)"
+   },
+   "Kernel_Lang_ArabicSyria": {
+      "message": "Arab (Syria)"
+   },
+   "Kernel_Lang_ArabicTunisia": {
+      "message": "Arab (Tunisia)"
+   },
+   "Kernel_Lang_ArabicUAE": {
+      "message": "Arab (UAE)"
+   },
+   "Kernel_Lang_ArabicYemen": {
+      "message": "Arab (Yaman)"
+   },
+   "Kernel_Lang_Armenian": {
+      "message": "Armenia"
+   },
+   "Kernel_Lang_Auto": {
+      "message": "Pengesanan automatik"
+   },
+   "Kernel_Lang_Azerbaijani": {
+      "message": "Azerbaijan"
+   },
+   "Kernel_Lang_Basque": {
+      "message": "Basque"
+   },
+   "Kernel_Lang_Belarusian": {
+      "message": "Belarus"
+   },
+   "Kernel_Lang_Bengali": {
+      "message": "Bengali"
+   },
+   "Kernel_Lang_Bosnian": {
+      "message": "Bosnia"
+   },
+   "Kernel_Lang_Bulgarian": {
+      "message": "Bulgaria"
+   },
+   "Kernel_Lang_Catalan": {
+      "message": "Catalan"
+   },
+   "Kernel_Lang_Cebuano": {
+      "message": "Cebuano"
+   },
+   "Kernel_Lang_Chichewa": {
+      "message": "Chichewa"
+   },
+   "Kernel_Lang_Chinese": {
+      "message": "Cina"
+   },
+   "Kernel_Lang_ChineseSimplified": {
+      "message": "Cina Ringkas"
+   },
+   "Kernel_Lang_ChineseTraditional": {
+      "message": "Cina Tradisional"
+   },
+   "Kernel_Lang_Corsican": {
+      "message": "Corsican"
+   },
+   "Kernel_Lang_Croatian": {
+      "message": "Croatia"
+   },
+   "Kernel_Lang_Czech": {
+      "message": "Czech"
+   },
+   "Kernel_Lang_Danish": {
+      "message": "Denmark"
+   },
+   "Kernel_Lang_Dutch": {
+      "message": "Belanda"
+   },
+   "Kernel_Lang_DutchBelgium": {
+      "message": "Belanda (Belgium)"
+   },
+   "Kernel_Lang_DutchNetherlands": {
+      "message": "Belanda (Netherlands)"
+   },
+   "Kernel_Lang_English": {
+      "message": "Inggeris"
+   },
+   "Kernel_Lang_EnglishUS": {
+      "message": "Inggeris (Amerika Syarikat)"
+   },
+   "Kernel_Lang_Esperanto": {
+      "message": "Esperanto"
+   },
+   "Kernel_Lang_Estonian": {
+      "message": "Estonia"
+   },
+   "Kernel_Lang_Filipino": {
+      "message": "Filipina"
+   },
+   "Kernel_Lang_Finnish": {
+      "message": "Finland"
+   },
+   "Kernel_Lang_French": {
+      "message": "Perancis"
+   },
+   "Kernel_Lang_FrenchBelgium": {
+      "message": "Perancis (Belgium)"
+   },
+   "Kernel_Lang_FrenchCanada": {
+      "message": "Perancis (Kanada)"
+   },
+   "Kernel_Lang_FrenchFrance": {
+      "message": "Perancis (Perancis)"
+   },
+   "Kernel_Lang_FrenchSwiss": {
+      "message": "Perancis (Switzerland)"
+   },
+   "Kernel_Lang_Frisian": {
+      "message": "Frisian"
+   },
+   "Kernel_Lang_Galician": {
+      "message": "Galician"
+   },
+   "Kernel_Lang_Georgian": {
+      "message": "Georgia"
+   },
+   "Kernel_Lang_German": {
+      "message": "Jerman"
+   },
+   "Kernel_Lang_GermanAustria": {
+      "message": "Jerman (Austria)"
+   },
+   "Kernel_Lang_GermanGermany": {
+      "message": "Jerman (Jerman)"
+   },
+   "Kernel_Lang_GermanLichtenstein": {
+      "message": "Jerman (Liechtenstein)"
+   },
+   "Kernel_Lang_GermanLux": {
+      "message": "Jerman (Luxembourg)"
+   },
+   "Kernel_Lang_GermanSwiss": {
+      "message": "Jerman (Switzerland)"
+   },
+   "Kernel_Lang_Greek": {
+      "message": "Greek"
+   },
+   "Kernel_Lang_Gujarati": {
+      "message": "Gujarati"
+   },
+   "Kernel_Lang_HaitianCreole": {
+      "message": "Haitian Creole"
+   },
+   "Kernel_Lang_Hausa": {
+      "message": "Hausa"
+   },
+   "Kernel_Lang_Hawaiian": {
+      "message": "Hawaii"
+   },
+   "Kernel_Lang_Hebrew": {
+      "message": "Ibrani"
+   },
+   "Kernel_Lang_Hindi": {
+      "message": "Hindi"
+   },
+   "Kernel_Lang_Hmong": {
+      "message": "Hmong"
+   },
+   "Kernel_Lang_Hungarian": {
+      "message": "Hungary"
+   },
+   "Kernel_Lang_Icelandic": {
+      "message": "Iceland"
+   },
+   "Kernel_Lang_Igbo": {
+      "message": "Igbo"
+   },
+   "Kernel_Lang_Indonesian": {
+      "message": "Bahasa Indonesia"
+   },
+   "Kernel_Lang_Irish": {
+      "message": "Ireland"
+   },
+   "Kernel_Lang_Italian": {
+      "message": "Itali"
+   },
+   "Kernel_Lang_Japanese": {
+      "message": "Jepun"
+   },
+   "Kernel_Lang_Javanese": {
+      "message": "Jawa"
+   },
+   "Kernel_Lang_Kannada": {
+      "message": "Kannada"
+   },
+   "Kernel_Lang_Kazakh": {
+      "message": "Kazakh"
+   },
+   "Kernel_Lang_Khmer": {
+      "message": "Khmer"
+   },
+   "Kernel_Lang_Korean": {
+      "message": "Korea"
+   },
+   "Kernel_Lang_Kurdish": {
+      "message": "Kurdish (Kurmanji)"
+   },
+   "Kernel_Lang_KurdishKurmanji": {
+      "message": "Kurdish (Kurmanji)"
+   },
+   "Kernel_Lang_Kyrgyz": {
+      "message": "Kyrgyz"
+   },
+   "Kernel_Lang_Lao": {
+      "message": "Lao"
+   },
+   "Kernel_Lang_Latin": {
+      "message": "Latin"
+   },
+   "Kernel_Lang_Latvian": {
+      "message": "Latvia"
+   },
+   "Kernel_Lang_Lithuanian": {
+      "message": "Lithuania"
+   },
+   "Kernel_Lang_Luxembourgish": {
+      "message": "Luxembourgish"
+   },
+   "Kernel_Lang_Macedonian": {
+      "message": "Macedonia"
+   },
+   "Kernel_Lang_Malagasy": {
+      "message": "Malagasy"
+   },
+   "Kernel_Lang_Malay": {
+      "message": "Bahasa Melayu"
+   },
+   "Kernel_Lang_Malayalam": {
+      "message": "Malayalam"
+   },
+   "Kernel_Lang_Malayam": {
+      "message": "Malayalam"
+   },
+   "Kernel_Lang_Maltese": {
+      "message": "Malta"
+   },
+   "Kernel_Lang_Maori": {
+      "message": "Maori"
+   },
+   "Kernel_Lang_Marathi": {
+      "message": "Marathi"
+   },
+   "Kernel_Lang_Mongolian": {
+      "message": "Mongolia"
+   },
+   "Kernel_Lang_Myanmar": {
+      "message": "Myanmar (Burma)"
+   },
+   "Kernel_Lang_MyanmarBurmese": {
+      "message": "Myanmar (Burma)"
+   },
+   "Kernel_Lang_Nepali": {
+      "message": "Nepali"
+   },
+   "Kernel_Lang_Norwegian": {
+      "message": "Norwegia"
+   },
+   "Kernel_Lang_Pashto": {
+      "message": "Pashto"
+   },
+   "Kernel_Lang_Persian": {
+      "message": "Parsi"
+   },
+   "Kernel_Lang_Polish": {
+      "message": "Poland"
+   },
+   "Kernel_Lang_Portuguese": {
+      "message": "Portugis"
+   },
+   "Kernel_Lang_PortugueseBrazil": {
+      "message": "Portugis (Brazil)"
+   },
+   "Kernel_Lang_PortuguesePortugal": {
+      "message": "Portugis (Portugal)"
+   },
+   "Kernel_Lang_Punjabi": {
+      "message": "Punjabi"
+   },
+   "Kernel_Lang_Romanian": {
+      "message": "Romania"
+   },
+   "Kernel_Lang_Russian": {
+      "message": "Rusia"
+   },
+   "Kernel_Lang_Samoan": {
+      "message": "Samoa"
+   },
+   "Kernel_Lang_ScotsGaelic": {
+      "message": "Gaelik Scots"
+   },
+   "Kernel_Lang_Serbian": {
+      "message": "Serbia"
+   },
+   "Kernel_Lang_Sesotho": {
+      "message": "Sesotho"
+   },
+   "Kernel_Lang_Shona": {
+      "message": "Shona"
+   },
+   "Kernel_Lang_Sindhi": {
+      "message": "Sindhi"
+   },
+   "Kernel_Lang_Sinhala": {
+      "message": "Sinhala"
+   },
+   "Kernel_Lang_Slovak": {
+      "message": "Slovak"
+   },
+   "Kernel_Lang_Slovenian": {
+      "message": "Slovenia"
+   },
+   "Kernel_Lang_Somali": {
+      "message": "Somalia"
+   },
+   "Kernel_Lang_Spanish": {
+      "message": "Sepanyol"
+   },
+   "Kernel_Lang_SpanishArgentina": {
+      "message": "Sepanyol (Argentina)"
+   },
+   "Kernel_Lang_SpanishBolivia": {
+      "message": "Sepanyol (Bolivia)"
+   },
+   "Kernel_Lang_SpanishChile": {
+      "message": "Sepanyol (Chile)"
+   },
+   "Kernel_Lang_SpanishColombia": {
+      "message": "Sepanyol (Colombia)"
+   },
+   "Kernel_Lang_SpanishCostaRica": {
+      "message": "Sepanyol (Costa Rica)"
+   },
+   "Kernel_Lang_SpanishDR": {
+      "message": "Sepanyol (Republik Dominican)"
+   },
+   "Kernel_Lang_SpanishEquador": {
+      "message": "Sepanyol (Ecuador)"
+   },
+   "Kernel_Lang_SpanishGuatemala": {
+      "message": "Sepanyol (Guatemala)"
+   },
+   "Kernel_Lang_SpanishHonduras": {
+      "message": "Sepanyol (Honduras)"
+   },
+   "Kernel_Lang_SpanishMexico": {
+      "message": "Sepanyol (Mexico)"
+   },
+   "Kernel_Lang_SpanishNicaragua": {
+      "message": "Sepanyol (Nicaragua)"
+   },
+   "Kernel_Lang_SpanishPanama": {
+      "message": "Sepanyol (Panama)"
+   },
+   "Kernel_Lang_SpanishParaguay": {
+      "message": "Sepanyol (Paraguay)"
+   },
+   "Kernel_Lang_SpanishPeru": {
+      "message": "Sepanyol (Peru)"
+   },
+   "Kernel_Lang_SpanishPuertoRico": {
+      "message": "Sepanyol (Puerto Rico)"
+   },
+   "Kernel_Lang_SpanishSalvador": {
+      "message": "Sepanyol (El Salvador)"
+   },
+   "Kernel_Lang_SpanishSpain": {
+      "message": "Sepanyol (Sepanyol)"
+   },
+   "Kernel_Lang_SpanishUS": {
+      "message": "Sepanyol (AS)"
+   },
+   "Kernel_Lang_SpanishUruguay": {
+      "message": "Sepanyol (Uruguay)"
+   },
+   "Kernel_Lang_SpanishVenezuela": {
+      "message": "Sepanyol (Venezuela)"
+   },
+   "Kernel_Lang_Sundanese": {
+      "message": "Sunda"
+   },
+   "Kernel_Lang_Swahili": {
+      "message": "Swahili"
+   },
+   "Kernel_Lang_Swedish": {
+      "message": "Sweden"
+   },
+   "Kernel_Lang_Tajik": {
+      "message": "Tajik"
+   },
+   "Kernel_Lang_Tamil": {
+      "message": "Tamil"
+   },
+   "Kernel_Lang_Telugu": {
+      "message": "Telugu"
+   },
+   "Kernel_Lang_Thai": {
+      "message": "Thai"
+   },
+   "Kernel_Lang_Turkish": {
+      "message": "Turkish"
+   },
+   "Kernel_Lang_Ukrainian": {
+      "message": "Ukrainian"
+   },
+   "Kernel_Lang_Urdu": {
+      "message": "Urdu"
+   },
+   "Kernel_Lang_Uzbek": {
+      "message": "Uzbek"
+   },
+   "Kernel_Lang_Vietnamese": {
+      "message": "Vietnamese"
+   },
+   "Kernel_Lang_Welsh": {
+      "message": "Welsh"
+   },
+   "Kernel_Lang_Xhosa": {
+      "message": "Xhosa"
+   },
+   "Kernel_Lang_Yiddish": {
+      "message": "Yiddish"
+   },
+   "Kernel_Lang_Yoruba": {
+      "message": "Yoruba"
+   },
+   "Kernel_Lang_Zulu": {
+      "message": "Zulu"
+   },
+   "Kernel_NoResults": {
+      "message": "Tiada hasil"
+   },
+   "Kernel_Ok": {
+      "message": "OK"
+   },
+   "Kernel_PhrasebookTitle": {
+      "message": "Buku Frasa"
+   },
+   "Kernel_RemoveCombination": {
+      "message": "padam"
+   },
+   "Kernel_SearchPlaceholder": {
+      "message": "Cari"
+   },
+   "Kernel_SettingsTitle": {
+      "message": "Tetapan"
+   },
+   "Kernel_Vowels": {
+      "message": "aeiou"
+   },
+   "Login_ByClicking": {
+      "message": "Dengan mengklik 'Buat akaun', anda bersetuju dengan \u003Cb>\u003Ca href=\"https://matetranslate.com/terms\">Syarat Penggunaan\u003C/a>\u003C/b> dan \u003Cb>\u003Ca href=\"https://matetranslate.com/privacy\">Dasar Privasi\u003C/a>\u003C/b> kami."
+   },
+   "Login_Continue": {
+      "message": "TERUSKAN"
+   },
+   "Login_ContinueWithout": {
+      "message": "Langkau"
+   },
+   "Login_Create": {
+      "message": "Buat akaun"
+   },
+   "Login_Email": {
+      "message": "Masukkan alamat e-mel anda..."
+   },
+   "Login_Forgot": {
+      "message": "Terlupa kata laluan anda?"
+   },
+   "Login_GDPR": {
+      "message": "\u003Cb>Selamat datang ke penterjemah yang benar-benar mementingkan privasi anda.\u003C/b> Kami tidak akan menjejak atau menjual data anda. \u003Ca class=\"open-pp\" href=\"javascript:;\">Dasar Privasi\u003C/a> kami adalah berbeza dari yang lain—ia ringkas dan menyeronokkan. Sila baca dan terima ia untuk mula menggunakan Akaun Mate."
+   },
+   "Login_IReadAndAgree": {
+      "message": "Saya bersetuju"
+   },
+   "Login_NewPassword": {
+      "message": "Kata laluan baru..."
+   },
+   "Login_NoAccountHead": {
+      "message": "Saya tidak mempunyai akaun"
+   },
+   "Login_NoAccountText": {
+      "message": "Jika anda telah membeli Pro tetapi tidak log masuk pada masa itu dan tidak menyelesaikan pendaftaran melalui pautan yang kami hantar ke e-mel yang anda nyatakan semasa pembayaran, anda perlu menyelesaikan pendaftaran melalui pautan dari e-mel tersebut. Selepas anda selesai, anda akan dapat log masuk ke dalam aplikasi."
+   },
+   "Login_NoRememberHead": {
+      "message": "Saya tidak mengingatinya"
+   },
+   "Login_NoRememberText": {
+      "message": "Jika anda tidak ingat e-mel yang anda gunakan untuk pembayaran, cuba cari e-mel dengan pengesahan pembelian dari kami dalam peti masuk anda."
+   },
+   "Login_OrSignInWith": {
+      "message": "ATAU LOG MASUK DENGAN"
+   },
+   "Login_Password": {
+      "message": "Masukkan kata laluan anda..."
+   },
+   "Login_PasswordMin8": {
+      "message": "Kata laluan anda harus mengandungi sekurang-kurangnya 8 aksara"
+   },
+   "Login_Promo": {
+      "message": "Log masuk untuk menggunakan Mate dan menyegerakkan semua data anda di semua peranti!"
+   },
+   "Login_QuestionsHead": {
+      "message": "Ada sebarang soalan?"
+   },
+   "Login_QuestionsText": {
+      "message": "Jika anda masih mengalami kesulitan, anda boleh menghubungi kami di \u003Ca href=\"mailto:support@matetranslate.com?subject=Login Issues\">support@matetranslate.com\u003C/a>."
+   },
+   "Login_Restore": {
+      "message": "Untuk memulihkan Mate Translate Pro, log masuk ke akaun dari mana anda membelinya (\u003Ca href=\"javascript:;\" class=\"show-info\">tidak tahu?\u003C/a>)"
+   },
+   "Login_SignIn": {
+      "message": "LOG MASUK"
+   },
+   "Login_SignUp": {
+      "message": "Daftar"
+   },
+   "Login_Sync": {
+      "message": "Akaun Mate anda adalah cara terbaik untuk memastikan sejarah, Buku Frasa, dan pilihan anda disandarkan dan diselaraskan dengan lancar di merentas peranti."
+   },
+   "Login_YourName": {
+      "message": "Nama anda (pilihan)..."
+   },
+   "MatePro_Description": {
+      "message": "Bawa pengalaman penterjemahan anda ke tahap yang baru dengan Mate Pro! Bayar sekali, gunakan selamanya."
+   },
+   "MicAccess_HowToUnlock": {
+      "message": "Padam \u003Cb>$id$\u003C/b> dari yang disekat dalam pengecualian Mikrofon. Selepas itu, \u003Cb>\u003Ca href=\"../public/mic_access.html\">klik di sini\u003C/a>\u003C/b>.",
+      "placeholders": {
+         "id": {
+            "content": "$1",
+            "example": "chrome-extension://ihmgiclibbndffejedjimfjmfoabpcke/"
+         }
+      }
+   },
+   "MicAccess_Note": {
+      "message": "Untuk mengenali dan menterjemah ucapan, Mate Translate memerlukan kebenaran untuk menggunakan mikrofon komputer anda."
+   },
+   "MicAccess_PageTitle": {
+      "message": "Akses ke mikrofon"
+   },
+   "MicAccess_Title": {
+      "message": "Mikrofon"
+   },
+   "MicAccess_UnlockButton": {
+      "message": "benarkan dalam tetapan kandungan"
+   },
+   "Options_TooltipSizePro": {
+      "message": "Tingkatkan ke Pro untuk mengubah saiz tooltip pada halaman."
+   },
+   "Pb_AddButton": {
+      "message": "Tambah"
+   },
+   "Pb_EarlyAccess": {
+      "message": "minta akses awal"
+   },
+   "Pb_Empty": {
+      "message": "Buku Frasa kosong"
+   },
+   "Pb_EmptyWl_Text1": {
+      "message": "Simpan semua perkataan yang ingin anda ingat mengenai topik ini di sini."
+   },
+   "Pb_EmptyWl_Text2": {
+      "message": "Hanya taipkan perkataan, Mate akan mencari terjemahan untuknya."
+   },
+   "Pb_EmptyWl_Title2": {
+      "message": "Simpan dengan mudah"
+   },
+   "Pb_Empty_Button": {
+      "message": "buat senarai perkataan"
+   },
+   "Pb_Empty_Text1": {
+      "message": "Buat senarai perkataan untuk menyimpan perkataan yang ingin anda pelajari."
+   },
+   "Pb_Empty_Text2": {
+      "message": "Simpan semua perbendaharaan kata anda di satu tempat!"
+   },
+   "Pb_Empty_Title": {
+      "message": "Apa ini?"
+   },
+   "Pb_EnterWordOrPhrase": {
+      "message": "Masukkan perkataan atau frasa ..."
+   },
+   "Pb_HowToAddPhrase": {
+      "message": "Gunakan bidang teks di atas untuk menambah frasa baru"
+   },
+   "Pb_HowToCreateWordlist": {
+      "message": "Klik pada butang \"+\" di atas untuk membuat senarai perkataan baru"
+   },
+   "Pb_Learn": {
+      "message": "Belajar"
+   },
+   "Pb_LearnOnboardingDesc": {
+      "message": "Kami mahu Mate menjadi baik untuk satu tujuan - terjemahan.\u003Cbr>\u003Cbr>Jadi, kami mencipta Reji - aplikasi percuma yang sangat mudah untuk membantu pembelajaran perkataan yang cekap. Kami juga memungkinkan eksport semua perkataan anda dari Mate ke Reji dengan satu klik!"
+   },
+   "Pb_Loading": {
+      "message": "sedang memuat..."
+   },
+   "Pb_NewWlNote": {
+      "message": "Buat senarai perkataan untuk pasangan bahasa tetap dan tambah jumlah frasa yang tidak terhad ke dalamnya."
+   },
+   "Pb_NewWordlist": {
+      "message": "Senarai perkataan baru"
+   },
+   "Pb_NewWordlistName": {
+      "message": "Nama senarai perkataan baru ..."
+   },
+   "Pb_NoInternet": {
+      "message": "Sambungan Internet anda nampaknya offline. Untuk menambah frasa baru, anda perlu disambung ke Internet!"
+   },
+   "Pb_NotOnIOS": {
+      "message": "Tidak menggunakan iOS? Klik untuk belajar perkataan di \u003Ca class=\"show-android-form\" href=\"#\">Android\u003C/a> atau terus di \u003Ca class=\"show-chrome-form\" href=\"#\">penyemak imbas\u003C/a>."
+   },
+   "Pb_RejiAndroid": {
+      "message": "Reji untuk Android belum tersedia. Kami sedang bekerja keras untuk menghantarnya ASAP. Namun, anda boleh menjadi yang pertama tahu jika anda meninggalkan e-mel anda:"
+   },
+   "Pb_RejiBrowser": {
+      "message": "Versi penyemak imbas Reji belum tersedia. Kami sedang bekerja keras untuk menghantarnya ASAP. Namun, anda boleh menjadi yang pertama tahu jika anda meninggalkan e-mel anda:"
+   },
+   "Pb_SaveButton": {
+      "message": "Simpan"
+   },
+   "Pb_ScanQR": {
+      "message": "Imbas kod QR ini dengan aplikasi Kamera di iPhone atau iPad anda untuk membuka dan belajar perkataan di Reji."
+   },
+   "Pb_SelectLearnLanguage": {
+      "message": "Bahasa apa yang anda pelajari?"
+   },
+   "Pb_SureToDeleteWordlist": {
+      "message": "Adakah anda yakin bahawa anda ingin memadamkan senarai perkataan ini? Tindakan ini tidak boleh dibatalkan."
+   },
+   "Pb_WlEmpty": {
+      "message": "Senarai perkataan kosong"
+   },
+   "Phrasebook_FullyBlockedOut": {
+      "message": "Tingkatkan ke Pro untuk mempunyai akses tanpa had ke Buku Frasa."
+   },
+   "Phrasebook_Phrases1": {
+      "message": "frasa"
+   },
+   "Phrasebook_Phrases2": {
+      "message": "frasa"
+   },
+   "Phrasebook_Phrases3": {
+      "message": "frasa"
+   },
+   "ProSplitTests_2_F1": {
+      "message": "Terjemahkan ucapan"
+   },
+   "ProSplitTests_2_F2": {
+      "message": "Sejarah & Buku Frasa"
+   },
+   "ProSplitTests_2_F3": {
+      "message": "Sinonim"
+   },
+   "ProSplitTests_2_F4": {
+      "message": "Sebutan & jantina kata nama"
+   },
+   "ProSplitTests_2_F5": {
+      "message": "Mod gelap & tanpa iklan"
+   },
+   "ProSplitTests_2_F6": {
+      "message": "Sokongan pelanggan keutamaan"
+   },
+   "ProSplitTests_2_F7": {
+      "message": "Pro pada \u003Ca href=\"https://gikken.co/mate-translate/?ref=BrowserProBlock\">semua peranti\u003C/a>"
+   },
+   "ProSplitTests_2_F8": {
+      "message": "Penterjemahan laman web automatik"
+   },
+   "ProSplitTests_2_Pitch": {
+      "message": "Mate adalah hebat, Pro menjadikannya lebih hebat!\u003Cbr> Dapatkan akses ke semua ciri premium pada semua peranti dan jangan lihat iklan."
+   },
+   "Pro_Articles": {
+      "message": "Artikel kata nama"
+   },
+   "Pro_Articles_Desc": {
+      "message": "Pelajari cara menggunakan perkataan dalam bahasa Jerman, Perancis, Sepanyol, Itali, dan Portugis."
+   },
+   "Pro_Articles_Msg": {
+      "message": "Beli Pro untuk membuka kunci artikel kata nama."
+   },
+   "Pro_ComesAlong": {
+      "message": ", dan banyak lagi:"
+   },
+   "Pro_DoubleClickFeature": {
+      "message": "Terjemahkan perkataan di halaman web dengan mengklik dua kali pada mereka dengan Mate Pro!"
+   },
+   "Pro_ExportFeature": {
+      "message": "Dapatkan sejarah anda sebagai fail CSV dengan Mate Pro!"
+   },
+   "Pro_FullPageTranslation": {
+      "message": "Beli Pro untuk mengaktifkan penterjemahan laman web automatik."
+   },
+   "Pro_IPA": {
+      "message": "Transkripsi fonetik"
+   },
+   "Pro_IPA_Desc": {
+      "message": "Pelajari cara menyebut perkataan dengan tepat."
+   },
+   "Pro_IPA_Msg": {
+      "message": "Beli Pro untuk membuka kunci transkripsi fonetik."
+   },
+   "Pro_MainSettingsPitch": {
+      "message": "Peningkatan adalah berbaloi lebih banyak anda menterjemah. Kami menggabungkan ciri-ciri untuk menjadikan Mate Pro kuasa bahasa di mana sahaja anda menggunakannya."
+   },
+   "Pro_NetflixPhrasebookSaving": {
+      "message": "Beli Pro untuk menyimpan perkataan dari Netflix."
+   },
+   "Pro_PhrasebookFeature": {
+      "message": "Dapatkan akses ke Buku Frasa peribadi anda sendiri. Selaraskannya (dan sejarah anda) dengan Mate merentas \u003Ca href=\"https://gikken.co/mate-translate/download/\" target=\"_blank\">semua peranti anda\u003C/a>. Eksport sebagai CSV untuk dibawa ke tempat lain."
+   },
+   "Pro_STTFeature": {
+      "message": "Bercakap dengan Mate dalam lebih \u003Ca href=\"https://gikken.co/mate-translate/languages\" target=\"_blank\">40 bahasa\u003C/a>, dapatkan terjemahan yang sangat pantas dan tepat."
+   },
+   "Pro_ShortcutsFeature": {
+      "message": "Tetapkan papan kekunci anda untuk menterjemah pelbagai bahasa dan bukannya satu sahaja (Shift+T)."
+   },
+   "Pro_SyncFeature": {
+      "message": "Padankan semua data anda di semua peranti dengan Mate Pro!"
+   },
+   "Pro_SynonymsPaywall": {
+      "message": "Tingkatkan ke Pro untuk melihat lebih banyak sinonim."
+   },
+   "Pro_UnlockMore": {
+      "message": "Dan juga buka ciri-ciri ini:"
+   },
+   "Promo_Android": {
+      "message": "Android"
+   },
+   "Promo_Chrome": {
+      "message": "Chrome"
+   },
+   "Promo_Edge": {
+      "message": "Edge"
+   },
+   "Promo_Firefox": {
+      "message": "Firefox"
+   },
+   "Promo_Ios": {
+      "message": "iOS"
+   },
+   "Promo_Mac": {
+      "message": "macOS"
+   },
+   "Promo_Safari": {
+      "message": "Safari"
+   },
+   "Promo_Samsunginternet": {
+      "message": "Internet Samsung"
+   },
+   "Promo_Windows": {
+      "message": "Windows"
+   },
+   "RejiAd": {
+      "message": "Aplikasi baru kami akan membantu anda memperbaiki perbendaharaan kata. Semak!"
+   },
+   "SafariWall_Desc": {
+      "message": "Bayar untuk Mate sekali dan dapatkan semua ciri hebat ini dalam Safari anda."
+   },
+   "SafariWall_Feature1": {
+      "message": "Pilih perkataan pada mana-mana halaman & terjemahkan mereka"
+   },
+   "SafariWall_Feature2": {
+      "message": "Klik dua kali pada mana-mana perkataan & terjemahkannya"
+   },
+   "SafariWall_Feature3": {
+      "message": "Simpan perkataan untuk diingat dalam Frasebook peribadi anda"
+   },
+   "SafariWall_Feature4": {
+      "message": "Terjemahkan 103 bahasa"
+   },
+   "SafariWall_Feature5": {
+      "message": "Belajar sebutan yang betul"
+   },
+   "SafariWall_Feature6": {
+      "message": "Padankan semua terjemahan anda di semua peranti"
+   },
+   "SafariWall_Title": {
+      "message": "Jangan tab ke laman terjemahan lagi!"
+   },
+   "Settings_21max": {
+      "message": "Anda boleh mencipta maksimum 21 pintasan..."
+   },
+   "Settings_Articles": {
+      "message": "Tunjukkan artikel kata nama"
+   },
+   "Settings_Autoswap": {
+      "message": "Tukar bahasa secara automatik"
+   },
+   "Settings_Autoswap_Description": {
+      "message": "Bahasa akan ditukar secara automatik jika anda memasukkan teks dalam bahasa sasaran bukan bahasa sumber dan sebaliknya."
+   },
+   "Settings_CP": {
+      "message": "Mate untuk peranti lain"
+   },
+   "Settings_CPDesc": {
+      "message": "Mate tersedia untuk iOS, Mac (+ sambungan Safari), Chrome, Firefox, Opera, dan Edge. Anda boleh menyelaraskan sejarah terjemahan dan Buku Frasa anda antara semua aplikasi dengan Akaun Mate."
+   },
+   "Settings_CP_Get": {
+      "message": "Dapatkan aplikasi Mate lain"
+   },
+   "Settings_Close": {
+      "message": "tutup"
+   },
+   "Settings_Contacts": {
+      "message": "Lagi"
+   },
+   "Settings_CtxMenu": {
+      "message": "Menu konteks"
+   },
+   "Settings_CtxMenuDesc": {
+      "message": "Tunjukkan butang terjemahan dalam menu konteks (klik kanan). Berfungsi untuk teks yang dipilih di halaman web."
+   },
+   "Settings_DarkMode": {
+      "message": "Mod gelap yang cantik"
+   },
+   "Settings_DarkModeDesc": {
+      "message": "Jimat tenaga dan elakkan ketegangan mata dengan mod gelap berkilat Mate."
+   },
+   "Settings_DataEraseError": {
+      "message": "Beberapa ralat yang tidak dijangka berlaku, sila cuba lagi nanti!"
+   },
+   "Settings_DataErased": {
+      "message": "Semua data anda telah dikeluarkan dari pelayan Mate!"
+   },
+   "Settings_DestLang": {
+      "message": "Bahasa destinasi"
+   },
+   "Settings_Email": {
+      "message": "hantar emel kepada kami"
+   },
+   "Settings_EnableSync": {
+      "message": "Dayakan penyegerakan sejarah dan Buku Frasa"
+   },
+   "Settings_EraseConfirm": {
+      "message": "Adakah anda pasti? Ini akan memadamkan semua terjemahan yang disegerakkan dan Buku Frasa anda (data tempatan tidak akan terjejas). Ini tidak boleh dibatalkan."
+   },
+   "Settings_EraseData": {
+      "message": "padamkan semua data saya"
+   },
+   "Settings_EraseDataDesc": {
+      "message": "Menurut GDPR, anda boleh meminta data anda untuk dikeluarkan dari pelayan Mate."
+   },
+   "Settings_FBShare": {
+      "message": "kongsi di facebook"
+   },
+   "Settings_Facebook": {
+      "message": "facebook"
+   },
+   "Settings_HelpCenter": {
+      "message": "Pusat Bantuan"
+   },
+   "Settings_Interface_Autocorrection": {
+      "message": "Autopembetulan"
+   },
+   "Settings_Interface_Autocorrection_Description": {
+      "message": "Mate akan membetulkan perkataan yang salah ejaan secara automatik."
+   },
+   "Settings_Interface_InstantTranslation": {
+      "message": "Terjemahan Pintar"
+   },
+   "Settings_Interface_InstantTranslation_Description": {
+      "message": "Mate akan menterjemahkan input apabila anda tamat menaip."
+   },
+   "Settings_Interface_Save": {
+      "message": "Simpan terjemahan terakhir"
+   },
+   "Settings_Interface_Save_Description": {
+      "message": "Mate akan menyimpan terjemahan terakhir yang dibuat dalam pop up, jadi ia akan ada apabila anda membukanya lagi."
+   },
+   "Settings_Interface_ShowIPA": {
+      "message": "Tunjukkan transkripsi fonetik"
+   },
+   "Settings_Interface_ShowIPA_Description": {
+      "message": "Pelajari cara menyebut dengan transkripsi fonetik yang disediakan oleh Mate untuk perkataan dan frasa."
+   },
+   "Settings_Interface_ShowTranslit": {
+      "message": "Tunjukkan transliterasi"
+   },
+   "Settings_Interface_ShowTranslit_Description": {
+      "message": "Untuk abjad bukan Latin, Mate akan menunjukkan transkripsi Latin bagi terjemahan untuk bacaan yang lebih mudah."
+   },
+   "Settings_Legal": {
+      "message": "Perundangan"
+   },
+   "Settings_Netflix": {
+      "message": "Terjemah sari kata Netflix"
+   },
+   "Settings_NetflixDesc": {
+      "message": "Klik pada perkataan dalam sari kata Netflix untuk menterjemah di sana."
+   },
+   "Settings_NetflixView": {
+      "message": "lihat perkataan yang disimpan →"
+   },
+   "Settings_NewLine": {
+      "message": "untuk barisan baru"
+   },
+   "Settings_Newsletter": {
+      "message": "surat berita"
+   },
+   "Settings_NoConsentPro": {
+      "message": "Menurut GDPR, kami tidak dapat mengenakan caj kepada anda untuk versi Pro sehingga anda menerima terma penggunaan kami... Terimalah dan segarkan halaman ini untuk meneruskan dengan Pro."
+   },
+   "Settings_NoProSync": {
+      "message": "Naik taraf ke Pro untuk membolehkan penyegerakan"
+   },
+   "Settings_Or": {
+      "message": "atau"
+   },
+   "Settings_PopupShortcuts": {
+      "message": "Pintasan dalam pop-up"
+   },
+   "Settings_PopupShortcutsDesc": {
+      "message": "Terjemah teks di medan input dengan pintasan."
+   },
+   "Settings_PrefsTab": {
+      "message": "Pilihan"
+   },
+   "Settings_PrivacyPolicy": {
+      "message": "Dasar Privasi"
+   },
+   "Settings_ProActivated": {
+      "message": "Anda sudah siap! Pro telah diaktifkan."
+   },
+   "Settings_ProFeature8": {
+      "message": "Sokongan emel khusus"
+   },
+   "Settings_ProFeature8_Desc": {
+      "message": "Sokongan adalah untuk pengguna Pro sahaja supaya kami dapat memberi jawapan yang mendalam dengan cepat. \u003Cbr> Pengguna percuma boleh mencari jawapan umum dalam \u003Ca href=\"https://help.gikken.co/hc/\" target=\"_blank\">Pusat Bantuan\u003C/a> kami."
+   },
+   "Settings_ProTab": {
+      "message": "Pro & Penyegerakan"
+   },
+   "Settings_Restore": {
+      "message": "pulihkan pembelian"
+   },
+   "Settings_RevokeConsent": {
+      "message": "saya tidak setuju dengan terma lagi"
+   },
+   "Settings_RevokeConsentDesc": {
+      "message": "Jika anda tidak bersetuju dengan Dasar Privasi atau Syarat Penggunaan kami lagi, anda boleh membatalkan persetujuan anda sebelum ini. Walau bagaimanapun, anda tidak akan dapat menggunakan Mate lagi."
+   },
+   "Settings_Share": {
+      "message": "Beritahu rakan anda tentang Mate"
+   },
+   "Settings_ShareDesc": {
+      "message": "Hantar pautan kepada mereka atau kongsi di media sosial. Ia akan sangat membantu dalam menyokong kami!"
+   },
+   "Settings_ShareText": {
+      "message": "Mate adalah aplikasi penterjemah yang paling mesra, pantas, dan menjaga privasi untuk {{platform}}, Mac, iPhone, dan iPad. Anda pasti menyukainya."
+   },
+   "Settings_ShortcutClick": {
+      "message": "klik pada medan ini dan kemudian tekan pintasan yang diingini..."
+   },
+   "Settings_ShortcutMain": {
+      "message": "Pintasan utama"
+   },
+   "Settings_ShortcutSuppl": {
+      "message": "Pintasan tambahan"
+   },
+   "Settings_SignOut": {
+      "message": "LOG KELUAR"
+   },
+   "Settings_SourceLang": {
+      "message": "Bahasa sumber"
+   },
+   "Settings_StayInTouch": {
+      "message": "Kekal berhubung dengan kami"
+   },
+   "Settings_SyncText": {
+      "message": "Simpan akaun Pro, terjemahan, dan Buku Frasa anda disegerakkan antara semua peranti."
+   },
+   "Settings_TWShare": {
+      "message": "kongsi di twitter"
+   },
+   "Settings_ToS": {
+      "message": "terma penggunaan"
+   },
+   "Settings_ToTranslate": {
+      "message": "untuk menterjemah"
+   },
+   "Settings_Tooltip": {
+      "message": "Saiz tooltip"
+   },
+   "Settings_TooltipBig": {
+      "message": "besar"
+   },
+   "Settings_TooltipDesc": {
+      "message": "Sebesar mana tooltip di mana terjemahan pada laman web muncul."
+   },
+   "Settings_TooltipMedium": {
+      "message": "sederhana"
+   },
+   "Settings_TooltipSmall": {
+      "message": "kecil"
+   },
+   "Settings_TranslateSelection": {
+      "message": "Pilih untuk menterjemah"
+   },
+   "Settings_TranslateSelectionDesc": {
+      "message": "Tunjukkan butang terjemahan di sebelah teks yang dipilih pada laman web."
+   },
+   "Settings_Translation_History": {
+      "message": "Sejarah terjemahan"
+   },
+   "Settings_Translation_History_Description": {
+      "message": "Simpan semua terjemahan untuk dibaca pada bila-bila masa."
+   },
+   "Settings_Translation_KeyCombos": {
+      "message": "Pada halaman"
+   },
+   "Settings_Translation_KeyCombos_Description": {
+      "message": "Pilih teks di mana-mana halaman (kecuali fail PDF), tekan pintasan dan dapatkan terjemahan dengan segera dalam tetingkap pop-up yang tidak mengganggu di depan anda."
+   },
+   "Settings_Twitter": {
+      "message": "twitter"
+   },
+   "Settings_UsageDesc": {
+      "message": "Kami mengesyorkan anda menaik taraf kepada Pro jika anda menterjemah lebih daripada 500 kali sebulan. Ia membantu kami mengekalkan pelayan kami. \u003Cbr>\u003Cbr> Oleh itu, kami boleh menjamin kelajuan terjemahan yang lebih pantas."
+   },
+   "Settings_Website": {
+      "message": "laman web"
+   },
+   "Settings_YouAreSignedIn": {
+      "message": "Anda sudah log masuk sebagai"
+   },
+   "Settings_YouPro": {
+      "message": "Anda mempunyai versi Pro!"
+   },
+   "Settings_YouUsed": {
+      "message": "anda telah menggunakan"
+   },
+   "ShareOnVK": {
+      "message": "kongsi di vk"
+   },
+   "ShareViaEmail": {
+      "message": "kongsi melalui email"
+   },
+   "SignUp_Name": {
+      "message": "Nama (pilihan)"
+   },
+   "SignUp_Password": {
+      "message": "Kata laluan (sekurang-kurangnya 8 aksara)"
+   },
+   "Sponsorship_Bar": {
+      "message": "Kekal selamat dengan Akaun Mate"
+   },
+   "Sponsorship_DismissPro": {
+      "message": "Tingkatkan ke Pro untuk menyembunyikan iklan."
+   },
+   "Sub_48hNotificationBodyAnnual": {
+      "message": "Kami akan segera mengenakan bayaran {{amount}} untuk langganan tahunan Mate Pro anda."
+   },
+   "Sub_48hNotificationBodyMonthly": {
+      "message": "Kami akan segera mengenakan bayaran {{amount}} untuk langganan bulanan Mate Pro anda."
+   },
+   "Sub_48hNotificationLabel": {
+      "message": "\u003Cb>Bebas risiko.\u003C/b> Kami akan menghantar peringatan 48 jam sebelum pengebilan pertama."
+   },
+   "Sub_48hNotificationTitle": {
+      "message": "Bagaimana percubaan Mate anda?"
+   },
+   "Sub_ApplyForStudentDiscount": {
+      "message": "Diskaun pelajar"
+   },
+   "Sub_Cancel": {
+      "message": "Batalkan langganan"
+   },
+   "Sub_ChangePaymentMethod": {
+      "message": "Tukar kaedah pembayaran"
+   },
+   "Sub_ComingSoon": {
+      "message": "akan datang"
+   },
+   "Sub_CouldNotGetPayLink": {
+      "message": "Tidak dapat mendapatkan pautan pembayaran. Sila cuba lagi kemudian atau hubungi kami di support@matetranslate.com"
+   },
+   "Sub_CrossPlatformProComingSoon": {
+      "message": "Kami sedang bekerja keras untuk menjadikan Mate Pro merentas platform.\n\nAnda sudah boleh menikmati Mate Pro dalam semua sambungan penyemak imbas dengan hanya log masuk dengan akaun Mate yang sama pada setiap peranti. Walau bagaimanapun, aplikasi iOS dan Mac dijual secara berasingan di App Stores Apple.\n\nSebagai penyelesaian sementara, anda boleh menghantar e-mel kepada kami di hello@gikken.co dan melampirkan resit selepas anda melanggan Mate Pro — kami akan membantu anda mendapatkan aplikasi tersebut secara percuma.\n\nKami amat memohon maaf atas kesulitan sementara ini."
+   },
+   "Sub_DueAfterTrial": {
+      "message": "\u003Cspan class=\"price-due\">\u003C/span> selepas percubaan"
+   },
+   "Sub_FAQ": {
+      "message": "Soalan Lazim"
+   },
+   "Sub_FinishCreatingAccount": {
+      "message": "Selesaikan Penciptaan Akaun"
+   },
+   "Sub_FreeTrialVerificationCharge": {
+      "message": "Anda mungkin akan dikenakan bayaran $1 oleh Paddle untuk mengesahkan kad kredit. Ia akan dikembalikan serta-merta. Percubaan adalah percuma."
+   },
+   "Sub_LegacyUsersDisclaimer": {
+      "message": "Mate Pro kini berasaskan langganan untuk pengguna baru. Memandangkan anda telah membeli Pro sebelum peralihan, anda mengekalkannya tanpa caj tambahan, selama-lamanya! Terima kasih kerana menyokong kami lebih awal \u003C3"
+   },
+   "Sub_Month": {
+      "message": "/bulan"
+   },
+   "Sub_MoreInlineInfo": {
+      "message": "Ketahui lebih lanjut"
+   },
+   "Sub_NextBilling": {
+      "message": "Pengebilan seterusnya: {{next_amount_billed}} pada {{next_billing_date}}"
+   },
+   "Sub_NoNotifPermissionAlert": {
+      "message": "Tanpa kebenaran untuk pemberitahuan, kami tidak akan dapat memberitahu anda mengenai pengebilan pertama... Namun, anda sentiasa boleh melihat bila ia akan berlaku di sini dalam tetapan."
+   },
+   "Sub_PleaseCreateAccount": {
+      "message": "Sekarang, sila selesaikan penciptaan akaun Mate anda, supaya kami dapat mengesahkan langganan anda. Ia tidak akan mengambil masa lebih dari satu minit!"
+   },
+   "Sub_PleaseSignBackIn": {
+      "message": "Sila log masuk semula dengan akaun Mate anda yang berkaitan dengan \u003Cb>{{email}}\u003C/b>.\u003Cbr>Kami tidak dapat mengesahkan langganan anda sebaliknya."
+   },
+   "Sub_ProStatusForLegacyUsers": {
+      "message": "Anda mempunyai akses tanpa had dan sepanjang hayat ke Mate Pro"
+   },
+   "Sub_PurchasedBefore": {
+      "message": "Pernah membeli Pro sebelum ini?"
+   },
+   "Sub_Resubscribe": {
+      "message": "Langgan Semula"
+   },
+   "Sub_Savings": {
+      "message": "jimat {{savings}}%"
+   },
+   "Sub_ScrewSubscription": {
+      "message": "Tidak mahu melanggan?"
+   },
+   "Sub_StatusFetchError": {
+      "message": "Gagal mendapatkan status langganan anda."
+   },
+   "Sub_StatusFetchTryAgain": {
+      "message": "Cuba lagi"
+   },
+   "Sub_SubscribeNow": {
+      "message": "Langgan Sekarang"
+   },
+   "Sub_TryFreeCTA": {
+      "message": "cuba percuma selama \u003Cspan class=\"trial-days\">\u003C/span> hari"
+   },
+   "Sub_WhenCancelled": {
+      "message": "Anda telah membatalkan langganan anda tetapi masih akan mendapat akses ke Mate Pro sehingga {{sub_ends_on}}. Untuk terus menggunakan Pro selepas itu, anda boleh melanggan semula."
+   },
+   "Sub_WhenTrialing": {
+      "message": "Percubaan anda berakhir pada {{next_billing_date}} dan anda akan dikenakan bayaran {{next_amount_billed}}"
+   },
+   "Sub_Year": {
+      "message": "/tahun"
+   },
+   "Sub_YouAreAlmostInTheFamily": {
+      "message": "Anda (hampir) dalam keluarga Mate Pro!"
+   },
+   "Sub_YouAreInTheFamily": {
+      "message": "Anda dalam keluarga Mate Pro!"
+   },
+   "Sync_FailedError": {
+      "message": "Tidak dapat segerakkan. Ralat berlaku."
+   },
+   "Sync_NetworkError": {
+      "message": "Nampaknya tiada sambungan Internet. Sila sambungkan ke Internet dan cuba segerakkan semula."
+   },
+   "Sync_NoItemsError": {
+      "message": "Tiada item untuk disegerakkan."
+   },
+   "Sync_NotSignedInError": {
+      "message": "Anda perlu log masuk untuk menyegerakkan sejarah dan Buku Frasa anda."
+   },
+   "TD_AddPB": {
+      "message": "Tambah ke Buku Frasa"
+   },
+   "TD_Copy": {
+      "message": "Salin"
+   },
+   "TD_Create": {
+      "message": "Cipta senarai perkataan baru..."
+   },
+   "TD_NoWordlists": {
+      "message": "Tiada senarai perkataan untuk "
+   },
+   "There_Is_Localised_Site": {
+      "message": "Semak versi tempatan laman web ini"
+   },
+   "There_Is_Localised_Site_Desc": {
+      "message": "Terdapat versi tempatan laman web ini"
+   },
+   "Tooltip_DisableDoubleClick": {
+      "message": "Jangan terjemahkan dengan dwi-klik"
+   },
+   "Tooltip_DisableDoubleClickDesc": {
+      "message": "Anda tidak akan melihat tetingkap terjemahan apabila anda dwi-klik pada perkataan lagi."
+   },
+   "Tooltip_DisableSelection": {
+      "message": "Jangan tunjuk butang terapung"
+   },
+   "Tooltip_DisableSelectionDesc": {
+      "message": "Anda tidak akan melihat butang terjemahan terapung apabila anda memilih teks lagi."
+   },
+   "Tooltip_InlineOptionDisabled": {
+      "message": "Anda boleh mengaktifkannya semula dalam tetapan"
+   },
+   "Tour_Agree": {
+      "message": "Klik pada butang di bawah untuk bersetuju dengan \u003Cb>Terma Penggunaan\u003C/b> dan \u003Cb>Dasar Privasi\u003C/b> kami, dan mulakan terjemahan dengan Mate."
+   },
+   "Tour_AutoFPOption": {
+      "message": "Cadangkan untuk terjemah laman web"
+   },
+   "Tour_DoubleClick": {
+      "message": "Terjemahan dwi-klik"
+   },
+   "Tour_DoubleClickDesc": {
+      "message": "Dwi-klik pada mana-mana perkataan untuk melihat terjemahan segera di laman web."
+   },
+   "Tour_DoubleClickOption": {
+      "message": "Terjemah dengan klik dua kali"
+   },
+   "Tour_GotIt": {
+      "message": "MULAKAN"
+   },
+   "Tour_HowToContext": {
+      "message": "Atau pilih sebarang teks dan gunakan menu konteks (klik kanan) untuk melihat terjemahan."
+   },
+   "Tour_HowToPopUp": {
+      "message": "Jika anda perlu menaip beberapa perkataan sendiri, cuma buka tetingkap pop-up dengan mengklik butang Mate di sebelah bar alamat pelayar anda."
+   },
+   "Tour_HowToSelect": {
+      "message": "Pilih mana-mana perkataan atau teks di mana-mana laman web dan tekan Shift+T untuk mendapat terjemahan."
+   },
+   "Tour_HowToUse": {
+      "message": "Cara Menggunakan?"
+   },
+   "Tour_Important": {
+      "message": "Ia sangat penting!"
+   },
+   "Tour_ImportantSub": {
+      "message": "Halaman ini akan menunjukkan cara menggunakan \u003Cb>Mate Translate\u003C/b>"
+   },
+   "Tour_ImportantText": {
+      "message": "Luangkan hanya 40 saat untuk melihatnya"
+   },
+   "Tour_Langs": {
+      "message": "Apakah bahasa yang anda ingin terjemahkan?"
+   },
+   "Tour_LangsDesc": {
+      "message": "Pilih bahasa yang anda ingin terjemahkan ke:"
+   },
+   "Tour_LangsSupported": {
+      "message": "lihat bahasa yang disokong"
+   },
+   "Tour_MacUser": {
+      "message": "Saya menggunakan Mate untuk Mac"
+   },
+   "Tour_NoShiftT": {
+      "message": "Mate tidak boleh menterjemah teks yang dipilih di halaman ini dan dalam fail PDF kerana sekatan teknikal \u003C%=browser%>.\u003Cbr>\u003Cbr>Sila cuba melakukannya di \u003Ca href='https://reji.me' target='_blank'>halaman ini\u003C/a>, misalnya."
+   },
+   "Tour_PDF": {
+      "message": "Terjemah dalam PDF"
+   },
+   "Tour_PDFDesc": {
+      "message": "Pilih teks dalam fail PDF dalam Chrome, klik kanan dan terjemahkan."
+   },
+   "Tour_PDFNote": {
+      "message": "Butang terapung dan terjemahan Shift+T tidak berfungsi dalam PDF kerana sekatan teknikal."
+   },
+   "Tour_Pages": {
+      "message": "Terjemah keseluruhan laman web"
+   },
+   "Tour_PagesDesc": {
+      "message": "Semua laman web dalam bahasa anda. Secara automatik."
+   },
+   "Tour_Phrasebook": {
+      "message": "Simpan buku frasa peribadi anda"
+   },
+   "Tour_PhrasebookCreate": {
+      "message": "Buat senarai perkataan pertama saya"
+   },
+   "Tour_PhrasebookDesc": {
+      "message": "Simpan semua perkataan yang ingin anda ingat dalam Buku Frasa Mate.\u003Cbr>Simpan semua perbendaharaan kata anda di satu tempat!"
+   },
+   "Tour_PhrasebookFeature": {
+      "message": "Simpan semua perkataan yang ingin anda ingat di satu tempat!"
+   },
+   "Tour_PhrasebookLaunch": {
+      "message": "lancar buku frasa"
+   },
+   "Tour_PinExtension": {
+      "message": "Pin Mate"
+   },
+   "Tour_PinExtensionDesc": {
+      "message": "Dapatkan akses cepat ke Mate dari bar alamat."
+   },
+   "Tour_ProCTA": {
+      "message": "Juga buka kunci ciri-ciri hebat ini dengan menaik taraf ke \u003Cb>Mate Pro\u003C/b> sekarang:"
+   },
+   "Tour_ProFeature2": {
+      "message": "Terjemah ucapan"
+   },
+   "Tour_ProFeature3": {
+      "message": "Pintas tanpa had"
+   },
+   "Tour_ProFeature4": {
+      "message": "Buku Frasa + penyelarasan lancar"
+   },
+   "Tour_ProFeature7": {
+      "message": "Eksport Sejarah dan Buku Frasa sebagai CSV"
+   },
+   "Tour_ProUpgradedSuccessfully": {
+      "message": "Tutup halaman ini dan mulakan melayari web tanpa halangan bahasa!"
+   },
+   "Tour_Ready": {
+      "message": "Kami mematuhi \u003Ca href=\"https://en.wikipedia.org/wiki/General_Data_Protection_Regulation\" target=\"_blank\">GDPR\u003C/a>!"
+   },
+   "Tour_SafariGet": {
+      "message": "dapatkan mate untuk $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Tour_SelectAndTranslate": {
+      "message": "Pilih dan terjemah"
+   },
+   "Tour_Selected": {
+      "message": "Terjemah teks di laman web"
+   },
+   "Tour_SelectedDesc": {
+      "message": "Klik dua kali, pilih untuk terjemah, atau tekan Shift+T."
+   },
+   "Tour_ShortcutsFeature": {
+      "message": "Buat seberapa banyak pintasan yang anda perlukan (berbanding 1 dalam versi percuma) untuk bahasa yang berbeza untuk menterjemah di laman web."
+   },
+   "Tour_Start": {
+      "message": "Mulakan secara percuma"
+   },
+   "Tour_Sync": {
+      "message": "Selaraskan data di semua peranti"
+   },
+   "Tour_SyncDesc": {
+      "message": "Sejarah terjemahan anda dan Buku Frasa akan diselaraskan antara semua peranti yang menggunakan Mate."
+   },
+   "Tour_SyncSignIn": {
+      "message": "log masuk untuk menyelaraskan"
+   },
+   "Tour_Title": {
+      "message": "Selamat Datang ke Mate Translate"
+   },
+   "Tour_TranslationsFeature": {
+      "message": "Terjemah seberapa banyak kali yang anda perlukan pada bila-bila masa."
+   },
+   "Tour_UhHuh": {
+      "message": "Ya betul!"
+   },
+   "Tour_Unlock": {
+      "message": "Mate Pro"
+   },
+   "Tour_UnlockDesc": {
+      "message": "Dapatkan akses ke semua ciri premium dan tiada iklan."
+   },
+   "Window_AntiWarBanner": {
+      "message": "🇺🇦 Kami menentang perang Rusia ke atas Ukraina dan demokrasi Eropah 🇺🇦"
+   },
+   "Window_CannotTranslatePDF": {
+      "message": "Kami tidak boleh menterjemah teks yang dipilih dalam fail PDF. Sekatan teknikal {{browser}}..."
+   },
+   "Window_CannotTranslatePDFChrome": {
+      "message": "Sila gunakan menu konteks untuk menterjemah teks yang dipilih dalam fail PDF. Sekatan teknikal Chrome..."
+   },
+   "Window_Content_AllLang": {
+      "message": "Semua"
+   },
+   "Window_Content_RecentlyUsedLang": {
+      "message": "Digunakan Baru-baru ini"
+   },
+   "Window_Content_TextareaPlaceholder": {
+      "message": "Terjemah ..."
+   },
+   "Window_DoYouKnowSomeone": {
+      "message": "Adakah anda mengenali seseorang yang akan mendapati Mate Translate berguna?"
+   },
+   "Window_DoYouLike": {
+      "message": "Adakah anda suka Mate?"
+   },
+   "Window_DoYouLikeDesc": {
+      "message": "Adakah sesuatu perlu diperbaiki atau adakah Mate hampir sempurna untuk anda?"
+   },
+   "Window_DontAutocorrect": {
+      "message": "Jangan autobetulkan"
+   },
+   "Window_Improve": {
+      "message": "ia perlu penambahbaikan"
+   },
+   "Window_LearnMoreAboutPro": {
+      "message": "Ketahui lebih lanjut tentang pro"
+   },
+   "Window_Love": {
+      "message": "Saya sukakannya"
+   },
+   "Window_MateFreeDesc": {
+      "message": "Untuk membuka kunci semua ciri baharu, anda perlu menaik taraf kepada versi Pro."
+   },
+   "Window_MateProDesc": {
+      "message": "Anda perlu mendaftar untuk membolehkan penyelarasan sejarah dan Buku Frasa."
+   },
+   "Window_Mw_LaterButton": {
+      "message": "Ingatkan saya kemudian"
+   },
+   "Window_Mw_NeverButton": {
+      "message": "Jangan ingatkan saya"
+   },
+   "Window_Mw_NotChromeNotNow": {
+      "message": "Tidak sekarang"
+   },
+   "Window_Mw_RateButton": {
+      "message": "Nilai sekarang"
+   },
+   "Window_Mw_RateDesc": {
+      "message": "Kami akan berasa gembira untuk melihat ulasan anda di App Store! Ia tidak akan mengambil masa lebih daripada satu minit. Teruskan enjin terjemahan kami berjalan dengan ulasan anda!"
+   },
+   "Window_Mw_RateTitle": {
+      "message": "Nilai Mate anda"
+   },
+   "Window_Mw_UpgradeButton": {
+      "message": "naik taraf untuk $price$",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "9.99$"
+         }
+      }
+   },
+   "Window_NetflixFeatureDesc": {
+      "message": "Terjemah dan pelajari perkataan semasa menonton Netflix. Klik pada perkataan di sari kata untuk melihat terjemahan dan simpan untuk kemudian."
+   },
+   "Window_NewFeature": {
+      "message": "Ciri baru!"
+   },
+   "Window_No": {
+      "message": "tidak"
+   },
+   "Window_Offline": {
+      "message": "Tiada Sambungan Internet"
+   },
+   "Window_OfflineDesc": {
+      "message": "Tidak dapat menterjemah perkataan baru dengan itu"
+   },
+   "Window_Pro": {
+      "message": "Alami pengalaman terjemahan yang lebih cepat dan lancar dengan Mate Pro!"
+   },
+   "Window_ProBannerAds": {
+      "message": "Tingkatkan ke Pro untuk membuka lebih banyak ciri."
+   },
+   "Window_QuickQuestion": {
+      "message": "Satu soalan cepat..."
+   },
+   "Window_RateUsDesc": {
+      "message": "Adakah anda mungkin mengambil satu minit untuk memberi kami penilaian di App Store? Ini akan membantu kami."
+   },
+   "Window_ReadMore": {
+      "message": "baca lebih"
+   },
+   "Window_SendFeedback": {
+      "message": "Hantar maklum balas"
+   },
+   "Window_SendFeedbackDesc": {
+      "message": "Sila beritahu kami cara untuk menjadikan Mate lebih baik."
+   },
+   "Window_Share": {
+      "message": "Kongsi Mate"
+   },
+   "Window_ShareDesc": {
+      "message": "Ia akan membantu kami jika anda menyebarkan perkataan mengenai Mate!"
+   },
+   "Window_Shortcut": {
+      "message": "Tekan Ctrl+T untuk cepat membuka tetingkap ini."
+   },
+   "Window_TranslationCopied": {
+      "message": "Terjemahan telah disalin!"
+   },
+   "Window_UnpinPro": {
+      "message": "Tingkatkan ke Pro untuk mencabut pin tetingkap Mate."
+   },
+   "Window_WriteUs": {
+      "message": "tulis email kepada kami"
+   },
+   "Window_Yes": {
+      "message": "ya"
+   }
+}
