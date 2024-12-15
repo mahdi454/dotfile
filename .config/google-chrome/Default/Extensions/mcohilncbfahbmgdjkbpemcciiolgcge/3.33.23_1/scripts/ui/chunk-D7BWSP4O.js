@@ -1,7 +1,0 @@
-import{b as s}from"./chunk-RPZZJKZJ.js";import{d as w}from"./chunk-SIIB3XCZ.js";import{c as m}from"./chunk-FDCWN4NG.js";import{L as u,w as r}from"./chunk-KJIO572I.js";import{T as a}from"./chunk-KALFZBR5.js";import{a as d}from"./chunk-EAZTJZU7.js";import{f as h,m as i,o as e}from"./chunk-ZCHLW7CF.js";i();e();var o=h(d());u();i();e();var t={root:"_root_16zt1_1",icon:"_icon_16zt1_6",text:"_text_16zt1_10",msg:"_msg_16zt1_15",switchNetwork:"_switchNetwork_16zt1_19"};function g({origin:c,providerType:p,chainName:f,onClick:n,onClose:_,onNetworkChange:N}){let[k,l]=(0,o.useState)(!1);return o.default.createElement(o.default.Fragment,null,o.default.createElement(w,{className:t.root,direction:m.DIRECTION.horizontal,space:0},o.default.createElement(a,{className:`okx-wallet-plugin-information-filled ${t.icon}`}),o.default.createElement("div",{className:t.text},o.default.createElement("span",{className:t.msg},r("wallet_extension_sonic_toast_manually_switch_network",{network:f})),o.default.createElement("span",{className:t.switchNetwork,onClick:()=>{l(!0),n&&n()}},r("wallet_extension_sonic_desc_switch_network")))),o.default.createElement(s,{origin:c,visible:k,onClose:()=>{l(!1),_&&_()},onNetworkChange:N,providerType:p},o.default.createElement(s.Header,{title:r("wallet_extension_sonic_desc_switch_network")})))}var H=g;export{H as a};
-
-window.inOKXExtension = true;
-window.inMiniApp = false;
-window.ASSETS_BUILD_TYPE = "publish";
-
-//# sourceMappingURL=chunk-D7BWSP4O.js.map

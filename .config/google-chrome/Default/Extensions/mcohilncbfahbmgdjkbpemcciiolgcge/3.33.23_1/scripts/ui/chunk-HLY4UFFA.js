@@ -1,7 +1,0 @@
-import{a as R}from"./chunk-3LOYTCAL.js";import{b as h,c as k}from"./chunk-7FUA4GUN.js";import{d as C}from"./chunk-GQYTOJVD.js";import{a as N}from"./chunk-QTEBOXIQ.js";import{a as _}from"./chunk-G4OIO3Z6.js";import{o as z}from"./chunk-KCWFMCND.js";import{p as S}from"./chunk-EBR3PGFZ.js";import{a as q}from"./chunk-VPGNJAK6.js";import{Ka as c,Ya as O,la as a}from"./chunk-O3CM75EN.js";import{H as t}from"./chunk-J3CEQI22.js";import{L as M,w as i}from"./chunk-KJIO572I.js";import{a as b}from"./chunk-EAZTJZU7.js";import{f as s,m as y,o as d}from"./chunk-ZCHLW7CF.js";y();d();var E=s(b()),w=s(q());M();var A=s(z());O();var G=m=>{let x=N(),f=m.registerStatus||Number(x.get("registerStatus")),{isOnlyConfirmButton:L=!1,deployErrorCallback:o,onBack:e}=m,r=(0,w.useHistory)(),u=_(a),T=h(u),{isLoading:B,isError:D,maxFee:l,nonce:F}=T||{},p=k({nonce:F,maxFee:l,address:u}),n=C(c),I=(0,A.useMemoizedFn)(async()=>{try{if(f===S.PROCESSING){t.warn(i("wallet_extension_notif_registration_inprogress",{chainName:n?.chainName})),e&&typeof e=="function"?e():r.go(-1);return}await p(),t.success(i("wallet_extension_notif_registration_inprogress",{chainName:n?.chainName})),e&&typeof e=="function"?e():r.go(-1)}catch(g){o&&typeof o=="function"&&o(),t.error(g?.error_message||g)}},[n?.chainName,p,o,r,e,f]);return E.default.createElement(R,{networkFee:l,coinId:c,localType:a,feeLoading:B,feeError:D,onConfirm:I,useCancelButton:!L})},X=G;export{X as a};
-
-window.inOKXExtension = true;
-window.inMiniApp = false;
-window.ASSETS_BUILD_TYPE = "publish";
-
-//# sourceMappingURL=chunk-HLY4UFFA.js.map

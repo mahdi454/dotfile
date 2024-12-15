@@ -1,7 +1,0 @@
-import{e as T}from"./chunk-GL4YYTXQ.js";import{a as b}from"./chunk-JOXGYPV7.js";import{k as D}from"./chunk-E2MXYP3A.js";import{Wa as I,Xa as S}from"./chunk-DUKP4BLI.js";import{ra as y,w as W}from"./chunk-3TDWET6C.js";import{a as X}from"./chunk-VPGNJAK6.js";import{d as E,f as A}from"./chunk-3HS6AHPS.js";import{Eb as C,Lb as g,Pc as w,Uc as O,Vc as x,Wc as Y,dc as B,tc as m,vc as G}from"./chunk-O3CM75EN.js";import{a as h}from"./chunk-EAZTJZU7.js";import{f as n,m as i,o as s}from"./chunk-ZCHLW7CF.js";i();s();var R=n(W()),U=n(X());B();A();var _=n(h());G();var p={swap:"swap",bridge:"bridge",home:"home"},q=r=>{let e="",t=r?.chainId;return r?.baseCoinId===0?e=r?.symbol:e=r?.address,{currentCurrency:e,chainId:t}},Q=(r,e,t=p.swap)=>{let u=(0,U.useHistory)(),a=(0,R.useSelector)(y),H=D(r?.coinId),{coinAmount:k=0}=T(r?.coinId,e),{currentCurrency:c,chainId:d}=q(r),o={};r&&r?.chainId!==void 0&&(g(C(H,k),1)?o={inputCurrency:c,inputChain:d,addressType:m[e]}:o={outputChain:d,outputCurrency:c,addressType:m[e]}),t===p.home&&(o.autoSwitch="bridge");let f=new URLSearchParams(o).toString();return(0,_.useCallback)(()=>{let l=`${t===p.bridge?S:I}?${f}`;a&&b?(E().openExtensionInPopupWithCache(l),window.close()):u.push(l)},[a,f,u,t])};i();s();Y();O();var P=n(h()),or="dexSupportChain",nr=()=>({fetch:(0,P.useCallback)(()=>w(x.getDexSupportChain),[])});export{or as a,nr as b,p as c,Q as d};
-
-window.inOKXExtension = true;
-window.inMiniApp = false;
-window.ASSETS_BUILD_TYPE = "publish";
-
-//# sourceMappingURL=chunk-KQQQS5YI.js.map
