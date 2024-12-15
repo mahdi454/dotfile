@@ -1,7 +1,0 @@
-import{a as l}from"./chunk-SMZ64QW3.js";import{a as _}from"./chunk-PAER4Z2U.js";import{a as w}from"./chunk-VX55KNI4.js";import{f as t}from"./chunk-LDKM7IQF.js";import{M as h,x as a}from"./chunk-RIOWPXBZ.js";import{c as E}from"./chunk-OSCGYMLH.js";import{a as v}from"./chunk-O337TVCZ.js";import{f as n,m as i,o as e}from"./chunk-GLD6H5Q5.js";i();e();var r={root:"_root_aln2y_1",passwordInput:"_passwordInput_aln2y_5",container:"_container_aln2y_11",title:"_title_aln2y_17",desc:"_desc_aln2y_25",link:"_link_aln2y_32",form:"_form_aln2y_36",inputError:"_inputError_aln2y_41",input:"_input_aln2y_41"};i();e();var o=n(v()),m=n(w()),p=n(E());h();function g({className:d,title:f,desc:u,children:y,onBack:s}){let c=l(),k=(0,m.useHistory)();return o.default.createElement("div",{className:(0,p.default)(r.root,d)},o.default.createElement(_,{bordered:!1,closeable:!1,onBack:()=>{s?s():k.goBack()}}),o.default.createElement("div",{className:r.container},o.default.createElement("h1",{className:r.title},f),o.default.createElement("div",{className:r.desc},u,o.default.createElement("div",null,o.default.createElement(t,{className:r.link,type:t.TYPE.primary,weight:t.WEIGHT.medium,size:t.SIZE.sm,href:c?.forgetPwd,target:"__blank",underline:!0},a("wallet_set_password_header_link_learn_more")))),y({formClass:r.form,formErrorClass:r.inputError,itemClass:r.input})))}var G=g;export{r as a,G as b};
-
-window.inOKXExtension = true;
-window.inMiniApp = false;
-window.ASSETS_BUILD_TYPE = "publish";
-
-//# sourceMappingURL=chunk-PBNN4W46.js.map

@@ -1,27 +1,18 @@
-2024/12/12-16:12:30.742 27f6 Reusing MANIFEST /home/madi/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
-2024/12/12-16:12:30.743 27f6 Recovering log #4
-2024/12/12-16:12:30.767 27f6 Reusing old log /home/madi/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/000004.log 
-2024/12/12-16:14:52.224 27f7 Level-0 table #8: started
-2024/12/12-16:14:52.369 27f7 Level-0 table #8: 2376731 bytes OK
-2024/12/12-16:14:52.410 27f7 Delete type=0 #4
-2024/12/12-16:18:43.103 27f7 Level-0 table #10: started
-2024/12/12-16:18:43.215 27f7 Level-0 table #10: 2378292 bytes OK
-2024/12/12-16:18:43.259 27f7 Delete type=0 #7
-2024/12/12-16:21:10.001 27f7 Level-0 table #12: started
-2024/12/12-16:21:10.107 27f7 Level-0 table #12: 2378032 bytes OK
-2024/12/12-16:21:10.145 27f7 Delete type=0 #9
-2024/12/12-17:59:23.031 27f7 Level-0 table #14: started
-2024/12/12-17:59:23.139 27f7 Level-0 table #14: 2378823 bytes OK
-2024/12/12-17:59:23.176 27f7 Delete type=0 #11
-2024/12/12-19:28:48.884 27f7 Level-0 table #16: started
-2024/12/12-19:28:49.017 27f7 Level-0 table #16: 2347242 bytes OK
-2024/12/12-19:28:49.061 27f7 Delete type=0 #13
-2024/12/12-19:28:49.062 27f7 Compacting 4@0 + 1@1 files
-2024/12/12-19:28:49.129 27f7 Generated table #17@0: 1 keys, 216571 bytes
-2024/12/12-19:28:49.129 27f7 Compacted 4@0 + 1@1 files => 216571 bytes
-2024/12/12-19:28:49.172 27f7 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/12/12-19:28:49.173 27f7 Delete type=2 #14
-2024/12/12-19:28:49.173 27f7 Delete type=2 #12
-2024/12/12-19:28:49.173 27f7 Delete type=2 #8
-2024/12/12-19:28:49.173 27f7 Delete type=2 #10
-2024/12/12-19:28:49.173 27f7 Delete type=2 #16
+2024/12/16-02:21:22.001 745 Reusing MANIFEST /home/madi/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2024/12/16-02:21:22.001 745 Recovering log #22
+2024/12/16-02:21:22.081 745 Reusing old log /home/madi/.config/google-chrome/Default/Local Extension Settings/nkbihfbeogaeaoehlefnkodbefgpgknn/000022.log 
+2024/12/16-02:21:26.153 746 Level-0 table #26: started
+2024/12/16-02:21:26.308 746 Level-0 table #26: 2375796 bytes OK
+2024/12/16-02:21:26.346 746 Delete type=0 #22
+2024/12/16-02:32:07.518 746 Level-0 table #28: started
+2024/12/16-02:32:07.615 746 Level-0 table #28: 2374056 bytes OK
+2024/12/16-02:32:07.652 746 Delete type=0 #25
+2024/12/16-02:32:07.655 746 Compacting 4@0 + 1@1 files
+2024/12/16-02:32:07.760 746 Generated table #29@0: 1 keys, 216114 bytes
+2024/12/16-02:32:07.760 746 Compacted 4@0 + 1@1 files => 216114 bytes
+2024/12/16-02:32:07.863 746 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/16-02:32:07.863 746 Delete type=2 #20
+2024/12/16-02:32:07.864 746 Delete type=2 #26
+2024/12/16-02:32:07.864 746 Delete type=2 #23
+2024/12/16-02:32:07.864 746 Delete type=2 #28
+2024/12/16-02:32:07.864 746 Delete type=2 #17

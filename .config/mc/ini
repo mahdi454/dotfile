@@ -62,7 +62,7 @@ editor_group_undo=true
 editor_state_full_filename=true
 editor_ask_filename_before_edit=false
 nice_rotating_dash=true
-shadows=true
+shadows=false
 mcview_remember_file_position=false
 auto_fill_mkdir_name=true
 copymove_persistent_attr=true
@@ -83,7 +83,7 @@ editor_backup_extension=~
 editor_filesize_threshold=64M
 editor_stop_format_chars=-+*\\,.;:&>
 mcview_eof=
-skin=default
+skin=nicedark
 
 [Layout]
 output_lines=0
@@ -132,10 +132,12 @@ panel_scroll_pages=true
 panel_scroll_center=false
 mouse_move_pages=true
 filetype_mode=true
-permission_mode=false
+permission_mode=true
 torben_fj_mode=false
 quick_search_mode=2
 select_flags=6
+
+simple_swap=false
 
 [Panelize]
 Find *.orig after patching=find . -name \\*.orig -print

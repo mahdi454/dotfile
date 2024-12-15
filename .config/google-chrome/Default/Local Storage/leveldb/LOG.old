@@ -1,3 +1,12 @@
-2024/12/12-14:41:12.624 4 Reusing MANIFEST /home/madi/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2024/12/12-14:41:12.869 4 Recovering log #3
-2024/12/12-14:41:12.975 4 Reusing old log /home/madi/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2024/12/16-01:46:28.296 4 Reusing MANIFEST /home/madi/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/12/16-01:46:28.311 4 Recovering log #15
+2024/12/16-01:46:28.326 4 Reusing old log /home/madi/.config/google-chrome/Default/Local Storage/leveldb/000015.log 
+2024/12/16-01:47:43.755 5 Level-0 table #20: started
+2024/12/16-01:47:43.874 5 Level-0 table #20: 53296 bytes OK
+2024/12/16-01:47:43.924 5 Delete type=0 #15
+2024/12/16-02:04:30.466 4 Level-0 table #22: started
+2024/12/16-02:04:30.553 4 Level-0 table #22: 47246 bytes OK
+2024/12/16-02:04:30.662 4 Delete type=0 #19
+2024/12/16-02:13:39.444 5 Level-0 table #24: started
+2024/12/16-02:13:39.699 5 Level-0 table #24: 41449 bytes OK
+2024/12/16-02:13:39.761 5 Delete type=0 #21

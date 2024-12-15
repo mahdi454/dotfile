@@ -1,6 +1,21 @@
-2024/12/12-14:41:47.277 642 Reusing MANIFEST /home/madi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/12/12-14:41:47.278 642 Recovering log #3
-2024/12/12-14:41:47.427 642 Reusing old log /home/madi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2024/12/12-14:49:27.101 642 Level-0 table #5: started
-2024/12/12-14:49:27.215 642 Level-0 table #5: 1409922 bytes OK
-2024/12/12-14:49:27.260 642 Delete type=0 #3
+2024/12/12-16:27:14.572 27f8 Reusing MANIFEST /home/madi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/12-16:27:14.573 27f8 Recovering log #4
+2024/12/12-16:27:14.616 27f8 Reusing old log /home/madi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2024/12/12-16:29:28.343 27f7 Level-0 table #8: started
+2024/12/12-16:29:28.427 27f7 Level-0 table #8: 1311856 bytes OK
+2024/12/12-16:29:28.467 27f7 Delete type=0 #4
+2024/12/12-16:29:39.042 27f6 Compacting 1@1 + 1@2 files
+2024/12/12-16:29:39.142 27f6 Generated table #9@1: 320 keys, 72816 bytes
+2024/12/12-16:29:39.142 27f6 Compacted 1@1 + 1@2 files => 72816 bytes
+2024/12/12-16:29:39.178 27f6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/12-16:29:39.178 27f6 Delete type=2 #5
+2024/12/12-16:29:39.178 27f6 Delete type=2 #8
+2024/12/12-17:12:46.123 27f8 Level-0 table #11: started
+2024/12/12-17:12:46.217 27f8 Level-0 table #11: 1481353 bytes OK
+2024/12/12-17:12:46.257 27f8 Delete type=0 #7
+2024/12/12-17:28:26.738 27f7 Compacting 1@1 + 1@2 files
+2024/12/12-17:28:26.809 27f7 Generated table #12@1: 354 keys, 76334 bytes
+2024/12/12-17:28:26.809 27f7 Compacted 1@1 + 1@2 files => 76334 bytes
+2024/12/12-17:28:26.853 27f7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/12-17:28:26.854 27f7 Delete type=2 #9
+2024/12/12-17:28:26.854 27f7 Delete type=2 #11

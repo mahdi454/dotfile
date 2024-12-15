@@ -1,0 +1,7 @@
+import{a as l,d as _}from"./chunk-NJJL64HF.js";import{j as d}from"./chunk-E2MXYP3A.js";import{l as U,m as y}from"./chunk-FZCNSMLW.js";import{sa as F,w as v}from"./chunk-3TDWET6C.js";import{$b as E,Eb as u,Fb as g,Gb as m,Jb as p,Sb as c,Tb as W,Wb as H,Zb as C,_b as N,bc as T,dc as S}from"./chunk-O3CM75EN.js";import{L as I,l as a,w as f}from"./chunk-KJIO572I.js";import{f as h,m as D,o as w}from"./chunk-ZCHLW7CF.js";D();w();var G=h(v());I();S();var P=()=>l(c,N),$=()=>l(c,E,T),z=o=>{let t=$(),e=P();return p(c(o),.01)?t(o):e(o)},M=()=>{let o=$(),t=P();return r=>p(c(r),.01)?o(r):t(r)},L=o=>l(H,W,e=>C(e,o?.vdecimalNum),T),V=(o,t,e={})=>y(a.mul(o,t),{symbol:e?.symbol,decimals:e?.decimals}),k=(o,t,e={})=>{let r=(0,G.useSelector)(F),s=L(e),i=d(e?.coinId),n=s(o,t);return _({amount:n,rate:i,symbol:r.symbol},{useApproximate:!0})},O=(o,t,e={})=>{let r=V(o,t,e),s=k(o,t,e);return`${r} ${s}`},Q=(o,t,e,r=0)=>{let s=d(e?.coinId)||"0",i=(0,G.useSelector)(F);if(!e)return"";let n=u(o,t),x=y(m(n,r),{symbol:e.symbol,decimals:e.decimals}),b=U(u(g(m(n,r),10**e.decimals),s),{symbol:i.symbol});return`${x} ${b}`},X=(o,t)=>{let e=z(o);return f("wallet_extension_transaction_confirmation_gas_detail",{gasPrice:a.thousandFormat(e),gasLimit:a.thousandFormat(t)})};export{z as a,M as b,O as c,Q as d,X as e};
+
+window.inOKXExtension = true;
+window.inMiniApp = false;
+window.ASSETS_BUILD_TYPE = "publish";
+
+//# sourceMappingURL=chunk-3QYKNWJE.js.map

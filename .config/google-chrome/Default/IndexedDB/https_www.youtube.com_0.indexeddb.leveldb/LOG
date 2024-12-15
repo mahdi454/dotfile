@@ -1,21 +1,42 @@
-2024/12/12-16:27:14.572 27f8 Reusing MANIFEST /home/madi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/12/12-16:27:14.573 27f8 Recovering log #4
-2024/12/12-16:27:14.616 27f8 Reusing old log /home/madi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
-2024/12/12-16:29:28.343 27f7 Level-0 table #8: started
-2024/12/12-16:29:28.427 27f7 Level-0 table #8: 1311856 bytes OK
-2024/12/12-16:29:28.467 27f7 Delete type=0 #4
-2024/12/12-16:29:39.042 27f6 Compacting 1@1 + 1@2 files
-2024/12/12-16:29:39.142 27f6 Generated table #9@1: 320 keys, 72816 bytes
-2024/12/12-16:29:39.142 27f6 Compacted 1@1 + 1@2 files => 72816 bytes
-2024/12/12-16:29:39.178 27f6 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/12/12-16:29:39.178 27f6 Delete type=2 #5
-2024/12/12-16:29:39.178 27f6 Delete type=2 #8
-2024/12/12-17:12:46.123 27f8 Level-0 table #11: started
-2024/12/12-17:12:46.217 27f8 Level-0 table #11: 1481353 bytes OK
-2024/12/12-17:12:46.257 27f8 Delete type=0 #7
-2024/12/12-17:28:26.738 27f7 Compacting 1@1 + 1@2 files
-2024/12/12-17:28:26.809 27f7 Generated table #12@1: 354 keys, 76334 bytes
-2024/12/12-17:28:26.809 27f7 Compacted 1@1 + 1@2 files => 76334 bytes
-2024/12/12-17:28:26.853 27f7 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/12/12-17:28:26.854 27f7 Delete type=2 #9
-2024/12/12-17:28:26.854 27f7 Delete type=2 #11
+2024/12/15-22:12:50.463 12e6 Reusing MANIFEST /home/madi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/15-22:12:50.464 12e6 Recovering log #10
+2024/12/15-22:12:51.071 12e6 Reusing old log /home/madi/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000010.log 
+2024/12/15-22:14:13.006 12e6 Level-0 table #15: started
+2024/12/15-22:14:13.112 12e6 Level-0 table #15: 1984845 bytes OK
+2024/12/15-22:14:13.157 12e6 Delete type=0 #10
+2024/12/15-22:22:43.437 12e7 Compacting 1@1 + 1@2 files
+2024/12/15-22:22:43.513 12e7 Generated table #16@1: 338 keys, 98369 bytes
+2024/12/15-22:22:43.514 12e7 Compacted 1@1 + 1@2 files => 98369 bytes
+2024/12/15-22:22:43.554 12e7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/15-22:22:43.555 12e7 Delete type=2 #12
+2024/12/15-22:22:43.555 12e7 Delete type=2 #15
+2024/12/15-23:03:32.014 12e6 Level-0 table #18: started
+2024/12/15-23:03:32.092 12e6 Level-0 table #18: 1361219 bytes OK
+2024/12/15-23:03:32.135 12e6 Delete type=0 #14
+2024/12/15-23:04:29.798 12e5 Compacting 1@1 + 1@2 files
+2024/12/15-23:04:29.865 12e5 Generated table #19@1: 364 keys, 75826 bytes
+2024/12/15-23:04:29.866 12e5 Compacted 1@1 + 1@2 files => 75826 bytes
+2024/12/15-23:04:29.904 12e5 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/15-23:04:29.904 12e5 Delete type=2 #16
+2024/12/15-23:04:29.905 12e5 Delete type=2 #18
+2024/12/15-23:07:34.267 12e6 Level-0 table #21: started
+2024/12/15-23:07:34.372 12e6 Level-0 table #21: 1633145 bytes OK
+2024/12/15-23:07:34.416 12e6 Delete type=0 #17
+2024/12/15-23:08:11.758 12e7 Compacting 1@1 + 1@2 files
+2024/12/15-23:08:11.820 12e7 Generated table #22@1: 403 keys, 69324 bytes
+2024/12/15-23:08:11.820 12e7 Compacted 1@1 + 1@2 files => 69324 bytes
+2024/12/15-23:08:11.860 12e7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/15-23:08:11.861 12e7 Delete type=2 #21
+2024/12/15-23:08:11.862 12e7 Delete type=2 #19
+2024/12/16-01:36:20.299 12e6 Level-0 table #24: started
+2024/12/16-01:36:20.443 12e6 Level-0 table #24: 1718631 bytes OK
+2024/12/16-01:36:20.542 12e6 Delete type=0 #20
+2024/12/16-01:36:20.543 12e6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/12/16-01:36:20.543 12e6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x1f\x03f\xf6y\xcc,\xb1yB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 21412 : 0
+2024/12/16-01:36:20.543 12e6 Compacting 1@1 + 1@2 files
+2024/12/16-01:36:20.596 12e6 Generated table #25@1: 383 keys, 62464 bytes
+2024/12/16-01:36:20.596 12e6 Compacted 1@1 + 1@2 files => 62464 bytes
+2024/12/16-01:36:20.638 12e6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/12/16-01:36:20.639 12e6 Delete type=2 #22
+2024/12/16-01:36:20.639 12e6 Delete type=2 #24
+2024/12/16-01:36:20.640 12e6 Manual compaction at level-1 from '\x00\x08\x01\x1f\x03f\xf6y\xcc,\xb1yB\x00\x01\x1c\x00y\x00t\x00-\x00m\x00i\x00n\x00i\x00p\x00l\x00a\x00y\x00e\x00r\x00-\x00s\x00h\x00o\x00w\x00n\x00-\x00v\x00i\x00d\x00e\x00o\x00-\x00i\x00d' @ 21412 : 0 .. (end); will stop at (end)

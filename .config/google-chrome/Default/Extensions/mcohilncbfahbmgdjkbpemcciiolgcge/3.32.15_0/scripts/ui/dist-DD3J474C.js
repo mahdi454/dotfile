@@ -1,7 +1,0 @@
-import{a}from"./chunk-6RNR6A4G.js";import"./chunk-OIIWKMG6.js";import"./chunk-BRXR2JPT.js";import"./chunk-F2RAOH4H.js";import"./chunk-QOGOEJFG.js";import"./chunk-TZ33IXYR.js";import"./chunk-BTK364VD.js";import"./chunk-2T657SRL.js";import"./chunk-QJAZEJHH.js";import"./chunk-IMZNFJSN.js";import"./chunk-LCKQ7YKT.js";import"./chunk-VCMU2WX2.js";import"./chunk-37O5HIVF.js";import"./chunk-ZVYHIM2Y.js";import"./chunk-7W6DAKSL.js";import"./chunk-Y2L2VAJY.js";import"./chunk-5AYYZJMV.js";import"./chunk-T47I3VPR.js";import"./chunk-ME7FEN7O.js";import"./chunk-VBARKITZ.js";import"./chunk-NCANHNXF.js";import"./chunk-GLD6H5Q5.js";export default a();
-
-window.inOKXExtension = true;
-window.inMiniApp = false;
-window.ASSETS_BUILD_TYPE = "publish";
-
-//# sourceMappingURL=dist-DD3J474C.js.map

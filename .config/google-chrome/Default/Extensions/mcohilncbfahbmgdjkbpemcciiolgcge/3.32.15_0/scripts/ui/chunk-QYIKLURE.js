@@ -1,7 +1,0 @@
-import{Aa as f,Da as p,Ea as B,Fa as A,Ha as T,Hb as S,Jb as L,La as d,Pa as k,bb as E,fa as a,ga as c,ha as s,ib as _,ka as R,kb as D,ma as C,nb as P,qa as i,va as O,za as u,zb as y}from"./chunk-YT2MPR4E.js";import{a as v}from"./chunk-O337TVCZ.js";import{f as b,m as I,o as m}from"./chunk-GLD6H5Q5.js";I();m();var e=b(v());B();O();f();I();m();L();O();f();async function K(r){try{return await(await u.current_networks).set(r),!0}catch{return!1}}var M=[{providerType:a,type:A,chainId:E},{chainName:"Solana",chainId:501,providerType:c,localType:d,coinId:D},{chainName:"Aptos",chainId:637,providerType:s,localType:k,coinId:P},{chainName:"Bitcoin",providerType:i,chainId:y,localType:T,coinId:_,enum:S.BITCOIN_MAINNET}];async function w(r){try{let n=await(await u.current_networks).get(r);return n||M.find(t=>t.providerType===r)||{}}catch{return{}}}var Z=r=>{let[o,n]=(0,e.useState)({}),t=(0,e.useMemo)(()=>{switch(r){case a:case p["ethereum-provider"]:case p["okx6963-provider"]:return a;case c:case R:return c;case s:case C:return s;case i:return i;default:return r}},[r]);return(0,e.useEffect)(()=>{let N;return t&&(async()=>{N=(await u.current_networks).liveQuery().subscribe(async(j,l)=>{if(!l){let V=await w(t);n(V)}});let h=await w(t);n(h)})(),()=>{N&&N?.unsubscribe()}},[t]),o};export{K as a,Z as b};
-
-window.inOKXExtension = true;
-window.inMiniApp = false;
-window.ASSETS_BUILD_TYPE = "publish";
-
-//# sourceMappingURL=chunk-QYIKLURE.js.map
